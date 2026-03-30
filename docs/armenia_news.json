@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-03-30T00:05:04Z",
+  "generated_at": "2026-03-30T14:55:27Z",
   "country": "Armenia",
-  "total_stories": 37,
+  "total_stories": 38,
   "categories": [
     "Diplomacy",
     "Military",
@@ -88,11 +88,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Armenia Sends Humanitarian Aid to Iran",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/180464",
-      "published_date": "2026-03-23T11:18:00Z",
-      "category": "Diplomacy"
+      "title": "The making of Armenian intelligence: Between survival and reinvention",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/03/30/the-making-of-armenian-intelligence-between-survival-and-reinvention/",
+      "published_date": "2026-03-30T14:04:58Z",
+      "category": "Military"
     },
     {
       "title": "Armenian Defense Minister Meets With French Defense Company Reps",
@@ -107,6 +107,13 @@
       "url": "https://asbarez.com/as-war-continues-ars-central-executive-says-committed-to-mobilizing/",
       "published_date": "2026-03-26T21:36:38Z",
       "category": "Military"
+    },
+    {
+      "title": "Fudging the Numbers? Armenian Economy Minister Boasts Export Boom of Local Products",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/180577",
+      "published_date": "2026-03-30T06:41:00Z",
+      "category": "Economy"
     },
     {
       "title": "USD$60 Million: Ameriabank Joins Financing of Firebird’s AI Data Center Construction in Armenia",
@@ -128,6 +135,41 @@
       "url": "https://hetq.am/en/article/180494",
       "published_date": "2026-03-24T07:55:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Armenia’s next election is a do-or-die moment",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/03/30/armenias-next-election-is-a-do-or-die-moment/",
+      "published_date": "2026-03-30T14:00:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "First Iranian Armenian reported killed in strikes",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/03/30/first-iranian-armenian-reported-killed-in-strikes/",
+      "published_date": "2026-03-30T13:51:42Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "FINTECH360 International Conference to Bring Together 500 Participants in Yerevan",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/180585",
+      "published_date": "2026-03-30T10:45:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Civil Contract Party Backs Pashinyan for Prime Minister in June Election",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/180579",
+      "published_date": "2026-03-30T06:18:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Palm Sunday Celebrated in Etchmiadzin",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/180575",
+      "published_date": "2026-03-29T18:37:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Commuter rail",
@@ -232,41 +274,6 @@
       "source": "Asbarez",
       "url": "https://asbarez.com/zadik-zadikian-to-represent-armenian-pavilion-at-61st-annual-venice-biennale/",
       "published_date": "2026-03-26T18:20:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "H. Hovnanian Family Foundation Awards $240,000 to Advance Youth Empowerment Across Armenia",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/h-hovnanian-family-foundation-awards-240000-to-advance-youth-empowerment-across-armenia/",
-      "published_date": "2026-03-26T18:16:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "ARF Washington DC Celebrates 100 Years of Service",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/washington-dc-arf-celebrates-100th-anniversary/",
-      "published_date": "2026-03-26T17:32:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Literary Lights 2026 features “Rose by the Sea” author Rebecca Rose Mooradian",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/03/26/literary-lights-2026-features-rose-by-the-sea-author-rebecca-rose-mooradian/",
-      "published_date": "2026-03-26T15:04:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "A glimpse into the Assyrian community of Armenia",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/03/26/a-glimpse-into-the-assyrian-community-of-armenia/",
-      "published_date": "2026-03-26T14:55:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Seven Current and Former Vanadzor Officials Arrested on Bribery, Fraud Charges",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/180522",
-      "published_date": "2026-03-26T09:42:00Z",
       "category": "Local Events"
     }
   ]
