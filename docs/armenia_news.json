@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-03-30T14:55:27Z",
+  "generated_at": "2026-03-31T00:04:25Z",
   "country": "Armenia",
-  "total_stories": 38,
+  "total_stories": 39,
   "categories": [
     "Diplomacy",
     "Military",
@@ -88,6 +88,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Returning to Armenia to create and belong: The story of Alexander Beglaryan",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/03/30/returning-to-armenia-to-create-and-belong-the-story-of-alexander-beglaryan/",
+      "published_date": "2026-03-30T16:09:10Z",
+      "category": "Military"
+    },
+    {
       "title": "The making of Armenian intelligence: Between survival and reinvention",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/03/30/the-making-of-armenian-intelligence-between-survival-and-reinvention/",
@@ -135,6 +142,20 @@
       "url": "https://hetq.am/en/article/180494",
       "published_date": "2026-03-24T07:55:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Microminiatures: A Strauss Monument carved from a baby tooth",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/03/30/microminiatures-a-strauss-monument-carved-from-a-baby-tooth/",
+      "published_date": "2026-03-30T16:05:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Google Blocked 6,000 Pro-Azerbaijani Government YouTube Channels in 2025",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/180593",
+      "published_date": "2026-03-30T14:50:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Armenia’s next election is a do-or-die moment",
@@ -260,20 +281,6 @@
       "source": "Asbarez",
       "url": "https://asbarez.com/pashinyan-says-hes-had-enough-of-historical-justice-agenda-says-fighting-for-armenian-cause-anti-armenian-policy/",
       "published_date": "2026-03-26T21:48:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenian Heritage Walk to Honor Armenian American Legacy",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/armenian-heritage-walk-to-honor-armenian-american-legacy-with-awards-for-excellence-at-april-24-25-dedication/",
-      "published_date": "2026-03-26T19:05:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zadik Zadikian to Represent Armenian Pavilion at 61st Annual Venice Biennale",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/zadik-zadikian-to-represent-armenian-pavilion-at-61st-annual-venice-biennale/",
-      "published_date": "2026-03-26T18:20:20Z",
       "category": "Local Events"
     }
   ]
