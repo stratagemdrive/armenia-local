@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-01T00:04:07Z",
+  "generated_at": "2026-04-01T14:55:54Z",
   "country": "Armenia",
-  "total_stories": 41,
+  "total_stories": 40,
   "categories": [
     "Diplomacy",
     "Military",
@@ -151,11 +151,32 @@
       "category": "Economy"
     },
     {
-      "title": "Reconstruction of Gyumri&#039;s Historic Market Delayed Until 2027, Says TUMO",
+      "title": "Administrative pressure to foreign interference: Threats to Armenia’s elections",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/01/from-administrative-pressure-to-foreign-interference-threats-to-armenias-elections/",
+      "published_date": "2026-04-01T14:49:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "An Armenian in Hong Kong: Discovering Paul Chater",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/01/an-armenian-in-hong-kong-discovering-paul-chater/",
+      "published_date": "2026-04-01T14:47:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pashinyan Congratulates Armenia’s Assyrians on New Year Holiday",
       "source": "Hetq",
-      "url": "https://hetq.am/en/article/180503",
-      "published_date": "2026-03-25T14:01:00Z",
-      "category": "Economy"
+      "url": "https://hetq.am/en/article/180621",
+      "published_date": "2026-04-01T11:58:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenia&#039;s Radioactive Legacy: The Invisible Danger",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/180620",
+      "published_date": "2026-04-01T11:53:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Armenian art meets couture at Paris Fashion Week",
@@ -267,34 +288,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/180579",
       "published_date": "2026-03-30T06:18:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palm Sunday Celebrated in Etchmiadzin",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/180575",
-      "published_date": "2026-03-29T18:37:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Commuter rail",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/03/29/commuter-rail/",
-      "published_date": "2026-03-29T18:04:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "AEBU scholarship program open for 2026-2027 applications",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/03/29/aebu-scholarship/",
-      "published_date": "2026-03-29T16:03:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "CYSCA celebrates archival milestone with “Dove of Peace” event at Cambridge Public Library",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/03/29/cysca-celebrates/",
-      "published_date": "2026-03-29T15:56:44Z",
       "category": "Local Events"
     }
   ]
