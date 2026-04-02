@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-01T14:55:54Z",
+  "generated_at": "2026-04-02T00:01:15Z",
   "country": "Armenia",
-  "total_stories": 40,
+  "total_stories": 44,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Putin, Pashinyan Spar Over Karabakh, June 7 Elections",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/putin-pashinyan-spar-over-karabakh-june-7-elections/",
+      "published_date": "2026-04-01T22:14:23Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Artists keep the soul’s flame alive in the absence of leadership",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/01/artists-keep-the-souls-flame-alive-in-the-absence-of-leadership/",
+      "published_date": "2026-04-01T17:35:29Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Pashinyan, New EUMA Head Meet in Yerevan",
       "source": "Hetq",
@@ -102,6 +116,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "The Region in Brief",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/01/the-region-in-brief-163/",
+      "published_date": "2026-04-01T17:09:03Z",
+      "category": "Military"
+    },
+    {
       "title": "Returning to Armenia to create and belong: The story of Alexander Beglaryan",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/03/30/returning-to-armenia-to-create-and-belong-the-story-of-alexander-beglaryan/",
@@ -130,6 +151,13 @@
       "category": "Military"
     },
     {
+      "title": "Armenian Business Owner Sues Dr. Oz; Says His Racist Video Hurt Business",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/armenian-business-owner-sues-dr-oz-says-his-racist-video-hurt-business/",
+      "published_date": "2026-04-01T20:40:27Z",
+      "category": "Economy"
+    },
+    {
       "title": "Breaking the cycle: Kima Harutyunyan on art, women and invisible labor",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/03/31/breaking-the-cycle-kima-harutyunyan-on-art-women-and-invisible-labor/",
@@ -149,6 +177,62 @@
       "url": "https://hetq.am/en/article/180512",
       "published_date": "2026-03-26T05:32:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "High School Student Jailed After Church Incident With Pashinyan on Palm Sunday",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/high-school-student-jailed-after-church-incident-with-pashinyan-on-palm-sunday/",
+      "published_date": "2026-04-01T21:31:05Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Yerevan Calls Baku’s ‘Genocide’Claims ‘Hostile and Unfounded’",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/yerevan-calls-bakus-genocideclaims-hostile-and-unfounded/",
+      "published_date": "2026-04-01T21:18:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenian American Museum Hosts Pianist Dr. Laura Farré Rozada in Concert",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/armenian-american-museum-hosts-pianist-dr-laura-farre-rozada-in-concert/",
+      "published_date": "2026-04-01T20:23:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "ARS Allocates Over $440,000 for Homeland, Diaspora Projects",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/ars-allocates-over-440000-for-homeland-diaspora-projects/",
+      "published_date": "2026-04-01T19:40:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dr. Anna Aleksanyan to Lecture on Danish Missionary Karen Jeppe",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/dr-anna-aleksanyan-to-lecture-on-danish-missionary-karen-jeppe/",
+      "published_date": "2026-04-01T18:01:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Putin&#039;s Veiled Threat to Pashinyan; Election Campaign in Armenia Musn&#039;t Harm Relations",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/180628",
+      "published_date": "2026-04-01T17:22:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Young Indian architect documents Armenia and beyond through photography",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/01/young-indian-architect-documents-armenia-and-beyond-through-photography/",
+      "published_date": "2026-04-01T16:49:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Theater Review: ‘The Key Collector’",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/play-review-the-key-collector/",
+      "published_date": "2026-04-01T16:31:05Z",
+      "category": "Local Events"
     },
     {
       "title": "Administrative pressure to foreign interference: Threats to Armenia’s elections",
@@ -176,6 +260,20 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/180620",
       "published_date": "2026-04-01T11:53:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "While Pashinyan Rejects ‘Historical Justice,’ Baku Pursues ‘Justice’ for ‘Azerbaijani Genocide’",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/while-pashinyan-rejects-historical-justice-baku-pursues-justice-for-azerbaijani-genocide/",
+      "published_date": "2026-03-31T20:20:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Death Notice: Lida Nahabedian-Zarifian",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/death-notice-lida-nahabedian-zarifian/",
+      "published_date": "2026-03-31T19:19:23Z",
       "category": "Local Events"
     },
     {
@@ -218,76 +316,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/180596",
       "published_date": "2026-03-31T05:50:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fresno Kurabia Cookie Baking Workshop a ‘Sweet Success’",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/kurabia-cookie-baking-workshop-a-sweet-success-in-fresno/",
-      "published_date": "2026-03-30T22:09:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "AUA Takes ‘Precautionary Measures’ Amid Threats by Iran",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/aua-takes-precautionary-measures-amid-threats-by-iran/",
-      "published_date": "2026-03-30T21:18:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pashinyan’s Palm Sunday Surprise Visit to Church Sparks Arrests",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/pashinyans-palm-sunday-surprise-visit-to-yerevan-is-followed-by-arrests/",
-      "published_date": "2026-03-30T21:09:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "ANCA-WR is Strengthening Community Through Presence, Education, and Engagement",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/anca-wr-is-strengthening-community-through-presence-education-and-engagement/",
-      "published_date": "2026-03-30T19:22:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Microminiatures: A Strauss Monument carved from a baby tooth",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/03/30/microminiatures-a-strauss-monument-carved-from-a-baby-tooth/",
-      "published_date": "2026-03-30T16:05:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Google Blocked 6,000 Pro-Azerbaijani Government YouTube Channels in 2025",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/180593",
-      "published_date": "2026-03-30T14:50:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenia’s next election is a do-or-die moment",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/03/30/armenias-next-election-is-a-do-or-die-moment/",
-      "published_date": "2026-03-30T14:00:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "First Iranian Armenian reported killed in strikes",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/03/30/first-iranian-armenian-reported-killed-in-strikes/",
-      "published_date": "2026-03-30T13:51:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "FINTECH360 International Conference to Bring Together 500 Participants in Yerevan",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/180585",
-      "published_date": "2026-03-30T10:45:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Civil Contract Party Backs Pashinyan for Prime Minister in June Election",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/180579",
-      "published_date": "2026-03-30T06:18:00Z",
       "category": "Local Events"
     }
   ]
