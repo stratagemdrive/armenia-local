@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-03T00:03:20Z",
+  "generated_at": "2026-04-03T12:05:48Z",
   "country": "Armenia",
-  "total_stories": 42,
+  "total_stories": 43,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Artsakh Leader States Pashinyan’s Claims of Artsakh Armenian’s ‘Surrender’ is ‘Delusion’",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/artsakh-leader-calls-pashinyans-claims-of-artsakh-armenians-as-surrender-is-delusion/",
+      "published_date": "2026-04-02T20:55:12Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Mutual blame on Artsakh, dissatisfaction with CSTO in Pashinyan-Putin meeting",
       "source": "The Armenian Weekly",
@@ -137,11 +144,11 @@
       "category": "Military"
     },
     {
-      "title": "Armenian Defense Minister Meets With French Defense Company Reps",
+      "title": "Unibank Joins Partnership for Carbon Accounting Financials (PCAF)",
       "source": "Hetq",
-      "url": "https://hetq.am/en/article/180545",
-      "published_date": "2026-03-27T04:43:00Z",
-      "category": "Military"
+      "url": "https://hetq.am/en/article/180654",
+      "published_date": "2026-04-03T08:52:00Z",
+      "category": "Energy"
     },
     {
       "title": "Armenian Business Owner Sues Dr. Oz; Says His Racist Video Hurt Business",
@@ -163,6 +170,41 @@
       "url": "https://hetq.am/en/article/180577",
       "published_date": "2026-03-30T06:41:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Leading Today, Because Tomorrow May Be Too Late",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/leading-today-because-tomorrow-may-be-too-late/",
+      "published_date": "2026-04-02T19:50:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gata Band to Perform at AGBU Center",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/gata-band-to-perform-at-agbu-center/",
+      "published_date": "2026-04-02T19:45:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Situation Calls for the Urgent Alignment of Armenia–Diaspora Political Agenda",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/the-situation-calls-for-the-urgent-alignment-of-armenia-diaspora-political-agenda/",
+      "published_date": "2026-04-02T19:45:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Children of Armenia Fund Teaches English as Nationwide Strategy",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/children-of-armenia-fund-teaches-english-as-nationwide-strategy/",
+      "published_date": "2026-04-02T16:48:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Planning Commissioner Nerses Aposhian Announces Run for La Cañada City Council",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/planning-commissioner-nerses-aposhian-announces-run-for-la-canada-city-council/",
+      "published_date": "2026-04-02T15:29:46Z",
+      "category": "Local Events"
     },
     {
       "title": "NAASR’s Mardigian Library receives Kalfayan collection",
@@ -267,41 +309,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/04/01/an-armenian-in-hong-kong-discovering-paul-chater/",
       "published_date": "2026-04-01T14:47:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pashinyan Congratulates Armenia’s Assyrians on New Year Holiday",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/180621",
-      "published_date": "2026-04-01T11:58:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenia&#039;s Radioactive Legacy: The Invisible Danger",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/180620",
-      "published_date": "2026-04-01T11:53:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "While Pashinyan Rejects ‘Historical Justice,’ Baku Pursues ‘Justice’ for ‘Azerbaijani Genocide’",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/while-pashinyan-rejects-historical-justice-baku-pursues-justice-for-azerbaijani-genocide/",
-      "published_date": "2026-03-31T20:20:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Death Notice: Lida Nahabedian-Zarifian",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/death-notice-lida-nahabedian-zarifian/",
-      "published_date": "2026-03-31T19:19:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenian art meets couture at Paris Fashion Week",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/03/31/armenian-art-meets-couture-at-paris-fashion-week/",
-      "published_date": "2026-03-31T15:11:21Z",
       "category": "Local Events"
     }
   ]
