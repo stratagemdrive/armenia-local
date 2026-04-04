@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-03T12:05:48Z",
+  "generated_at": "2026-04-04T00:01:26Z",
   "country": "Armenia",
-  "total_stories": 43,
+  "total_stories": 39,
   "categories": [
     "Diplomacy",
     "Military",
@@ -81,39 +81,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "U.S.-Israeli Attacks on Iran Claim First Armenian Fatality",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/u-s-israeli-attacks-on-iran-claim-first-armenian-fatality/",
-      "published_date": "2026-03-27T22:29:13Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Armenia&#039;s Defense Minister Receives Legion of Honor Award",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/180562",
-      "published_date": "2026-03-27T16:30:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Artsakh woman detained over Facebook post raises free speech concerns",
+      "title": "NAASR to host talk on Israeli-Turkish relations and Armenian Genocide denial",
       "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/03/27/artsakh-woman-detained-over-facebook-post/",
-      "published_date": "2026-03-27T15:54:13Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UN Experts Call on Armenia to Pursue Genuine Gender Equality Beyond Legal Changes",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/180555",
-      "published_date": "2026-03-27T12:33:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Armenian, Azerbaijani Foreign Ministers Note Progress in Settlement Process",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/180554",
-      "published_date": "2026-03-27T12:24:00Z",
-      "category": "Diplomacy"
+      "url": "https://armenianweekly.com/2026/04/03/naasr-to-host-talk/",
+      "published_date": "2026-04-03T17:18:30Z",
+      "category": "Military"
     },
     {
       "title": "Armenia’s Military Service Payment Exemption Scheme: Potential Repatriates Voice Concerns",
@@ -172,6 +144,27 @@
       "category": "Economy"
     },
     {
+      "title": "ARS Central Executive Board supports institutions and programs across homeland and diaspora",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/03/ars-central-executive-board/",
+      "published_date": "2026-04-03T15:19:30Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Leading today: Because tomorrow may be too late",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/03/leading-today/",
+      "published_date": "2026-04-03T15:05:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenia Mulls Social Media Ban for Children Under Sixteen",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/180661",
+      "published_date": "2026-04-03T12:33:00Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Leading Today, Because Tomorrow May Be Too Late",
       "source": "Asbarez",
       "url": "https://asbarez.com/leading-today-because-tomorrow-may-be-too-late/",
@@ -211,6 +204,13 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/04/02/naasrs-mardigian-library-receives-kalfayan-collection/",
       "published_date": "2026-04-02T13:10:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Aznavoorian Sisters bring “Music in Color” to the Armenian Museum of America",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/02/the-aznavoorian-sisters/",
+      "published_date": "2026-04-02T13:00:34Z",
       "category": "Local Events"
     },
     {
@@ -281,34 +281,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/180628",
       "published_date": "2026-04-01T17:22:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Young Indian architect documents Armenia and beyond through photography",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/01/young-indian-architect-documents-armenia-and-beyond-through-photography/",
-      "published_date": "2026-04-01T16:49:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Theater Review: ‘The Key Collector’",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/play-review-the-key-collector/",
-      "published_date": "2026-04-01T16:31:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Administrative pressure to foreign interference: Threats to Armenia’s elections",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/01/from-administrative-pressure-to-foreign-interference-threats-to-armenias-elections/",
-      "published_date": "2026-04-01T14:49:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "An Armenian in Hong Kong: Discovering Paul Chater",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/01/an-armenian-in-hong-kong-discovering-paul-chater/",
-      "published_date": "2026-04-01T14:47:09Z",
       "category": "Local Events"
     }
   ]
