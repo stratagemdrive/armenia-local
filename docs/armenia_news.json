@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-06T00:02:16Z",
+  "generated_at": "2026-04-06T14:16:48Z",
   "country": "Armenia",
-  "total_stories": 38,
+  "total_stories": 37,
   "categories": [
     "Diplomacy",
     "Military",
@@ -74,6 +74,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Armenia: Parliament Committee Rejects Bill to Raise Military Conscription Age",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/180687",
+      "published_date": "2026-04-06T11:05:00Z",
+      "category": "Military"
+    },
+    {
       "title": "NAASR to host talk on Israeli-Turkish relations and Armenian Genocide denial",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/04/03/naasr-to-host-talk/",
@@ -102,13 +109,6 @@
       "category": "Military"
     },
     {
-      "title": "The making of Armenian intelligence: Between survival and reinvention",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/03/30/the-making-of-armenian-intelligence-between-survival-and-reinvention/",
-      "published_date": "2026-03-30T14:04:58Z",
-      "category": "Military"
-    },
-    {
       "title": "Unibank Joins Partnership for Carbon Accounting Financials (PCAF)",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/180654",
@@ -130,11 +130,11 @@
       "category": "Economy"
     },
     {
-      "title": "Fudging the Numbers? Armenian Economy Minister Boasts Export Boom of Local Products",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/180577",
-      "published_date": "2026-03-30T06:41:00Z",
-      "category": "Economy"
+      "title": "Strength of spirit: Empowering the neurodivergent community through UFit",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/06/empowering-the-neurodivergent-community-through-ufit/",
+      "published_date": "2026-04-06T14:09:50Z",
+      "category": "Local Events"
     },
     {
       "title": "Pashinyan’s Ruling Party Says It Pursues Policy to Remove Catholicos",
@@ -267,13 +267,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/04/02/the-aznavoorian-sisters/",
       "published_date": "2026-04-02T13:00:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The long way around: An Armenian from Sydney finds his calling in the desert",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/02/the-long-way-around-an-armenian-from-sydney-finds-his-calling-in-the-desert/",
-      "published_date": "2026-04-02T12:48:46Z",
       "category": "Local Events"
     }
   ]
