@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-05T11:57:13Z",
+  "generated_at": "2026-04-06T00:02:16Z",
   "country": "Armenia",
-  "total_stories": 39,
+  "total_stories": 38,
   "categories": [
     "Diplomacy",
     "Military",
@@ -74,13 +74,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Armenian, Iranian Foreign Ministers Discuss Mid-East Conflict",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/180573",
-      "published_date": "2026-03-29T14:24:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "NAASR to host talk on Israeli-Turkish relations and Armenian Genocide denial",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/04/03/naasr-to-host-talk/",
@@ -142,6 +135,13 @@
       "url": "https://hetq.am/en/article/180577",
       "published_date": "2026-03-30T06:41:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Pashinyan’s Ruling Party Says It Pursues Policy to Remove Catholicos",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/180679",
+      "published_date": "2026-04-05T13:24:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Scholars Who Resigned from Armenian Genocide Museum-Institute Board Issue Statement",
@@ -274,13 +274,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/04/02/the-long-way-around-an-armenian-from-sydney-finds-his-calling-in-the-desert/",
       "published_date": "2026-04-02T12:48:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The renaissance of Armenian pumpkin art and the mastery of gobelin",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/02/the-renaissance-of-armenian-pumpkin-art-and-the-mastery-of-gobelin/",
-      "published_date": "2026-04-02T12:39:50Z",
       "category": "Local Events"
     }
   ]
