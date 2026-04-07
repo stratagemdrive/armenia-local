@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-06T14:16:48Z",
+  "generated_at": "2026-04-07T00:05:09Z",
   "country": "Armenia",
-  "total_stories": 37,
+  "total_stories": 39,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,27 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Groups Urge Yerevan to Engage Switzerland as ‘Protecting Power’ for Artsakh Prisoners",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/groups-urge-yerevan-to-engage-switzerland-as-protecting-power-for-artsakh-prisoners/",
+      "published_date": "2026-04-06T20:41:03Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Belarus Leader Warns CSTO Must be Very Careful in Dealing with Armenia",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/belarus-leader-warns-csto-must-be-very-careful-in-dealing-with-armenia/",
+      "published_date": "2026-04-06T20:37:35Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Armenia-Iran relations focus on TRIPP, aid and transit amid war",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/06/armenia-iran-relations-focus-on-tripp-aid-and-transit-amid-war/",
+      "published_date": "2026-04-06T15:09:47Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Artsakh Leader States Pashinyan’s Claims of Artsakh Armenian’s ‘Surrender’ is ‘Delusion’",
       "source": "Asbarez",
@@ -60,24 +81,17 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Fresno State to Screen Documentary on Genocide Restitution in U.S.’s Post-Recognition Era",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/fresno-state-to-screen-documentary-on-genocide-restitution-in-u-s-s-post-recognition-era/",
-      "published_date": "2026-03-30T22:42:49Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "ARS Western U.S. Hosts Sold-Out Gala Advancing Critical Community and Humanitarian Initiatives",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/ars-western-u-s-hosts-sold-out-gala-advancing-critical-community-and-humanitarian-initiatives/",
-      "published_date": "2026-03-30T21:02:07Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Armenia: Parliament Committee Rejects Bill to Raise Military Conscription Age",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/180687",
       "published_date": "2026-04-06T11:05:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Easter in the Land of Christ",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/easter-in-the-land-of-christ/",
+      "published_date": "2026-04-05T16:45:35Z",
       "category": "Military"
     },
     {
@@ -102,18 +116,18 @@
       "category": "Military"
     },
     {
-      "title": "Returning to Armenia to create and belong: The story of Alexander Beglaryan",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/03/30/returning-to-armenia-to-create-and-belong-the-story-of-alexander-beglaryan/",
-      "published_date": "2026-03-30T16:09:10Z",
-      "category": "Military"
-    },
-    {
       "title": "Unibank Joins Partnership for Carbon Accounting Financials (PCAF)",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/180654",
       "published_date": "2026-04-03T08:52:00Z",
       "category": "Energy"
+    },
+    {
+      "title": "Official Data Rebuff: Millions in Bonuses to Armenia&#039;s Provincial Governors and Staffers",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/180686",
+      "published_date": "2026-04-06T12:00:00Z",
+      "category": "Economy"
     },
     {
       "title": "Armenian Business Owner Sues Dr. Oz; Says His Racist Video Hurt Business",
@@ -130,10 +144,73 @@
       "category": "Economy"
     },
     {
+      "title": "Ardy Kassakhian Elected to SoCal Association of Governments",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/ardy-kassakhian-elected-to-regional-council/",
+      "published_date": "2026-04-06T19:48:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenia’s Artur Davtyan Wins Gold at Gymnastics World Cup",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/armenias-artur-davtyan-wins-gold-at-gymnastics-world-cup/",
+      "published_date": "2026-04-06T19:39:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "How AYF and AYC Inspire Armenian Pride in Youth",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/how-ayc-and-ayf-inspire-armenian-pride-in-youth/",
+      "published_date": "2026-04-06T18:14:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "War and Peace Framing of Armenia’s Parliamentary Election",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/war-and-peace-framing-of-armenias-parliamentary-election/",
+      "published_date": "2026-04-06T17:53:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "IALA Announces 2026 ‘Young Armenian Poets Awards’",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/iala-announces-2026-young-armenian-poets-awards/",
+      "published_date": "2026-04-06T17:44:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenian Needlelace Initiative launch announced",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/06/armenian-needlelace-initiative-launch-announced/",
+      "published_date": "2026-04-06T15:02:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "2026 AYF-YOARF Junior Winter Olympics unite Juniors across three districts",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/06/2026-ayf-yoarf-junior-winter-olympics-unite-juniors-across-three-districts/",
+      "published_date": "2026-04-06T14:50:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Resigned members of AGMI Board of Trustees issue statement",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/06/resigned-members-of-agmi-board-of-trustees-issue-statement/",
+      "published_date": "2026-04-06T14:25:00Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Strength of spirit: Empowering the neurodivergent community through UFit",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/04/06/empowering-the-neurodivergent-community-through-ufit/",
       "published_date": "2026-04-06T14:09:50Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Prelate’s Easter Message",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/prelates-easter-message-11/",
+      "published_date": "2026-04-05T15:30:12Z",
       "category": "Local Events"
     },
     {
@@ -204,69 +281,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/04/03/the-aznavoorian-sisters/",
       "published_date": "2026-04-03T15:11:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Leading today: Because tomorrow may be too late",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/03/leading-today/",
-      "published_date": "2026-04-03T15:05:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenia Mulls Social Media Ban for Children Under Sixteen",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/180661",
-      "published_date": "2026-04-03T12:33:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Leading Today, Because Tomorrow May Be Too Late",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/leading-today-because-tomorrow-may-be-too-late/",
-      "published_date": "2026-04-02T19:50:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gata Band to Perform at AGBU Center",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/gata-band-to-perform-at-agbu-center/",
-      "published_date": "2026-04-02T19:45:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Situation Calls for the Urgent Alignment of Armenia–Diaspora Political Agenda",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/the-situation-calls-for-the-urgent-alignment-of-armenia-diaspora-political-agenda/",
-      "published_date": "2026-04-02T19:45:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Children of Armenia Fund Teaches English as Nationwide Strategy",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/children-of-armenia-fund-teaches-english-as-nationwide-strategy/",
-      "published_date": "2026-04-02T16:48:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Planning Commissioner Nerses Aposhian Announces Run for La Cañada City Council",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/planning-commissioner-nerses-aposhian-announces-run-for-la-canada-city-council/",
-      "published_date": "2026-04-02T15:29:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "NAASR’s Mardigian Library receives Kalfayan collection",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/02/naasrs-mardigian-library-receives-kalfayan-collection/",
-      "published_date": "2026-04-02T13:10:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Aznavoorian Sisters bring “Music in Color” to the Armenian Museum of America",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/02/the-aznavoorian-sisters/",
-      "published_date": "2026-04-02T13:00:34Z",
       "category": "Local Events"
     }
   ]
