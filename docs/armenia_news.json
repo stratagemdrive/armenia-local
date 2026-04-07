@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-07T00:05:09Z",
+  "generated_at": "2026-04-07T14:59:58Z",
   "country": "Armenia",
-  "total_stories": 39,
+  "total_stories": 38,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Armenia’s Export Markets: Russia Up, EU Down",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/179748",
+      "published_date": "2026-04-07T10:45:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Groups Urge Yerevan to Engage Switzerland as ‘Protecting Power’ for Artsakh Prisoners",
       "source": "Asbarez",
@@ -64,20 +71,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/04/01/artists-keep-the-souls-flame-alive-in-the-absence-of-leadership/",
       "published_date": "2026-04-01T17:35:29Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pashinyan, New EUMA Head Meet in Yerevan",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/180604",
-      "published_date": "2026-03-31T11:58:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pashinyan to Moscow for Putin Meeting",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/180602",
-      "published_date": "2026-03-31T10:13:00Z",
       "category": "Diplomacy"
     },
     {
@@ -144,6 +137,27 @@
       "category": "Economy"
     },
     {
+      "title": "Rhode Island Armenian community to sponsor Youth Day, organize genocide commemoration",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/07/rhode-island-armenian-community-to-sponsor-youth-day-organize-genocide-commemoration/",
+      "published_date": "2026-04-07T13:41:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "AYF participates in IUSY Congress in Istanbul",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/07/ayf-participates-in-iusy-congress-in-istanbul/",
+      "published_date": "2026-04-07T13:24:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Unibank to Participate in Leasing Expo 2026 With Special Offer",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/180698",
+      "published_date": "2026-04-07T07:18:00Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Ardy Kassakhian Elected to SoCal Association of Governments",
       "source": "Asbarez",
       "url": "https://asbarez.com/ardy-kassakhian-elected-to-regional-council/",
@@ -190,6 +204,13 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/04/06/2026-ayf-yoarf-junior-winter-olympics-unite-juniors-across-three-districts/",
       "published_date": "2026-04-06T14:50:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenian National Congress to Participate in June Election On Its Own",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/180692",
+      "published_date": "2026-04-06T14:35:00Z",
       "category": "Local Events"
     },
     {
@@ -253,34 +274,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/04/04/winslow-martins-my-armenia/",
       "published_date": "2026-04-04T13:04:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Connecticut to commemorate 111th anniversary of Armenian Genocide with keynote by Bryan Ardouny",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/04/connecticut-to-commemorate/",
-      "published_date": "2026-04-04T12:59:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "FOX 11 Los Angeles Celebrates Armenian Heritage Month with a Special Showcasing Culture, Travel, and Inspiring Stories",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/fox-11-los-angeles-celebrates-armenian-heritage-month-with-a-special-showcasing-culture-travel-and-inspiring-stories/",
-      "published_date": "2026-04-03T17:11:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "ARS Central Executive Board supports institutions and programs across homeland and diaspora",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/03/ars-central-executive-board/",
-      "published_date": "2026-04-03T15:19:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Aznavoorian Sisters bring “Music in Color” to the Armenian Museum of America",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/03/the-aznavoorian-sisters/",
-      "published_date": "2026-04-03T15:11:34Z",
       "category": "Local Events"
     }
   ]
