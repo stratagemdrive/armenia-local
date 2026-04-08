@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-07T14:59:58Z",
+  "generated_at": "2026-04-08T05:31:38Z",
   "country": "Armenia",
-  "total_stories": 38,
+  "total_stories": 40,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "AWWA announces $150,000 grant to support Armenian elders overseas",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/07/awwa-announces-150000-grant-to-support-armenian-elders-overseas/",
+      "published_date": "2026-04-07T17:20:25Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Armenia’s Export Markets: Russia Up, EU Down",
       "source": "Hetq",
@@ -74,6 +81,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Eight Months On: Still No Transfer of Palestinian Cultural Artifacts to Armenia",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/180713",
+      "published_date": "2026-04-07T18:51:00Z",
+      "category": "Military"
+    },
+    {
       "title": "Armenia: Parliament Committee Rejects Bill to Raise Military Conscription Age",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/180687",
@@ -109,6 +123,13 @@
       "category": "Military"
     },
     {
+      "title": "In between horizons: Solo exhibition by Shushanik Karapetyan",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/07/in-between-horizons-solo-exhibition-by-shushanik-karapetyan/",
+      "published_date": "2026-04-07T17:53:53Z",
+      "category": "Energy"
+    },
+    {
       "title": "Unibank Joins Partnership for Carbon Accounting Financials (PCAF)",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/180654",
@@ -130,11 +151,25 @@
       "category": "Economy"
     },
     {
-      "title": "Breaking the cycle: Kima Harutyunyan on art, women and invisible labor",
+      "title": "Memorial Service: Robert Ghazarians",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/memorial-service-robert-ghazarians/",
+      "published_date": "2026-04-07T20:35:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Diaspora Mobilization Conference in Paris to Address Current National Challenges",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/diaspora-mobilization-conference-in-paris-to-address-current-national-challenges/",
+      "published_date": "2026-04-07T18:08:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "A visit to Western Thrace: “Do not forget us”",
       "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/03/31/breaking-the-cycle-kima-harutyunyan-on-art-women-and-invisible-labor/",
-      "published_date": "2026-03-31T15:06:00Z",
-      "category": "Economy"
+      "url": "https://armenianweekly.com/2026/04/07/a-visit-to-western-thrace-do-not-forget-us/",
+      "published_date": "2026-04-07T17:47:07Z",
+      "category": "Local Events"
     },
     {
       "title": "Rhode Island Armenian community to sponsor Youth Day, organize genocide commemoration",
@@ -253,27 +288,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/180662",
       "published_date": "2026-04-04T14:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘In the Land of Arto’ to make East Coast premiere at Belmont World Film 24th International Film Series",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/04/in-the-land-of-arto/",
-      "published_date": "2026-04-04T13:20:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Applications open: 2026 Young Armenian Poets Awards in honor of Tamar Asadourian",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/04/applications-open/",
-      "published_date": "2026-04-04T13:09:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Winslow Martin’s “My Armenia” documents history and daily life across the country",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/04/winslow-martins-my-armenia/",
-      "published_date": "2026-04-04T13:04:32Z",
       "category": "Local Events"
     }
   ]
