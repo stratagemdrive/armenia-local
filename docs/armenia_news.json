@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-10T06:10:06Z",
+  "generated_at": "2026-04-10T14:35:47Z",
   "country": "Armenia",
-  "total_stories": 36,
+  "total_stories": 38,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "New Round of Dialogue Between Armenian and Azerbaijani Civil Societies",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/180783",
+      "published_date": "2026-04-10T09:35:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Pashinyan jokes with Putin in the Kremlin: “Armenia has too much democracy”",
       "source": "The Armenian Weekly",
@@ -95,11 +102,18 @@
       "category": "Energy"
     },
     {
-      "title": "Unibank Joins Partnership for Carbon Accounting Financials (PCAF)",
+      "title": "Iran War Hasn&#039;t Yet Impacted Armenia&#039;s Trade Flows; Transport Costs Have Increased",
       "source": "Hetq",
-      "url": "https://hetq.am/en/article/180654",
-      "published_date": "2026-04-03T08:52:00Z",
-      "category": "Energy"
+      "url": "https://hetq.am/en/article/180793",
+      "published_date": "2026-04-10T12:17:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Team Holding: Second Phase of USD-Denominated Bonds Completed",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/180789",
+      "published_date": "2026-04-10T10:50:00Z",
+      "category": "Economy"
     },
     {
       "title": "Khachkar Studios Financial Support to U.S. Judeo-Christian Community Increased 25% in March",
@@ -121,6 +135,27 @@
       "url": "https://hetq.am/en/article/180686",
       "published_date": "2026-04-06T12:00:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "The hope that calms all storms",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/10/the-hope-that-calms-all-storms/",
+      "published_date": "2026-04-10T14:16:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenia Alliance presents socioeconomic platform",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/10/armenia-alliance-presents-socioeconomic-platform/",
+      "published_date": "2026-04-10T12:01:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Car Crash Kills Six in Armenia&#039;s Shirak Province",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/180788",
+      "published_date": "2026-04-10T10:16:00Z",
+      "category": "Local Events"
     },
     {
       "title": "‘Armenia’ Alliance Presents Socio-Economic Platform Ahead of Elections",
@@ -239,27 +274,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/04/08/ottoman-multiculturalism-through-the-armenian-experience/",
       "published_date": "2026-04-08T12:24:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Memorial Service: Robert Ghazarians",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/memorial-service-robert-ghazarians/",
-      "published_date": "2026-04-07T20:35:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Diaspora Mobilization Conference in Paris to Address Current National Challenges",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/diaspora-mobilization-conference-in-paris-to-address-current-national-challenges/",
-      "published_date": "2026-04-07T18:08:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "A visit to Western Thrace: “Do not forget us”",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/07/a-visit-to-western-thrace-do-not-forget-us/",
-      "published_date": "2026-04-07T17:47:07Z",
       "category": "Local Events"
     }
   ]
