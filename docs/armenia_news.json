@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T16:07:50Z",
+  "generated_at": "2026-04-10T06:10:06Z",
   "country": "Armenia",
   "total_stories": 36,
   "categories": [
@@ -60,13 +60,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Artsakh Leader States Pashinyan’s Claims of Artsakh Armenian’s ‘Surrender’ is ‘Delusion’",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/artsakh-leader-calls-pashinyans-claims-of-artsakh-armenians-as-surrender-is-delusion/",
-      "published_date": "2026-04-02T20:55:12Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Eight Months On: Still No Transfer of Palestinian Cultural Artifacts to Armenia",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/180713",
@@ -109,6 +102,13 @@
       "category": "Energy"
     },
     {
+      "title": "Khachkar Studios Financial Support to U.S. Judeo-Christian Community Increased 25% in March",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/khachkar-studios-financial-support-to-u-s-judeo-christian-community-increased-25-in-march-2/",
+      "published_date": "2026-04-09T17:55:45Z",
+      "category": "Economy"
+    },
+    {
       "title": "Armenia: Former Labor Minister, PM Advisor, Arrested",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/180731",
@@ -121,6 +121,34 @@
       "url": "https://hetq.am/en/article/180686",
       "published_date": "2026-04-06T12:00:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "‘Armenia’ Alliance Presents Socio-Economic Platform Ahead of Elections",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/armenia-alliance-presents-socio-economic-platform-ahead-of-elections/",
+      "published_date": "2026-04-09T20:46:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Calls Grow for Release of Teenager Arrested on Palm Sunday for ‘Confronting’ Pashinyan",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/calls-grow-for-release-of-teenager-arrested-on-palm-sunday-for-confronting-pashinyan/",
+      "published_date": "2026-04-09T20:40:42Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Electoral Code Amendments Ahead of June Elections Disadvantage Country’s Leading Opposition Party",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/electoral-code-amendments-ahead-of-june-elections-disadvantage-countrys-leading-opposition-party/",
+      "published_date": "2026-04-09T17:20:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Filmmaker Rojhilat Aksoy acquitted under Article 301",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/09/filmmaker-rojhilat-aksoy-acquitted-under-article-301/",
+      "published_date": "2026-04-09T16:39:37Z",
+      "category": "Local Events"
     },
     {
       "title": "A landmark for the ages",
@@ -232,34 +260,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/04/07/a-visit-to-western-thrace-do-not-forget-us/",
       "published_date": "2026-04-07T17:47:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rhode Island Armenian community to sponsor Youth Day, organize genocide commemoration",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/07/rhode-island-armenian-community-to-sponsor-youth-day-organize-genocide-commemoration/",
-      "published_date": "2026-04-07T13:41:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "AYF participates in IUSY Congress in Istanbul",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/07/ayf-participates-in-iusy-congress-in-istanbul/",
-      "published_date": "2026-04-07T13:24:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Unibank to Participate in Leasing Expo 2026 With Special Offer",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/180698",
-      "published_date": "2026-04-07T07:18:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ardy Kassakhian Elected to SoCal Association of Governments",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/ardy-kassakhian-elected-to-regional-council/",
-      "published_date": "2026-04-06T19:48:44Z",
       "category": "Local Events"
     }
   ]
