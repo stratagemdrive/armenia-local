@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-10T14:35:47Z",
+  "generated_at": "2026-04-10T23:30:57Z",
   "country": "Armenia",
-  "total_stories": 38,
+  "total_stories": 39,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Giving wings to art: How ArTever hopes to bring Armenian stories to life",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/10/giving-wings-to-art-how-artever-hopes-to-bring-armenian-stories-to-life/",
+      "published_date": "2026-04-10T14:43:26Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pashinyan, Estonian FM Discuss Expanding Cooperation",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/180790",
+      "published_date": "2026-04-10T10:45:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "New Round of Dialogue Between Armenian and Azerbaijani Civil Societies",
       "source": "Hetq",
@@ -88,13 +102,6 @@
       "category": "Military"
     },
     {
-      "title": "NAASR to host talk on Israeli-Turkish relations and Armenian Genocide denial",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/03/naasr-to-host-talk/",
-      "published_date": "2026-04-03T17:18:30Z",
-      "category": "Military"
-    },
-    {
       "title": "In between horizons: Solo exhibition by Shushanik Karapetyan",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/04/07/in-between-horizons-solo-exhibition-by-shushanik-karapetyan/",
@@ -135,6 +142,20 @@
       "url": "https://hetq.am/en/article/180686",
       "published_date": "2026-04-06T12:00:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "In memory of Edward Mesrobian",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/10/in-memory-of-edward-mesrobian/",
+      "published_date": "2026-04-10T19:32:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Inside Nais’s dream world: Shahen Shahinyan’s sculptures",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/10/inside-naiss-dream-world-shahen-shahinyans-sculptures/",
+      "published_date": "2026-04-10T16:21:33Z",
+      "category": "Local Events"
     },
     {
       "title": "The hope that calms all storms",
@@ -260,20 +281,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/04/08/anca-eastern-region-hosts-inaugural-grassroots-seminar-in-watertown/",
       "published_date": "2026-04-08T14:11:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "What stand-up in Yerevan says about Armenia — and us",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/08/what-stand-up-in-yerevan-says-about-armenia-and-us/",
-      "published_date": "2026-04-08T13:37:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "“Ottoman multiculturalism” through the Armenian experience",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/08/ottoman-multiculturalism-through-the-armenian-experience/",
-      "published_date": "2026-04-08T12:24:53Z",
       "category": "Local Events"
     }
   ]
