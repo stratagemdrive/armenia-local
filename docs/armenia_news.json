@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-11T11:29:43Z",
+  "generated_at": "2026-04-11T23:29:13Z",
   "country": "Armenia",
-  "total_stories": 39,
+  "total_stories": 41,
   "categories": [
     "Diplomacy",
     "Military",
@@ -11,9 +11,23 @@
   ],
   "stories": [
     {
+      "title": "Artsakh Union, UNHR contribute to UN report finding displaced Artsakh women in “precious position” in Armenia",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/11/artsakh-union-unhr/",
+      "published_date": "2026-04-11T12:45:51Z",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Giving wings to art: How ArTever hopes to bring Armenian stories to life",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/04/10/giving-wings-to-art-how-artever-hopes-to-bring-armenian-stories-to-life/",
+      "published_date": "2026-04-10T14:43:26Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Giving wings to art: How ArTever hopes to bring Armenian stories to life",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/10/giving-wings-to-art/",
       "published_date": "2026-04-10T14:43:26Z",
       "category": "Diplomacy"
     },
@@ -144,6 +158,27 @@
       "category": "Economy"
     },
     {
+      "title": "Electoral Code amendments ahead of June elections disadvantage Armenia’s leading opposition party",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/11/electoral-code-amendments/",
+      "published_date": "2026-04-11T12:24:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenian arts and culture workshop for children launching in New Jersey",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/11/armenian-arts-and-culture-workshop/",
+      "published_date": "2026-04-11T12:00:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Khachkar Studios financial support to U.S. Judeo-Christian community increased 25% in March 2026",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/11/khachkar-studios-financial-support-to-u-s-judeo-christian-community-increased-25-in-march-2026/",
+      "published_date": "2026-04-11T11:49:48Z",
+      "category": "Local Events"
+    },
+    {
       "title": "In memory of Edward Mesrobian",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/04/10/in-memory-of-edward-mesrobian/",
@@ -260,27 +295,6 @@
       "source": "Asbarez",
       "url": "https://asbarez.com/l-a-county-board-of-supervisors-proclaims-april-as-armenian-history-month/",
       "published_date": "2026-04-08T17:17:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toronto’s Armenian Community Secures Historic $15M Landmark Facility",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/15-05-cad-million-acquisition-of-premier-facility-fuels-strategic-transformation-for-torontos-armenian-community/",
-      "published_date": "2026-04-08T16:35:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paris diaspora conference to address national challenges",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/08/paris-diaspora-conference-to-address-national-challenges/",
-      "published_date": "2026-04-08T14:39:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "ANCA Eastern Region hosts inaugural Grassroots Seminar in Watertown",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/08/anca-eastern-region-hosts-inaugural-grassroots-seminar-in-watertown/",
-      "published_date": "2026-04-08T14:11:23Z",
       "category": "Local Events"
     }
   ]
