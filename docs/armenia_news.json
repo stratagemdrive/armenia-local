@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-12T11:34:04Z",
+  "generated_at": "2026-04-12T23:30:22Z",
   "country": "Armenia",
-  "total_stories": 42,
+  "total_stories": 43,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Who protects the Christians?",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/12/who-protects-the-christians/",
+      "published_date": "2026-04-12T14:54:12Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Artsakh Union, UNHR contribute to UN report finding displaced Artsakh women in “precious position” in Armenia",
       "source": "The Armenian Weekly",
@@ -102,6 +109,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "‘Just Like We Entered Karabakh’: Erdogan Threatens Military Action Against Israel",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/just-like-we-entered-karabakh-erdogan-threatens-military-action-against-israel/",
+      "published_date": "2026-04-12T16:49:29Z",
+      "category": "Military"
+    },
+    {
       "title": "Eight Months On: Still No Transfer of Palestinian Cultural Artifacts to Armenia",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/180713",
@@ -113,13 +127,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/180687",
       "published_date": "2026-04-06T11:05:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Easter in the Land of Christ",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/easter-in-the-land-of-christ/",
-      "published_date": "2026-04-05T16:45:35Z",
       "category": "Military"
     },
     {
@@ -163,6 +170,48 @@
       "url": "https://hetq.am/en/article/180686",
       "published_date": "2026-04-06T12:00:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Declaration of the Diaspora Mobilization Conference",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/declaration-of-the-diaspora-mobilization-conference/",
+      "published_date": "2026-04-12T19:57:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thousands Attend &#039;Strong Armenia Alliance&#039; Campaign Rally in Yerevan",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/180811",
+      "published_date": "2026-04-12T14:23:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bob’s Pharmacy",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/12/bobs-pharmacy/",
+      "published_date": "2026-04-12T14:10:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Capturing Eternity’: A landmark volume on Armenian photography in Jerusalem is published",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/12/capturing-eternity/",
+      "published_date": "2026-04-12T13:55:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "FOX 11 LA celebrates Armenian Heritage Month with cultural special",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/12/fox-11-la-celebrates/",
+      "published_date": "2026-04-12T13:48:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "AEF announces U.S. scholarships for Armenian students",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/11/aef-announces-u-s-scholarships/",
+      "published_date": "2026-04-11T21:50:28Z",
+      "category": "Local Events"
     },
     {
       "title": "Electoral Code amendments ahead of June elections disadvantage Armenia’s leading opposition party",
@@ -260,48 +309,6 @@
       "source": "Asbarez",
       "url": "https://asbarez.com/calls-grow-for-release-of-teenager-arrested-on-palm-sunday-for-confronting-pashinyan/",
       "published_date": "2026-04-09T20:40:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Electoral Code Amendments Ahead of June Elections Disadvantage Country’s Leading Opposition Party",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/electoral-code-amendments-ahead-of-june-elections-disadvantage-countrys-leading-opposition-party/",
-      "published_date": "2026-04-09T17:20:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Filmmaker Rojhilat Aksoy acquitted under Article 301",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/09/filmmaker-rojhilat-aksoy-acquitted-under-article-301/",
-      "published_date": "2026-04-09T16:39:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "A landmark for the ages",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/09/a-landmark-for-the-ages/",
-      "published_date": "2026-04-09T14:52:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The mirrored windows of Hayduk Smbatyan",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/09/the-mirrored-windows-of-hayduk-smbatyan/",
-      "published_date": "2026-04-09T14:33:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "“The Millet System” and Ottoman multiculturalism",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/09/the-millet-system-and-ottoman-multiculturalism/",
-      "published_date": "2026-04-09T14:00:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Catholicos Aram I, MP’s Discuss Situation in Lebanon",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/180762",
-      "published_date": "2026-04-09T13:28:00Z",
       "category": "Local Events"
     }
   ]
