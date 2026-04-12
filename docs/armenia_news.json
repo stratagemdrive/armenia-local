@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-11T23:29:13Z",
+  "generated_at": "2026-04-12T11:34:04Z",
   "country": "Armenia",
-  "total_stories": 41,
+  "total_stories": 42,
   "categories": [
     "Diplomacy",
     "Military",
@@ -15,6 +15,13 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/04/11/artsakh-union-unhr/",
       "published_date": "2026-04-11T12:45:51Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Release of Captives by Azerbaijan will Strengthen Peace, Mirzoyan says",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/release-of-captives-by-azerbaijan-will-strengthen-peace-mirzoyan-says/",
+      "published_date": "2026-04-10T20:26:02Z",
       "category": "Diplomacy"
     },
     {
@@ -179,10 +186,38 @@
       "category": "Local Events"
     },
     {
+      "title": "Prosecutors Refuse to Free Student Jailed Over Palm Sunday Incident With Pashinyan",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/prosecutors-refuse-to-free-student-jailed-over-palm-sunday-incident-with-pashinyan/",
+      "published_date": "2026-04-10T20:18:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump Route Remains a Priority for U.S., State Dept. Says",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/trump-route-remains-a-priority-for-u-s-state-dept-says/",
+      "published_date": "2026-04-10T20:15:21Z",
+      "category": "Local Events"
+    },
+    {
       "title": "In memory of Edward Mesrobian",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/04/10/in-memory-of-edward-mesrobian/",
       "published_date": "2026-04-10T19:32:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Children’s Armenian Arts & Culture Summer Workshop to Launch in New Jersey",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/childrens-armenian-arts-culture-workshop-to-launch-in-n-j-this-summer/",
+      "published_date": "2026-04-10T19:30:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "ANCA-Greater Crescenta Valley Chapter Endorses Nerses Aposhian for La Canada Flintridge City Council",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/anca-greater-crescenta-valley-chapter-endorses-nerses-aposhian-for-la-canada-flintridge-city-council/",
+      "published_date": "2026-04-10T18:31:00Z",
       "category": "Local Events"
     },
     {
@@ -267,34 +302,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/180762",
       "published_date": "2026-04-09T13:28:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Etchmiadzin Condemns Ruling Party&#039;s Election Platform to Oust Catholicos",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/180759",
-      "published_date": "2026-04-09T12:18:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Academic platforms and political narratives",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/09/academic-platforms-and-political-narratives/",
-      "published_date": "2026-04-09T11:45:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kocharyan Tops Armenia Alliance&#039;s List for June Election",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/180746",
-      "published_date": "2026-04-09T09:06:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "L.A. County Board of Supervisors Proclaims April as Armenian History Month",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/l-a-county-board-of-supervisors-proclaims-april-as-armenian-history-month/",
-      "published_date": "2026-04-08T17:17:09Z",
       "category": "Local Events"
     }
   ]
