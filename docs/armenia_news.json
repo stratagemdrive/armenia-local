@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-14T11:56:46Z",
+  "generated_at": "2026-04-14T23:38:35Z",
   "country": "Armenia",
   "total_stories": 41,
   "categories": [
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Armenian FM, EU VP Meet in Brussels; Discuss Upcoming Yerevan Summit",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/180845",
+      "published_date": "2026-04-14T12:27:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Pashinyan, French European Affairs Minister Delegate Discuss Regional Developments",
       "source": "Hetq",
@@ -88,11 +95,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "AWWA announces $150,000 grant to support Armenian elders overseas",
+      "title": "Reflection, deflection and prevarication",
       "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/07/awwa-announces-150000-grant-to-support-armenian-elders-overseas/",
-      "published_date": "2026-04-07T17:20:25Z",
-      "category": "Diplomacy"
+      "url": "https://armenianweekly.com/2026/04/14/reflection-deflection-and-prevarication/",
+      "published_date": "2026-04-14T13:29:22Z",
+      "category": "Military"
     },
     {
       "title": "Aztag Editor Reports Beirut Is Gripped by Fear",
@@ -109,13 +116,6 @@
       "category": "Military"
     },
     {
-      "title": "Eight Months On: Still No Transfer of Palestinian Cultural Artifacts to Armenia",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/180713",
-      "published_date": "2026-04-07T18:51:00Z",
-      "category": "Military"
-    },
-    {
       "title": "Sarkisian workshop series: Indigenous climate narratives with Diane Wilson",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/04/13/sarkisian-workshop-series-indigenous-climate-narratives-with-diane-wilson/",
@@ -123,11 +123,11 @@
       "category": "Energy"
     },
     {
-      "title": "In between horizons: Solo exhibition by Shushanik Karapetyan",
+      "title": "Silk geometry: Rediscovering Armenian needlelace",
       "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/07/in-between-horizons-solo-exhibition-by-shushanik-karapetyan/",
-      "published_date": "2026-04-07T17:53:53Z",
-      "category": "Energy"
+      "url": "https://armenianweekly.com/2026/04/14/silk-geometry-rediscovering-armenian-needlelace/",
+      "published_date": "2026-04-14T16:36:30Z",
+      "category": "Economy"
     },
     {
       "title": "Iran War Hasn&#039;t Yet Impacted Armenia&#039;s Trade Flows; Transport Costs Have Increased",
@@ -156,6 +156,27 @@
       "url": "https://hetq.am/en/article/180731",
       "published_date": "2026-04-08T11:06:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "April 26 commemoration in Times Square to highlight solidarity, remembrance and justice",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/14/april-26-commemoration-in-times-square-to-highlight-solidarity-remembrance-and-justice/",
+      "published_date": "2026-04-14T14:13:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Not your typical Armenian wedding — and that’s the point",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/14/not-your-typical-armenian-wedding-and-thats-the-point/",
+      "published_date": "2026-04-14T14:11:30Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Administration in the Millet System",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/14/administration-in-the-millet-system/",
+      "published_date": "2026-04-14T11:26:26Z",
+      "category": "Local Events"
     },
     {
       "title": "Caucasus Nature Fund Allocates €285,000 to Armenia",
@@ -274,27 +295,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/04/12/fox-11-la-celebrates/",
       "published_date": "2026-04-12T13:48:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "AEF announces U.S. scholarships for Armenian students",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/11/aef-announces-u-s-scholarships/",
-      "published_date": "2026-04-11T21:50:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Electoral Code amendments ahead of June elections disadvantage Armenia’s leading opposition party",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/11/electoral-code-amendments/",
-      "published_date": "2026-04-11T12:24:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenian arts and culture workshop for children launching in New Jersey",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/11/armenian-arts-and-culture-workshop/",
-      "published_date": "2026-04-11T12:00:52Z",
       "category": "Local Events"
     }
   ]
