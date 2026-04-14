@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-13T23:38:21Z",
+  "generated_at": "2026-04-14T11:56:46Z",
   "country": "Armenia",
   "total_stories": 41,
   "categories": [
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Pashinyan, French European Affairs Minister Delegate Discuss Regional Developments",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/180840",
+      "published_date": "2026-04-14T08:05:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Fears of trade disruptions in Armenia and “Black Wednesday” in Lebanon",
       "source": "The Armenian Weekly",
@@ -88,13 +95,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Armenia’s Export Markets: Russia Up, EU Down",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/179748",
-      "published_date": "2026-04-07T10:45:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Aztag Editor Reports Beirut Is Gripped by Fear",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/180813",
@@ -156,6 +156,13 @@
       "url": "https://hetq.am/en/article/180731",
       "published_date": "2026-04-08T11:06:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Caucasus Nature Fund Allocates €285,000 to Armenia",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/180839",
+      "published_date": "2026-04-14T08:00:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Court Strikes Down Catholicos Karekin II’s Travel Ban",
@@ -288,13 +295,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/04/11/armenian-arts-and-culture-workshop/",
       "published_date": "2026-04-11T12:00:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Khachkar Studios financial support to U.S. Judeo-Christian community increased 25% in March 2026",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/11/khachkar-studios-financial-support-to-u-s-judeo-christian-community-increased-25-in-march-2026/",
-      "published_date": "2026-04-11T11:49:48Z",
       "category": "Local Events"
     }
   ]
