@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-15T11:55:48Z",
+  "generated_at": "2026-04-15T23:37:55Z",
   "country": "Armenia",
-  "total_stories": 39,
+  "total_stories": 41,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Pashinyan Boasts Armenia More Prosperous and Secure Than Ever",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/180869",
+      "published_date": "2026-04-15T13:06:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pashinyan Says Armenia Has Political Will to Join EU",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/180864",
+      "published_date": "2026-04-15T11:13:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Armenian FM, EU VP Meet in Brussels; Discuss Upcoming Yerevan Summit",
       "source": "Hetq",
@@ -81,11 +95,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Pashinyan jokes with Putin in the Kremlin: “Armenia has too much democracy”",
+      "title": "Joe Kassabian on “The Highlands Burn”",
       "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/08/pashinyan-jokes-with-putin-in-the-kremlin-armenia-has-too-much-democracy/",
-      "published_date": "2026-04-08T13:55:03Z",
-      "category": "Diplomacy"
+      "url": "https://armenianweekly.com/2026/04/15/joe-kassabian-on-the-highlands-burn/",
+      "published_date": "2026-04-15T14:24:24Z",
+      "category": "Military"
     },
     {
       "title": "Reflection, deflection and prevarication",
@@ -142,6 +156,41 @@
       "url": "https://asbarez.com/khachkar-studios-financial-support-to-u-s-judeo-christian-community-increased-25-in-march-2/",
       "published_date": "2026-04-09T17:55:45Z",
       "category": "Economy"
+    },
+    {
+      "title": "The Region in Brief",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/15/the-region-in-brief-164/",
+      "published_date": "2026-04-15T16:11:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Taraz traditions: Armenian heritage from Toronto to New York",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/15/taraz-traditions-armenian-heritage-from-toronto-to-new-york/",
+      "published_date": "2026-04-15T14:41:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "AMVN founders: “It’s not just about teaching and learning — it’s about building community”",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/15/amvn-founders-not-just-about-teaching-and-learning/",
+      "published_date": "2026-04-15T14:35:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "AYF D.C. supports ARS Camp Javakhk at annual Lenten dinner",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/15/ayf-d-c-supports-ars-camp-javakhk-at-annual-lenten-dinner/",
+      "published_date": "2026-04-15T14:19:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pashinyan Travels to Yazidi Village for New Year&#039;s Celebration",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/180867",
+      "published_date": "2026-04-15T11:33:00Z",
+      "category": "Local Events"
     },
     {
       "title": "April 26 commemoration in Times Square to highlight solidarity, remembrance and justice",
@@ -246,41 +295,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/180823",
       "published_date": "2026-04-13T11:27:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Declaration of the Diaspora Mobilization Conference",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/declaration-of-the-diaspora-mobilization-conference/",
-      "published_date": "2026-04-12T19:57:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thousands Attend &#039;Strong Armenia Alliance&#039; Campaign Rally in Yerevan",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/180811",
-      "published_date": "2026-04-12T14:23:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bob’s Pharmacy",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/12/bobs-pharmacy/",
-      "published_date": "2026-04-12T14:10:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Capturing Eternity’: A landmark volume on Armenian photography in Jerusalem is published",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/12/capturing-eternity/",
-      "published_date": "2026-04-12T13:55:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "FOX 11 LA celebrates Armenian Heritage Month with cultural special",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/12/fox-11-la-celebrates/",
-      "published_date": "2026-04-12T13:48:21Z",
       "category": "Local Events"
     }
   ]
