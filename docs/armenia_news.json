@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-16T11:57:50Z",
+  "generated_at": "2026-04-16T23:36:07Z",
   "country": "Armenia",
-  "total_stories": 42,
+  "total_stories": 44,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Pashinyan’s party should be banned from June elections for violating the Constitution",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/16/pashinyans-party-should-be-banned-from-june-elections-for-violating-the-constitution/",
+      "published_date": "2026-04-16T13:59:38Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "EU to Deploy Another Mission to Armenia this Time to Counter Russia’s Activities",
       "source": "Asbarez",
@@ -102,6 +109,20 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Broadcasts Calling for War, Inciting Hate Speech to be Banned in Armenia",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/180892",
+      "published_date": "2026-04-16T18:47:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "ECHR Obliges Azerbaijan to Provide Armenian POW Verdicts by August 31",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/180884",
+      "published_date": "2026-04-16T14:10:00Z",
+      "category": "Military"
+    },
+    {
       "title": "Joe Kassabian on “The Highlands Burn”",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/04/15/joe-kassabian-on-the-highlands-burn/",
@@ -158,11 +179,46 @@
       "category": "Economy"
     },
     {
-      "title": "Khachkar Studios Financial Support to U.S. Judeo-Christian Community Increased 25% in March",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/khachkar-studios-financial-support-to-u-s-judeo-christian-community-increased-25-in-march-2/",
-      "published_date": "2026-04-09T17:55:45Z",
-      "category": "Economy"
+      "title": "Boston University, HENAR expand Syunik health program",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/16/boston-university-henar-expand-syunik-health-program/",
+      "published_date": "2026-04-16T14:10:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bedross Der Matossian receives Guggenheim Fellowship",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/16/bedross-der-matossian-receives-guggenheim-fellowship/",
+      "published_date": "2026-04-16T13:55:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Change through the ANCA Rising Leaders Program",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/16/change-through-the-anca-rising-leaders-program/",
+      "published_date": "2026-04-16T13:53:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police Arrest Strong Armenia Members for Bribing Voters",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/180886",
+      "published_date": "2026-04-16T13:52:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "FIDE Special Tasks Director Visits Armenia to Strengthen Chess Education Cooperation",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/180882",
+      "published_date": "2026-04-16T11:47:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenian Parliament Speaker in Istanbul for IPU Assembly",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/180880",
+      "published_date": "2026-04-16T11:32:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Calls for collective opposition amid targeted discrimination against civilians",
@@ -260,48 +316,6 @@
       "source": "Asbarez",
       "url": "https://asbarez.com/boston-university-henar-expand-syunik-health-worker-program/",
       "published_date": "2026-04-14T16:39:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "April 26 commemoration in Times Square to highlight solidarity, remembrance and justice",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/14/april-26-commemoration-in-times-square-to-highlight-solidarity-remembrance-and-justice/",
-      "published_date": "2026-04-14T14:13:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Not your typical Armenian wedding — and that’s the point",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/14/not-your-typical-armenian-wedding-and-thats-the-point/",
-      "published_date": "2026-04-14T14:11:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Administration in the Millet System",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/14/administration-in-the-millet-system/",
-      "published_date": "2026-04-14T11:26:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Caucasus Nature Fund Allocates €285,000 to Armenia",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/180839",
-      "published_date": "2026-04-14T08:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Court Strikes Down Catholicos Karekin II’s Travel Ban",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/court-strikes-down-catholicos-karekin-iis-travel-ban/",
-      "published_date": "2026-04-13T21:33:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "A Legal Agenda for Diaspora Nation-Building",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/a-legal-agenda-for-diaspora-nation-building/",
-      "published_date": "2026-04-13T21:30:11Z",
       "category": "Local Events"
     }
   ]
