@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-15T23:37:55Z",
+  "generated_at": "2026-04-16T11:57:50Z",
   "country": "Armenia",
-  "total_stories": 41,
+  "total_stories": 42,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "EU to Deploy Another Mission to Armenia this Time to Counter Russia’s Activities",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/eu-to-deploy-another-mission-to-armenia-this-time-to-counter-russias-activities/",
+      "published_date": "2026-04-15T21:58:09Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Pashinyan Boasts Armenia More Prosperous and Secure Than Ever",
       "source": "Hetq",
@@ -158,6 +165,41 @@
       "category": "Economy"
     },
     {
+      "title": "Calls for collective opposition amid targeted discrimination against civilians",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/16/calls-for-collective-opposition-amid-targeted-discrimination-against-civilians/",
+      "published_date": "2026-04-16T10:24:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ardashes ‘Ardy’ Kassakhian Selected as Mayor of Glendale",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/ardashes-ardy-kassakhian-selected-as-mayor-of-glendale/",
+      "published_date": "2026-04-15T22:26:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Artsakh Representatives Meet French Officials",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/artsakh-representatives-meet-french-officials/",
+      "published_date": "2026-04-15T22:01:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "You Don’t Choose a Political System, You Wake Up Inside One",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/you-dont-choose-a-political-system-you-wake-up-inside-one/",
+      "published_date": "2026-04-15T19:10:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "COAF Launches Appeal To Expand Healthcare Across Armavir Region",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/coaf-launches-270000-appeal-to-expand-healthcare-across-armavir-region/",
+      "published_date": "2026-04-15T18:47:05Z",
+      "category": "Local Events"
+    },
+    {
       "title": "The Region in Brief",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/04/15/the-region-in-brief-164/",
@@ -190,6 +232,34 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/180867",
       "published_date": "2026-04-15T11:33:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bedross Der Matossian Receives Prestigious Guggenheim Fellowship",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/bedross-der-matossian-receives-prestigious-guggenheim-fellowship/",
+      "published_date": "2026-04-14T23:45:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Change I Found Through the ANCA Rising Leaders Program",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/the-change-i-found-through-the-anca-rising-leaders-program/",
+      "published_date": "2026-04-14T21:42:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenian American Museum Debuts Interview with Presidential Speechwriter Ken Khachigian",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/armenian-american-museum-debuts-interview-with-presidential-speechwriter-ken-khachigian/",
+      "published_date": "2026-04-14T16:51:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Boston University/HENAR Expand Syunik Health Worker Program",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/boston-university-henar-expand-syunik-health-worker-program/",
+      "published_date": "2026-04-14T16:39:34Z",
       "category": "Local Events"
     },
     {
@@ -232,69 +302,6 @@
       "source": "Asbarez",
       "url": "https://asbarez.com/a-legal-agenda-for-diaspora-nation-building/",
       "published_date": "2026-04-13T21:30:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenian Genocide Commemoration to be Held in Times Square on April 26",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/armenian-genocide-commemoration-to-be-held-in-times-square-on-april-26/",
-      "published_date": "2026-04-13T19:28:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hayk Arsenyan and the stratum of a life in music",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/13/hayk-arsenyan-and-the-stratum-of-a-life-in-music/",
-      "published_date": "2026-04-13T16:03:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "When the World Burns and Silence Prevails",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/when-the-world-burns-and-silence-prevails/",
-      "published_date": "2026-04-13T15:26:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Emmanuel Children Fund to Host Charity Concert Benefiting Armenian Children Center",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/emmanuel-children-fund-to-host-charity-concert-benefiting-armenian-children-center/",
-      "published_date": "2026-04-13T15:22:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "From Pothole to Pothole: Yerevan’s Patched Streets",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/180829",
-      "published_date": "2026-04-13T14:28:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Election Campaigning in Armenia Intensifies Over the Weekend",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/180820",
-      "published_date": "2026-04-13T13:46:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Artsakh, national challenges and unity take center stage at Paris conference",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/13/artsakh-national-challenges-and-unity-take-center-stage-at-paris-conference/",
-      "published_date": "2026-04-13T12:41:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Declaration of the Diaspora Mobilization Conference",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/13/declaration-of-the-diaspora-mobilization-conference/",
-      "published_date": "2026-04-13T12:22:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Catholicos Aram I Lambastes Pashinyan Government for Ignoring Diaspora",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/180823",
-      "published_date": "2026-04-13T11:27:00Z",
       "category": "Local Events"
     }
   ]
