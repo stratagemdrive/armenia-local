@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-18T11:34:21Z",
+  "generated_at": "2026-04-18T23:30:13Z",
   "country": "Armenia",
-  "total_stories": 40,
+  "total_stories": 45,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,34 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "ARS of Eastern USA announces Annual Contest winners",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/18/ars-of-eastern-usa/",
+      "published_date": "2026-04-18T13:16:19Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "ICLaw submits communication to UN Special Rapporteur on freedom of religion or belief",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/18/iclaw-submits-communication/",
+      "published_date": "2026-04-18T12:00:43Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "ECHR obliges Azerbaijan to provide prisoners’ verdicts by Aug. 31",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/18/echr-obliges-azerbaijan/",
+      "published_date": "2026-04-18T11:41:11Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "ICLaw continues engagement with UN Working Group on enforced disappearances",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/18/the-issue-of-enforced-disappearances/",
+      "published_date": "2026-04-18T11:07:33Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "ANCA Capitol Hill briefing warns flawed “peace” process creates conditions for renewed genocide",
       "source": "The Armenian Weekly",
@@ -29,6 +57,20 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/180901",
       "published_date": "2026-04-17T11:53:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "ANCA Capitol Hill Briefing Warns that Flawed ‘Peace’ Process Creates Conditions for Renewed Genocide",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/anca-capitol-hill-briefing-warns-that-flawed-peace-process-creates-conditions-for-renewed-genocide/",
+      "published_date": "2026-04-16T19:50:50Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "European Rights Court Sets Deadline for Azerbaijan to Submit Armenian Prisoners’ Case Details",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/european-rights-court-sets-deadline-for-azerbaijan-to-submit-armenian-prisoners-case-details/",
+      "published_date": "2026-04-16T19:19:26Z",
       "category": "Diplomacy"
     },
     {
@@ -88,13 +130,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Artsakh Union, UNHR contribute to UN report finding displaced Artsakh women in “precious position” in Armenia",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/11/artsakh-union-unhr/",
-      "published_date": "2026-04-11T12:45:51Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Broadcasts Calling for War, Inciting Hate Speech to be Banned in Armenia",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/180892",
@@ -151,6 +186,55 @@
       "category": "Economy"
     },
     {
+      "title": "Exhibition Honoring Armenian ‘Righteous Among the Nations’ held in Jerusalem",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/exhibition-honoring-armenian-righteous-among-the-nations-held-in-jerusalem/",
+      "published_date": "2026-04-18T18:50:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Five years without Vartan Gregorian: The road to home and the bridge to the future",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/18/five-years-without-vartan-gregorian/",
+      "published_date": "2026-04-18T13:32:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Mosaics of Armenia’: A celebration of Armenian musical heritage comes to Lexington",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/18/mosaics-of-armenia/",
+      "published_date": "2026-04-18T12:27:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Capacity of AI Factory Being Built in Armenia to Double",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/180916",
+      "published_date": "2026-04-18T11:38:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenian Parliament Speaker, Patriarch Mashalyan Meet in Istanbul",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/180920",
+      "published_date": "2026-04-18T11:33:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Hike to Heal’ at Brand Park: A Community Gathering of Remembrance and Solidarity",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/hike-to-heal-at-brand-park-a-community-gathering-of-remembrance-and-solidarity/",
+      "published_date": "2026-04-17T17:56:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bipartisan Congressional Gathering Demands Justice for Century of Genocide at Capitol Hill Commemoration",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/bipartisan-congressional-gathering-demands-justice-for-century-of-genocide-at-capitol-hill-commemoration/",
+      "published_date": "2026-04-17T17:01:04Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Maintaining Armenian identity in Javakhk",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/04/17/maintaining-armenian-identity-in-javakhk/",
@@ -183,6 +267,20 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/180897",
       "published_date": "2026-04-17T09:19:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Calif. Treasurer Fiona Ma to Deliver Keynote at OC’s 111th Genocide Commemoration",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/calif-treasurer-fiona-ma-to-deliver-keynote-at-ocs-111th-genocide-commemoration/",
+      "published_date": "2026-04-16T18:23:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "UCI Armenian Studies to Host Diaspora Symposium",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/uci-armenian-studies-to-host-symposium-on-diaspora/",
+      "published_date": "2026-04-16T16:41:51Z",
       "category": "Local Events"
     },
     {
@@ -225,69 +323,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/180880",
       "published_date": "2026-04-16T11:32:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Calls for collective opposition amid targeted discrimination against civilians",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/16/calls-for-collective-opposition-amid-targeted-discrimination-against-civilians/",
-      "published_date": "2026-04-16T10:24:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ardashes ‘Ardy’ Kassakhian Selected as Mayor of Glendale",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/ardashes-ardy-kassakhian-selected-as-mayor-of-glendale/",
-      "published_date": "2026-04-15T22:26:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Artsakh Representatives Meet French Officials",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/artsakh-representatives-meet-french-officials/",
-      "published_date": "2026-04-15T22:01:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "You Don’t Choose a Political System, You Wake Up Inside One",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/you-dont-choose-a-political-system-you-wake-up-inside-one/",
-      "published_date": "2026-04-15T19:10:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "COAF Launches Appeal To Expand Healthcare Across Armavir Region",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/coaf-launches-270000-appeal-to-expand-healthcare-across-armavir-region/",
-      "published_date": "2026-04-15T18:47:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Region in Brief",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/15/the-region-in-brief-164/",
-      "published_date": "2026-04-15T16:11:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Taraz traditions: Armenian heritage from Toronto to New York",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/15/taraz-traditions-armenian-heritage-from-toronto-to-new-york/",
-      "published_date": "2026-04-15T14:41:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "AMVN founders: “It’s not just about teaching and learning — it’s about building community”",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/15/amvn-founders-not-just-about-teaching-and-learning/",
-      "published_date": "2026-04-15T14:35:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "AYF D.C. supports ARS Camp Javakhk at annual Lenten dinner",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/15/ayf-d-c-supports-ars-camp-javakhk-at-annual-lenten-dinner/",
-      "published_date": "2026-04-15T14:19:24Z",
       "category": "Local Events"
     }
   ]
