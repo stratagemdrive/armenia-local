@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-20T12:03:48Z",
+  "generated_at": "2026-04-20T23:38:40Z",
   "country": "Armenia",
-  "total_stories": 43,
+  "total_stories": 42,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Armenia&#039;s Alexandra Grigoryan Wins Silver at European Weightlifting Championships",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/180959",
+      "published_date": "2026-04-20T15:48:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "ARS of Eastern USA announces Annual Contest winners",
       "source": "The Armenian Weekly",
@@ -116,13 +123,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Fears of trade disruptions in Armenia and “Black Wednesday” in Lebanon",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/13/fears-of-trade-disruptions-in-armenia-and-black-wednesday-in-lebanon/",
-      "published_date": "2026-04-13T12:04:25Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Broadcasts Calling for War, Inciting Hate Speech to be Banned in Armenia",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/180892",
@@ -151,18 +151,11 @@
       "category": "Military"
     },
     {
-      "title": "Aztag Editor Reports Beirut Is Gripped by Fear",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/180813",
-      "published_date": "2026-04-13T17:56:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Sarkisian workshop series: Indigenous climate narratives with Diane Wilson",
+      "title": "Stability in the Caucasus, uncertainty in Lebanon",
       "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/13/sarkisian-workshop-series-indigenous-climate-narratives-with-diane-wilson/",
-      "published_date": "2026-04-13T15:33:43Z",
-      "category": "Energy"
+      "url": "https://armenianweekly.com/2026/04/20/stability-in-the-caucasus-uncertainty-in-lebanon/",
+      "published_date": "2026-04-20T13:57:31Z",
+      "category": "Economy"
     },
     {
       "title": "Silk geometry: Rediscovering Armenian needlelace",
@@ -170,6 +163,41 @@
       "url": "https://armenianweekly.com/2026/04/14/silk-geometry-rediscovering-armenian-needlelace/",
       "published_date": "2026-04-14T16:36:30Z",
       "category": "Economy"
+    },
+    {
+      "title": "In search of memory: “Country of Dust,” Musa Dagh",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/20/in-search-of-memory-country-of-dust-musa-dagh/",
+      "published_date": "2026-04-20T16:47:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "UCLA East Coast lecture series examines Armenian Genocide looted art, restitution",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/20/ucla-east-coast-lecture-series-examines-armenian-genocide-looted-art-restitution/",
+      "published_date": "2026-04-20T16:44:30Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "When silence becomes embodied: Remembering Jardi Dzor",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/20/when-silence-becomes-embodied-remembering-jardi-dzor/",
+      "published_date": "2026-04-20T13:55:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenian cultural renaissance",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/20/armenian-cultural-renaissance/",
+      "published_date": "2026-04-20T10:57:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pashinyan Attends Yerevan Groundbreaking of Sports Complex Honoring Former Boxer",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/180951",
+      "published_date": "2026-04-20T10:25:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Armenia&#039;s Garnik Cholakyan Wins Silver at European Weightlifting Championships",
@@ -274,41 +302,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/04/17/maintaining-armenian-identity-in-javakhk/",
       "published_date": "2026-04-17T15:56:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "NYU to host April 21 book launch on Israeli-Turkish relations, genocide denial",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/17/nyu-to-host-april-21-book-launch-on-israeli-turkish-relations-genocide-denial/",
-      "published_date": "2026-04-17T14:01:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Public Procurement in Armenia: The Power of Law and the Human Factor",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/180906",
-      "published_date": "2026-04-17T13:49:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "HYE definitions",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/17/hye-definitions/",
-      "published_date": "2026-04-17T10:05:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenia to Spend $1.3 Million to Raise Computer Literacy for Unemployed",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/180897",
-      "published_date": "2026-04-17T09:19:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Calif. Treasurer Fiona Ma to Deliver Keynote at OC’s 111th Genocide Commemoration",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/calif-treasurer-fiona-ma-to-deliver-keynote-at-ocs-111th-genocide-commemoration/",
-      "published_date": "2026-04-16T18:23:32Z",
       "category": "Local Events"
     }
   ]
