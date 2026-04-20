@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-19T23:31:54Z",
+  "generated_at": "2026-04-20T12:03:48Z",
   "country": "Armenia",
   "total_stories": 43,
   "categories": [
@@ -172,6 +172,13 @@
       "category": "Economy"
     },
     {
+      "title": "Armenia&#039;s Garnik Cholakyan Wins Silver at European Weightlifting Championships",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/180950",
+      "published_date": "2026-04-20T09:46:00Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Exploring Sevan’s Depths: Local Diver Says It’s Like Landing on the Moon",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/180915",
@@ -302,13 +309,6 @@
       "source": "Asbarez",
       "url": "https://asbarez.com/calif-treasurer-fiona-ma-to-deliver-keynote-at-ocs-111th-genocide-commemoration/",
       "published_date": "2026-04-16T18:23:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "UCI Armenian Studies to Host Diaspora Symposium",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/uci-armenian-studies-to-host-symposium-on-diaspora/",
-      "published_date": "2026-04-16T16:41:51Z",
       "category": "Local Events"
     }
   ]
