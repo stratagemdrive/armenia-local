@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-20T23:38:40Z",
+  "generated_at": "2026-04-21T11:59:10Z",
   "country": "Armenia",
-  "total_stories": 42,
+  "total_stories": 44,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,27 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Pashinyan, NATO Rep Discuss Cooperation Prospects",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/180976",
+      "published_date": "2026-04-21T11:23:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Armenian Deputy PM, French Ambassador Discuss Macron&#039;s May 4 Visit to Armenia",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/180973",
+      "published_date": "2026-04-21T09:57:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Armenian, Belgian Foreign Ministers Discuss Steps to Expand Economic Ties",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/180965",
+      "published_date": "2026-04-21T06:09:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Armenia&#039;s Alexandra Grigoryan Wins Silver at European Weightlifting Championships",
       "source": "Hetq",
@@ -116,13 +137,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Pashinyan, French European Affairs Minister Delegate Discuss Regional Developments",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/180840",
-      "published_date": "2026-04-14T08:05:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Broadcasts Calling for War, Inciting Hate Speech to be Banned in Armenia",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/180892",
@@ -163,6 +177,13 @@
       "url": "https://armenianweekly.com/2026/04/14/silk-geometry-rediscovering-armenian-needlelace/",
       "published_date": "2026-04-14T16:36:30Z",
       "category": "Economy"
+    },
+    {
+      "title": "Ruben Vardanyan Urges Armenia&#039;s Human Rights Defender to Visit Detainees in Baku",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/180966",
+      "published_date": "2026-04-21T06:20:00Z",
+      "category": "Local Events"
     },
     {
       "title": "In search of memory: “Country of Dust,” Musa Dagh",
@@ -295,13 +316,6 @@
       "source": "Asbarez",
       "url": "https://asbarez.com/bipartisan-congressional-gathering-demands-justice-for-century-of-genocide-at-capitol-hill-commemoration/",
       "published_date": "2026-04-17T17:01:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Maintaining Armenian identity in Javakhk",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/17/maintaining-armenian-identity-in-javakhk/",
-      "published_date": "2026-04-17T15:56:18Z",
       "category": "Local Events"
     }
   ]
