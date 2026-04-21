@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-21T11:59:10Z",
+  "generated_at": "2026-04-21T23:31:06Z",
   "country": "Armenia",
-  "total_stories": 44,
+  "total_stories": 45,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,41 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "ANCA-WR Welcomes Calif. Lawmakers’ Demand to Trump to Free Armenian Hostages, End Azerbaijan’s Impunity",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/anca-wr-welcomes-calif-lawmakers-demand-to-trump-to-free-armenian-hostages-end-azerbaijans-impunity/",
+      "published_date": "2026-04-21T22:02:41Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Azerbaijan Destroys Stepanakert’s Holy Mother of God Cathedral",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/azerbaijan-destroys-stepanakerts-holy-mother-of-god-cathedral/",
+      "published_date": "2026-04-21T21:43:15Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Malkhas Amoyan Wins Gold at European Weightlifting Championship",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/malkhas-amoyan-wins-gold-at-european-weightlifting-championship/",
+      "published_date": "2026-04-21T21:28:17Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ruben Vardanyan Urges Active Engagement by Armenia’s Rights Defender",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/ruben-vardanyan-urges-active-engagement-by-armenias-rights-defender/",
+      "published_date": "2026-04-21T21:10:20Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU Foreign Ministers Approve New 2-Year Mission to Armenia",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/eu-foreign-ministers-approve-new-2-year-mission-to-armenia/",
+      "published_date": "2026-04-21T20:13:29Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Pashinyan, NATO Rep Discuss Cooperation Prospects",
       "source": "Hetq",
@@ -29,6 +64,13 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/180965",
       "published_date": "2026-04-21T06:09:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "As NATO Courts Yerevan, Pashinyan Says Armenia will Not be Active in CSTO",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/as-nato-courts-yerevan-pashinyan-says-armenia-will-not-be-active-in-csto/",
+      "published_date": "2026-04-20T20:28:17Z",
       "category": "Diplomacy"
     },
     {
@@ -109,34 +151,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU to Deploy Another Mission to Armenia this Time to Counter Russia’s Activities",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/eu-to-deploy-another-mission-to-armenia-this-time-to-counter-russias-activities/",
-      "published_date": "2026-04-15T21:58:09Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pashinyan Boasts Armenia More Prosperous and Secure Than Ever",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/180869",
-      "published_date": "2026-04-15T13:06:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pashinyan Says Armenia Has Political Will to Join EU",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/180864",
-      "published_date": "2026-04-15T11:13:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Armenian FM, EU VP Meet in Brussels; Discuss Upcoming Yerevan Summit",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/180845",
-      "published_date": "2026-04-14T12:27:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Broadcasts Calling for War, Inciting Hate Speech to be Banned in Armenia",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/180892",
@@ -158,11 +172,11 @@
       "category": "Military"
     },
     {
-      "title": "Reflection, deflection and prevarication",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/14/reflection-deflection-and-prevarication/",
-      "published_date": "2026-04-14T13:29:22Z",
-      "category": "Military"
+      "title": "Baseless Attacks Fuel Hate and Division Against Armenian Candidates for GUSD Board",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/baseless-attacks-fuel-hate-and-division-against-two-armenian-candidates-for-gusd-board/",
+      "published_date": "2026-04-20T20:35:16Z",
+      "category": "Energy"
     },
     {
       "title": "Stability in the Caucasus, uncertainty in Lebanon",
@@ -172,11 +186,67 @@
       "category": "Economy"
     },
     {
-      "title": "Silk geometry: Rediscovering Armenian needlelace",
+      "title": "Death Notice: John Tashdjian",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/death-notice-john-tashdjian/",
+      "published_date": "2026-04-21T23:06:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Schoolteachers ‘Forced’ to Attend Pashinyan’s Concert In Gyumri",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/schoolteachers-forced-to-attend-pashinyans-concert-in-gyumri/",
+      "published_date": "2026-04-21T21:23:50Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ahead of April 24 Political Parties Urge ‘Unity of Purpose’",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/ahead-of-april-24-political-parties-urge-unity-of-purpose/",
+      "published_date": "2026-04-21T20:11:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "From childhood stove to village workshop: The craftsman of Dprabak",
       "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/14/silk-geometry-rediscovering-armenian-needlelace/",
-      "published_date": "2026-04-14T16:36:30Z",
-      "category": "Economy"
+      "url": "https://armenianweekly.com/2026/04/21/from-childhood-stove-to-village-workshop-the-craftsman-of-dprabak/",
+      "published_date": "2026-04-21T15:25:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The new urban reality of Yerevan’s newest parks",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/21/the-new-urban-reality-of-yerevans-newest-parks/",
+      "published_date": "2026-04-21T15:14:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Library of Congress AMED to host workshop on early printing, May 4-5",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/21/library-of-congress-amed-to-host-workshop-on-early-printing-may-4-5/",
+      "published_date": "2026-04-21T14:24:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "“Timeline of Our Ancestors” exhibit opens in Glendale",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/21/timeline-of-our-ancestors-exhibit-opens-in-glendale/",
+      "published_date": "2026-04-21T14:18:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "James Tufenkian Pursues Legal Remedy at ECHR Regarding Property Dispute with Armenia",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/180978",
+      "published_date": "2026-04-21T13:50:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "A Jewish lawyer first used the term “Armenian Genocide,” yet Israel denies it",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/21/a-jewish-lawyer-first-used-the-term-armenian-genocide-yet-israel-denies-it/",
+      "published_date": "2026-04-21T13:13:32Z",
+      "category": "Local Events"
     },
     {
       "title": "Ruben Vardanyan Urges Armenia&#039;s Human Rights Defender to Visit Detainees in Baku",
@@ -253,69 +323,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/04/19/hike-to-heal-at-brand-park/",
       "published_date": "2026-04-19T13:15:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Marianna Gevorgyan: A virtuoso voice of the Armenian kanun",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/19/marianna-gevorgyan-a-virtuoso-voice/",
-      "published_date": "2026-04-19T13:10:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Boston musicians rally for Kapan International Music Festival",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/19/boston-musicians-rally/",
-      "published_date": "2026-04-19T13:00:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Exhibition Honoring Armenian ‘Righteous Among the Nations’ held in Jerusalem",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/exhibition-honoring-armenian-righteous-among-the-nations-held-in-jerusalem/",
-      "published_date": "2026-04-18T18:50:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Five years without Vartan Gregorian: The road to home and the bridge to the future",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/18/five-years-without-vartan-gregorian/",
-      "published_date": "2026-04-18T13:32:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Mosaics of Armenia’: A celebration of Armenian musical heritage comes to Lexington",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/18/mosaics-of-armenia/",
-      "published_date": "2026-04-18T12:27:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Capacity of AI Factory Being Built in Armenia to Double",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/180916",
-      "published_date": "2026-04-18T11:38:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenian Parliament Speaker, Patriarch Mashalyan Meet in Istanbul",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/180920",
-      "published_date": "2026-04-18T11:33:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Hike to Heal’ at Brand Park: A Community Gathering of Remembrance and Solidarity",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/hike-to-heal-at-brand-park-a-community-gathering-of-remembrance-and-solidarity/",
-      "published_date": "2026-04-17T17:56:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bipartisan Congressional Gathering Demands Justice for Century of Genocide at Capitol Hill Commemoration",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/bipartisan-congressional-gathering-demands-justice-for-century-of-genocide-at-capitol-hill-commemoration/",
-      "published_date": "2026-04-17T17:01:04Z",
       "category": "Local Events"
     }
   ]
