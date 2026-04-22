@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T23:31:06Z",
+  "generated_at": "2026-04-22T11:59:16Z",
   "country": "Armenia",
   "total_stories": 45,
   "categories": [
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Armenian Deputy PM, EU Delegation Head Meet in Yerevan",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/180995",
+      "published_date": "2026-04-22T10:50:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "ANCA-WR Welcomes Calif. Lawmakers’ Demand to Trump to Free Armenian Hostages, End Azerbaijan’s Impunity",
       "source": "Asbarez",
@@ -141,13 +148,6 @@
       "source": "Asbarez",
       "url": "https://asbarez.com/european-rights-court-sets-deadline-for-azerbaijan-to-submit-armenian-prisoners-case-details/",
       "published_date": "2026-04-16T19:19:26Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pashinyan’s party should be banned from June elections for violating the Constitution",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/16/pashinyans-party-should-be-banned-from-june-elections-for-violating-the-constitution/",
-      "published_date": "2026-04-16T13:59:38Z",
       "category": "Diplomacy"
     },
     {
