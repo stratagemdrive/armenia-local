@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-22T23:41:33Z",
+  "generated_at": "2026-04-23T11:58:33Z",
   "country": "Armenia",
-  "total_stories": 46,
+  "total_stories": 47,
   "categories": [
     "Diplomacy",
     "Military",
@@ -151,6 +151,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Armenian Defense Minister, Georgian PM Discuss Regional Security",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181017",
+      "published_date": "2026-04-23T09:52:00Z",
+      "category": "Military"
+    },
+    {
       "title": "Suicide attempt at Armavir prison amid growing concerns",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/04/22/suicide-attempt-at-armavir-prison-amid-growing-concerns/",
@@ -191,6 +198,13 @@
       "url": "https://armenianweekly.com/2026/04/20/stability-in-the-caucasus-uncertainty-in-lebanon/",
       "published_date": "2026-04-20T13:57:31Z",
       "category": "Economy"
+    },
+    {
+      "title": "ANC–International condemns the destruction of Stepanakert’s Holy Mother of God Cathedral",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/22/anc-international-condemns-the-destruction/",
+      "published_date": "2026-04-22T23:56:00Z",
+      "category": "Local Events"
     },
     {
       "title": "ANC–International Condemns Destruction of Stepanakert Cathedral; Calls for Urgent Action",
@@ -323,13 +337,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/04/20/in-search-of-memory-country-of-dust-musa-dagh/",
       "published_date": "2026-04-20T16:47:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "UCLA East Coast lecture series examines Armenian Genocide looted art, restitution",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/20/ucla-east-coast-lecture-series-examines-armenian-genocide-looted-art-restitution/",
-      "published_date": "2026-04-20T16:44:30Z",
       "category": "Local Events"
     }
   ]
