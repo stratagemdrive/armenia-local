@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-23T11:58:33Z",
+  "generated_at": "2026-04-23T23:40:37Z",
   "country": "Armenia",
-  "total_stories": 47,
+  "total_stories": 46,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,27 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Taxpayer Money Used to Fly Top Armenian Officials on Planes Owned by Family of Ruling Party MP",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/180949",
+      "published_date": "2026-04-23T15:20:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "WCC Head Calls for Release of Armenians Detained in Baku",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181025",
+      "published_date": "2026-04-23T14:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "File on Religious Rights of Displaced Artsakh Armenians Sent to UN",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181023",
+      "published_date": "2026-04-23T13:00:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Armenian Rights Defender Responds to Ruben Vardanyan",
       "source": "Asbarez",
@@ -130,27 +151,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Bipartisan congressional gathering demands justice for century of genocide at Capitol Hill commemoration",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/17/bipartisan-congressional-gathering-demands-justice-for-century-of-genocide-at-capitol-hill-commemoration/",
-      "published_date": "2026-04-17T12:44:59Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Armenian Deputy FM: Normalizing Relations with Turkey Has Stalled",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/180901",
-      "published_date": "2026-04-17T11:53:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "ANCA Capitol Hill Briefing Warns that Flawed ‘Peace’ Process Creates Conditions for Renewed Genocide",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/anca-capitol-hill-briefing-warns-that-flawed-peace-process-creates-conditions-for-renewed-genocide/",
-      "published_date": "2026-04-16T19:50:50Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Armenian Defense Minister, Georgian PM Discuss Regional Security",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/181017",
@@ -172,20 +172,6 @@
       "category": "Military"
     },
     {
-      "title": "Broadcasts Calling for War, Inciting Hate Speech to be Banned in Armenia",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/180892",
-      "published_date": "2026-04-16T18:47:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "ECHR Obliges Azerbaijan to Provide Armenian POW Verdicts by August 31",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/180884",
-      "published_date": "2026-04-16T14:10:00Z",
-      "category": "Military"
-    },
-    {
       "title": "Baseless Attacks Fuel Hate and Division Against Armenian Candidates for GUSD Board",
       "source": "Asbarez",
       "url": "https://asbarez.com/baseless-attacks-fuel-hate-and-division-against-two-armenian-candidates-for-gusd-board/",
@@ -193,11 +179,67 @@
       "category": "Energy"
     },
     {
+      "title": "Asian Development Bank Appoints New Country Director for Armenia",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181026",
+      "published_date": "2026-04-23T14:02:00Z",
+      "category": "Economy"
+    },
+    {
       "title": "Stability in the Caucasus, uncertainty in Lebanon",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/04/20/stability-in-the-caucasus-uncertainty-in-lebanon/",
       "published_date": "2026-04-20T13:57:31Z",
       "category": "Economy"
+    },
+    {
+      "title": "Remembering the Armenian Genocide through art",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/23/remembering-the-armenian-genocide-through-art/",
+      "published_date": "2026-04-23T15:51:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Destruction of Stepanakert cathedral raises fears of systematic cultural erasure",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/23/destruction-of-stepanakert-cathedral-raises-fears-of-systematic-cultural-erasure/",
+      "published_date": "2026-04-23T15:03:05Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "As Arshile Gorky’s “Untitled” returns, so should we",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/23/as-arshile-gorkys-untitled-returns-so-should-we/",
+      "published_date": "2026-04-23T15:01:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Yerevan Court Extends Archbishop Galstanyan&#039;s Pre-Trial Detention",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181024",
+      "published_date": "2026-04-23T14:17:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Artsakh’s churches destroyed amid peace talks",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/23/artsakhs-churches-destroyed-amid-peace-talks/",
+      "published_date": "2026-04-23T14:05:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "April 24 takes on a new meaning — are we listening to each other?",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/23/april-24-takes-on-a-new-meaning-are-we-listening-to-each-other/",
+      "published_date": "2026-04-23T13:02:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "ODIHR Opens Election Observation Mission in Armenia",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181019",
+      "published_date": "2026-04-23T10:57:00Z",
+      "category": "Local Events"
     },
     {
       "title": "ANC–International condemns the destruction of Stepanakert’s Holy Mother of God Cathedral",
@@ -288,55 +330,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/04/21/from-childhood-stove-to-village-workshop-the-craftsman-of-dprabak/",
       "published_date": "2026-04-21T15:25:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The new urban reality of Yerevan’s newest parks",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/21/the-new-urban-reality-of-yerevans-newest-parks/",
-      "published_date": "2026-04-21T15:14:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Library of Congress AMED to host workshop on early printing, May 4-5",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/21/library-of-congress-amed-to-host-workshop-on-early-printing-may-4-5/",
-      "published_date": "2026-04-21T14:24:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "“Timeline of Our Ancestors” exhibit opens in Glendale",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/21/timeline-of-our-ancestors-exhibit-opens-in-glendale/",
-      "published_date": "2026-04-21T14:18:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "James Tufenkian Pursues Legal Remedy at ECHR Regarding Property Dispute with Armenia",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/180978",
-      "published_date": "2026-04-21T13:50:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "A Jewish lawyer first used the term “Armenian Genocide,” yet Israel denies it",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/21/a-jewish-lawyer-first-used-the-term-armenian-genocide-yet-israel-denies-it/",
-      "published_date": "2026-04-21T13:13:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ruben Vardanyan Urges Armenia&#039;s Human Rights Defender to Visit Detainees in Baku",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/180966",
-      "published_date": "2026-04-21T06:20:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "In search of memory: “Country of Dust,” Musa Dagh",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/20/in-search-of-memory-country-of-dust-musa-dagh/",
-      "published_date": "2026-04-20T16:47:48Z",
       "category": "Local Events"
     }
   ]
