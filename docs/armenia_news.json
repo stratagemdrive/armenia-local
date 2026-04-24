@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T23:40:37Z",
+  "generated_at": "2026-04-24T11:56:50Z",
   "country": "Armenia",
   "total_stories": 46,
   "categories": [
@@ -193,6 +193,20 @@
       "category": "Economy"
     },
     {
+      "title": "Pashinyan on Genocide Anniversary: &quot;Calls for Returning Lost Homeland Threaten Republic of Armenia&quot;",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181043",
+      "published_date": "2026-04-24T07:59:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pashinyan Honors Armenian Genocide Victims",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181040",
+      "published_date": "2026-04-24T07:16:00Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Remembering the Armenian Genocide through art",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/04/23/remembering-the-armenian-genocide-through-art/",
@@ -316,20 +330,6 @@
       "source": "Asbarez",
       "url": "https://asbarez.com/schoolteachers-forced-to-attend-pashinyans-concert-in-gyumri/",
       "published_date": "2026-04-21T21:23:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ahead of April 24 Political Parties Urge ‘Unity of Purpose’",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/ahead-of-april-24-political-parties-urge-unity-of-purpose/",
-      "published_date": "2026-04-21T20:11:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "From childhood stove to village workshop: The craftsman of Dprabak",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/21/from-childhood-stove-to-village-workshop-the-craftsman-of-dprabak/",
-      "published_date": "2026-04-21T15:25:31Z",
       "category": "Local Events"
     }
   ]
