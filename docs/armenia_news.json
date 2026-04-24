@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-24T11:56:50Z",
+  "generated_at": "2026-04-24T23:36:04Z",
   "country": "Armenia",
-  "total_stories": 46,
+  "total_stories": 47,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "EDITORIAL: By Ignoring History, Threat of Genocide Will Loom for Future Generations of Armenians",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/editorial-by-ignoring-history-threat-of-genocide-will-loom-for-future-generations-of-armenians/",
+      "published_date": "2026-04-24T19:55:57Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Armenia&#039;s Foreign Affairs Ministry - Remember the Genocide, but Pursue Peace",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181044",
+      "published_date": "2026-04-24T12:14:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Taxpayer Money Used to Fly Top Armenian Officials on Planes Owned by Family of Ruling Party MP",
       "source": "Hetq",
@@ -137,18 +151,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "ICLaw continues engagement with UN Working Group on enforced disappearances",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/18/the-issue-of-enforced-disappearances/",
-      "published_date": "2026-04-18T11:07:33Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "ANCA Capitol Hill briefing warns flawed “peace” process creates conditions for renewed genocide",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/17/anca-capitol-hill-briefing-warns-flawed-peace-process-creates-conditions-for-renewed-genocide/",
-      "published_date": "2026-04-17T14:03:55Z",
-      "category": "Diplomacy"
+      "title": "The Diaspora as the Force Multiplier of Armenian Sovereignty: The ANCA Example",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/the-diaspora-as-the-force-multiplier-of-armenian-sovereignty-the-anca-example/",
+      "published_date": "2026-04-24T19:47:07Z",
+      "category": "Military"
     },
     {
       "title": "Armenian Defense Minister, Georgian PM Discuss Regional Security",
@@ -193,6 +200,97 @@
       "category": "Economy"
     },
     {
+      "title": "Armenia’s Emma Poghosyan Crowned European Weightlifting Champion",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/armenias-emma-poghosyan-crowned-european-weightlifting-champion/",
+      "published_date": "2026-04-24T20:35:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Newsom Proclaims Day of Remembrance for Armenian Genocide",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/285120-2/",
+      "published_date": "2026-04-24T20:30:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mayor Bass Calls for Truth and Justice for Armenian Genocide",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/mayor-bass-calls-for-truth-and-justice-for-armenian-genocide/",
+      "published_date": "2026-04-24T20:27:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Prelate’s April 24 Message",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/prelates-april-24-message/",
+      "published_date": "2026-04-24T19:53:50Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Genocide Remains a Crime and Existential Threat Until the Perpetrator Acknowledges Responsibility",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/genocide-remains-a-crime-and-existential-threat-until-the-perpetrator-acknowledges-responsibility/",
+      "published_date": "2026-04-24T19:50:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Truth Demands Justice. Justice Demands Reparations.",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/truth-demands-justice-justice-demands-reparations/",
+      "published_date": "2026-04-24T19:50:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dr. Rubina Peroomian Reflects on Her Work as Scholar, Historian",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/the-armenian-people-have-never-been-so-servile-and-obedient-to-the-enemys-will-rubina-peroomian/",
+      "published_date": "2026-04-24T19:48:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘We Are Inside a Living, Ongoing Process to Destroy the Armenian People,’ Karnig Kerkonian",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/we-are-inside-a-living-ongoing-process-to-destroy-the-armenian-people-karnig-kerkonian/",
+      "published_date": "2026-04-24T19:39:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump enforces Ankara’s gag rule for sixth time on Armenian Genocide recognition",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/24/trump-enforces-ankaras-gag-rule-for-sixth-time/",
+      "published_date": "2026-04-24T16:12:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "“Genocide continues where it meets no resistance”",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/24/genocide-continues-where-it-meets-no-resistance/",
+      "published_date": "2026-04-24T13:35:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Catholicos Aram I Urges Armenian Government to Pursue 1915 Genocide Recognition",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181046",
+      "published_date": "2026-04-24T13:04:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Art of Inheritance and Armenian Genocide Remembrance",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/24/the-art-of-inheritance/",
+      "published_date": "2026-04-24T13:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Yerevan’s Torchlight Procession to Mark 1915 Armenian Genocide",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181038",
+      "published_date": "2026-04-24T12:21:00Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Pashinyan on Genocide Anniversary: &quot;Calls for Returning Lost Homeland Threaten Republic of Armenia&quot;",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/181043",
@@ -204,6 +302,13 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/181040",
       "published_date": "2026-04-24T07:16:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Catholicos Karekin II Marks Genocide Anniversary:  Calls for Restoring Justice and Truth",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181039",
+      "published_date": "2026-04-24T07:13:00Z",
       "category": "Local Events"
     },
     {
@@ -232,104 +337,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/181024",
       "published_date": "2026-04-23T14:17:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Artsakh’s churches destroyed amid peace talks",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/23/artsakhs-churches-destroyed-amid-peace-talks/",
-      "published_date": "2026-04-23T14:05:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "April 24 takes on a new meaning — are we listening to each other?",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/23/april-24-takes-on-a-new-meaning-are-we-listening-to-each-other/",
-      "published_date": "2026-04-23T13:02:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "ODIHR Opens Election Observation Mission in Armenia",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181019",
-      "published_date": "2026-04-23T10:57:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "ANC–International condemns the destruction of Stepanakert’s Holy Mother of God Cathedral",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/22/anc-international-condemns-the-destruction/",
-      "published_date": "2026-04-22T23:56:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "ANC–International Condemns Destruction of Stepanakert Cathedral; Calls for Urgent Action",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/anc-international-condemns-destruction-of-stepanakert-cathedral-calls-for-urgent-action/",
-      "published_date": "2026-04-22T22:43:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "ANCA Endorses Massachusetts Senator Ed Markey for Re-Election",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/anca-endorses-massachusetts-senator-ed-markey-for-re-election/",
-      "published_date": "2026-04-22T22:13:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mesrobian Students Deepen Armenian Identity Through Educational Visit to Fresno",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/mesrobian-students-deepen-armenian-identity-through-educational-visit-to-fresno/",
-      "published_date": "2026-04-22T18:04:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Khachkar Studios Unveils ‘Breakthroughs’ for Judeo-Christian Leaders",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/khachkar-studios-unveils-breakthroughs-for-judeo-christian-leaders/",
-      "published_date": "2026-04-22T17:34:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Region in Brief",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/22/the-region-in-brief-165/",
-      "published_date": "2026-04-22T16:55:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "ANCA endorses Massachusetts Senator Ed Markey for re-election",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/22/anca-endorses-massachusetts-senator-ed-markey-for-re-election/",
-      "published_date": "2026-04-22T15:06:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Diaspora mobilizes to rescue Armenia from Pashinyan’s destructive actions",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/22/diaspora-mobilizes-to-rescue-armenia-from-pashinyans-destructive-actions/",
-      "published_date": "2026-04-22T14:17:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Genocide education progress, gaps and the power of story",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/22/genocide-education-progress-gaps-and-the-power-of-story/",
-      "published_date": "2026-04-22T14:15:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Death Notice: John Tashdjian",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/death-notice-john-tashdjian/",
-      "published_date": "2026-04-21T23:06:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Schoolteachers ‘Forced’ to Attend Pashinyan’s Concert In Gyumri",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/schoolteachers-forced-to-attend-pashinyans-concert-in-gyumri/",
-      "published_date": "2026-04-21T21:23:50Z",
       "category": "Local Events"
     }
   ]
