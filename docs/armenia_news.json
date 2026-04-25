@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-25T11:38:03Z",
+  "generated_at": "2026-04-25T23:33:07Z",
   "country": "Armenia",
-  "total_stories": 47,
+  "total_stories": 46,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "ICLaw brings Artsakh families’ silenced grief to the United Nations",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/25/iclaw-brings-artsakh-families-silenced-grief/",
+      "published_date": "2026-04-25T15:39:26Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Loss of property, right of return, search for justice: Artsakh residents apply to the ECHR",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/25/loss-of-property-right-of-return-search-for-justice/",
+      "published_date": "2026-04-25T15:30:55Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "EDITORIAL: By Ignoring History, Threat of Genocide Will Loom for Future Generations of Armenians",
       "source": "Asbarez",
@@ -130,27 +144,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "ARS of Eastern USA announces Annual Contest winners",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/18/ars-of-eastern-usa/",
-      "published_date": "2026-04-18T13:16:19Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "ICLaw submits communication to UN Special Rapporteur on freedom of religion or belief",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/18/iclaw-submits-communication/",
-      "published_date": "2026-04-18T12:00:43Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "ECHR obliges Azerbaijan to provide prisoners’ verdicts by Aug. 31",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/18/echr-obliges-azerbaijan/",
-      "published_date": "2026-04-18T11:41:11Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "The Diaspora as the Force Multiplier of Armenian Sovereignty: The ANCA Example",
       "source": "Asbarez",
       "url": "https://asbarez.com/the-diaspora-as-the-force-multiplier-of-armenian-sovereignty-the-anca-example/",
@@ -198,6 +191,27 @@
       "url": "https://armenianweekly.com/2026/04/20/stability-in-the-caucasus-uncertainty-in-lebanon/",
       "published_date": "2026-04-20T13:57:31Z",
       "category": "Economy"
+    },
+    {
+      "title": "From mourning to celebration: The socio-cultural dilemma of Armenia’s “Citizen’s Day”",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/25/from-mourning-to-celebration/",
+      "published_date": "2026-04-25T16:46:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "An unforgettable evening with Sofya Vardanyan, Pink Martini and the timeless music of Alan Hovhaness",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/25/an-unforgettable-evening/",
+      "published_date": "2026-04-25T14:31:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Khachkar Studios unveils historic free masterclass series to empower Judeo-Christian leaders",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/25/khachkar-studios-unveils-historic-free-masterclass-series/",
+      "published_date": "2026-04-25T13:31:48Z",
+      "category": "Local Events"
     },
     {
       "title": "Armenia’s Emma Poghosyan Crowned European Weightlifting Champion",
@@ -316,27 +330,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/04/23/remembering-the-armenian-genocide-through-art/",
       "published_date": "2026-04-23T15:51:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Destruction of Stepanakert cathedral raises fears of systematic cultural erasure",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/23/destruction-of-stepanakert-cathedral-raises-fears-of-systematic-cultural-erasure/",
-      "published_date": "2026-04-23T15:03:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "As Arshile Gorky’s “Untitled” returns, so should we",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/23/as-arshile-gorkys-untitled-returns-so-should-we/",
-      "published_date": "2026-04-23T15:01:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Yerevan Court Extends Archbishop Galstanyan&#039;s Pre-Trial Detention",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181024",
-      "published_date": "2026-04-23T14:17:00Z",
       "category": "Local Events"
     }
   ]
