@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T23:33:07Z",
+  "generated_at": "2026-04-26T11:39:09Z",
   "country": "Armenia",
   "total_stories": 46,
   "categories": [
@@ -193,6 +193,20 @@
       "category": "Economy"
     },
     {
+      "title": "Armenian Mesrobian School Students March in Remembrance to Montebello Genocide Monument",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/armenian-mesrobian-school-students-march-in-remembrance-to-montebello-genocide-monument/",
+      "published_date": "2026-04-25T17:10:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "AYF Washington, DC Chapter Leads March for Armenian Genocide and Justice for Artsakh",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/ayf-washington-dc-chapter-leads-march-for-armenian-genocide-and-justice-for-artsakh/",
+      "published_date": "2026-04-25T17:08:23Z",
+      "category": "Local Events"
+    },
+    {
       "title": "From mourning to celebration: The socio-cultural dilemma of Armenia’s “Citizen’s Day”",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/04/25/from-mourning-to-celebration/",
@@ -316,20 +330,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/181040",
       "published_date": "2026-04-24T07:16:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Catholicos Karekin II Marks Genocide Anniversary:  Calls for Restoring Justice and Truth",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181039",
-      "published_date": "2026-04-24T07:13:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Remembering the Armenian Genocide through art",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/23/remembering-the-armenian-genocide-through-art/",
-      "published_date": "2026-04-23T15:51:45Z",
       "category": "Local Events"
     }
   ]
