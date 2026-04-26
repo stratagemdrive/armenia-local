@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26T11:39:09Z",
+  "generated_at": "2026-04-26T23:34:52Z",
   "country": "Armenia",
   "total_stories": 46,
   "categories": [
@@ -193,6 +193,27 @@
       "category": "Economy"
     },
     {
+      "title": "An Artsakh teacher’s journey to Harvard",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/26/an-artsakh-teachers-journey-to-harvard/",
+      "published_date": "2026-04-26T13:30:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Beet soup",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/26/beet-soup/",
+      "published_date": "2026-04-26T13:00:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "AYF D.C. “Ani” Chapter leads Washington, D.C. march for Armenian Genocide and justice for Artsakh",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/26/ayf-d-c-ani-chapter-leads-washington-d-c-march/",
+      "published_date": "2026-04-26T12:30:54Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Armenian Mesrobian School Students March in Remembrance to Montebello Genocide Monument",
       "source": "Asbarez",
       "url": "https://asbarez.com/armenian-mesrobian-school-students-march-in-remembrance-to-montebello-genocide-monument/",
@@ -218,6 +239,13 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/04/25/an-unforgettable-evening/",
       "published_date": "2026-04-25T14:31:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "ArtNova Choir holds inaugural concert in Boston led by Maestro Artur Veranian",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/25/artnova-choir-holds-inaugural-concert/",
+      "published_date": "2026-04-25T14:00:52Z",
       "category": "Local Events"
     },
     {
@@ -302,34 +330,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/181046",
       "published_date": "2026-04-24T13:04:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Art of Inheritance and Armenian Genocide Remembrance",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/24/the-art-of-inheritance/",
-      "published_date": "2026-04-24T13:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Yerevan’s Torchlight Procession to Mark 1915 Armenian Genocide",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181038",
-      "published_date": "2026-04-24T12:21:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pashinyan on Genocide Anniversary: &quot;Calls for Returning Lost Homeland Threaten Republic of Armenia&quot;",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181043",
-      "published_date": "2026-04-24T07:59:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pashinyan Honors Armenian Genocide Victims",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181040",
-      "published_date": "2026-04-24T07:16:00Z",
       "category": "Local Events"
     }
   ]
