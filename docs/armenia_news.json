@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-27T12:19:36Z",
+  "generated_at": "2026-04-27T23:49:15Z",
   "country": "Armenia",
-  "total_stories": 47,
+  "total_stories": 43,
   "categories": [
     "Diplomacy",
     "Military",
@@ -130,20 +130,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "As NATO Courts Yerevan, Pashinyan Says Armenia will Not be Active in CSTO",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/as-nato-courts-yerevan-pashinyan-says-armenia-will-not-be-active-in-csto/",
-      "published_date": "2026-04-20T20:28:17Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Armenia&#039;s Alexandra Grigoryan Wins Silver at European Weightlifting Championships",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/180959",
-      "published_date": "2026-04-20T15:48:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "The Diaspora as the Force Multiplier of Armenian Sovereignty: The ANCA Example",
       "source": "Asbarez",
       "url": "https://asbarez.com/the-diaspora-as-the-force-multiplier-of-armenian-sovereignty-the-anca-example/",
@@ -172,13 +158,6 @@
       "category": "Military"
     },
     {
-      "title": "Baseless Attacks Fuel Hate and Division Against Armenian Candidates for GUSD Board",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/baseless-attacks-fuel-hate-and-division-against-two-armenian-candidates-for-gusd-board/",
-      "published_date": "2026-04-20T20:35:16Z",
-      "category": "Energy"
-    },
-    {
       "title": "First Quarter 2026: Mobile Centre Was Largest Taxpayer in Armenia",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/181075",
@@ -193,11 +172,109 @@
       "category": "Economy"
     },
     {
-      "title": "Stability in the Caucasus, uncertainty in Lebanon",
+      "title": "Ari Guiragos Minassian School Honors Memory of Armenian Genocide with Student-Led Commemoration",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/ari-guiragos-minassian-school-honors-memory-of-armenian-genocide-with-student-led-commemoration/",
+      "published_date": "2026-04-27T20:23:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Baku Confirms it Demolished Stepanakert Cathedral",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/baku-confirms-it-demolished-stepanakert-cathedral/",
+      "published_date": "2026-04-27T20:20:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pashinyan’s Wife Threatens Legal Action Against Groups Accusing her Charity of Illegal Efforts Ahead of Elections",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/pashinyans-wife-threatens-legal-action-against-groups-accusing-her-charity-of-illegal-efforts-ahead-of-elections/",
+      "published_date": "2026-04-27T20:16:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Death Notice: Seta Badakhasian",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/death-notice-seta-badakhasian/",
+      "published_date": "2026-04-27T18:42:30Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sossi Madzounian Wins Prize at Tokyo International Foto Awards",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/photography-by-sossi-madzounian-wins-prize-at-tokyo-international-foto-awards/",
+      "published_date": "2026-04-27T18:33:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rededicated Hairenik Building a beacon of hope and survival",
       "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/20/stability-in-the-caucasus-uncertainty-in-lebanon/",
-      "published_date": "2026-04-20T13:57:31Z",
-      "category": "Economy"
+      "url": "https://armenianweekly.com/2026/04/27/rededicated-hairenik-building-a-beacon-of-hope-and-survival/",
+      "published_date": "2026-04-27T17:56:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Still Without Official Recognition: Armenian Community in Israel Commemorates 111th Genocide Anniversary",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/still-without-official-recognition-the-armenian-community-in-israel-commemorated-111-years-since-the-armenian-genocide/",
+      "published_date": "2026-04-27T17:17:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fresno State Armenian Studies Presents Lecture on ‘Armenian Sharakans’",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/fresno-state-armenian-studies-presents-lecture-on-armenian-sharakans/",
+      "published_date": "2026-04-27T17:02:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Haigazian University Commemorates the 111th Anniversary of the Armenian Genocide",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/haigazian-university-commemorates-the-111th-anniversary-of-the-armenian-genocide/",
+      "published_date": "2026-04-27T16:20:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Depatriation and the impossibility of turning the page on genocide",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/27/depatriation-and-the-impossibility-of-turning-the-page-on-genocide/",
+      "published_date": "2026-04-27T14:59:50Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Album review: The layers of Arsenyan’s “Stratum”",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/27/album-review-the-layers-of-arsenyans-stratum/",
+      "published_date": "2026-04-27T14:36:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Npatak’s initiative and architectural discourse in Armenia",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/27/npataks-initiative-and-architectural-discourse-in-armenia/",
+      "published_date": "2026-04-27T14:13:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lonely together: Belonging, isolation and the aftermath of the Armenian Genocide",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/27/lonely-together-belonging-isolation-and-the-aftermath-of-the-armenian-genocide/",
+      "published_date": "2026-04-27T14:01:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenian Airlines to Replenish Fleet with Two Boeing 737-800 Planes",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181074",
+      "published_date": "2026-04-27T13:04:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police Arrest Security Head of Strong Armenia Alliance",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181080",
+      "published_date": "2026-04-27T12:41:00Z",
+      "category": "Local Events"
     },
     {
       "title": "An Artsakh teacher’s journey to Harvard",
@@ -221,122 +298,17 @@
       "category": "Local Events"
     },
     {
+      "title": "California Armenian Legislative Caucus Foundation announces 2026 Armenian Genocide Remembrance Scholarship winners",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/26/california-armenian-legislative-caucus-foundation-announces-2026/",
+      "published_date": "2026-04-26T11:35:50Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Armenian Mesrobian School Students March in Remembrance to Montebello Genocide Monument",
       "source": "Asbarez",
       "url": "https://asbarez.com/armenian-mesrobian-school-students-march-in-remembrance-to-montebello-genocide-monument/",
       "published_date": "2026-04-25T17:10:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "AYF Washington, DC Chapter Leads March for Armenian Genocide and Justice for Artsakh",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/ayf-washington-dc-chapter-leads-march-for-armenian-genocide-and-justice-for-artsakh/",
-      "published_date": "2026-04-25T17:08:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "From mourning to celebration: The socio-cultural dilemma of Armenia’s “Citizen’s Day”",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/25/from-mourning-to-celebration/",
-      "published_date": "2026-04-25T16:46:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "An unforgettable evening with Sofya Vardanyan, Pink Martini and the timeless music of Alan Hovhaness",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/25/an-unforgettable-evening/",
-      "published_date": "2026-04-25T14:31:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "ArtNova Choir holds inaugural concert in Boston led by Maestro Artur Veranian",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/25/artnova-choir-holds-inaugural-concert/",
-      "published_date": "2026-04-25T14:00:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Khachkar Studios unveils historic free masterclass series to empower Judeo-Christian leaders",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/25/khachkar-studios-unveils-historic-free-masterclass-series/",
-      "published_date": "2026-04-25T13:31:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenia’s Emma Poghosyan Crowned European Weightlifting Champion",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/armenias-emma-poghosyan-crowned-european-weightlifting-champion/",
-      "published_date": "2026-04-24T20:35:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Newsom Proclaims Day of Remembrance for Armenian Genocide",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/285120-2/",
-      "published_date": "2026-04-24T20:30:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mayor Bass Calls for Truth and Justice for Armenian Genocide",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/mayor-bass-calls-for-truth-and-justice-for-armenian-genocide/",
-      "published_date": "2026-04-24T20:27:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prelate’s April 24 Message",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/prelates-april-24-message/",
-      "published_date": "2026-04-24T19:53:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Genocide Remains a Crime and Existential Threat Until the Perpetrator Acknowledges Responsibility",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/genocide-remains-a-crime-and-existential-threat-until-the-perpetrator-acknowledges-responsibility/",
-      "published_date": "2026-04-24T19:50:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Truth Demands Justice. Justice Demands Reparations.",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/truth-demands-justice-justice-demands-reparations/",
-      "published_date": "2026-04-24T19:50:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dr. Rubina Peroomian Reflects on Her Work as Scholar, Historian",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/the-armenian-people-have-never-been-so-servile-and-obedient-to-the-enemys-will-rubina-peroomian/",
-      "published_date": "2026-04-24T19:48:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘We Are Inside a Living, Ongoing Process to Destroy the Armenian People,’ Karnig Kerkonian",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/we-are-inside-a-living-ongoing-process-to-destroy-the-armenian-people-karnig-kerkonian/",
-      "published_date": "2026-04-24T19:39:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump enforces Ankara’s gag rule for sixth time on Armenian Genocide recognition",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/24/trump-enforces-ankaras-gag-rule-for-sixth-time/",
-      "published_date": "2026-04-24T16:12:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "“Genocide continues where it meets no resistance”",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/24/genocide-continues-where-it-meets-no-resistance/",
-      "published_date": "2026-04-24T13:35:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Catholicos Aram I Urges Armenian Government to Pursue 1915 Genocide Recognition",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181046",
-      "published_date": "2026-04-24T13:04:00Z",
       "category": "Local Events"
     }
   ]
