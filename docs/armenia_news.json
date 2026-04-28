@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-27T23:49:15Z",
+  "generated_at": "2026-04-28T12:23:31Z",
   "country": "Armenia",
-  "total_stories": 43,
+  "total_stories": 41,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Armenian Internal Affairs Delegation Visits Romania for Cooperation Talks",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181095",
+      "published_date": "2026-04-28T10:18:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "ICLaw brings Artsakh families’ silenced grief to the United Nations",
       "source": "The Armenian Weekly",
@@ -109,27 +116,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Pashinyan, NATO Rep Discuss Cooperation Prospects",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/180976",
-      "published_date": "2026-04-21T11:23:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Armenian Deputy PM, French Ambassador Discuss Macron&#039;s May 4 Visit to Armenia",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/180973",
-      "published_date": "2026-04-21T09:57:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Armenian, Belgian Foreign Ministers Discuss Steps to Expand Economic Ties",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/180965",
-      "published_date": "2026-04-21T06:09:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "The Diaspora as the Force Multiplier of Armenian Sovereignty: The ANCA Example",
       "source": "Asbarez",
       "url": "https://asbarez.com/the-diaspora-as-the-force-multiplier-of-armenian-sovereignty-the-anca-example/",
@@ -170,6 +156,13 @@
       "url": "https://hetq.am/en/article/181026",
       "published_date": "2026-04-23T14:02:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Soft Construct Showcased New Career Opportunities at Career City Fest 2K26",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181098",
+      "published_date": "2026-04-28T11:49:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Ari Guiragos Minassian School Honors Memory of Armenian Genocide with Student-Led Commemoration",
@@ -302,13 +295,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/04/26/california-armenian-legislative-caucus-foundation-announces-2026/",
       "published_date": "2026-04-26T11:35:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenian Mesrobian School Students March in Remembrance to Montebello Genocide Monument",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/armenian-mesrobian-school-students-march-in-remembrance-to-montebello-genocide-monument/",
-      "published_date": "2026-04-25T17:10:03Z",
       "category": "Local Events"
     }
   ]
