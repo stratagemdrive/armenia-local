@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-28T12:23:31Z",
+  "generated_at": "2026-04-28T23:51:42Z",
   "country": "Armenia",
-  "total_stories": 41,
+  "total_stories": 38,
   "categories": [
     "Diplomacy",
     "Military",
@@ -81,41 +81,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "ANCA-WR Welcomes Calif. Lawmakers’ Demand to Trump to Free Armenian Hostages, End Azerbaijan’s Impunity",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/anca-wr-welcomes-calif-lawmakers-demand-to-trump-to-free-armenian-hostages-end-azerbaijans-impunity/",
-      "published_date": "2026-04-21T22:02:41Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Azerbaijan Destroys Stepanakert’s Holy Mother of God Cathedral",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/azerbaijan-destroys-stepanakerts-holy-mother-of-god-cathedral/",
-      "published_date": "2026-04-21T21:43:15Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Malkhas Amoyan Wins Gold at European Weightlifting Championship",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/malkhas-amoyan-wins-gold-at-european-weightlifting-championship/",
-      "published_date": "2026-04-21T21:28:17Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ruben Vardanyan Urges Active Engagement by Armenia’s Rights Defender",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/ruben-vardanyan-urges-active-engagement-by-armenias-rights-defender/",
-      "published_date": "2026-04-21T21:10:20Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU Foreign Ministers Approve New 2-Year Mission to Armenia",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/eu-foreign-ministers-approve-new-2-year-mission-to-armenia/",
-      "published_date": "2026-04-21T20:13:29Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "The Diaspora as the Force Multiplier of Armenian Sovereignty: The ANCA Example",
       "source": "Asbarez",
       "url": "https://asbarez.com/the-diaspora-as-the-force-multiplier-of-armenian-sovereignty-the-anca-example/",
@@ -144,6 +109,20 @@
       "category": "Military"
     },
     {
+      "title": "Economic cost of silence: Why Armenia cannot punish truth",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/28/economic-cost-of-silence-why-armenia-cannot-punish-truth/",
+      "published_date": "2026-04-28T15:55:15Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Pashinyan: Development of Science Is a Core State Policy",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181099",
+      "published_date": "2026-04-28T11:55:00Z",
+      "category": "Economy"
+    },
+    {
       "title": "First Quarter 2026: Mobile Centre Was Largest Taxpayer in Armenia",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/181075",
@@ -156,6 +135,34 @@
       "url": "https://hetq.am/en/article/181026",
       "published_date": "2026-04-23T14:02:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Carrying Armenia: From the past to the future",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/28/carrying-armenia-from-the-past-to-the-future/",
+      "published_date": "2026-04-28T18:52:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Unfractured resolve",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/28/unfractured-resolve/",
+      "published_date": "2026-04-28T18:30:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Hairenik Building as “the beating heart of Armenian life in the U.S.”",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/28/the-hairenik-building-as-the-beating-heart-of-armenian-life-in-the-u-s/",
+      "published_date": "2026-04-28T16:34:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Voices that break barriers",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/28/voices-that-break-barriers/",
+      "published_date": "2026-04-28T14:55:32Z",
+      "category": "Local Events"
     },
     {
       "title": "Soft Construct Showcased New Career Opportunities at Career City Fest 2K26",
@@ -203,6 +210,13 @@
       "title": "Rededicated Hairenik Building a beacon of hope and survival",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/04/27/rededicated-hairenik-building-a-beacon-of-hope-and-survival/",
+      "published_date": "2026-04-27T17:56:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rededicated Hairenik Building a beacon of renewal",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/27/rededicated-hairenik-building-a-beacon-of-renewal/",
       "published_date": "2026-04-27T17:56:33Z",
       "category": "Local Events"
     },
@@ -260,41 +274,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/181074",
       "published_date": "2026-04-27T13:04:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police Arrest Security Head of Strong Armenia Alliance",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181080",
-      "published_date": "2026-04-27T12:41:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "An Artsakh teacher’s journey to Harvard",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/26/an-artsakh-teachers-journey-to-harvard/",
-      "published_date": "2026-04-26T13:30:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Beet soup",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/26/beet-soup/",
-      "published_date": "2026-04-26T13:00:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "AYF D.C. “Ani” Chapter leads Washington, D.C. march for Armenian Genocide and justice for Artsakh",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/26/ayf-d-c-ani-chapter-leads-washington-d-c-march/",
-      "published_date": "2026-04-26T12:30:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "California Armenian Legislative Caucus Foundation announces 2026 Armenian Genocide Remembrance Scholarship winners",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/26/california-armenian-legislative-caucus-foundation-announces-2026/",
-      "published_date": "2026-04-26T11:35:50Z",
       "category": "Local Events"
     }
   ]
