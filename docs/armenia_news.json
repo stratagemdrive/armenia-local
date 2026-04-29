@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-29T12:17:09Z",
+  "generated_at": "2026-04-29T23:50:57Z",
   "country": "Armenia",
-  "total_stories": 37,
+  "total_stories": 39,
   "categories": [
     "Diplomacy",
     "Military",
@@ -11,10 +11,38 @@
   ],
   "stories": [
     {
+      "title": "President Donald Trump sides with Turkey’s denial of the Armenian Genocide",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/29/president-donald-trump-sides-with-turkeys-denial-of-the-armenian-genocide/",
+      "published_date": "2026-04-29T14:14:02Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Six Armenian parties press EU on democracy, political prisoners, Artsakh",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/29/six-armenian-parties-press-eu-democracy-political-prisoners-artsakh/",
+      "published_date": "2026-04-29T14:12:17Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Diaspora as force multiplier of Armenian sovereignty: The ANCA example",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/29/diaspora-as-force-multiplier-of-armenian-sovereignty-the-anca-example/",
+      "published_date": "2026-04-29T13:44:06Z",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Families and Lawyers of Seven Armenian Hostages Appeal to UN for Immediate Release, Condemning Convictions by Azerbaijan as Arbitrary",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/181119",
       "published_date": "2026-04-29T11:59:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Armenia, French Foreign Ministers Discuss Strategic Partnership",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181114",
+      "published_date": "2026-04-29T07:54:00Z",
       "category": "Diplomacy"
     },
     {
@@ -74,13 +102,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Armenian Rights Defender Responds to Ruben Vardanyan",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/armenian-rights-defender-responds-to-ruben-vardanyan/",
-      "published_date": "2026-04-22T22:23:41Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "The Diaspora as the Force Multiplier of Armenian Sovereignty: The ANCA Example",
       "source": "Asbarez",
       "url": "https://asbarez.com/the-diaspora-as-the-force-multiplier-of-armenian-sovereignty-the-anca-example/",
@@ -92,13 +113,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/181017",
       "published_date": "2026-04-23T09:52:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Suicide attempt at Armavir prison amid growing concerns",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/22/suicide-attempt-at-armavir-prison-amid-growing-concerns/",
-      "published_date": "2026-04-22T14:56:30Z",
       "category": "Military"
     },
     {
@@ -128,6 +142,34 @@
       "url": "https://hetq.am/en/article/181026",
       "published_date": "2026-04-23T14:02:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "IALA announces 2026 grants with increased awards for literary translation",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/29/iala-announces-2026-grants-with-increased-awards-for-literary-translation/",
+      "published_date": "2026-04-29T21:58:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Region in Brief",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/29/the-region-in-brief-166/",
+      "published_date": "2026-04-29T17:19:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Holding Ararat: Gagat Glass and the shape of memory",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/29/holding-ararat-gagat-glass-and-the-shape-of-memory/",
+      "published_date": "2026-04-29T14:10:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Avanesyan Declares Hunger Strike",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181120",
+      "published_date": "2026-04-29T12:45:00Z",
+      "category": "Local Events"
     },
     {
       "title": "ANCA endorses Tijerina against Azerbaijan Caucus co-chair Cuellar",
@@ -239,34 +281,6 @@
       "source": "Asbarez",
       "url": "https://asbarez.com/haigazian-university-commemorates-the-111th-anniversary-of-the-armenian-genocide/",
       "published_date": "2026-04-27T16:20:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Depatriation and the impossibility of turning the page on genocide",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/27/depatriation-and-the-impossibility-of-turning-the-page-on-genocide/",
-      "published_date": "2026-04-27T14:59:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Album review: The layers of Arsenyan’s “Stratum”",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/27/album-review-the-layers-of-arsenyans-stratum/",
-      "published_date": "2026-04-27T14:36:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Npatak’s initiative and architectural discourse in Armenia",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/27/npataks-initiative-and-architectural-discourse-in-armenia/",
-      "published_date": "2026-04-27T14:13:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lonely together: Belonging, isolation and the aftermath of the Armenian Genocide",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/27/lonely-together-belonging-isolation-and-the-aftermath-of-the-armenian-genocide/",
-      "published_date": "2026-04-27T14:01:47Z",
       "category": "Local Events"
     }
   ]
