@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-28T23:51:42Z",
+  "generated_at": "2026-04-29T12:17:09Z",
   "country": "Armenia",
-  "total_stories": 38,
+  "total_stories": 37,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Families and Lawyers of Seven Armenian Hostages Appeal to UN for Immediate Release, Condemning Convictions by Azerbaijan as Arbitrary",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181119",
+      "published_date": "2026-04-29T11:59:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Armenian Internal Affairs Delegation Visits Romania for Cooperation Talks",
       "source": "Hetq",
@@ -74,13 +81,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Armenian Deputy PM, EU Delegation Head Meet in Yerevan",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/180995",
-      "published_date": "2026-04-22T10:50:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "The Diaspora as the Force Multiplier of Armenian Sovereignty: The ANCA Example",
       "source": "Asbarez",
       "url": "https://asbarez.com/the-diaspora-as-the-force-multiplier-of-armenian-sovereignty-the-anca-example/",
@@ -99,13 +99,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/04/22/suicide-attempt-at-armavir-prison-amid-growing-concerns/",
       "published_date": "2026-04-22T14:56:30Z",
-      "category": "Military"
-    },
-    {
-      "title": "Armenian, Georgian Defense Ministers Discuss Cooperation",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/180993",
-      "published_date": "2026-04-22T10:11:00Z",
       "category": "Military"
     },
     {
@@ -135,6 +128,13 @@
       "url": "https://hetq.am/en/article/181026",
       "published_date": "2026-04-23T14:02:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "ANCA endorses Tijerina against Azerbaijan Caucus co-chair Cuellar",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/28/anca-endorses-judge-tano-tijerinas/",
+      "published_date": "2026-04-29T01:49:41Z",
+      "category": "Local Events"
     },
     {
       "title": "Carrying Armenia: From the past to the future",
@@ -267,13 +267,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/04/27/lonely-together-belonging-isolation-and-the-aftermath-of-the-armenian-genocide/",
       "published_date": "2026-04-27T14:01:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenian Airlines to Replenish Fleet with Two Boeing 737-800 Planes",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181074",
-      "published_date": "2026-04-27T13:04:00Z",
       "category": "Local Events"
     }
   ]
