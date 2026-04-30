@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T23:50:57Z",
+  "generated_at": "2026-04-30T12:15:12Z",
   "country": "Armenia",
   "total_stories": 39,
   "categories": [
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Pashinyan Says Armenia Must Finance Trump’s “Board of Peace”",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181143",
+      "published_date": "2026-04-30T12:05:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "President Donald Trump sides with Turkey’s denial of the Armenian Genocide",
       "source": "The Armenian Weekly",
@@ -109,13 +116,6 @@
       "category": "Military"
     },
     {
-      "title": "Armenian Defense Minister, Georgian PM Discuss Regional Security",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181017",
-      "published_date": "2026-04-23T09:52:00Z",
-      "category": "Military"
-    },
-    {
       "title": "Economic cost of silence: Why Armenia cannot punish truth",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/04/28/economic-cost-of-silence-why-armenia-cannot-punish-truth/",
@@ -142,6 +142,13 @@
       "url": "https://hetq.am/en/article/181026",
       "published_date": "2026-04-23T14:02:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Armenia Drops in Global Press Freedom Index",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181132",
+      "published_date": "2026-04-30T07:29:00Z",
+      "category": "Local Events"
     },
     {
       "title": "IALA announces 2026 grants with increased awards for literary translation",
@@ -274,13 +281,6 @@
       "source": "Asbarez",
       "url": "https://asbarez.com/fresno-state-armenian-studies-presents-lecture-on-armenian-sharakans/",
       "published_date": "2026-04-27T17:02:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Haigazian University Commemorates the 111th Anniversary of the Armenian Genocide",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/haigazian-university-commemorates-the-111th-anniversary-of-the-armenian-genocide/",
-      "published_date": "2026-04-27T16:20:25Z",
       "category": "Local Events"
     }
   ]
