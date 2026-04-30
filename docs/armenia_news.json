@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-30T12:15:12Z",
+  "generated_at": "2026-04-30T23:48:14Z",
   "country": "Armenia",
-  "total_stories": 39,
+  "total_stories": 37,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Armenia, Azerbaijan hold border delimitation talks in Aghveran",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/30/armenia-azerbaijan-hold-border-delimitation-talks-in-aghveran/",
+      "published_date": "2026-04-30T12:53:36Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Pashinyan Says Armenia Must Finance Trump’s “Board of Peace”",
       "source": "Hetq",
@@ -88,32 +95,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Taxpayer Money Used to Fly Top Armenian Officials on Planes Owned by Family of Ruling Party MP",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/180949",
-      "published_date": "2026-04-23T15:20:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "WCC Head Calls for Release of Armenians Detained in Baku",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181025",
-      "published_date": "2026-04-23T14:00:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "File on Religious Rights of Displaced Artsakh Armenians Sent to UN",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181023",
-      "published_date": "2026-04-23T13:00:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "The Diaspora as the Force Multiplier of Armenian Sovereignty: The ANCA Example",
       "source": "Asbarez",
       "url": "https://asbarez.com/the-diaspora-as-the-force-multiplier-of-armenian-sovereignty-the-anca-example/",
       "published_date": "2026-04-24T19:47:07Z",
       "category": "Military"
+    },
+    {
+      "title": "Economic life in the Ottoman Empire through the Millet system",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/30/economic-life-in-the-ottoman-empire-through-the-millet-system/",
+      "published_date": "2026-04-30T11:18:17Z",
+      "category": "Economy"
     },
     {
       "title": "Economic cost of silence: Why Armenia cannot punish truth",
@@ -137,11 +130,39 @@
       "category": "Economy"
     },
     {
-      "title": "Asian Development Bank Appoints New Country Director for Armenia",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181026",
-      "published_date": "2026-04-23T14:02:00Z",
-      "category": "Economy"
+      "title": "ANCA joins Ohio Armenians in marking 111th anniversary of the Armenian Genocide",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/30/anca-joins-ohio-armenians/",
+      "published_date": "2026-04-30T20:12:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Galoust Torosian carries more than his own dreams",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/30/galoust-torosian-carries-more-than-his-own-dreams/",
+      "published_date": "2026-04-30T16:49:05Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The eternal duty of the Armenian Diaspora",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/30/the-eternal-duty-of-the-armenian-diaspora/",
+      "published_date": "2026-04-30T16:45:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Areg Mirijanyan: “Faceless Game” explores identity",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/30/areg-mirijanyan-faceless-game-explores-identity/",
+      "published_date": "2026-04-30T16:28:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dinkjian and the NY Gypsy All-Stars bring an international fusion sound to Brooklyn",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/04/30/dinkjian-and-the-ny-gypsy-all-stars-bring-an-international-fusion-sound-to-brooklyn/",
+      "published_date": "2026-04-30T15:37:58Z",
+      "category": "Local Events"
     },
     {
       "title": "Armenia Drops in Global Press Freedom Index",
@@ -246,41 +267,6 @@
       "source": "Asbarez",
       "url": "https://asbarez.com/death-notice-seta-badakhasian/",
       "published_date": "2026-04-27T18:42:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sossi Madzounian Wins Prize at Tokyo International Foto Awards",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/photography-by-sossi-madzounian-wins-prize-at-tokyo-international-foto-awards/",
-      "published_date": "2026-04-27T18:33:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rededicated Hairenik Building a beacon of hope and survival",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/27/rededicated-hairenik-building-a-beacon-of-hope-and-survival/",
-      "published_date": "2026-04-27T17:56:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rededicated Hairenik Building a beacon of renewal",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/27/rededicated-hairenik-building-a-beacon-of-renewal/",
-      "published_date": "2026-04-27T17:56:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Still Without Official Recognition: Armenian Community in Israel Commemorates 111th Genocide Anniversary",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/still-without-official-recognition-the-armenian-community-in-israel-commemorated-111-years-since-the-armenian-genocide/",
-      "published_date": "2026-04-27T17:17:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fresno State Armenian Studies Presents Lecture on ‘Armenian Sharakans’",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/fresno-state-armenian-studies-presents-lecture-on-armenian-sharakans/",
-      "published_date": "2026-04-27T17:02:52Z",
       "category": "Local Events"
     }
   ]
