@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-30T23:48:14Z",
+  "generated_at": "2026-05-01T11:58:58Z",
   "country": "Armenia",
-  "total_stories": 37,
+  "total_stories": 38,
   "categories": [
     "Diplomacy",
     "Military",
@@ -102,6 +102,13 @@
       "category": "Military"
     },
     {
+      "title": "Pashinyan on May Day: Praises Taxpaying Workers, Says Nothing on Labor Movement",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181159",
+      "published_date": "2026-05-01T11:50:00Z",
+      "category": "Economy"
+    },
+    {
       "title": "Economic life in the Ottoman Empire through the Millet system",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/04/30/economic-life-in-the-ottoman-empire-through-the-millet-system/",
@@ -128,6 +135,13 @@
       "url": "https://hetq.am/en/article/181075",
       "published_date": "2026-04-27T09:56:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Excavations at Armenia’s Arakelots Monastery: One of Europe’s Seven Most Endangered Monuments",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181141",
+      "published_date": "2026-05-01T08:07:00Z",
+      "category": "Local Events"
     },
     {
       "title": "ANCA joins Ohio Armenians in marking 111th anniversary of the Armenian Genocide",
@@ -260,13 +274,6 @@
       "source": "Asbarez",
       "url": "https://asbarez.com/pashinyans-wife-threatens-legal-action-against-groups-accusing-her-charity-of-illegal-efforts-ahead-of-elections/",
       "published_date": "2026-04-27T20:16:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Death Notice: Seta Badakhasian",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/death-notice-seta-badakhasian/",
-      "published_date": "2026-04-27T18:42:30Z",
       "category": "Local Events"
     }
   ]
