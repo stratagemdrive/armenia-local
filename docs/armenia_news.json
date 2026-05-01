@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-01T11:58:58Z",
+  "generated_at": "2026-05-01T23:46:10Z",
   "country": "Armenia",
-  "total_stories": 38,
+  "total_stories": 39,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Safeguarding impartiality: A call to the United Nations",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/05/01/safeguarding-impartiality-a-call-to-the-united-nations/",
+      "published_date": "2026-05-01T18:46:35Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Seven Armenian hostages seek UN recognition of arbitrary detention",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/05/01/seven-armenian-hostages-seek-un-recognition-of-arbitrary-detention/",
+      "published_date": "2026-05-01T18:30:51Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Armenia, Azerbaijan hold border delimitation talks in Aghveran",
       "source": "The Armenian Weekly",
@@ -81,31 +95,24 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EDITORIAL: By Ignoring History, Threat of Genocide Will Loom for Future Generations of Armenians",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/editorial-by-ignoring-history-threat-of-genocide-will-loom-for-future-generations-of-armenians/",
-      "published_date": "2026-04-24T19:55:57Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Armenia&#039;s Foreign Affairs Ministry - Remember the Genocide, but Pursue Peace",
+      "title": "Pashinyan on May Day: Praises Taxpaying Workers, Says Nothing on Labor Movement",
       "source": "Hetq",
-      "url": "https://hetq.am/en/article/181044",
-      "published_date": "2026-04-24T12:14:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The Diaspora as the Force Multiplier of Armenian Sovereignty: The ANCA Example",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/the-diaspora-as-the-force-multiplier-of-armenian-sovereignty-the-anca-example/",
-      "published_date": "2026-04-24T19:47:07Z",
-      "category": "Military"
+      "url": "https://hetq.am/en/article/181161",
+      "published_date": "2026-05-01T12:36:00Z",
+      "category": "Economy"
     },
     {
       "title": "Pashinyan on May Day: Praises Taxpaying Workers, Says Nothing on Labor Movement",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/181159",
       "published_date": "2026-05-01T11:50:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Pashinyan Marks May Day: “Long Live Work and Education&quot;",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181162",
+      "published_date": "2026-05-01T11:39:00Z",
       "category": "Economy"
     },
     {
@@ -135,6 +142,34 @@
       "url": "https://hetq.am/en/article/181075",
       "published_date": "2026-04-27T09:56:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Zohran Mamdani and the Armenian stress test",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/05/01/zohran-mamdani-and-the-armenian-stress-test/",
+      "published_date": "2026-05-01T20:15:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Yerevan Marks May Day: Corporate Sponsors Take Centerstage",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181163",
+      "published_date": "2026-05-01T18:20:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "AMAA’s Avedisian School earns double victory at ‘Generation AI’",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/05/01/amaas-avedisian-school-earns-double-victory-at-generation-ai/",
+      "published_date": "2026-05-01T16:25:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "AMAA’s ‘Hayasa’ Theater Group presents ‘Luigi’s Heart’ in Yerevan",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/05/01/amaas-hayasa-theater-group-presents-luigis-heart-in-yerevan/",
+      "published_date": "2026-05-01T16:05:18Z",
+      "category": "Local Events"
     },
     {
       "title": "Excavations at Armenia’s Arakelots Monastery: One of Europe’s Seven Most Endangered Monuments",
@@ -246,34 +281,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/04/28/voices-that-break-barriers/",
       "published_date": "2026-04-28T14:55:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Soft Construct Showcased New Career Opportunities at Career City Fest 2K26",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181098",
-      "published_date": "2026-04-28T11:49:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ari Guiragos Minassian School Honors Memory of Armenian Genocide with Student-Led Commemoration",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/ari-guiragos-minassian-school-honors-memory-of-armenian-genocide-with-student-led-commemoration/",
-      "published_date": "2026-04-27T20:23:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Baku Confirms it Demolished Stepanakert Cathedral",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/baku-confirms-it-demolished-stepanakert-cathedral/",
-      "published_date": "2026-04-27T20:20:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pashinyan’s Wife Threatens Legal Action Against Groups Accusing her Charity of Illegal Efforts Ahead of Elections",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/pashinyans-wife-threatens-legal-action-against-groups-accusing-her-charity-of-illegal-efforts-ahead-of-elections/",
-      "published_date": "2026-04-27T20:16:10Z",
       "category": "Local Events"
     }
   ]
