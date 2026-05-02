@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-02T11:44:17Z",
+  "generated_at": "2026-05-02T23:37:59Z",
   "country": "Armenia",
-  "total_stories": 39,
+  "total_stories": 38,
   "categories": [
     "Diplomacy",
     "Military",
@@ -81,18 +81,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "ICLaw brings Artsakh families’ silenced grief to the United Nations",
+      "title": "Appropriations Panel backs ANCA push for increased security assistance",
       "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/25/iclaw-brings-artsakh-families-silenced-grief/",
-      "published_date": "2026-04-25T15:39:26Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Loss of property, right of return, search for justice: Artsakh residents apply to the ECHR",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/25/loss-of-property-right-of-return-search-for-justice/",
-      "published_date": "2026-04-25T15:30:55Z",
-      "category": "Diplomacy"
+      "url": "https://armenianweekly.com/2026/05/02/house-appropriations-panel-backs-anca-push/",
+      "published_date": "2026-05-02T13:00:59Z",
+      "category": "Military"
     },
     {
       "title": "Pashinyan on May Day: Praises Taxpaying Workers, Says Nothing on Labor Movement",
@@ -142,6 +135,41 @@
       "url": "https://hetq.am/en/article/181075",
       "published_date": "2026-04-27T09:56:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "April 24 (again)",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/05/02/april-24-again/",
+      "published_date": "2026-05-02T15:16:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "In Racine, an Armenian café revives the spirit of the ‘srjaran’",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/05/02/in-racine-an-armenian-cafe-revives-the-spirit-of-the-srjaran/",
+      "published_date": "2026-05-02T15:05:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "ANCA Eastern Region activists drive region-wide Genocide advocacy",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/05/02/anca-eastern-region-activists-drive-region/",
+      "published_date": "2026-05-02T13:12:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Holy See of Cilicia Participates in Manuscript Preservation Seminar in Yerevan",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181171",
+      "published_date": "2026-05-02T12:27:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Turkish VP to Attend European Political Community Summit in Yerevan",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181169",
+      "published_date": "2026-05-02T11:35:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Zohran Mamdani and the Armenian stress test",
@@ -246,41 +274,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/181120",
       "published_date": "2026-04-29T12:45:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "ANCA endorses Tijerina against Azerbaijan Caucus co-chair Cuellar",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/28/anca-endorses-judge-tano-tijerinas/",
-      "published_date": "2026-04-29T01:49:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Carrying Armenia: From the past to the future",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/28/carrying-armenia-from-the-past-to-the-future/",
-      "published_date": "2026-04-28T18:52:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Unfractured resolve",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/28/unfractured-resolve/",
-      "published_date": "2026-04-28T18:30:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Hairenik Building as “the beating heart of Armenian life in the U.S.”",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/28/the-hairenik-building-as-the-beating-heart-of-armenian-life-in-the-u-s/",
-      "published_date": "2026-04-28T16:34:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Voices that break barriers",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/28/voices-that-break-barriers/",
-      "published_date": "2026-04-28T14:55:32Z",
       "category": "Local Events"
     }
   ]
