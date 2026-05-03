@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-03T11:41:49Z",
+  "generated_at": "2026-05-03T23:39:25Z",
   "country": "Armenia",
-  "total_stories": 39,
+  "total_stories": 47,
   "categories": [
     "Diplomacy",
     "Military",
@@ -11,10 +11,31 @@
   ],
   "stories": [
     {
+      "title": "European Armenian Communities Issue Statement Ahead of EU Summit in Yerevan",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/european-armenian-communities-issue-statement-ahead-of-eu-summit-in-yerevan/",
+      "published_date": "2026-05-03T20:57:13Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘Armenia’ Alliance issues statement ahead of European Political Community Summit",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/05/03/armenia-alliance-issues-statement/",
+      "published_date": "2026-05-03T18:05:08Z",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Pashinyan, OSCE Secretary General Meet in Yerevan",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/181184",
       "published_date": "2026-05-03T10:23:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Baroness Cox Urges EU Leaders to Prioritize Release of Armenian POWs",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/baroness-cox-urges-eu-leaders-to-prioritize-release-of-armenian-pows/",
+      "published_date": "2026-05-01T20:29:31Z",
       "category": "Diplomacy"
     },
     {
@@ -32,6 +53,20 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Etchmiadzin Calls Destruction of Churches ‘Cultural Genocide’ by Azerbaijan",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/etchmiadzin-calls-destruction-of-churches-cultural-genocide-by-azerbaijan/",
+      "published_date": "2026-04-30T20:19:31Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "European Parliament Condemns Azerbaijan’s ‘Unjust Detention’ of Armenian POWs",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/european-parliament-condemns-azerbaijans-unjust-detention-of-armenian-pows/",
+      "published_date": "2026-04-30T20:04:35Z",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Armenia, Azerbaijan hold border delimitation talks in Aghveran",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/04/30/armenia-azerbaijan-hold-border-delimitation-talks-in-aghveran/",
@@ -43,6 +78,13 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/181143",
       "published_date": "2026-04-30T12:05:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Top Azerbaijani Official Flies to Yerevan to Attend Border Delimitation Meeting",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/top-azerbaijani-official-flies-to-yerevan-to-attend-border-delimitation-meeting/",
+      "published_date": "2026-04-29T22:08:43Z",
       "category": "Diplomacy"
     },
     {
@@ -95,6 +137,20 @@
       "category": "Military"
     },
     {
+      "title": "House Panel Backs ANCA Push for Increased Security Assistance for Armenia, Calls for Congressional TRIPP Oversight",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/house-panel-backs-anca-push-for-increased-security-assistance-for-armenia-calls-for-congressional-tripp-oversight/",
+      "published_date": "2026-05-01T22:42:10Z",
+      "category": "Military"
+    },
+    {
+      "title": "Nikol Pashinyan, Iliana Yotova meet in Armenia. Armenia and Bulgaria sign declaration on strategic partnership",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181186",
+      "published_date": "2026-05-03T12:50:00Z",
+      "category": "Economy"
+    },
+    {
       "title": "Pashinyan on May Day: Praises Taxpaying Workers, Says Nothing on Labor Movement",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/181161",
@@ -144,6 +200,20 @@
       "category": "Economy"
     },
     {
+      "title": "Europe’s Armenian communities issue statement ahead of EPC summit",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/05/03/europes-armenian-communities-issue-statement/",
+      "published_date": "2026-05-03T18:00:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Zelenskyy’s likely visit to Yerevan signals further distancing from Russia",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/05/03/zelenskyys-likely-visit-to-yerevan-signals-further-distancing-from-russia/",
+      "published_date": "2026-05-03T12:30:42Z",
+      "category": "Local Events"
+    },
+    {
       "title": "April 24 (again)",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/05/02/april-24-again/",
@@ -176,6 +246,13 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/181169",
       "published_date": "2026-05-02T11:35:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "St. Mary’s Church in Glendale Marks 50th Anniversary with Concert",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/st-marys-church-in-glendale-marks-50th-anniversary-with-concert/",
+      "published_date": "2026-05-01T22:37:00Z",
       "category": "Local Events"
     },
     {
@@ -221,6 +298,20 @@
       "category": "Local Events"
     },
     {
+      "title": "IALA Announces 2026 Grants, Increases Awards",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/iala-announces-2026-grants-increases-awards/",
+      "published_date": "2026-04-30T17:26:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenian Heritage Walk Opens at Philadelphia Museum of Art",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/armenian-heritage-walk-opens-at-the-philadelphia-museum-of-art/",
+      "published_date": "2026-04-30T17:14:08Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Galoust Torosian carries more than his own dreams",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/04/30/galoust-torosian-carries-more-than-his-own-dreams/",
@@ -246,41 +337,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/04/30/dinkjian-and-the-ny-gypsy-all-stars-bring-an-international-fusion-sound-to-brooklyn/",
       "published_date": "2026-04-30T15:37:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenia Drops in Global Press Freedom Index",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181132",
-      "published_date": "2026-04-30T07:29:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "IALA announces 2026 grants with increased awards for literary translation",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/29/iala-announces-2026-grants-with-increased-awards-for-literary-translation/",
-      "published_date": "2026-04-29T21:58:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Region in Brief",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/29/the-region-in-brief-166/",
-      "published_date": "2026-04-29T17:19:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Holding Ararat: Gagat Glass and the shape of memory",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/29/holding-ararat-gagat-glass-and-the-shape-of-memory/",
-      "published_date": "2026-04-29T14:10:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Avanesyan Declares Hunger Strike",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181120",
-      "published_date": "2026-04-29T12:45:00Z",
       "category": "Local Events"
     }
   ]
