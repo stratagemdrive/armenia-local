@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-02T23:37:59Z",
+  "generated_at": "2026-05-03T11:41:49Z",
   "country": "Armenia",
-  "total_stories": 38,
+  "total_stories": 39,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Pashinyan, OSCE Secretary General Meet in Yerevan",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181184",
+      "published_date": "2026-05-03T10:23:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Safeguarding impartiality: A call to the United Nations",
       "source": "The Armenian Weekly",
