@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-04T12:20:45Z",
+  "generated_at": "2026-05-04T23:50:46Z",
   "country": "Armenia",
-  "total_stories": 49,
+  "total_stories": 50,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Artsakh flag raised during genocide commemorations in South America",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/05/04/artsakh-flag-raised-during-genocide-commemorations-in-south-america/",
+      "published_date": "2026-05-04T16:02:02Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Armenia, Turkey Sign Protocol to Restore Ani Bridge",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181208",
+      "published_date": "2026-05-04T14:35:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Pashinyan, NATO Head Discuss Regional Security",
       "source": "Hetq",
@@ -137,20 +151,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Families and Lawyers of Seven Armenian Hostages Appeal to UN for Immediate Release, Condemning Convictions by Azerbaijan as Arbitrary",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181119",
-      "published_date": "2026-04-29T11:59:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Armenia, French Foreign Ministers Discuss Strategic Partnership",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181114",
-      "published_date": "2026-04-29T07:54:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Appropriations Panel backs ANCA push for increased security assistance",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/05/02/house-appropriations-panel-backs-anca-push/",
@@ -163,6 +163,13 @@
       "url": "https://asbarez.com/house-panel-backs-anca-push-for-increased-security-assistance-for-armenia-calls-for-congressional-tripp-oversight/",
       "published_date": "2026-05-01T22:42:10Z",
       "category": "Military"
+    },
+    {
+      "title": "The unraveling of Ottoman multiculturalism",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/05/04/the-unraveling-of-ottoman-multiculturalism/",
+      "published_date": "2026-05-04T10:29:30Z",
+      "category": "Economy"
     },
     {
       "title": "Nikol Pashinyan, Iliana Yotova meet in Armenia. Armenia and Bulgaria sign declaration on strategic partnership",
@@ -212,6 +219,34 @@
       "url": "https://hetq.am/en/article/181099",
       "published_date": "2026-04-28T11:55:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Poghosian’s fireworks of color and hope",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/05/04/poghosians-fireworks-of-color-and-hope/",
+      "published_date": "2026-05-04T16:05:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Petals from exiled roots",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/05/04/petals-from-exiled-roots/",
+      "published_date": "2026-05-04T15:14:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pashinyan, Zelensky Discuss Expanding Cooperation",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181206",
+      "published_date": "2026-05-04T13:03:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenia, UK Sign Strategic Partnership Declaration",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181204",
+      "published_date": "2026-05-04T12:00:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Dakhanavar",
@@ -323,34 +358,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/04/30/anca-joins-ohio-armenians/",
       "published_date": "2026-04-30T20:12:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "IALA Announces 2026 Grants, Increases Awards",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/iala-announces-2026-grants-increases-awards/",
-      "published_date": "2026-04-30T17:26:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenian Heritage Walk Opens at Philadelphia Museum of Art",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/armenian-heritage-walk-opens-at-the-philadelphia-museum-of-art/",
-      "published_date": "2026-04-30T17:14:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Galoust Torosian carries more than his own dreams",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/30/galoust-torosian-carries-more-than-his-own-dreams/",
-      "published_date": "2026-04-30T16:49:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The eternal duty of the Armenian Diaspora",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/30/the-eternal-duty-of-the-armenian-diaspora/",
-      "published_date": "2026-04-30T16:45:06Z",
       "category": "Local Events"
     }
   ]
