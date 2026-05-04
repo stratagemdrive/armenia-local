@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-03T23:39:25Z",
+  "generated_at": "2026-05-04T12:20:45Z",
   "country": "Armenia",
-  "total_stories": 47,
+  "total_stories": 49,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,34 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Pashinyan, NATO Head Discuss Regional Security",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181203",
+      "published_date": "2026-05-04T11:29:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pashinyan Welcomes European Leaders to Yerevan Summit",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181202",
+      "published_date": "2026-05-04T11:03:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Armenia, Croatia Sign Strategic Dialogue Declaration",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181200",
+      "published_date": "2026-05-04T10:48:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Armenian, Belgian PMs Attend Embassy Opening in Yerevan",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181197",
+      "published_date": "2026-05-04T07:47:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "European Armenian Communities Issue Statement Ahead of EU Summit in Yerevan",
       "source": "Asbarez",
@@ -123,13 +151,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Armenian Internal Affairs Delegation Visits Romania for Cooperation Talks",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181095",
-      "published_date": "2026-04-28T10:18:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Appropriations Panel backs ANCA push for increased security assistance",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/05/02/house-appropriations-panel-backs-anca-push/",
@@ -193,11 +214,18 @@
       "category": "Economy"
     },
     {
-      "title": "First Quarter 2026: Mobile Centre Was Largest Taxpayer in Armenia",
+      "title": "Dakhanavar",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/05/04/dakhanavar/",
+      "published_date": "2026-05-04T11:46:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "LIVE: 8th Summit of the European Political Community in Yerevan",
       "source": "Hetq",
-      "url": "https://hetq.am/en/article/181075",
-      "published_date": "2026-04-27T09:56:00Z",
-      "category": "Economy"
+      "url": "https://hetq.am/en/article/181198",
+      "published_date": "2026-05-04T10:47:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Europe’s Armenian communities issue statement ahead of EPC summit",
@@ -323,20 +351,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/04/30/the-eternal-duty-of-the-armenian-diaspora/",
       "published_date": "2026-04-30T16:45:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Areg Mirijanyan: “Faceless Game” explores identity",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/30/areg-mirijanyan-faceless-game-explores-identity/",
-      "published_date": "2026-04-30T16:28:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dinkjian and the NY Gypsy All-Stars bring an international fusion sound to Brooklyn",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/04/30/dinkjian-and-the-ny-gypsy-all-stars-bring-an-international-fusion-sound-to-brooklyn/",
-      "published_date": "2026-04-30T15:37:58Z",
       "category": "Local Events"
     }
   ]
