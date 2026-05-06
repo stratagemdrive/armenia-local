@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-05T23:43:01Z",
+  "generated_at": "2026-05-06T12:26:45Z",
   "country": "Armenia",
-  "total_stories": 50,
+  "total_stories": 52,
   "categories": [
     "Diplomacy",
     "Military",
@@ -151,6 +151,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Armenian Defense Minister in Poland for Defense/Security Conference",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181262",
+      "published_date": "2026-05-06T08:07:00Z",
+      "category": "Military"
+    },
+    {
       "title": "Appropriations Panel backs ANCA push for increased security assistance",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/05/02/house-appropriations-panel-backs-anca-push/",
@@ -163,6 +170,13 @@
       "url": "https://asbarez.com/house-panel-backs-anca-push-for-increased-security-assistance-for-armenia-calls-for-congressional-tripp-oversight/",
       "published_date": "2026-05-01T22:42:10Z",
       "category": "Military"
+    },
+    {
+      "title": "Evocabank, Proparco-AFD Sign €20M Credit Deal",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181269",
+      "published_date": "2026-05-06T10:17:00Z",
+      "category": "Energy"
     },
     {
       "title": "Five handmade treasures from Armenia",
