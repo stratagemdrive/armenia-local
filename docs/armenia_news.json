@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-07T12:28:30Z",
+  "generated_at": "2026-05-07T23:49:21Z",
   "country": "Armenia",
-  "total_stories": 51,
+  "total_stories": 52,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "ANCA endorses Rep. Chris Pappas for U.S. Senate in New Hampshire",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/05/07/anca-endorses-rep-chris-pappas-for-u-s-senate-in-new-hampshire/",
+      "published_date": "2026-05-07T14:33:16Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "We’re here, we will remain",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/05/07/were-here-we-will-remain/",
+      "published_date": "2026-05-07T14:15:41Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Washington Event Honors Armenian Contributions Ahead of U.S. 250th Anniversary",
       "source": "Asbarez",
@@ -137,20 +151,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "‘Armenia’ Alliance issues statement ahead of European Political Community Summit",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/05/03/armenia-alliance-issues-statement/",
-      "published_date": "2026-05-03T18:05:08Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pashinyan, OSCE Secretary General Meet in Yerevan",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181184",
-      "published_date": "2026-05-03T10:23:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Armenian Defense Minister in Poland for Defense/Security Conference",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/181262",
@@ -177,6 +177,13 @@
       "url": "https://hetq.am/en/article/181269",
       "published_date": "2026-05-06T10:17:00Z",
       "category": "Energy"
+    },
+    {
+      "title": "FINTECH360 International Conference Held in Armenia",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181298",
+      "published_date": "2026-05-07T12:29:00Z",
+      "category": "Economy"
     },
     {
       "title": "Five handmade treasures from Armenia",
@@ -228,6 +235,48 @@
       "category": "Economy"
     },
     {
+      "title": "Apo Ashjian, founder of Sayat Nova Dance Company, passes away",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/05/07/apo-ashjian-founder-of-sayat-nova-dance-company-passes-away/",
+      "published_date": "2026-05-07T20:27:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "They chose love over despair",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/05/07/they-chose-love-over-despair/",
+      "published_date": "2026-05-07T15:48:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Greater Detroit’s Armenian community gathers to remember and resist",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/05/07/greater-detroits-armenian-community-gathers-to-remember-and-resist/",
+      "published_date": "2026-05-07T14:05:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Region in Brief",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/05/07/the-region-in-brief-167/",
+      "published_date": "2026-05-07T12:46:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Aliyev uses Yerevan EPC summit as political stage",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/05/07/aliyev-uses-yerevan-epc-summit-as-political-stage/",
+      "published_date": "2026-05-07T12:44:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Literary Lights 2026 spotlights “Remain in Light” editor and contributors",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/05/07/literary-lights-2026-spotlights-remain-in-light-editor-and-contributors/",
+      "published_date": "2026-05-07T12:00:47Z",
+      "category": "Local Events"
+    },
+    {
       "title": "“Whose Mandate is it to Protect Armenian Citizens Imprisoned in Azerbaijani Prisons?”: Ruben Vardanyan responds to the Armenian Ombudsperson",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/181295",
@@ -239,6 +288,13 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/181292",
       "published_date": "2026-05-07T09:13:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vartan Arakelian performs Prokofiev’s Piano Concerto No. 1",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/05/06/vartan-arakelian-performs-prokofievs-piano-concerto-no-1/",
+      "published_date": "2026-05-07T00:22:43Z",
       "category": "Local Events"
     },
     {
@@ -316,55 +372,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/181277",
       "published_date": "2026-05-06T13:06:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Walk If You Can: Yerevan’s Irksome Sidewalks",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181273",
-      "published_date": "2026-05-06T13:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Death Notice: Bedros Apelian",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/death-notice-bedros-apelian/",
-      "published_date": "2026-05-05T22:42:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Apple Art initiative, Armenian Arts Center Present New Exhibition of Carzou and Jansem Works",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/apple-art-initiative-armenian-arts-center-present-new-exhibition-of-carzou-and-jansem-works/",
-      "published_date": "2026-05-05T21:45:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Macron Visits Gyumri; Pays Tribute to 1988 Earthquake Victims",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181255",
-      "published_date": "2026-05-05T17:42:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Khachkar Studios Unveils New World-Class Template for U.S. Armenian Churches Annual Financial Transparency",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/khachkar-studios-unveils-new-world-class-template-for-u-s-armenian-churches-annual-financial-transparency/",
-      "published_date": "2026-05-05T17:02:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Times Square genocide commemoration: “Carrying the Past, Claiming the Future”",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/05/05/times-square-genocide-commemoration-carrying-the-past-claiming-the-future/",
-      "published_date": "2026-05-05T16:00:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "A new chapter for the AYC and the youth of our community",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/05/05/a-new-chapter-for-the-ayc-and-the-youth-of-our-community/",
-      "published_date": "2026-05-05T15:55:55Z",
       "category": "Local Events"
     }
   ]
