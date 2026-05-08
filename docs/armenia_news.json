@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-07T23:49:21Z",
+  "generated_at": "2026-05-08T12:08:09Z",
   "country": "Armenia",
-  "total_stories": 52,
+  "total_stories": 51,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,34 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "‘Have You No Shame?”: Ruben Vardanyan says Armenian Government has Failed Captives in Baku",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/have-you-no-shame-ruben-vardanyan-says-armenian-government-has-failed-captives-in-baku/",
+      "published_date": "2026-05-07T21:56:50Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Moscow Blasts Yerevan over EU Summit, Zelenskyy Visit",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/moscow-blasts-yerevan-over-eu-summit-zelenskyy-visit/",
+      "published_date": "2026-05-07T21:49:35Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pashinyan, Khachaturyan Discuss June Parliamentary Election",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181310",
+      "published_date": "2026-05-07T18:38:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "AYF Chapters Raise $15,500 to Support Displaced Artsakh Families Through Lorik Humanitarian Fund",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/ayf-chapters-raise-15500-to-support-displaced-artsakh-families-through-lorik-humanitarian-fund/",
+      "published_date": "2026-05-07T18:29:57Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "ANCA endorses Rep. Chris Pappas for U.S. Senate in New Hampshire",
       "source": "The Armenian Weekly",
@@ -123,34 +151,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Pashinyan Welcomes European Leaders to Yerevan Summit",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181202",
-      "published_date": "2026-05-04T11:03:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Armenia, Croatia Sign Strategic Dialogue Declaration",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181200",
-      "published_date": "2026-05-04T10:48:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Armenian, Belgian PMs Attend Embassy Opening in Yerevan",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181197",
-      "published_date": "2026-05-04T07:47:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "European Armenian Communities Issue Statement Ahead of EU Summit in Yerevan",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/european-armenian-communities-issue-statement-ahead-of-eu-summit-in-yerevan/",
-      "published_date": "2026-05-03T20:57:13Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Armenian Defense Minister in Poland for Defense/Security Conference",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/181262",
@@ -177,6 +177,13 @@
       "url": "https://hetq.am/en/article/181269",
       "published_date": "2026-05-06T10:17:00Z",
       "category": "Energy"
+    },
+    {
+      "title": "Armenia’s food future: From survival to strategy",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/05/08/armenias-food-future-from-survival-to-strategy/",
+      "published_date": "2026-05-08T11:46:43Z",
+      "category": "Economy"
     },
     {
       "title": "FINTECH360 International Conference Held in Armenia",
@@ -221,24 +228,38 @@
       "category": "Economy"
     },
     {
-      "title": "Pashinyan on May Day: Praises Taxpaying Workers, Says Nothing on Labor Movement",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181159",
-      "published_date": "2026-05-01T11:50:00Z",
-      "category": "Economy"
+      "title": "Hahaha LA designs playful, toxin‑free children’s clothing",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/05/08/hahaha-la-designs-playful-toxin-free-childrens-clothing/",
+      "published_date": "2026-05-08T11:52:45Z",
+      "category": "Local Events"
     },
     {
-      "title": "Pashinyan Marks May Day: “Long Live Work and Education&quot;",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181162",
-      "published_date": "2026-05-01T11:39:00Z",
-      "category": "Economy"
+      "title": "Ano Mansourian Named 2026 Exemplary Homenetmen Member",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/ano-mansourian-named-2026-exemplary-homenetmen-member/",
+      "published_date": "2026-05-07T20:35:54Z",
+      "category": "Local Events"
     },
     {
       "title": "Apo Ashjian, founder of Sayat Nova Dance Company, passes away",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/05/07/apo-ashjian-founder-of-sayat-nova-dance-company-passes-away/",
       "published_date": "2026-05-07T20:27:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Death Notice: Manushag Hovanesian",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/death-notice-manushag-hovanesian/",
+      "published_date": "2026-05-07T18:52:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ferrahian High School: A Story of Excellence in the Armenian Diaspora",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/ferrahian-high-school-a-story-of-excellence-in-the-armenian-diaspora/",
+      "published_date": "2026-05-07T18:46:35Z",
       "category": "Local Events"
     },
     {
@@ -344,34 +365,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/05/06/from-gesaria-to-javakhk-a-family-connection-rediscovered/",
       "published_date": "2026-05-06T14:31:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turkish investigative reporter reveals Turkey’s infiltration efforts in the U.S.",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/05/06/turkish-investigative-reporter-reveals-turkeys-infiltration-efforts-in-the-u-s/",
-      "published_date": "2026-05-06T14:29:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "CYSCA to host 40th Annual Meeting featuring Christina Maranci",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/05/06/cysca-to-host-40th-annual-meeting-featuring-christina-maranci/",
-      "published_date": "2026-05-06T14:14:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Head of Armenian Catholic Church Visits Cilicia Catholicosate",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181278",
-      "published_date": "2026-05-06T13:14:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "PACE Delegation Makes Pre-electoral Visit to Armenia",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181277",
-      "published_date": "2026-05-06T13:06:00Z",
       "category": "Local Events"
     }
   ]
