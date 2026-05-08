@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-08T12:08:09Z",
+  "generated_at": "2026-05-08T23:53:04Z",
   "country": "Armenia",
-  "total_stories": 51,
+  "total_stories": 50,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,27 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Armenian arts in America: History and impact in visual arts",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/05/08/armenian-arts-in-america-history-and-impact-in-visual-arts/",
+      "published_date": "2026-05-08T18:06:29Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "AYF chapters raise $15,500 to support displaced Artsakh families through Lorik Humanitarian Fund",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/05/08/ayf-chapters-raise-15500-to-support-displaced-artsakh-families-through-lorik-humanitarian-fund/",
+      "published_date": "2026-05-08T16:00:42Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EIB Group and Ameriabank strengthen support for Armenian businesses through EU-backed guarantee",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181321",
+      "published_date": "2026-05-08T13:20:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "‘Have You No Shame?”: Ruben Vardanyan says Armenian Government has Failed Captives in Baku",
       "source": "Asbarez",
@@ -130,25 +151,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Artsakh flag raised during genocide commemorations in South America",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/05/04/artsakh-flag-raised-during-genocide-commemorations-in-south-america/",
-      "published_date": "2026-05-04T16:02:02Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Armenia, Turkey Sign Protocol to Restore Ani Bridge",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181208",
-      "published_date": "2026-05-04T14:35:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pashinyan, NATO Head Discuss Regional Security",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181203",
-      "published_date": "2026-05-04T11:29:00Z",
-      "category": "Diplomacy"
+      "title": "Veteran ARF Leader Tatul Sonents-Papazian Passes Away",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/veteran-arf-leader-tatul-sonents-papazian-passes-away/",
+      "published_date": "2026-05-08T22:48:41Z",
+      "category": "Military"
     },
     {
       "title": "Armenian Defense Minister in Poland for Defense/Security Conference",
@@ -162,13 +169,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/05/02/house-appropriations-panel-backs-anca-push/",
       "published_date": "2026-05-02T13:00:59Z",
-      "category": "Military"
-    },
-    {
-      "title": "House Panel Backs ANCA Push for Increased Security Assistance for Armenia, Calls for Congressional TRIPP Oversight",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/house-panel-backs-anca-push-for-increased-security-assistance-for-armenia-calls-for-congressional-tripp-oversight/",
-      "published_date": "2026-05-01T22:42:10Z",
       "category": "Military"
     },
     {
@@ -221,11 +221,32 @@
       "category": "Economy"
     },
     {
-      "title": "Pashinyan on May Day: Praises Taxpaying Workers, Says Nothing on Labor Movement",
+      "title": "Genocide Education Fellowship Program Selects Fifteen New Teachers",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/genocide-education-fellowship-program-selects-fifteen-new-teachers/",
+      "published_date": "2026-05-08T18:15:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Software developer builds apps for language learning and budgeting",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/05/08/software-developer-builds-apps-for-language-learning-and-budgeting/",
+      "published_date": "2026-05-08T15:20:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Unibank was a partner of the international forum “Yerevan Dialogue”",
       "source": "Hetq",
-      "url": "https://hetq.am/en/article/181161",
-      "published_date": "2026-05-01T12:36:00Z",
-      "category": "Economy"
+      "url": "https://hetq.am/en/article/181320",
+      "published_date": "2026-05-08T13:05:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Andonian’s “The Great Crime” now available in English",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/05/08/andonians-the-great-crime-now-available-in-english/",
+      "published_date": "2026-05-08T12:12:11Z",
+      "category": "Local Events"
     },
     {
       "title": "Hahaha LA designs playful, toxin‑free children’s clothing",
@@ -337,34 +358,6 @@
       "source": "Asbarez",
       "url": "https://asbarez.com/khachkar-studios-creates-template-for-institutional-transformation-across-u-s-armenian-churches/",
       "published_date": "2026-05-06T17:17:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Davit Ishkhanyan warns Baku trial targets Armenian statehood",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/05/06/davit-ishkhanyan-warns-baku-trial-targets-armenian-statehood/",
-      "published_date": "2026-05-06T16:59:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Genocide commemoration at Duke reunites North Carolina Armenians",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/05/06/genocide-commemoration-at-duke-reunites-north-carolina-armenians/",
-      "published_date": "2026-05-06T16:49:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenian Heritage Walk opens at the Philadelphia Museum of Art",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/05/06/armenian-heritage-walk-opens-at-the-philadelphia-museum-of-art/",
-      "published_date": "2026-05-06T16:05:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "From Gesaria to Javakhk: A family connection rediscovered",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/05/06/from-gesaria-to-javakhk-a-family-connection-rediscovered/",
-      "published_date": "2026-05-06T14:31:05Z",
       "category": "Local Events"
     }
   ]
