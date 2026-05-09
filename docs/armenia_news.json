@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T23:53:04Z",
+  "generated_at": "2026-05-09T11:50:47Z",
   "country": "Armenia",
   "total_stories": 50,
   "categories": [
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Pashinyan Marks WWII Victory: Celebrates Peace with Azerbaijan",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181324",
+      "published_date": "2026-05-09T06:09:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Armenian arts in America: History and impact in visual arts",
       "source": "The Armenian Weekly",
@@ -141,13 +148,6 @@
       "source": "Asbarez",
       "url": "https://asbarez.com/285521-2/",
       "published_date": "2026-05-04T22:56:26Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "European Parliament Speaker Hits Back at Aliyev",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/european-parliament-speaker-hits-back-at-aliyev/",
-      "published_date": "2026-05-04T22:28:26Z",
       "category": "Diplomacy"
     },
     {
