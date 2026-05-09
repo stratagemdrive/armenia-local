@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-09T11:50:47Z",
+  "generated_at": "2026-05-09T23:41:58Z",
   "country": "Armenia",
-  "total_stories": 50,
+  "total_stories": 49,
   "categories": [
     "Diplomacy",
     "Military",
@@ -165,13 +165,6 @@
       "category": "Military"
     },
     {
-      "title": "Appropriations Panel backs ANCA push for increased security assistance",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/05/02/house-appropriations-panel-backs-anca-push/",
-      "published_date": "2026-05-02T13:00:59Z",
-      "category": "Military"
-    },
-    {
       "title": "Evocabank, Proparco-AFD Sign €20M Credit Deal",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/181269",
@@ -219,6 +212,34 @@
       "url": "https://hetq.am/en/article/181186",
       "published_date": "2026-05-03T12:50:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "The Armenian spirit: The wartime legacy of the Agazarian family",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/05/09/the-armenian-spirit-the-wartime-legacy-of-the-agazarian-family/",
+      "published_date": "2026-05-09T12:40:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "SOAR Naples chapter raises $100,000 for children in Armenia",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/05/09/soar-naples-chapter-raises-100000-for-children-in-armenia/",
+      "published_date": "2026-05-09T12:35:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "“Root and Sprout” competition connects Armenian youth through family history research",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/05/09/root-and-sprout-competition-connects-armenian-youth/",
+      "published_date": "2026-05-09T12:30:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Khachkar Studios unveils a new world-class template for U.S. Armenian churches’ annual financial transparency",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/05/09/khachkar-studios-unveils-a-new-world-class-template-for-u-s-armenian-churches-annual-financial-transparency/",
+      "published_date": "2026-05-09T12:25:23Z",
+      "category": "Local Events"
     },
     {
       "title": "Genocide Education Fellowship Program Selects Fifteen New Teachers",
@@ -330,34 +351,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/181292",
       "published_date": "2026-05-07T09:13:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vartan Arakelian performs Prokofiev’s Piano Concerto No. 1",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/05/06/vartan-arakelian-performs-prokofievs-piano-concerto-no-1/",
-      "published_date": "2026-05-07T00:22:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Upcoming Installment of ‘Literary Lights’ Reading Series Features Editor and Contributors of Landmark Anthology ‘Remain In Light’",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/upcoming-installment-of-literary-lights-reading-series-features-editor-and-contributors-of-landmark-anthology-remain-in-light/",
-      "published_date": "2026-05-06T20:22:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Davit Ishkhanyan Appeals from Baku Prison, Warns Trial Targets Armenian Statehood",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/davit-ishkhanyan-appeals-from-baku-prison-warns-trial-targets-armenian-statehood/",
-      "published_date": "2026-05-06T19:53:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Khachkar Studios Creates Template for Institutional Transformation Across U.S. Armenian Churches",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/khachkar-studios-creates-template-for-institutional-transformation-across-u-s-armenian-churches/",
-      "published_date": "2026-05-06T17:17:26Z",
       "category": "Local Events"
     }
   ]
