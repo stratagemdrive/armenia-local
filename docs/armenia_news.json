@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-10T11:51:21Z",
+  "generated_at": "2026-05-10T23:46:34Z",
   "country": "Armenia",
-  "total_stories": 49,
+  "total_stories": 48,
   "categories": [
     "Diplomacy",
     "Military",
@@ -207,11 +207,18 @@
       "category": "Economy"
     },
     {
-      "title": "Nikol Pashinyan, Iliana Yotova meet in Armenia. Armenia and Bulgaria sign declaration on strategic partnership",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181186",
-      "published_date": "2026-05-03T12:50:00Z",
-      "category": "Economy"
+      "title": "The empathy of a revolutionary: Bidding farewell to Tatul Sonentz-Papazian",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/05/10/the-empathy-of-a-revolutionary/",
+      "published_date": "2026-05-10T15:40:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "This is what I do",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/05/10/this-is-what-i-do/",
+      "published_date": "2026-05-10T14:00:43Z",
+      "category": "Local Events"
     },
     {
       "title": "The Armenian spirit: The wartime legacy of the Agazarian family",
@@ -337,20 +344,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/05/07/literary-lights-2026-spotlights-remain-in-light-editor-and-contributors/",
       "published_date": "2026-05-07T12:00:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "“Whose Mandate is it to Protect Armenian Citizens Imprisoned in Azerbaijani Prisons?”: Ruben Vardanyan responds to the Armenian Ombudsperson",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181295",
-      "published_date": "2026-05-07T11:22:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pashinyan Will Not Attend Moscow Victory Day Celebrations",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181292",
-      "published_date": "2026-05-07T09:13:00Z",
       "category": "Local Events"
     }
   ]
