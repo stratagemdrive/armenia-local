@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-10T23:46:34Z",
+  "generated_at": "2026-05-11T13:47:57Z",
   "country": "Armenia",
   "total_stories": 48,
   "categories": [
@@ -151,6 +151,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Armenia Unveils French-Supplied CAESAR Artillery",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181341",
+      "published_date": "2026-05-11T11:18:00Z",
+      "category": "Military"
+    },
+    {
       "title": "Veteran ARF Leader Tatul Sonents-Papazian Passes Away",
       "source": "Asbarez",
       "url": "https://asbarez.com/veteran-arf-leader-tatul-sonents-papazian-passes-away/",
@@ -200,11 +207,11 @@
       "category": "Economy"
     },
     {
-      "title": "The unraveling of Ottoman multiculturalism",
+      "title": "Venezuela’s forgotten Armenian community",
       "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/05/04/the-unraveling-of-ottoman-multiculturalism/",
-      "published_date": "2026-05-04T10:29:30Z",
-      "category": "Economy"
+      "url": "https://armenianweekly.com/2026/05/11/venezuelas-forgotten-armenian-community/",
+      "published_date": "2026-05-11T13:25:15Z",
+      "category": "Local Events"
     },
     {
       "title": "The empathy of a revolutionary: Bidding farewell to Tatul Sonentz-Papazian",
@@ -337,13 +344,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/05/07/aliyev-uses-yerevan-epc-summit-as-political-stage/",
       "published_date": "2026-05-07T12:44:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Literary Lights 2026 spotlights “Remain in Light” editor and contributors",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/05/07/literary-lights-2026-spotlights-remain-in-light-editor-and-contributors/",
-      "published_date": "2026-05-07T12:00:47Z",
       "category": "Local Events"
     }
   ]
