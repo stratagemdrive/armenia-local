@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-11T23:53:55Z",
+  "generated_at": "2026-05-12T13:03:52Z",
   "country": "Armenia",
-  "total_stories": 49,
+  "total_stories": 48,
   "categories": [
     "Diplomacy",
     "Military",
@@ -137,13 +137,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Armenia, EU Sign Joint Declaration Cementing Security, Defense and Economic Integration",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181228",
-      "published_date": "2026-05-05T09:30:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "The cost of health rights violations in the army",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/05/11/the-cost-of-health-rights-violations-in-the-army/",
@@ -179,6 +172,13 @@
       "category": "Energy"
     },
     {
+      "title": "CNF Allocates AMD 57.3 Million for Sevan National Park Upkeep",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181364",
+      "published_date": "2026-05-12T11:56:00Z",
+      "category": "Economy"
+    },
+    {
       "title": "The question of Nakhichevan’s autonomy",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/05/11/the-question-of-nakhichevans-autonomy/",
@@ -207,11 +207,18 @@
       "category": "Economy"
     },
     {
-      "title": "Bell Ringing Ceremony at the London Stock Exchange marks Ameriabank’s inclusion in the FTSE 100 as part of LFG",
+      "title": "Congressman Fine should be kicked out of Congress for anti-Armenian racist remarks",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/05/12/congressman-fine-should-be-kicked-out-of-congress-for-anti-armenian-racist-remarks/",
+      "published_date": "2026-05-12T12:20:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenia Deputy PM, U.S. Delegation Discuss TRIPP Project",
       "source": "Hetq",
-      "url": "https://hetq.am/en/article/181236",
-      "published_date": "2026-05-05T11:53:00Z",
-      "category": "Economy"
+      "url": "https://hetq.am/en/article/181362",
+      "published_date": "2026-05-12T11:39:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Turkish Journalists Visit Gyumri, Armenia-Turkey Border",
@@ -337,20 +344,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/05/08/software-developer-builds-apps-for-language-learning-and-budgeting/",
       "published_date": "2026-05-08T15:20:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Unibank was a partner of the international forum “Yerevan Dialogue”",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181320",
-      "published_date": "2026-05-08T13:05:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Andonian’s “The Great Crime” now available in English",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/05/08/andonians-the-great-crime-now-available-in-english/",
-      "published_date": "2026-05-08T12:12:11Z",
       "category": "Local Events"
     }
   ]
