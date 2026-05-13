@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-13T13:11:08Z",
+  "generated_at": "2026-05-13T23:52:20Z",
   "country": "Armenia",
-  "total_stories": 41,
+  "total_stories": 39,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Armenia, Turkey Finalize Preparations for Direct Trade",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181376",
+      "published_date": "2026-05-13T07:38:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Putin Suggests ‘Divorce’ From Armenia, as Kremlin Steps Up Pressure on Yerevan over Zelensky",
       "source": "Asbarez",
@@ -88,27 +95,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Washington Event Honors Armenian Contributions Ahead of U.S. 250th Anniversary",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/washington-event-honors-armenian-contributions-ahead-of-u-s-250th-anniversary/",
-      "published_date": "2026-05-06T20:28:33Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Mirzoyan Puts Further Distance Between Armenia and Diaspora",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/mirzoyan-says-diasporas-views-do-not-align-with-armenias-needs/",
-      "published_date": "2026-05-06T18:35:44Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EAFJD Says EU Summit Omitted Discussion on Artsakh",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/eafjd-says-eu-summit-omitted-discussion-on-artsakh/",
-      "published_date": "2026-05-06T18:29:22Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "The cost of health rights violations in the army",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/05/11/the-cost-of-health-rights-violations-in-the-army/",
@@ -156,6 +142,69 @@
       "url": "https://hetq.am/en/article/181298",
       "published_date": "2026-05-07T12:29:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Armenia Bloc Lawmakers Meet with PACE Election Observers",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/armenia-bloc-lawmakers-meet-with-pace-election-observers/",
+      "published_date": "2026-05-13T23:18:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Participation of Teachers and Schoolchildren at Pashinyan Rallies Sparks Uproar",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/participation-of-teachers-and-schoolchildren-at-pashinyan-rallies-sparks-uproar/",
+      "published_date": "2026-05-13T22:43:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenian Church in Javakhk Vandalized, Religious Relics Thrown in Trash Bin",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/armenian-church-in-javakhk-vandalized-religious-relics-thrown-in-trash-bin/",
+      "published_date": "2026-05-13T22:26:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "ANCA-Glendale Announces Endorsements for June 2 City Election",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/anca-glendale-announces-endorsements-for-june-2-city-election/",
+      "published_date": "2026-05-13T22:21:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "COAF Hosts First-Ever TEDx Event in Lori, Bringing Global Ideas to Debed",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/coaf-hosts-first-ever-tedx-event-in-lori-bringing-global-ideas-to-debed/",
+      "published_date": "2026-05-13T17:34:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "“Armed With Love”: Lucy Khanyan’s journey through chaos and solitude",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/05/13/armed-with-love-lucy-khanyans-journey-through-chaos-and-solitude/",
+      "published_date": "2026-05-13T15:48:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Region in Brief",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/05/13/the-region-in-brief-168/",
+      "published_date": "2026-05-13T15:07:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "America’s oldest Armenian Church seeks founding families’ descendants",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/05/13/americas-oldest-armenian-church-seeks-founding-families-descendants/",
+      "published_date": "2026-05-13T14:55:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "How basketball took Seda Gabrielyan from Armenia to Memphis",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/05/13/how-basketball-took-seda-gabrielyan-from-armenia-to-memphis/",
+      "published_date": "2026-05-13T14:48:40Z",
+      "category": "Local Events"
     },
     {
       "title": "Death Notice: Ovsanna Ghazarian",
@@ -232,69 +281,6 @@
       "source": "Asbarez",
       "url": "https://asbarez.com/dr-carolyn-kaloostian-announces-candidacy-for-glendale-city-council/",
       "published_date": "2026-05-11T19:09:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "America’s Oldest Armenian Church Seeks Descendants of Founding Families for 135th Anniversary Celebration",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/americas-oldest-armenian-church-seeks-descendants-of-founding-families-for-135th-anniversary-celebration/",
-      "published_date": "2026-05-11T17:31:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenian Community of Rome Hosts Festive Baptism and Celebration",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/armenian-community-of-rome-hosts-festive-baptism-and-celebration/",
-      "published_date": "2026-05-11T17:26:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "AGBU Manoogian-Demirdjian School wins First Place at US Academic Decathlon Small Schools Virtual National Competition",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/agbu-manoogian-demirdjian-school-wins-first-place-at-us-academic-decathlon-small-schools-virtual-national-competition/",
-      "published_date": "2026-05-11T17:15:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lilit Gurekhyan’s world of mirrors",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/05/11/lilit-gurekhyans-world-of-mirrors/",
-      "published_date": "2026-05-11T15:42:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "From partnership to rivalry: Turkey and Israel in the Middle East",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/05/11/from-partnership-to-rivalry-turkey-and-israel-in-the-middle-east/",
-      "published_date": "2026-05-11T14:17:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Venezuela’s forgotten Armenian community",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/05/11/venezuelas-forgotten-armenian-community/",
-      "published_date": "2026-05-11T13:25:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The empathy of a revolutionary: Bidding farewell to Tatul Sonentz-Papazian",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/05/10/the-empathy-of-a-revolutionary/",
-      "published_date": "2026-05-10T15:40:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "This is what I do",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/05/10/this-is-what-i-do/",
-      "published_date": "2026-05-10T14:00:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Apraham “Apo” Ashjian remembered for preserving Armenian folkloric dance",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/05/10/apraham-apo-ashjian-remembered-for-preserving-armenian-folkloric-dance/",
-      "published_date": "2026-05-10T14:00:42Z",
       "category": "Local Events"
     }
   ]
