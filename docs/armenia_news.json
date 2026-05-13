@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-12T23:56:09Z",
+  "generated_at": "2026-05-13T13:11:08Z",
   "country": "Armenia",
-  "total_stories": 43,
+  "total_stories": 41,
   "categories": [
     "Diplomacy",
     "Military",
@@ -130,20 +130,6 @@
       "category": "Military"
     },
     {
-      "title": "Armenian Defense Minister in Poland for Defense/Security Conference",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181262",
-      "published_date": "2026-05-06T08:07:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Evocabank, Proparco-AFD Sign €20M Credit Deal",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181269",
-      "published_date": "2026-05-06T10:17:00Z",
-      "category": "Energy"
-    },
-    {
       "title": "CNF Allocates AMD 57.3 Million for Sevan National Park Upkeep",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/181364",
@@ -170,6 +156,13 @@
       "url": "https://hetq.am/en/article/181298",
       "published_date": "2026-05-07T12:29:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Death Notice: Ovsanna Ghazarian",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/death-notice-ovsanna-ghazarian/",
+      "published_date": "2026-05-12T19:52:25Z",
+      "category": "Local Events"
     },
     {
       "title": "Arshile Gorky exhibition at AMA extended through September 2026",
@@ -302,13 +295,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/05/10/apraham-apo-ashjian-remembered-for-preserving-armenian-folkloric-dance/",
       "published_date": "2026-05-10T14:00:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Armenian spirit: The wartime legacy of the Agazarian family",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/05/09/the-armenian-spirit-the-wartime-legacy-of-the-agazarian-family/",
-      "published_date": "2026-05-09T12:40:00Z",
       "category": "Local Events"
     }
   ]
