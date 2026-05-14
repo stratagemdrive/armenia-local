@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T23:52:20Z",
+  "generated_at": "2026-05-14T12:23:45Z",
   "country": "Armenia",
   "total_stories": 39,
   "categories": [
@@ -144,6 +144,13 @@
       "category": "Economy"
     },
     {
+      "title": "Armenia to Spend $1.8 Million to Hold Eurovision Young Musicians Competition",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181400",
+      "published_date": "2026-05-14T09:05:00Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Armenia Bloc Lawmakers Meet with PACE Election Observers",
       "source": "Asbarez",
       "url": "https://asbarez.com/armenia-bloc-lawmakers-meet-with-pace-election-observers/",
@@ -274,13 +281,6 @@
       "source": "Asbarez",
       "url": "https://asbarez.com/l-a-county-sheriff-luna-visits-western-prelate/",
       "published_date": "2026-05-11T19:46:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dr. Carolyn Kaloostian Announces Candidacy for Glendale City Council",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/dr-carolyn-kaloostian-announces-candidacy-for-glendale-city-council/",
-      "published_date": "2026-05-11T19:09:14Z",
       "category": "Local Events"
     }
   ]
