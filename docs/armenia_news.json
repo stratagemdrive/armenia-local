@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-18T14:29:09Z",
+  "generated_at": "2026-05-19T00:02:01Z",
   "country": "Armenia",
-  "total_stories": 30,
+  "total_stories": 29,
   "categories": [
     "Diplomacy",
     "Military",
@@ -39,13 +39,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Putin Suggests ‘Divorce’ From Armenia, as Kremlin Steps Up Pressure on Yerevan over Zelensky",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/putin-suggests-divorce-with-armenia-as-kremlin-steps-up-pressure-on-yerevan-over-zelensky/",
-      "published_date": "2026-05-11T21:11:54Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Zeron and Sona Titizian Named Honorary Presidents of Homenetmen Navasartian Games",
       "source": "Asbarez",
       "url": "https://asbarez.com/zeron-and-sona-titizian-named-honorary-presidents-of-navasartian-games/",
@@ -79,6 +72,48 @@
       "url": "https://hetq.am/en/article/181364",
       "published_date": "2026-05-12T11:56:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Aurora Mardiganian’s story moves Argentina’s student",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/05/18/aurora-mardiganians-story-moves-argentinas-student/",
+      "published_date": "2026-05-18T16:47:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nature, poetry and environmental collapse with Moheb Soliman",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/05/18/nature-poetry-and-environmental-collapse-with-moheb-soliman/",
+      "published_date": "2026-05-18T16:00:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tereza Papoyan’s free flight on canvas",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/05/18/tereza-papoyans-free-flight-on-canvas/",
+      "published_date": "2026-05-18T15:59:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Censure Randy Fine for racist remarks targeting Armenians",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/05/18/censure-randy-fine-for-racist-remarks-targeting-armenians/",
+      "published_date": "2026-05-18T15:27:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Providing the soil for a new voice",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/05/18/providing-the-soil-for-a-new-voice/",
+      "published_date": "2026-05-18T15:15:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Karen Khurshudyan preserves light through darkness",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/05/18/karen-khurshudyan-preserves-light-through-darkness/",
+      "published_date": "2026-05-18T15:12:43Z",
+      "category": "Local Events"
     },
     {
       "title": "CIS to Send 120 Election Observers to Armenia",
@@ -176,48 +211,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/05/15/arf-boston-sardarabad-gomideh-mourns-the-passing-of-tatul-sonentz-papazian/",
       "published_date": "2026-05-15T15:00:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "European Film Festival in Yerevan",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181430",
-      "published_date": "2026-05-15T11:37:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "“Generations, Know Yourselves”",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/05/15/generations-know-yourselves/",
-      "published_date": "2026-05-15T10:09:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "After Uproar, Pashinyan Claims He Ordered ‘Dismissal’ of Educators",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/after-uproar-pashinyan-claims-he-ordered-dismissal-of-educators/",
-      "published_date": "2026-05-14T22:51:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenia Bloc Members Arrested as Police Raid Spitak Headquarters",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/armenia-bloc-members-arrested-as-police-raid-spitak-headquarters/",
-      "published_date": "2026-05-14T22:18:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Before I Forget,’ A New Powerful Memoir by Aram Saroyan",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/before-i-forget-a-new-powerful-memoir-by-aram-saroyan/",
-      "published_date": "2026-05-14T20:52:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "ANCA Eastern Region welcomes Nairi Diratsouian as Executive Director",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/05/14/anca-eastern-region-welcomes-nairi-diratsouian-as-executive-director/",
-      "published_date": "2026-05-14T18:59:55Z",
       "category": "Local Events"
     }
   ]
