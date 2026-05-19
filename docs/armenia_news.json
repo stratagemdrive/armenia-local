@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-19T00:02:01Z",
+  "generated_at": "2026-05-19T13:54:38Z",
   "country": "Armenia",
-  "total_stories": 29,
+  "total_stories": 28,
   "categories": [
     "Diplomacy",
     "Military",
@@ -67,11 +67,18 @@
       "category": "Economy"
     },
     {
-      "title": "CNF Allocates AMD 57.3 Million for Sevan National Park Upkeep",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181364",
-      "published_date": "2026-05-12T11:56:00Z",
-      "category": "Economy"
+      "title": "Will Nikol Pashinyan remain in office after June 7 parliamentary elections?",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/05/19/will-nikol-pashinyan-remain-in-office-after-june-7-parliamentary-elections/",
+      "published_date": "2026-05-19T12:19:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "ANCA mobilizes South Texas faith community against Cuellar",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/05/19/anca-mobilizes-south-texas-faith-community-against-cuellar/",
+      "published_date": "2026-05-19T10:55:38Z",
+      "category": "Local Events"
     },
     {
       "title": "Aurora Mardiganian’s story moves Argentina’s student",
@@ -197,20 +204,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/05/15/the-godfather-and-his-consigliere-a-tribute-to-tatul-sonentz/",
       "published_date": "2026-05-15T15:19:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fifteen things I wish I knew before my last trip to Yerevan",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/05/15/fifteen-things-i-wish-i-knew-before-my-last-trip-to-yerevan/",
-      "published_date": "2026-05-15T15:02:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "ARF Boston “Sardarabad” Gomideh mourns the passing of Tatul Sonentz-Papazian",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/05/15/arf-boston-sardarabad-gomideh-mourns-the-passing-of-tatul-sonentz-papazian/",
-      "published_date": "2026-05-15T15:00:16Z",
       "category": "Local Events"
     }
   ]
