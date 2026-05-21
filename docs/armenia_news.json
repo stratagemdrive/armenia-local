@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T13:37:20Z",
+  "generated_at": "2026-05-21T00:03:28Z",
   "country": "Armenia",
   "total_stories": 34,
   "categories": [
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "The stolen childhoods of Artsakh",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/05/20/the-stolen-childhoods-of-artsakh/",
+      "published_date": "2026-05-20T16:18:02Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Moscow Warns of Armenia’s Possible Ouster From Russia-Led Economic Bloc",
       "source": "Asbarez",
@@ -102,11 +109,25 @@
       "category": "Economy"
     },
     {
-      "title": "Unibank provided cashback to more than 2 000 reliable SME borrowers",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181426",
-      "published_date": "2026-05-13T14:27:00Z",
-      "category": "Economy"
+      "title": "Uruguay, Armenia essay winners awarded LA visit",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/05/20/uruguay-armenia-essay-winners-awarded-la-visit/",
+      "published_date": "2026-05-20T16:14:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The translator between Iran and Armenia",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/05/20/the-translator-between-iran-and-armenia/",
+      "published_date": "2026-05-20T14:57:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "ACPR condemns threats of violent retaliation by the PM",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/05/20/acpr-condemns-threats-of-violent-retaliation-by-the-pm/",
+      "published_date": "2026-05-20T14:41:46Z",
+      "category": "Local Events"
     },
     {
       "title": "Armenian Center for Political Rights Condemns Threats of Violent Retaliation by the Armenian Prime Minister",
@@ -225,27 +246,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/05/18/censure-randy-fine-for-racist-remarks-targeting-armenians/",
       "published_date": "2026-05-18T15:27:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Providing the soil for a new voice",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/05/18/providing-the-soil-for-a-new-voice/",
-      "published_date": "2026-05-18T15:15:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Karen Khurshudyan preserves light through darkness",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/05/18/karen-khurshudyan-preserves-light-through-darkness/",
-      "published_date": "2026-05-18T15:12:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "CIS to Send 120 Election Observers to Armenia",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181463",
-      "published_date": "2026-05-18T12:37:00Z",
       "category": "Local Events"
     }
   ]
