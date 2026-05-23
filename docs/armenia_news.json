@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T11:59:12Z",
+  "generated_at": "2026-05-23T23:53:30Z",
   "country": "Armenia",
   "total_stories": 38,
   "categories": [
@@ -137,6 +137,20 @@
       "category": "Economy"
     },
     {
+      "title": "Restoring Ancient Armenian Tomes: Yerevan’s Matenadaran Specialists at Work",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181568",
+      "published_date": "2026-05-23T15:39:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Syria’s Armenian Union Party Criticizes Exclusion from Electoral Process",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181582",
+      "published_date": "2026-05-23T15:37:00Z",
+      "category": "Local Events"
+    },
+    {
       "title": "TUMO Announces 15th Anniversary Los Angeles Gala",
       "source": "Asbarez",
       "url": "https://asbarez.com/tumo-announces-15th-anniversary-los-angeles-gala/",
@@ -260,20 +274,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/05/20/the-translator-between-iran-and-armenia/",
       "published_date": "2026-05-20T14:57:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "ACPR condemns threats of violent retaliation by the PM",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/05/20/acpr-condemns-threats-of-violent-retaliation-by-the-pm/",
-      "published_date": "2026-05-20T14:41:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenian Center for Political Rights Condemns Threats of Violent Retaliation by the Armenian Prime Minister",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/armenian-center-for-political-rights-condemns-threats-of-violent-retaliation-by-the-armenian-prime-minister/",
-      "published_date": "2026-05-19T21:36:19Z",
       "category": "Local Events"
     }
   ]
