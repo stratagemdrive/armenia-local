@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T12:00:31Z",
+  "generated_at": "2026-05-24T23:55:58Z",
   "country": "Armenia",
   "total_stories": 38,
   "categories": [
@@ -137,6 +137,20 @@
       "category": "Economy"
     },
     {
+      "title": "Actor Simon Abkarian, Filmmaker Artavazd Pelechian Honored at Cannes",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/simon-abkarian-artavazd-pelechian-honored-at-cannes/",
+      "published_date": "2026-05-24T16:29:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "California State Superintendent Tony Thurmond Visits Chamlian School",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/california-state-superintendent-tony-thurmond-visits-chamlian-school/",
+      "published_date": "2026-05-24T16:24:54Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Restoring Ancient Armenian Tomes: Yerevan’s Matenadaran Specialists at Work",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/181568",
@@ -260,20 +274,6 @@
       "source": "Asbarez",
       "url": "https://asbarez.com/roman-church-inducts-saint-nerses-shnorhali-into-its-martyrology-calendar/",
       "published_date": "2026-05-20T21:00:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Uruguay, Armenia essay winners awarded LA visit",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/05/20/uruguay-armenia-essay-winners-awarded-la-visit/",
-      "published_date": "2026-05-20T16:14:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The translator between Iran and Armenia",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/05/20/the-translator-between-iran-and-armenia/",
-      "published_date": "2026-05-20T14:57:54Z",
       "category": "Local Events"
     }
   ]
