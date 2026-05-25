@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-24T23:55:58Z",
+  "generated_at": "2026-05-25T14:07:18Z",
   "country": "Armenia",
-  "total_stories": 38,
+  "total_stories": 39,
   "categories": [
     "Diplomacy",
     "Military",
@@ -109,6 +109,20 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Ruben Vardanyan Denounces Planned May 28 Yerevan Military Parade as Immoral",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181594",
+      "published_date": "2026-05-25T10:09:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Ameriabank, ADB Sign $100 Million Agreement to Expand Micro, SME, and Green Finance in Armenia",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181597",
+      "published_date": "2026-05-25T11:45:00Z",
+      "category": "Economy"
+    },
+    {
       "title": "Armenia Needs Integrated Healthcare Now, a Physician’s Perspective",
       "source": "Asbarez",
       "url": "https://asbarez.com/armenia-needs-integrated-healthcare-now-a-physicians-perspective/",
@@ -130,11 +144,11 @@
       "category": "Economy"
     },
     {
-      "title": "Unibank Launches Fee-Free Online Payroll Card Issuance",
+      "title": "U.S. Secretary of State Marco Rubio to Visit Armenia",
       "source": "Hetq",
-      "url": "https://hetq.am/en/article/181464",
-      "published_date": "2026-05-18T12:42:00Z",
-      "category": "Economy"
+      "url": "https://hetq.am/en/article/181592",
+      "published_date": "2026-05-25T06:29:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Actor Simon Abkarian, Filmmaker Artavazd Pelechian Honored at Cannes",
@@ -267,13 +281,6 @@
       "source": "Asbarez",
       "url": "https://asbarez.com/armenia-selected-as-honorary-country-to-create-films-for-cannes-critics-week-2027/",
       "published_date": "2026-05-20T21:55:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Roman Church Inducts Saint Nerses Shnorhali into its Martyrology Calendar",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/roman-church-inducts-saint-nerses-shnorhali-into-its-martyrology-calendar/",
-      "published_date": "2026-05-20T21:00:52Z",
       "category": "Local Events"
     }
   ]
