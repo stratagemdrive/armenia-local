@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-26T00:02:06Z",
+  "generated_at": "2026-05-26T13:53:19Z",
   "country": "Armenia",
-  "total_stories": 37,
+  "total_stories": 38,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Live: U.S., Armenia Sign TRIPP Framework Agreement",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181626",
+      "published_date": "2026-05-26T12:43:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Catholicos Aram I Offers Prayers at Vatican",
       "source": "Hetq",
@@ -130,6 +137,27 @@
       "category": "Economy"
     },
     {
+      "title": "If Pashinyan bans any opposition party, the rest should boycott the election",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/05/26/if-pashinyan-bans-any-opposition-party-the-rest-should-boycott-the-election/",
+      "published_date": "2026-05-26T13:53:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "AYF Albany “Shoushi” Chapter hosts second annual talent show",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/05/26/ayf-albany-shoushi-chapter-hosts-second-annual-talent-show/",
+      "published_date": "2026-05-26T13:44:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenia’s media crisis: Declining press freedom and political polarization",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/05/26/armenias-media-crisis-declining-press-freedom-and-political-polarization/",
+      "published_date": "2026-05-26T13:42:30Z",
+      "category": "Local Events"
+    },
+    {
       "title": "U.S. Secretary of State Marco Rubio to Visit Armenia",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/181592",
@@ -246,27 +274,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/05/21/the-ars-9th-international-cruise-destination-asia/",
       "published_date": "2026-05-21T14:21:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Escalating rhetoric ahead of Armenia’s June parliamentary elections",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/05/21/escalating-rhetoric-ahead-of-armenias-june-parliamentary-elections/",
-      "published_date": "2026-05-21T14:19:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Public Television of Armenia Reports Cyberattack on Broadcast Infrastructure",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181518",
-      "published_date": "2026-05-21T06:19:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenia Selected as Honorary Country to Create Films for Cannes Critics’ Week 2027",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/armenia-selected-as-honorary-country-to-create-films-for-cannes-critics-week-2027/",
-      "published_date": "2026-05-20T21:55:02Z",
       "category": "Local Events"
     }
   ]
