@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-30T12:04:05Z",
+  "generated_at": "2026-05-30T23:57:41Z",
   "country": "Armenia",
-  "total_stories": 39,
+  "total_stories": 40,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Eurasian Economic Union Leaders Say Armenia Should Hold Referendum",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181690",
+      "published_date": "2026-05-29T20:38:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "ANC-International Produces a Comprehensive Critical Analysis of the TRIPP Armenia-U.S. Framework Agreement",
       "source": "Asbarez",
