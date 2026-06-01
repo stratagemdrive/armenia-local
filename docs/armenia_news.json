@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T12:10:53Z",
+  "generated_at": "2026-06-01T00:02:59Z",
   "country": "Armenia",
   "total_stories": 40,
   "categories": [
@@ -151,6 +151,13 @@
       "category": "Economy"
     },
     {
+      "title": "International Republican Institute’s Armenia Survey Misleads the Public",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/international-republican-institutes-armenia-survey-misleads-the-public/",
+      "published_date": "2026-05-30T18:06:26Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Why Fiona Ma Has Earned Our Community’s Vote for Lieutenant Governor",
       "source": "Asbarez",
       "url": "https://asbarez.com/why-fiona-ma-has-earned-our-communitys-vote-for-lieutenant-governor/",
@@ -281,13 +288,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/181650",
       "published_date": "2026-05-27T12:25:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Environmental Issues Take a Back Seat in Armenia’s Election Campaign",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181638",
-      "published_date": "2026-05-27T06:00:00Z",
       "category": "Local Events"
     }
   ]
