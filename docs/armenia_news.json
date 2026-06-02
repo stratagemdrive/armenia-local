@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-02T00:09:19Z",
+  "generated_at": "2026-06-02T14:52:15Z",
   "country": "Armenia",
-  "total_stories": 41,
+  "total_stories": 44,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,27 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Election campaign reshapes views on Armenia’s territorial losses",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/02/election-campaign-reshapes-views-on-armenias-territorial-losses/",
+      "published_date": "2026-06-02T14:24:05Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Russia, the U.S. and the EU should keep out of Armenia’s domestic affairs",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/02/russia-the-u-s-and-the-eu-should-keep-out-of-armenias-domestic-affairs/",
+      "published_date": "2026-06-02T14:20:08Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Russia Curbs Import of Stone Fruits, Eggplants, Potatoes, Dried Fruit From Armenia",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181745",
+      "published_date": "2026-06-02T12:55:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "ANC-International releases policy brief on TRIPP agreement",
       "source": "The Armenian Weekly",
@@ -95,13 +116,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Live: U.S., Armenia Sign TRIPP Framework Agreement",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181626",
-      "published_date": "2026-05-26T12:43:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Not Nuremberg",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/05/27/not-nuremberg/",
@@ -121,6 +135,13 @@
       "url": "https://asbarez.com/moscow-threatens-to-hike-gas-price-for-armenia/",
       "published_date": "2026-05-27T15:45:40Z",
       "category": "Energy"
+    },
+    {
+      "title": "The limits of gender quotas in Armenia’s male-dominated politics",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/02/the-limits-of-gender-quotas-in-armenias-male-dominated-politics/",
+      "published_date": "2026-06-02T14:29:44Z",
+      "category": "Economy"
     },
     {
       "title": "How Armenian Sports News reached the White House",
@@ -156,6 +177,34 @@
       "url": "https://asbarez.com/dreaming-of-new-masters-how-the-pashinyan-regime-is-trying-to-replace-traditional-influence-with-real-dangers/",
       "published_date": "2026-05-26T18:22:48Z",
       "category": "Economy"
+    },
+    {
+      "title": "Homenetmen New Jersey honors fallen heroes in Memorial Day parade",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/02/homenetmen-new-jersey-honors-fallen-heroes-in-memorial-day-parade/",
+      "published_date": "2026-06-02T14:27:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police Arrest Strong Armenia Party Senior Member for Money Laundering",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181750",
+      "published_date": "2026-06-02T13:35:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Unibank Launches Instant Iransfers by Phone Number",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181748",
+      "published_date": "2026-06-02T13:14:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police Raid Homes in Armavir Province in Weapons Search",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181727",
+      "published_date": "2026-06-02T05:16:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Heriknaz Poloyan and the spirituality of Armenian song",
@@ -267,34 +316,6 @@
       "source": "Asbarez",
       "url": "https://asbarez.com/between-two-worlds-two-cultures-afina-madoyan-sevak-amroyan-gor-sujyan-suren-arustamyan-live-at-pechanga-theater-on-june-20/",
       "published_date": "2026-05-28T17:35:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Yerevan Military Parade to Mark Republic Day",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181656",
-      "published_date": "2026-05-28T14:37:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Davit Ishkhanyan: ‘We will continue following the path we have chosen together’",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/05/28/davit-ishkhanyan-we-will-continue-following-the-path-we-have-chosen-together/",
-      "published_date": "2026-05-28T13:28:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Region in Brief",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/05/28/the-region-in-brief-170/",
-      "published_date": "2026-05-28T13:26:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenian prisoners in Baku: A political inconvenience for Yerevan?",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/05/28/armenian-prisoners-in-baku-a-political-inconvenience-for-yerevan/",
-      "published_date": "2026-05-28T13:20:42Z",
       "category": "Local Events"
     }
   ]
