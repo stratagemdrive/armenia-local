@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-03T00:24:51Z",
+  "generated_at": "2026-06-03T15:26:50Z",
   "country": "Armenia",
-  "total_stories": 41,
+  "total_stories": 39,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Study examines consequences of Artsakh Armenian displacement",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/03/study-examines-consequences-of-artsakh-armenian-displacement/",
+      "published_date": "2026-06-03T14:45:56Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Election campaign reshapes views on Armenia’s territorial losses",
       "source": "The Armenian Weekly",
@@ -88,27 +95,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Time for a reckoning in South Texas",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/05/27/time-for-a-reckoning-in-south-texas/",
-      "published_date": "2026-05-27T13:40:59Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Armenia’s democracy erodes amid Russia-West rivalry",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/05/27/armenias-democracy-erodes-amid-russia-west-rivalry/",
-      "published_date": "2026-05-27T13:26:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Not Nuremberg",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/05/27/not-nuremberg/",
-      "published_date": "2026-05-27T13:24:54Z",
-      "category": "Military"
-    },
-    {
       "title": "Spent Nuclear Fuel: Waste or Resource?",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/181722",
@@ -121,6 +107,20 @@
       "url": "https://asbarez.com/moscow-threatens-to-hike-gas-price-for-armenia/",
       "published_date": "2026-05-27T15:45:40Z",
       "category": "Energy"
+    },
+    {
+      "title": "Armenia Asked to Freeze Magnitsky-Linked Funds",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181774",
+      "published_date": "2026-06-03T11:12:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Ameriabank Wins Four Awards at AMX Awards 2026",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181765",
+      "published_date": "2026-06-03T07:55:00Z",
+      "category": "Economy"
     },
     {
       "title": "The limits of gender quotas in Armenia’s male-dominated politics",
@@ -144,18 +144,39 @@
       "category": "Economy"
     },
     {
-      "title": "Unibank Will Not Increase Fixed-Adjustable Interest Rates on Loans Secured by Real Estate",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181654",
-      "published_date": "2026-05-27T13:36:00Z",
-      "category": "Economy"
+      "title": "Literary Lights to feature Naira Kuzmich’s “Fearcatcher”",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/03/literary-lights-to-feature-naira-kuzmichs-fearcatcher/",
+      "published_date": "2026-06-03T15:06:07Z",
+      "category": "Local Events"
     },
     {
-      "title": "Armenia Wine Hosts Concours Mondial de Bruxelles Guests",
+      "title": "Remembering May 28, renewing our responsibility",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/03/remembering-may-28-renewing-our-responsibility/",
+      "published_date": "2026-06-03T15:01:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lebanese Religious Leaders Condemn Israeli Attacks",
       "source": "Hetq",
-      "url": "https://hetq.am/en/article/181645",
-      "published_date": "2026-05-27T11:28:00Z",
-      "category": "Economy"
+      "url": "https://hetq.am/en/article/181777",
+      "published_date": "2026-06-03T12:58:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Magnitsky Case Fallout: How Questionable 500,000 Swiss Francs Reached Armenia",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181761",
+      "published_date": "2026-06-03T12:47:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pashinyan, Erdoğan Exchange Greetings",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181755",
+      "published_date": "2026-06-03T04:53:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Homenetmen New Jersey honors fallen heroes in Memorial Day parade",
@@ -260,41 +281,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/05/29/mosaics-of-armenia-offers-a-magnificent-performance/",
       "published_date": "2026-05-29T15:09:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Firebird to Join Armenia’s National-Level Education Efforts to Support AI-Native Learning at Scale, Launches Firebird Labs",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181687",
-      "published_date": "2026-05-29T15:05:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why every Junior should try something new this year",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/05/29/why-every-junior-should-try-something-new-this-year/",
-      "published_date": "2026-05-29T13:53:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Book review: “First Rule of Fire”",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/05/29/book-review-first-rule-of-fire/",
-      "published_date": "2026-05-29T13:51:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘We trust that you will understand us and stretch out your brotherly and helping hand’",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/05/29/we-trust-that-you-will-understand-us/",
-      "published_date": "2026-05-29T11:40:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Between Two Worlds – Two Cultures’: Afina Madoyan, Sevak Amroyan, Gor Sujyan & Suren Arustamyan Live at Pechanga Theater on June 20",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/between-two-worlds-two-cultures-afina-madoyan-sevak-amroyan-gor-sujyan-suren-arustamyan-live-at-pechanga-theater-on-june-20/",
-      "published_date": "2026-05-28T17:35:24Z",
       "category": "Local Events"
     }
   ]
