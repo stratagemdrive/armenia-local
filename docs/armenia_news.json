@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-04T00:27:44Z",
+  "generated_at": "2026-06-04T13:57:08Z",
   "country": "Armenia",
-  "total_stories": 38,
+  "total_stories": 37,
   "categories": [
     "Diplomacy",
     "Military",
@@ -74,25 +74,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "The emerging Middle East-South Asia strategic alignment",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/05/28/the-emerging-middle-east-south-asia-strategic-alignment/",
-      "published_date": "2026-05-28T13:13:24Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump Endorses Pashinyan in Armenia’s June Election",
+      "title": "Solis CJSC, managed by Amber Capital and combining a portfolio of solar power plants, issues bonds",
       "source": "Hetq",
-      "url": "https://hetq.am/en/article/181667",
-      "published_date": "2026-05-28T12:49:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Armenia’s information war: Conditioning a nation to surrender",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/05/28/armenias-information-war-conditioning-a-nation-to-surrender/",
-      "published_date": "2026-05-28T12:24:24Z",
-      "category": "Diplomacy"
+      "url": "https://hetq.am/en/article/181798",
+      "published_date": "2026-06-04T13:28:00Z",
+      "category": "Energy"
     },
     {
       "title": "Spent Nuclear Fuel: Waste or Resource?",
@@ -100,6 +86,13 @@
       "url": "https://hetq.am/en/article/181722",
       "published_date": "2026-06-01T14:44:00Z",
       "category": "Energy"
+    },
+    {
+      "title": "EU to Provide Armenia with €50 million in Support to Counter Russian Restrictions",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181794",
+      "published_date": "2026-06-04T11:19:00Z",
+      "category": "Economy"
     },
     {
       "title": "Armenia Asked to Freeze Magnitsky-Linked Funds",
@@ -135,6 +128,20 @@
       "url": "https://hetq.am/en/article/181681",
       "published_date": "2026-05-29T12:09:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Thousands Attend Strong Armenia Party Rally in Yerevan",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181782",
+      "published_date": "2026-06-04T13:23:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Selective interference framing intensifies Russian economic pressure",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/04/selective-interference-framing-intensifies-russian-economic-pressure/",
+      "published_date": "2026-06-04T12:00:52Z",
+      "category": "Local Events"
     },
     {
       "title": "ANCA launching pre-election Capitol Hill mobilization",
@@ -260,20 +267,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/181711",
       "published_date": "2026-06-01T09:39:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenia: NGOs Demand the Immediate Release of Artur Osipyan",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181707",
-      "published_date": "2026-06-01T08:10:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "International Republican Institute’s Armenia Survey Misleads the Public",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/international-republican-institutes-armenia-survey-misleads-the-public/",
-      "published_date": "2026-05-30T18:06:26Z",
       "category": "Local Events"
     }
   ]
