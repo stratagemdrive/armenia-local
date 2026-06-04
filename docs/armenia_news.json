@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-03T15:26:50Z",
+  "generated_at": "2026-06-04T00:27:44Z",
   "country": "Armenia",
-  "total_stories": 39,
+  "total_stories": 38,
   "categories": [
     "Diplomacy",
     "Military",
@@ -102,13 +102,6 @@
       "category": "Energy"
     },
     {
-      "title": "Moscow Threatens To Hike Gas Price For Armenia",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/moscow-threatens-to-hike-gas-price-for-armenia/",
-      "published_date": "2026-05-27T15:45:40Z",
-      "category": "Energy"
-    },
-    {
       "title": "Armenia Asked to Freeze Magnitsky-Linked Funds",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/181774",
@@ -142,6 +135,20 @@
       "url": "https://hetq.am/en/article/181681",
       "published_date": "2026-05-29T12:09:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "ANCA launching pre-election Capitol Hill mobilization",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/03/anca-launching-pre-election-capitol-hill-mobilization/",
+      "published_date": "2026-06-03T16:47:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Region in Brief",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/03/the-region-in-brief-171/",
+      "published_date": "2026-06-03T16:12:41Z",
+      "category": "Local Events"
     },
     {
       "title": "Literary Lights to feature Naira Kuzmich’s “Fearcatcher”",
@@ -267,20 +274,6 @@
       "source": "Asbarez",
       "url": "https://asbarez.com/international-republican-institutes-armenia-survey-misleads-the-public/",
       "published_date": "2026-05-30T18:06:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why Fiona Ma Has Earned Our Community’s Vote for Lieutenant Governor",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/why-fiona-ma-has-earned-our-communitys-vote-for-lieutenant-governor/",
-      "published_date": "2026-05-29T17:24:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "“Mosaics of Armenia” offers a magnificent performance",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/05/29/mosaics-of-armenia-offers-a-magnificent-performance/",
-      "published_date": "2026-05-29T15:09:20Z",
       "category": "Local Events"
     }
   ]
