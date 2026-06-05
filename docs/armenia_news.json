@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-05T00:01:56Z",
+  "generated_at": "2026-06-05T13:51:59Z",
   "country": "Armenia",
-  "total_stories": 37,
+  "total_stories": 38,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,27 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "An acquired American: The contributions and patriotism of Moses Hadji Gulesian",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/05/an-acquired-american-the-contributions-and-patriotism-of-moses-hadji-gulesian/",
+      "published_date": "2026-06-05T12:22:07Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Armenia-US Officially Sign TRIPP Agreement",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/armenia-us-officially-sign-tripp-agreement/",
+      "published_date": "2026-06-04T21:59:21Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU Pledges Over €50 Million to Support Armenia",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/eu-pledges-over-e50-million-to-support-to-armenia/",
+      "published_date": "2026-06-04T21:52:38Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Study examines consequences of Artsakh Armenian displacement",
       "source": "The Armenian Weekly",
@@ -67,13 +88,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Russia Suspends Sales of Armenian Mineral Water Amid Rising Tensions with Yerevan",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181678",
-      "published_date": "2026-05-29T07:44:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Solis CJSC, managed by Amber Capital and combining a portfolio of solar power plants, issues bonds",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/181798",
@@ -123,11 +137,74 @@
       "category": "Economy"
     },
     {
-      "title": "Unibank Issues Perpetual Bonds With a 13.25% Annual Yield for Shareholders",
+      "title": "Former Head of Armenia’s State Property Management Department Gets Two Month Detention",
       "source": "Hetq",
-      "url": "https://hetq.am/en/article/181681",
-      "published_date": "2026-05-29T12:09:00Z",
-      "category": "Economy"
+      "url": "https://hetq.am/en/article/181814",
+      "published_date": "2026-06-05T10:05:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Former Yerevan Mayor Gagik Beglaryan Arrested",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181815",
+      "published_date": "2026-06-05T10:01:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "More Opposition Activists Arrested Ahead Sunday’s Elections",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/more-opposition-activists-arrested-ahead-sundays-elections/",
+      "published_date": "2026-06-04T21:55:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Landmark Richard G. Hovannisian Library to be Established in Yerevan",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/landmark-richard-g-hovannisian-library-to-be-established-in-yerevan/",
+      "published_date": "2026-06-04T20:58:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Varoujan Demirjian, Veteran Community Leader, Remembered",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/obituary-varoujan-demirjian/",
+      "published_date": "2026-06-04T20:51:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "New Novel Tells Inter-Generational Story of Resilience and Hope Despite Rooted Trauma",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/new-novel-tells-inter-generational-story-of-resilience-and-hope-despite-rooted-trauma/",
+      "published_date": "2026-06-04T20:49:42Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Keeping the Painting on the Easel",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/keeping-the-painting-on-the-easel/",
+      "published_date": "2026-06-04T19:58:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "AUA Celebrates the Legacy of Late President Dr. Haroutune K. Armenian",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/aua-celebrates-the-legacy-of-late-president-dr-haroutune-k-armenian/",
+      "published_date": "2026-06-04T19:53:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenia National Basketball Team to Face Ireland on June 27 in Los Angeles",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/armenia-national-basketball-team-to-face-ireland-on-june-27-in-los-angeles/",
+      "published_date": "2026-06-04T17:10:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "City of Glendale Commemorates Memorial Day",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/city-of-glendale-commemorates-memorial-day/",
+      "published_date": "2026-06-04T17:00:00Z",
+      "category": "Local Events"
     },
     {
       "title": "A path to restitution: Armenian Genocide looted art",
@@ -197,76 +274,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/06/03/remembering-may-28-renewing-our-responsibility/",
       "published_date": "2026-06-03T15:01:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lebanese Religious Leaders Condemn Israeli Attacks",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181777",
-      "published_date": "2026-06-03T12:58:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Magnitsky Case Fallout: How Questionable 500,000 Swiss Francs Reached Armenia",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181761",
-      "published_date": "2026-06-03T12:47:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pashinyan, Erdoğan Exchange Greetings",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181755",
-      "published_date": "2026-06-03T04:53:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Homenetmen New Jersey honors fallen heroes in Memorial Day parade",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/02/homenetmen-new-jersey-honors-fallen-heroes-in-memorial-day-parade/",
-      "published_date": "2026-06-02T14:27:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police Arrest Strong Armenia Party Senior Member for Money Laundering",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181750",
-      "published_date": "2026-06-02T13:35:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Unibank Launches Instant Iransfers by Phone Number",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181748",
-      "published_date": "2026-06-02T13:14:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police Raid Homes in Armavir Province in Weapons Search",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181727",
-      "published_date": "2026-06-02T05:16:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Heriknaz Poloyan and the spirituality of Armenian song",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/01/heriknaz-poloyan-and-the-spirituality-of-armenian-song/",
-      "published_date": "2026-06-01T15:58:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Veterans, community groups participate in Watertown Memorial Day parade",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/01/veterans-community-groups-participate-in-watertown-memorial-day-parade/",
-      "published_date": "2026-06-01T15:24:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The invisible enemy: The case for an informed community",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/01/the-invisible-enemy-the-case-for-an-informed-community/",
-      "published_date": "2026-06-01T14:38:35Z",
       "category": "Local Events"
     }
   ]
