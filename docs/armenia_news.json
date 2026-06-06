@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T00:02:45Z",
+  "generated_at": "2026-06-06T12:05:12Z",
   "country": "Armenia",
   "total_stories": 36,
   "categories": [
@@ -121,6 +121,13 @@
       "url": "https://armenianweekly.com/2026/06/02/the-limits-of-gender-quotas-in-armenias-male-dominated-politics/",
       "published_date": "2026-06-02T14:29:44Z",
       "category": "Economy"
+    },
+    {
+      "title": "Ameriabank and FMO Sign EUR 120 Million Agreement to Support MSMEs and Advance Green Finance in Armenia",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181846",
+      "published_date": "2026-06-06T11:24:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Nikol Pashinyan, We Reject You",
@@ -253,13 +260,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/06/04/diana-arterian-brings-agrippinas-story-into-the-present/",
       "published_date": "2026-06-04T14:38:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenian elections and the path to decoupling from Russia",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/04/armenian-elections-and-the-path-to-decoupling-from-russia/",
-      "published_date": "2026-06-04T13:50:21Z",
       "category": "Local Events"
     }
   ]
