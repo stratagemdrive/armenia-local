@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-05T13:51:59Z",
+  "generated_at": "2026-06-06T00:02:45Z",
   "country": "Armenia",
-  "total_stories": 38,
+  "total_stories": 36,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "A unique night marks the 250th anniversary of the United States",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/05/a-unique-night-marks-the-250th-anniversary-of-the-united-states/",
+      "published_date": "2026-06-05T14:29:39Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "An acquired American: The contributions and patriotism of Moses Hadji Gulesian",
       "source": "The Armenian Weekly",
@@ -74,20 +81,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Eurasian Economic Union Leaders Say Armenia Should Hold Referendum",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181690",
-      "published_date": "2026-05-29T20:38:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "ANC-International Produces a Comprehensive Critical Analysis of the TRIPP Armenia-U.S. Framework Agreement",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/anc-international-produces-a-comprehensive-critical-analysis-of-the-tripp-armenia-u-s-framework-agreement/",
-      "published_date": "2026-05-29T17:06:37Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Solis CJSC, managed by Amber Capital and combining a portfolio of solar power plants, issues bonds",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/181798",
@@ -130,11 +123,46 @@
       "category": "Economy"
     },
     {
-      "title": "How Armenian Sports News reached the White House",
+      "title": "Nikol Pashinyan, We Reject You",
       "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/05/29/how-armenian-sports-news-reached-the-white-house/",
-      "published_date": "2026-05-29T13:54:28Z",
-      "category": "Economy"
+      "url": "https://armenianweekly.com/2026/06/05/pashinyan-we-reject-you/",
+      "published_date": "2026-06-05T21:12:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Spiritual Significance of Holy Etchmiadzin in Our Time",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/the-spiritual-significance-of-holy-etchmiadzin-in-our-time/",
+      "published_date": "2026-06-05T17:47:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "AUA Hosts Opening of Triangle Park–Karen Kakosian Gardens",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/aua-hosts-opening-of-triangle-park-karen-kakosian-gardens/",
+      "published_date": "2026-06-05T17:47:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "What TRIPP Actually Commits",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/what-tripp-actually-commits/",
+      "published_date": "2026-06-05T17:27:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fundraising campaign to establish Richard G. Hovannisian Library in Yerevan",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/05/fundraising-campaign-to-establish-richard-g-hovannisian-library-in-yerevan/",
+      "published_date": "2026-06-05T14:24:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "A village called Kornidzor",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/05/a-village-called-kornidzor/",
+      "published_date": "2026-06-05T10:42:50Z",
+      "category": "Local Events"
     },
     {
       "title": "Former Head of Armenia’s State Property Management Department Gets Two Month Detention",
@@ -232,48 +260,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/06/04/armenian-elections-and-the-path-to-decoupling-from-russia/",
       "published_date": "2026-06-04T13:50:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thousands Attend Strong Armenia Party Rally in Yerevan",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181782",
-      "published_date": "2026-06-04T13:23:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Selective interference framing intensifies Russian economic pressure",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/04/selective-interference-framing-intensifies-russian-economic-pressure/",
-      "published_date": "2026-06-04T12:00:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "ANCA launching pre-election Capitol Hill mobilization",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/03/anca-launching-pre-election-capitol-hill-mobilization/",
-      "published_date": "2026-06-03T16:47:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Region in Brief",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/03/the-region-in-brief-171/",
-      "published_date": "2026-06-03T16:12:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Literary Lights to feature Naira Kuzmich’s “Fearcatcher”",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/03/literary-lights-to-feature-naira-kuzmichs-fearcatcher/",
-      "published_date": "2026-06-03T15:06:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Remembering May 28, renewing our responsibility",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/03/remembering-may-28-renewing-our-responsibility/",
-      "published_date": "2026-06-03T15:01:07Z",
       "category": "Local Events"
     }
   ]
