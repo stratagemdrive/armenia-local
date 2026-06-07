@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T12:05:12Z",
+  "generated_at": "2026-06-07T00:00:05Z",
   "country": "Armenia",
   "total_stories": 36,
   "categories": [
@@ -121,6 +121,13 @@
       "url": "https://armenianweekly.com/2026/06/02/the-limits-of-gender-quotas-in-armenias-male-dominated-politics/",
       "published_date": "2026-06-02T14:29:44Z",
       "category": "Economy"
+    },
+    {
+      "title": "ARF Western U.S. Central Committee Announcement",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/arf-western-u-s-central-committee-announcement-9/",
+      "published_date": "2026-06-06T17:55:10Z",
+      "category": "Local Events"
     },
     {
       "title": "Ameriabank and FMO Sign EUR 120 Million Agreement to Support MSMEs and Advance Green Finance in Armenia",
@@ -253,13 +260,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/06/04/late-garabet-k-moumdjians-book-on-arf-constitutionalism-in-the-ottoman-empire-published/",
       "published_date": "2026-06-04T14:42:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Diana Arterian brings Agrippina’s story into the present",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/04/diana-arterian-brings-agrippinas-story-into-the-present/",
-      "published_date": "2026-06-04T14:38:36Z",
       "category": "Local Events"
     }
   ]
