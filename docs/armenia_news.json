@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T00:00:05Z",
+  "generated_at": "2026-06-07T12:20:44Z",
   "country": "Armenia",
   "total_stories": 36,
   "categories": [
@@ -121,6 +121,13 @@
       "url": "https://armenianweekly.com/2026/06/02/the-limits-of-gender-quotas-in-armenias-male-dominated-politics/",
       "published_date": "2026-06-02T14:29:44Z",
       "category": "Economy"
+    },
+    {
+      "title": "Armenia Heads to the Polls",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181891",
+      "published_date": "2026-06-07T10:30:00Z",
+      "category": "Local Events"
     },
     {
       "title": "ARF Western U.S. Central Committee Announcement",
@@ -253,13 +260,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/06/04/a-path-to-restitution-armenian-genocide-looted-art/",
       "published_date": "2026-06-04T14:53:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Late Garabet K. Moumdjian’s book on ARF constitutionalism in the Ottoman Empire published",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/04/late-garabet-k-moumdjians-book-on-arf-constitutionalism-in-the-ottoman-empire-published/",
-      "published_date": "2026-06-04T14:42:06Z",
       "category": "Local Events"
     }
   ]
