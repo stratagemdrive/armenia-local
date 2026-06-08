@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-08T00:02:07Z",
+  "generated_at": "2026-06-08T14:48:15Z",
   "country": "Armenia",
-  "total_stories": 37,
+  "total_stories": 34,
   "categories": [
     "Diplomacy",
     "Military",
@@ -74,31 +74,10 @@
       "category": "Diplomacy"
     },
     {
-      "title": "ANC-International releases policy brief on TRIPP agreement",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/01/anc-international-releases-policy-brief-on-tripp-agreement/",
-      "published_date": "2026-06-01T14:15:04Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Russia Limits Fish Imports From Armenia Amid Rising Diplomatic Tensions",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181714",
-      "published_date": "2026-06-01T12:10:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Solis CJSC, managed by Amber Capital and combining a portfolio of solar power plants, issues bonds",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/181798",
       "published_date": "2026-06-04T13:28:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Spent Nuclear Fuel: Waste or Resource?",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181722",
-      "published_date": "2026-06-01T14:44:00Z",
       "category": "Energy"
     },
     {
@@ -128,6 +107,27 @@
       "url": "https://armenianweekly.com/2026/06/02/the-limits-of-gender-quotas-in-armenias-male-dominated-politics/",
       "published_date": "2026-06-02T14:29:44Z",
       "category": "Economy"
+    },
+    {
+      "title": "Poem: Hollenbeck Park",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/08/poem-hollenbeck-park/",
+      "published_date": "2026-06-08T14:22:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pashinyan claims victory amid electoral violations and loss of two-thirds majority",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/08/pashinyan-claims-victory-amid-electoral-violations-and-loss-of-two-thirds-majority/",
+      "published_date": "2026-06-08T14:04:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Civil Contract Party Scores Decisive Victory in Armenia Election",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181937",
+      "published_date": "2026-06-08T09:12:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Armenia Heads to the Polls",
@@ -246,27 +246,6 @@
       "source": "Asbarez",
       "url": "https://asbarez.com/aua-celebrates-the-legacy-of-late-president-dr-haroutune-k-armenian/",
       "published_date": "2026-06-04T19:53:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenia National Basketball Team to Face Ireland on June 27 in Los Angeles",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/armenia-national-basketball-team-to-face-ireland-on-june-27-in-los-angeles/",
-      "published_date": "2026-06-04T17:10:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "City of Glendale Commemorates Memorial Day",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/city-of-glendale-commemorates-memorial-day/",
-      "published_date": "2026-06-04T17:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "A path to restitution: Armenian Genocide looted art",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/04/a-path-to-restitution-armenian-genocide-looted-art/",
-      "published_date": "2026-06-04T14:53:55Z",
       "category": "Local Events"
     }
   ]
