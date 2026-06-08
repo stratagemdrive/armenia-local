@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-07T12:20:44Z",
+  "generated_at": "2026-06-08T00:02:07Z",
   "country": "Armenia",
-  "total_stories": 36,
+  "total_stories": 37,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Build a home in Armenia",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/05/build-a-home-in-armenia/",
+      "published_date": "2026-06-05T23:00:59Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "A unique night marks the 250th anniversary of the United States",
       "source": "The Armenian Weekly",
