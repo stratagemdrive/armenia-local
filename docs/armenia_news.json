@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T14:48:15Z",
+  "generated_at": "2026-06-09T00:01:44Z",
   "country": "Armenia",
   "total_stories": 34,
   "categories": [
@@ -107,6 +107,34 @@
       "url": "https://armenianweekly.com/2026/06/02/the-limits-of-gender-quotas-in-armenias-male-dominated-politics/",
       "published_date": "2026-06-02T14:29:44Z",
       "category": "Economy"
+    },
+    {
+      "title": "Keeping the painting on the easel",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/08/keeping-the-painting-on-the-easel/",
+      "published_date": "2026-06-08T16:35:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "An underwater village and silenced pain in Senia Baloyan’s art",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/08/an-underwater-village-and-silenced-pain-in-senia-baloyans-art/",
+      "published_date": "2026-06-08T16:05:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "If Armenian becomes monochrome: What language will our grandchildren speak?",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/08/if-armenian-becomes-monochrome-what-language-will-our-grandchildren-speak/",
+      "published_date": "2026-06-08T15:36:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenia’s voters were offered a genuine choice against a backdrop of direct foreign pressure and uneven campaign opportunities",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181949",
+      "published_date": "2026-06-08T14:52:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Poem: Hollenbeck Park",
@@ -218,34 +246,6 @@
       "source": "Asbarez",
       "url": "https://asbarez.com/landmark-richard-g-hovannisian-library-to-be-established-in-yerevan/",
       "published_date": "2026-06-04T20:58:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Varoujan Demirjian, Veteran Community Leader, Remembered",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/obituary-varoujan-demirjian/",
-      "published_date": "2026-06-04T20:51:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "New Novel Tells Inter-Generational Story of Resilience and Hope Despite Rooted Trauma",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/new-novel-tells-inter-generational-story-of-resilience-and-hope-despite-rooted-trauma/",
-      "published_date": "2026-06-04T20:49:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Keeping the Painting on the Easel",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/keeping-the-painting-on-the-easel/",
-      "published_date": "2026-06-04T19:58:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "AUA Celebrates the Legacy of Late President Dr. Haroutune K. Armenian",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/aua-celebrates-the-legacy-of-late-president-dr-haroutune-k-armenian/",
-      "published_date": "2026-06-04T19:53:36Z",
       "category": "Local Events"
     }
   ]
