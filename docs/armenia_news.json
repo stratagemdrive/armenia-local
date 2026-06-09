@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-09T00:01:44Z",
+  "generated_at": "2026-06-09T13:43:39Z",
   "country": "Armenia",
-  "total_stories": 34,
+  "total_stories": 36,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,27 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Hunger Striker Osipyan Refuses Medical Exam",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181971",
+      "published_date": "2026-06-09T12:33:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "World Leaders, EU Congratulate Pashinyan on Election Victory",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181964",
+      "published_date": "2026-06-09T10:20:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Masoud Pezeshkian sends congratulatory message to Prime Minister Pashinyan",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181952",
+      "published_date": "2026-06-08T19:56:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Build a home in Armenia",
       "source": "The Armenian Weekly",
@@ -67,13 +88,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Russia Curbs Import of Stone Fruits, Eggplants, Potatoes, Dried Fruit From Armenia",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181745",
-      "published_date": "2026-06-02T12:55:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Solis CJSC, managed by Amber Capital and combining a portfolio of solar power plants, issues bonds",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/181798",
@@ -107,6 +121,20 @@
       "url": "https://armenianweekly.com/2026/06/02/the-limits-of-gender-quotas-in-armenias-male-dominated-politics/",
       "published_date": "2026-06-02T14:29:44Z",
       "category": "Economy"
+    },
+    {
+      "title": "By hook or by crook: Pashinyan secures another five years in power",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/09/by-hook-or-by-crook-pashinyan-secures-another-five-years-in-power/",
+      "published_date": "2026-06-09T11:46:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "International Observers Positively Assess Armenia Election Despite Campaign Shortcomings",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181967",
+      "published_date": "2026-06-09T11:04:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Keeping the painting on the easel",
@@ -232,20 +260,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/181815",
       "published_date": "2026-06-05T10:01:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "More Opposition Activists Arrested Ahead Sunday’s Elections",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/more-opposition-activists-arrested-ahead-sundays-elections/",
-      "published_date": "2026-06-04T21:55:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Landmark Richard G. Hovannisian Library to be Established in Yerevan",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/landmark-richard-g-hovannisian-library-to-be-established-in-yerevan/",
-      "published_date": "2026-06-04T20:58:31Z",
       "category": "Local Events"
     }
   ]
