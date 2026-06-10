@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-09T13:43:39Z",
+  "generated_at": "2026-06-10T00:07:53Z",
   "country": "Armenia",
-  "total_stories": 36,
+  "total_stories": 34,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Children’s Day programs support displaced children of Artsakh",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/09/childrens-day-programs-support-displaced-children-of-artsakh/",
+      "published_date": "2026-06-09T14:23:54Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Hunger Striker Osipyan Refuses Medical Exam",
       "source": "Hetq",
@@ -74,20 +81,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Election campaign reshapes views on Armenia’s territorial losses",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/02/election-campaign-reshapes-views-on-armenias-territorial-losses/",
-      "published_date": "2026-06-02T14:24:05Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Russia, the U.S. and the EU should keep out of Armenia’s domestic affairs",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/02/russia-the-u-s-and-the-eu-should-keep-out-of-armenias-domestic-affairs/",
-      "published_date": "2026-06-02T14:20:08Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Solis CJSC, managed by Amber Capital and combining a portfolio of solar power plants, issues bonds",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/181798",
@@ -116,11 +109,32 @@
       "category": "Economy"
     },
     {
-      "title": "The limits of gender quotas in Armenia’s male-dominated politics",
+      "title": "The Hartford circus fire of 1944: The day the clowns cried",
       "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/02/the-limits-of-gender-quotas-in-armenias-male-dominated-politics/",
-      "published_date": "2026-06-02T14:29:44Z",
-      "category": "Economy"
+      "url": "https://armenianweekly.com/2026/06/09/the-hartford-circus-fire-of-1944-the-day-the-clowns-cried/",
+      "published_date": "2026-06-09T15:17:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Arthur Elbakyan’s identity, sculpted in color and silence",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/09/arthur-elbakyans-identity-sculpted-in-color-and-silence/",
+      "published_date": "2026-06-09T15:08:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "U.S. Chargé d’Affaires Visits Armenia&#039;s Syunik Province",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181973",
+      "published_date": "2026-06-09T15:06:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "AYF D.C. hosts second annual Capital Ball",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/09/ayf-d-c-hosts-second-annual-capital-ball/",
+      "published_date": "2026-06-09T14:16:01Z",
+      "category": "Local Events"
     },
     {
       "title": "By hook or by crook: Pashinyan secures another five years in power",
@@ -232,34 +246,6 @@
       "source": "Asbarez",
       "url": "https://asbarez.com/what-tripp-actually-commits/",
       "published_date": "2026-06-05T17:27:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fundraising campaign to establish Richard G. Hovannisian Library in Yerevan",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/05/fundraising-campaign-to-establish-richard-g-hovannisian-library-in-yerevan/",
-      "published_date": "2026-06-05T14:24:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "A village called Kornidzor",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/05/a-village-called-kornidzor/",
-      "published_date": "2026-06-05T10:42:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former Head of Armenia’s State Property Management Department Gets Two Month Detention",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181814",
-      "published_date": "2026-06-05T10:05:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former Yerevan Mayor Gagik Beglaryan Arrested",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181815",
-      "published_date": "2026-06-05T10:01:00Z",
       "category": "Local Events"
     }
   ]
