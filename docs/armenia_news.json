@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-11T00:11:29Z",
+  "generated_at": "2026-06-11T14:35:35Z",
   "country": "Armenia",
-  "total_stories": 35,
+  "total_stories": 34,
   "categories": [
     "Diplomacy",
     "Military",
@@ -102,18 +102,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Solis CJSC, managed by Amber Capital and combining a portfolio of solar power plants, issues bonds",
+      "title": "Wildberries and Unibank in Armenia Launch Installment Purchase Service",
       "source": "Hetq",
-      "url": "https://hetq.am/en/article/181798",
-      "published_date": "2026-06-04T13:28:00Z",
-      "category": "Energy"
+      "url": "https://hetq.am/en/article/182018",
+      "published_date": "2026-06-11T12:53:00Z",
+      "category": "Economy"
     },
     {
-      "title": "EU to Provide Armenia with €50 million in Support to Counter Russian Restrictions",
+      "title": "Erdoğan Congratulates Pashinyan on Election Win",
       "source": "Hetq",
-      "url": "https://hetq.am/en/article/181794",
-      "published_date": "2026-06-04T11:19:00Z",
-      "category": "Economy"
+      "url": "https://hetq.am/en/article/182011",
+      "published_date": "2026-06-11T11:44:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pashinyan Sues Karapetyan, Strong Armenia Party for Defamation",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181998",
+      "published_date": "2026-06-11T05:13:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump Congratulates Pashinyan on Election Victory",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/181993",
+      "published_date": "2026-06-10T19:57:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Armenian Evangelical Church celebrates 180th anniversary",
@@ -232,27 +246,6 @@
       "source": "Asbarez",
       "url": "https://asbarez.com/arf-western-u-s-central-committee-announcement-9/",
       "published_date": "2026-06-06T17:55:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ameriabank and FMO Sign EUR 120 Million Agreement to Support MSMEs and Advance Green Finance in Armenia",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181846",
-      "published_date": "2026-06-06T11:24:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nikol Pashinyan, We Reject You",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/05/pashinyan-we-reject-you/",
-      "published_date": "2026-06-05T21:12:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Spiritual Significance of Holy Etchmiadzin in Our Time",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/the-spiritual-significance-of-holy-etchmiadzin-in-our-time/",
-      "published_date": "2026-06-05T17:47:35Z",
       "category": "Local Events"
     }
   ]
