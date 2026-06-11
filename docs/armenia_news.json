@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-10T14:21:25Z",
+  "generated_at": "2026-06-11T00:11:29Z",
   "country": "Armenia",
-  "total_stories": 33,
+  "total_stories": 35,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,27 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Armenian arts in America: From Broadway pioneers to today’s rising voices",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/10/armenian-arts-in-america-from-broadway-pioneers-to-todays-rising-voices/",
+      "published_date": "2026-06-10T16:37:28Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "How should we define peace?",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/10/how-should-we-define-peace/",
+      "published_date": "2026-06-10T15:17:42Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "ANCA welcomes bipartisan HFAC action on Armenian hostages",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/10/anca-welcomes-bipartisan-hfac-action-on-armenian-hostages/",
+      "published_date": "2026-06-10T15:13:35Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Lavrov Displeased with Armenia’s Tilt to NATO; Wants Clarification from Yerevan",
       "source": "Hetq",
@@ -81,13 +102,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Study examines consequences of Artsakh Armenian displacement",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/03/study-examines-consequences-of-artsakh-armenian-displacement/",
-      "published_date": "2026-06-03T14:45:56Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Solis CJSC, managed by Amber Capital and combining a portfolio of solar power plants, issues bonds",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/181798",
@@ -100,6 +114,13 @@
       "url": "https://hetq.am/en/article/181794",
       "published_date": "2026-06-04T11:19:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Armenian Evangelical Church celebrates 180th anniversary",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/10/armenian-evangelical-church-celebrates-180th-anniversary/",
+      "published_date": "2026-06-10T15:15:36Z",
+      "category": "Local Events"
     },
     {
       "title": "What TRIPP actually commits",
@@ -232,13 +253,6 @@
       "source": "Asbarez",
       "url": "https://asbarez.com/the-spiritual-significance-of-holy-etchmiadzin-in-our-time/",
       "published_date": "2026-06-05T17:47:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "AUA Hosts Opening of Triangle Park–Karen Kakosian Gardens",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/aua-hosts-opening-of-triangle-park-karen-kakosian-gardens/",
-      "published_date": "2026-06-05T17:47:21Z",
       "category": "Local Events"
     }
   ]
