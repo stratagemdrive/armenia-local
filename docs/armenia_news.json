@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-12T00:16:19Z",
+  "generated_at": "2026-06-12T14:09:23Z",
   "country": "Armenia",
-  "total_stories": 33,
+  "total_stories": 32,
   "categories": [
     "Diplomacy",
     "Military",
@@ -88,18 +88,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "An acquired American: The contributions and patriotism of Moses Hadji Gulesian",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/05/an-acquired-american-the-contributions-and-patriotism-of-moses-hadji-gulesian/",
-      "published_date": "2026-06-05T12:22:07Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Wildberries and Unibank in Armenia Launch Installment Purchase Service",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/182018",
       "published_date": "2026-06-11T12:53:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "The origins of Armenian American public life: Christopher Oscanyan’s 1835 lectures",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/12/the-origins-of-armenian-american-public-life-christopher-oscanyans-1835-lectures/",
+      "published_date": "2026-06-12T12:51:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Strong Armenia Wants Electoral Commission to Invalidate June 7 Election Results",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182040",
+      "published_date": "2026-06-12T07:45:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Prosperous Armenia Accuses Electoral Commision of Stealing Its Votes",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182038",
+      "published_date": "2026-06-12T07:33:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Lexington gathering supports Armenian EyeCare Project’s mission",
@@ -218,27 +232,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/06/08/an-underwater-village-and-silenced-pain-in-senia-baloyans-art/",
       "published_date": "2026-06-08T16:05:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "If Armenian becomes monochrome: What language will our grandchildren speak?",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/08/if-armenian-becomes-monochrome-what-language-will-our-grandchildren-speak/",
-      "published_date": "2026-06-08T15:36:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenia’s voters were offered a genuine choice against a backdrop of direct foreign pressure and uneven campaign opportunities",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181949",
-      "published_date": "2026-06-08T14:52:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Poem: Hollenbeck Park",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/08/poem-hollenbeck-park/",
-      "published_date": "2026-06-08T14:22:27Z",
       "category": "Local Events"
     }
   ]
