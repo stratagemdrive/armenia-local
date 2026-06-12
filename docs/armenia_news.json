@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-11T14:35:35Z",
+  "generated_at": "2026-06-12T00:16:19Z",
   "country": "Armenia",
-  "total_stories": 34,
+  "total_stories": 33,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "ARF Bureau member Lilit Galstyan highlights findings on Armenia’s June 7 elections",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/11/arf-bureau-member-lilit-galstyan-highlights-findings-on-armenias-june-7-elections/",
+      "published_date": "2026-06-11T14:44:04Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Armenian arts in America: From Broadway pioneers to today’s rising voices",
       "source": "The Armenian Weekly",
@@ -88,25 +95,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Armenia-US Officially Sign TRIPP Agreement",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/armenia-us-officially-sign-tripp-agreement/",
-      "published_date": "2026-06-04T21:59:21Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU Pledges Over €50 Million to Support Armenia",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/eu-pledges-over-e50-million-to-support-to-armenia/",
-      "published_date": "2026-06-04T21:52:38Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Wildberries and Unibank in Armenia Launch Installment Purchase Service",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/182018",
       "published_date": "2026-06-11T12:53:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Lexington gathering supports Armenian EyeCare Project’s mission",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/11/lexington-gathering-supports-armenian-eyecare-projects-mission/",
+      "published_date": "2026-06-11T17:21:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "In conversation with ‘Hayrig,’ father to Armenian orphans",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/11/in-conversation-with-hayrig-father-to-armenian-orphans/",
+      "published_date": "2026-06-11T15:40:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lebanese Religious Leaders Meet with Country’s President, Prime Minister",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182028",
+      "published_date": "2026-06-11T15:19:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Glendale’s earliest known Armenian settler",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/11/glendales-earliest-known-armenian-settler/",
+      "published_date": "2026-06-11T12:08:38Z",
+      "category": "Local Events"
     },
     {
       "title": "Erdoğan Congratulates Pashinyan on Election Win",
@@ -218,34 +239,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/06/08/poem-hollenbeck-park/",
       "published_date": "2026-06-08T14:22:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pashinyan claims victory amid electoral violations and loss of two-thirds majority",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/08/pashinyan-claims-victory-amid-electoral-violations-and-loss-of-two-thirds-majority/",
-      "published_date": "2026-06-08T14:04:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Civil Contract Party Scores Decisive Victory in Armenia Election",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181937",
-      "published_date": "2026-06-08T09:12:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenia Heads to the Polls",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181891",
-      "published_date": "2026-06-07T10:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "ARF Western U.S. Central Committee Announcement",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/arf-western-u-s-central-committee-announcement-9/",
-      "published_date": "2026-06-06T17:55:10Z",
       "category": "Local Events"
     }
   ]
