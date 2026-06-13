@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T00:16:44Z",
+  "generated_at": "2026-06-13T12:24:55Z",
   "country": "Armenia",
   "total_stories": 32,
   "categories": [
@@ -93,6 +93,13 @@
       "url": "https://hetq.am/en/article/182018",
       "published_date": "2026-06-11T12:53:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Tsarukyan Sues Pashinyan, Public Broadcaster for Defamation",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182068",
+      "published_date": "2026-06-13T05:50:00Z",
+      "category": "Local Events"
     },
     {
       "title": "About Identity and Belonging.  In Memory of Monte Melkonian",
@@ -225,13 +232,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/06/11/glendales-earliest-known-armenian-settler/",
       "published_date": "2026-06-11T12:08:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Erdoğan Congratulates Pashinyan on Election Win",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182011",
-      "published_date": "2026-06-11T11:44:00Z",
       "category": "Local Events"
     }
   ]
