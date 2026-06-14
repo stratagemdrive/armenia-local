@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T00:02:00Z",
+  "generated_at": "2026-06-14T12:59:12Z",
   "country": "Armenia",
   "total_stories": 33,
   "categories": [
@@ -100,6 +100,20 @@
       "url": "https://hetq.am/en/article/182018",
       "published_date": "2026-06-11T12:53:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Pashinyan Congratulates Trump on Birthday",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182079",
+      "published_date": "2026-06-14T11:46:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Prosperous Armenia Party Demands New Vote in Two Precincts",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182078",
+      "published_date": "2026-06-14T11:41:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Tsarukyan Sues Pashinyan, Public Broadcaster for Defamation",
@@ -225,20 +239,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/06/11/in-conversation-with-hayrig-father-to-armenian-orphans/",
       "published_date": "2026-06-11T15:40:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lebanese Religious Leaders Meet with Country’s President, Prime Minister",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182028",
-      "published_date": "2026-06-11T15:19:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Glendale’s earliest known Armenian settler",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/11/glendales-earliest-known-armenian-settler/",
-      "published_date": "2026-06-11T12:08:38Z",
       "category": "Local Events"
     }
   ]
