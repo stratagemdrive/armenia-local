@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-15T00:04:41Z",
+  "generated_at": "2026-06-15T16:17:23Z",
   "country": "Armenia",
-  "total_stories": 33,
+  "total_stories": 36,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,27 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Armenian, German Foreign Ministers Discuss Bilateral Partnership",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182101",
+      "published_date": "2026-06-15T15:35:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "First Lady?  Anna Hakobyan On a Business Trip to U.S. as PM Pashinyan’s Wife",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182093",
+      "published_date": "2026-06-15T11:10:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ruben Vardanyan&#039;s Wife to Organize Women&#039;s Humanitarian Delegation to Baku",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182092",
+      "published_date": "2026-06-15T11:08:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "ARF Bureau member Lilit Galstyan highlights findings on Armenia’s June 7 elections",
       "source": "The Armenian Weekly",
@@ -100,6 +121,41 @@
       "url": "https://hetq.am/en/article/182018",
       "published_date": "2026-06-11T12:53:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Preserving and propelling Richard G. Hovannisian’s legacy",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/15/preserving-and-propelling-richard-g-hovannisians-legacy/",
+      "published_date": "2026-06-15T14:28:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pashinyan government prosecuted opposition figures before vote",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/15/pashinyan-government-prosecuted-opposition-figures-before-vote/",
+      "published_date": "2026-06-15T14:07:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Pashinyan paradox",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/15/the-pashinyan-paradox/",
+      "published_date": "2026-06-15T14:06:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "My Heart Always Ached in Armenian: Armenian Identity in Diaspora",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182091",
+      "published_date": "2026-06-15T11:54:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenia: Opposition Challenges Legitimacy of June 7 Election",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182090",
+      "published_date": "2026-06-15T08:55:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Prosperous Armenia Party Fails to Make Vote Threshold for Parliament",
@@ -204,41 +260,6 @@
       "source": "Asbarez",
       "url": "https://asbarez.com/abril-bookstore-to-host-book-talk-with-author-khoren-aramouni/",
       "published_date": "2026-06-11T18:15:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Death Notice: Varsenig Der Megerdichian",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/death-notice-varsenig-der-megerdichian/",
-      "published_date": "2026-06-11T18:12:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "HIKEArmenia Officially Launches Armenian National Trail Website",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/hikearmenia-officially-launches-armenian-national-trail-website/",
-      "published_date": "2026-06-11T18:08:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "ANCA Northern California’s NextGen Network Hosts Landmark Professional Networking Event in S.F.",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/anca-northern-californias-nextgen-network-hosts-landmark-professional-networking-event-in-san-francisco/",
-      "published_date": "2026-06-11T18:07:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "SAS Announces Spring 2026 Graduate Research and Conference Grants Recipients",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/sas-announces-spring-2026-graduate-research-and-conference-grants-recipients/",
-      "published_date": "2026-06-11T17:51:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lexington gathering supports Armenian EyeCare Project’s mission",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/11/lexington-gathering-supports-armenian-eyecare-projects-mission/",
-      "published_date": "2026-06-11T17:21:46Z",
       "category": "Local Events"
     }
   ]
