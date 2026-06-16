@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-16T01:39:27Z",
+  "generated_at": "2026-06-16T15:51:38Z",
   "country": "Armenia",
-  "total_stories": 39,
+  "total_stories": 38,
   "categories": [
     "Diplomacy",
     "Military",
@@ -95,32 +95,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Children’s Day programs support displaced children of Artsakh",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/09/childrens-day-programs-support-displaced-children-of-artsakh/",
-      "published_date": "2026-06-09T14:23:54Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Hunger Striker Osipyan Refuses Medical Exam",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181971",
-      "published_date": "2026-06-09T12:33:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "World Leaders, EU Congratulate Pashinyan on Election Victory",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181964",
-      "published_date": "2026-06-09T10:20:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Varsenig Der Megerdichian, Veteran Educator and ARS Leader, Passes Away",
       "source": "Asbarez",
       "url": "https://asbarez.com/varsenig-der-megerdichian-veteran-educator-and-ars-leader-passes-away/",
       "published_date": "2026-06-11T21:24:22Z",
       "category": "Military"
+    },
+    {
+      "title": "UNICEF Report: More Than 668,000 Children in Armenia Exposed to Air Pollution",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182122",
+      "published_date": "2026-06-16T13:09:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Armenia’s education reforms fall short as system continues to fail",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/16/armenias-education-reforms-fall-short-as-system-continues-to-fail/",
+      "published_date": "2026-06-16T14:40:44Z",
+      "category": "Economy"
     },
     {
       "title": "Yerevan&#039;s Matenadaran Gifted 4,000-Year-Old Akkadian Clay Tablet",
@@ -142,6 +135,27 @@
       "url": "https://hetq.am/en/article/182018",
       "published_date": "2026-06-11T12:53:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Democracy hijacked: Armenia’s rigged parliamentary elections",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/16/democracy-hijacked-armenias-rigged-parliamentary-elections/",
+      "published_date": "2026-06-16T14:40:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "AYF “Hyortik” Chapter members reflect on 2026 AYF-YOARF Junior Seminar",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/16/ayf-hyortik-chapter-members-reflect-on-2026-ayf-yoarf-junior-seminar/",
+      "published_date": "2026-06-16T14:39:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Firebird and Kazakhstan Sign Strategic Agreements to Advance National AI Infrastructure",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182111",
+      "published_date": "2026-06-16T08:04:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Death Notice: Sonia Zavzavadjian",
@@ -260,27 +274,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/06/12/argam-ayvazyans-monumental-work-on-nakhichevan-published-in-yerevan/",
       "published_date": "2026-06-12T14:47:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "How one Armenian family defined Balkan rock and jazz",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/12/how-one-armenian-family-defined-balkan-rock-and-jazz/",
-      "published_date": "2026-06-12T14:13:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The origins of Armenian American public life: Christopher Oscanyan’s 1835 lectures",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/12/the-origins-of-armenian-american-public-life-christopher-oscanyans-1835-lectures/",
-      "published_date": "2026-06-12T12:51:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Strong Armenia Wants Electoral Commission to Invalidate June 7 Election Results",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182040",
-      "published_date": "2026-06-12T07:45:00Z",
       "category": "Local Events"
     }
   ]
