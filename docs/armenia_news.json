@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-15T16:17:23Z",
+  "generated_at": "2026-06-16T01:39:27Z",
   "country": "Armenia",
-  "total_stories": 36,
+  "total_stories": 39,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,34 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Yerevan Indicates it Will Continue to Move Toward EU",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/yerevan-indicates-it-will-continue-move-toward-eu/",
+      "published_date": "2026-06-15T20:54:21Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Aliyev’s Adviser Enters Armenia Through Delimited Border",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/aliyevs-adviser-crosses-enters-armenia-through-delimited-border/",
+      "published_date": "2026-06-15T19:20:42Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ruben Vardanyan’s Wife Plans Women’s Humanitarian Delegation Visit to Azerbaijan",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/ruben-vardanyans-wifeplans-womens-humanitarian-delegation-visit-to-azerbaijan/",
+      "published_date": "2026-06-15T19:18:18Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Global Arabic Music Sensation Majid Al Mohandis to Perform Exclusive West Coast Concert at Pechanga Resort Casino This July",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/global-arabic-music-sensation-majid-al-mohandis-to-perform-exclusive-west-coast-concert-at-pechanga-resort-casino-this-july/",
+      "published_date": "2026-06-15T17:59:32Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Armenian, German Foreign Ministers Discuss Bilateral Partnership",
       "source": "Hetq",
@@ -88,13 +116,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Masoud Pezeshkian sends congratulatory message to Prime Minister Pashinyan",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/181952",
-      "published_date": "2026-06-08T19:56:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Varsenig Der Megerdichian, Veteran Educator and ARS Leader, Passes Away",
       "source": "Asbarez",
       "url": "https://asbarez.com/varsenig-der-megerdichian-veteran-educator-and-ars-leader-passes-away/",
@@ -121,6 +142,41 @@
       "url": "https://hetq.am/en/article/182018",
       "published_date": "2026-06-11T12:53:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Death Notice: Sonia Zavzavadjian",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/death-notice-sonia-zavzavadjian/",
+      "published_date": "2026-06-15T21:37:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Death Notice: Lucy Harootoonian",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/death-notice-lucy-harootoonian/",
+      "published_date": "2026-06-15T21:35:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Central Election Commission Upholds Election Results; Prosperous Armenia Left Out",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/central-election-commission-uphold-election-results-prosperous-armenia-left-out/",
+      "published_date": "2026-06-15T20:46:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Uncomfortable Yerevan: Why the City Is So Noisy",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182107",
+      "published_date": "2026-06-15T17:17:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "ACF launches 50th anniversary celebration",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/15/acf-launches-50th-anniversary-celebration/",
+      "published_date": "2026-06-15T17:07:11Z",
+      "category": "Local Events"
     },
     {
       "title": "Preserving and propelling Richard G. Hovannisian’s legacy",
@@ -225,41 +281,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/182040",
       "published_date": "2026-06-12T07:45:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prosperous Armenia Accuses Electoral Commision of Stealing Its Votes",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182038",
-      "published_date": "2026-06-12T07:33:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Erdogan Congratulates Pashinyan",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/erdogan-congratulates-pashinyan/",
-      "published_date": "2026-06-11T21:28:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "European Lawmakers Welcome Armenian Elections, Condemn Russian Interference",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/european-lawmakers-welcome-armenian-elections-condemn-russian-interference/",
-      "published_date": "2026-06-11T21:26:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Benefactor Aris Stambolian Sponsors New Projects at Chamlian School",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/benefactor-aris-stambolian-sponsors-new-projects-at-chamlian-school/",
-      "published_date": "2026-06-11T21:22:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Abril Bookstore to Host Book Talk with Author Khoren Aramouni",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/abril-bookstore-to-host-book-talk-with-author-khoren-aramouni/",
-      "published_date": "2026-06-11T18:15:27Z",
       "category": "Local Events"
     }
   ]
