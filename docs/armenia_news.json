@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-17T00:12:59Z",
+  "generated_at": "2026-06-17T14:25:40Z",
   "country": "Armenia",
-  "total_stories": 39,
+  "total_stories": 40,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Armenia, EU Discuss Broader Defense and Space Cooperation",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182144",
+      "published_date": "2026-06-17T13:50:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Yerevan Indicates it Will Continue to Move Toward EU",
       "source": "Asbarez",
@@ -88,11 +95,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Lavrov Displeased with Armenia’s Tilt to NATO; Wants Clarification from Yerevan",
+      "title": "Eagle Partner 2026 Joint Military Exercise in Armenia",
       "source": "Hetq",
-      "url": "https://hetq.am/en/article/181988",
-      "published_date": "2026-06-10T13:54:00Z",
-      "category": "Diplomacy"
+      "url": "https://hetq.am/en/article/182142",
+      "published_date": "2026-06-17T11:51:00Z",
+      "category": "Military"
     },
     {
       "title": "Varsenig Der Megerdichian, Veteran Educator and ARS Leader, Passes Away",
@@ -142,6 +149,27 @@
       "url": "https://hetq.am/en/article/182018",
       "published_date": "2026-06-11T12:53:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "European Court Rules Against Armenia in &#039;Electric Yerevan&#039; Protest Cases",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182128",
+      "published_date": "2026-06-17T04:05:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Groundbreaking Work on Western Armenian Historical Evolution and Historiography Published",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/groundbreaking-work-on-western-armenian-historical-evolution-and-historiography-published/",
+      "published_date": "2026-06-16T17:22:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "FAST and AMAA Launch Second Annual AI Careers Camp in Hankavan",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/fast-and-amaa-launch-second-annual-ai-careers-camp-in-hankavan/",
+      "published_date": "2026-06-16T16:47:09Z",
+      "category": "Local Events"
     },
     {
       "title": "Democracy hijacked: Armenia’s rigged parliamentary elections",
@@ -260,27 +288,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/182068",
       "published_date": "2026-06-13T05:50:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "About Identity and Belonging.  In Memory of Monte Melkonian",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182044",
-      "published_date": "2026-06-12T17:40:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenian enough? Thoughts on Armenian+ diasporans",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/12/armenian-enough-thoughts-on-armenian-diasporans/",
-      "published_date": "2026-06-12T14:51:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Argam Ayvazyan’s monumental work on Nakhichevan published in Yerevan",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/12/argam-ayvazyans-monumental-work-on-nakhichevan-published-in-yerevan/",
-      "published_date": "2026-06-12T14:47:10Z",
       "category": "Local Events"
     }
   ]
