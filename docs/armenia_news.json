@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-17T14:25:40Z",
+  "generated_at": "2026-06-18T00:13:07Z",
   "country": "Armenia",
-  "total_stories": 40,
+  "total_stories": 38,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Armenia Hosts Military Exercises With U.S., French and Greek Troops",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/armenia-hosts-military-exercises-with-u-s-french-and-greek-troops/",
+      "published_date": "2026-06-17T17:12:05Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Armenia, EU Discuss Broader Defense and Space Cooperation",
       "source": "Hetq",
@@ -74,27 +81,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Armenian arts in America: From Broadway pioneers to today’s rising voices",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/10/armenian-arts-in-america-from-broadway-pioneers-to-todays-rising-voices/",
-      "published_date": "2026-06-10T16:37:28Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "How should we define peace?",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/10/how-should-we-define-peace/",
-      "published_date": "2026-06-10T15:17:42Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "ANCA welcomes bipartisan HFAC action on Armenian hostages",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/10/anca-welcomes-bipartisan-hfac-action-on-armenian-hostages/",
-      "published_date": "2026-06-10T15:13:35Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Eagle Partner 2026 Joint Military Exercise in Armenia",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/182142",
@@ -149,6 +135,76 @@
       "url": "https://hetq.am/en/article/182018",
       "published_date": "2026-06-11T12:53:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Roll Up the Red Carpet",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/roll-up-the-red-carpet/",
+      "published_date": "2026-06-17T21:11:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "ANCA’s Hamparian Strengthens Armenian-Hellenic Alliance at Pro-Cyprus Conference",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/ancas-hamparian-strengthens-armenian-hellenic-alliance-at-pro-cyprus-conference/",
+      "published_date": "2026-06-17T20:51:13Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "ANCA’s Hamparian strengthens Armenian-Hellenic alliance at pro-Cyprus conference",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/17/ancas-hamparian-strengthens-armenian-hellenic-alliance/",
+      "published_date": "2026-06-17T20:31:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "CEC Lifts Robert Kocharian’s Immunity, Fulfilling Prosecutor General’s Request",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/cec-lifts-robert-kocharians-immunity-fulfilling-prosecutor-generals-request/",
+      "published_date": "2026-06-17T17:07:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pashinyan Vows to ‘Crush’ Top Opposition Leaders",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/pashinyan-vows-to-crush-top-opposition-leaders/",
+      "published_date": "2026-06-17T16:57:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Parliamentary elections widen Armenia’s political crisis",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/17/parliamentary-elections-widen-armenias-political-crisis/",
+      "published_date": "2026-06-17T16:57:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "More than toys: Inside Zarman’s educational toy lab in Armenia",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/17/more-than-toys-inside-zarmans-educational-toy-lab-in-armenia/",
+      "published_date": "2026-06-17T15:16:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Homenetmen Eastern Region scouts complete final Jamboree seminar in Detroit",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/17/homenetmen-eastern-region-scouts-complete-final-jamboree-seminar-in-detroit/",
+      "published_date": "2026-06-17T14:58:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hamazkayin benefit gala concert to feature internationally acclaimed Armenian artists",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/17/hamazkayin-benefit-gala-concert-to-feature-internationally-acclaimed-armenian-artists/",
+      "published_date": "2026-06-17T14:43:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Catholicos Aram, Coptic Metropolitan Antonius Discuss Plight of Jerusalem Churches",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182145",
+      "published_date": "2026-06-17T13:57:00Z",
+      "category": "Local Events"
     },
     {
       "title": "European Court Rules Against Armenia in &#039;Electric Yerevan&#039; Protest Cases",
@@ -218,76 +274,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/182107",
       "published_date": "2026-06-15T17:17:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "ACF launches 50th anniversary celebration",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/15/acf-launches-50th-anniversary-celebration/",
-      "published_date": "2026-06-15T17:07:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Preserving and propelling Richard G. Hovannisian’s legacy",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/15/preserving-and-propelling-richard-g-hovannisians-legacy/",
-      "published_date": "2026-06-15T14:28:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pashinyan government prosecuted opposition figures before vote",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/15/pashinyan-government-prosecuted-opposition-figures-before-vote/",
-      "published_date": "2026-06-15T14:07:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Pashinyan paradox",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/15/the-pashinyan-paradox/",
-      "published_date": "2026-06-15T14:06:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "My Heart Always Ached in Armenian: Armenian Identity in Diaspora",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182091",
-      "published_date": "2026-06-15T11:54:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenia: Opposition Challenges Legitimacy of June 7 Election",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182090",
-      "published_date": "2026-06-15T08:55:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prosperous Armenia Party Fails to Make Vote Threshold for Parliament",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182085",
-      "published_date": "2026-06-14T18:25:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pashinyan Congratulates Trump on Birthday",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182079",
-      "published_date": "2026-06-14T11:46:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prosperous Armenia Party Demands New Vote in Two Precincts",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182078",
-      "published_date": "2026-06-14T11:41:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tsarukyan Sues Pashinyan, Public Broadcaster for Defamation",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182068",
-      "published_date": "2026-06-13T05:50:00Z",
       "category": "Local Events"
     }
   ]
