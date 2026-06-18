@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-18T00:13:07Z",
+  "generated_at": "2026-06-18T14:09:34Z",
   "country": "Armenia",
-  "total_stories": 38,
+  "total_stories": 39,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Bahçeli’s ‘Turan Corridor’ reveals pan-Turkic ambitions behind Zangezur and TRIPP",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/18/bahcelis-turan-corridor-reveals-pan-turkic-ambitions-behind-zangezur-and-tripp/",
+      "published_date": "2026-06-18T12:36:08Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Region in Brief",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/18/the-region-in-brief-172/",
+      "published_date": "2026-06-18T12:07:07Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Armenia Hosts Military Exercises With U.S., French and Greek Troops",
       "source": "Asbarez",
@@ -130,11 +144,18 @@
       "category": "Economy"
     },
     {
-      "title": "Wildberries and Unibank in Armenia Launch Installment Purchase Service",
+      "title": "Armenia to Purchase Six H145 Helicopters",
       "source": "Hetq",
-      "url": "https://hetq.am/en/article/182018",
-      "published_date": "2026-06-11T12:53:00Z",
-      "category": "Economy"
+      "url": "https://hetq.am/en/article/182164",
+      "published_date": "2026-06-18T12:47:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Catholicos Karekin II, &#039;Save Armenia&#039; Delegation Meet in Etchmiadzin",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182149",
+      "published_date": "2026-06-18T03:48:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Roll Up the Red Carpet",
@@ -260,20 +281,6 @@
       "source": "Asbarez",
       "url": "https://asbarez.com/death-notice-lucy-harootoonian/",
       "published_date": "2026-06-15T21:35:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Central Election Commission Upholds Election Results; Prosperous Armenia Left Out",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/central-election-commission-uphold-election-results-prosperous-armenia-left-out/",
-      "published_date": "2026-06-15T20:46:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Uncomfortable Yerevan: Why the City Is So Noisy",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182107",
-      "published_date": "2026-06-15T17:17:00Z",
       "category": "Local Events"
     }
   ]
