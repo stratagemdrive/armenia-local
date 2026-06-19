@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-19T00:22:09Z",
+  "generated_at": "2026-06-19T14:12:16Z",
   "country": "Armenia",
-  "total_stories": 42,
+  "total_stories": 44,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "ANCA backs House measures to protect Armenia, hold Azerbaijan accountable",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/19/anca-backs-house-measures/",
+      "published_date": "2026-06-19T13:51:23Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Armenian Deputy FM, New EUPM Head Meet in Yerevan",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182186",
+      "published_date": "2026-06-19T12:50:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Turkey and Azerbaijan Want to Wipe Armenia ‘Off the Map,’ European Lawmaker Warns",
       "source": "Asbarez",
@@ -165,6 +179,13 @@
       "category": "Economy"
     },
     {
+      "title": "Former MP Rubik Hakobyan Arrested in Criminal Investigation",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182176",
+      "published_date": "2026-06-19T07:48:00Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Armenia’s 2026 Election: Between Geopolitical Rivalry, Domestic Fear, and the Search for an Armenian Strategy",
       "source": "Asbarez",
       "url": "https://asbarez.com/armenias-2026-election-between-geopolitical-rivalry-domestic-fear-and-the-search-for-an-armenian-strategy/",
@@ -295,13 +316,6 @@
       "source": "Asbarez",
       "url": "https://asbarez.com/fast-and-amaa-launch-second-annual-ai-careers-camp-in-hankavan/",
       "published_date": "2026-06-16T16:47:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Democracy hijacked: Armenia’s rigged parliamentary elections",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/16/democracy-hijacked-armenias-rigged-parliamentary-elections/",
-      "published_date": "2026-06-16T14:40:15Z",
       "category": "Local Events"
     }
   ]
