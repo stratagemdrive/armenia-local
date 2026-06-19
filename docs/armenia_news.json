@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-18T14:09:34Z",
+  "generated_at": "2026-06-19T00:22:09Z",
   "country": "Armenia",
-  "total_stories": 39,
+  "total_stories": 42,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,27 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Turkey and Azerbaijan Want to Wipe Armenia ‘Off the Map,’ European Lawmaker Warns",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/turkey-and-azerbaijan-want-to-wipe-armenia-off-the-map-european-lawmaker-warns/",
+      "published_date": "2026-06-18T20:43:08Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Aliyev Again Accuses Armenia of Occupying Azerbaijan",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/aliyev-again-accuses-armenia-of-occupying-azerbaijan/",
+      "published_date": "2026-06-18T20:32:29Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Armenians at the U.N. reunite in New York City",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/18/armenians-at-the-u-n-reunite-in-new-york-city/",
+      "published_date": "2026-06-18T14:30:41Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Bahçeli’s ‘Turan Corridor’ reveals pan-Turkic ambitions behind Zangezur and TRIPP",
       "source": "The Armenian Weekly",
@@ -88,24 +109,24 @@
       "category": "Diplomacy"
     },
     {
-      "title": "ARF Bureau member Lilit Galstyan highlights findings on Armenia’s June 7 elections",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/11/arf-bureau-member-lilit-galstyan-highlights-findings-on-armenias-june-7-elections/",
-      "published_date": "2026-06-11T14:44:04Z",
-      "category": "Diplomacy"
+      "title": "Beheaded Armenian Soldier’s Family Wins European Court Case Against Azerbaijan",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/beheaded-armenian-soldiers-family-wins-european-court-case-against-azerbaijan/",
+      "published_date": "2026-06-18T20:40:53Z",
+      "category": "Military"
+    },
+    {
+      "title": "Rita Sharoyan, Horizon TV Correspondent and Veteran Journalist, Passes Away",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/rita-sharoyan-horizon-tv-correspondent-and-veteran-journalist-passes-away/",
+      "published_date": "2026-06-18T20:36:38Z",
+      "category": "Military"
     },
     {
       "title": "Eagle Partner 2026 Joint Military Exercise in Armenia",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/182142",
       "published_date": "2026-06-17T11:51:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Varsenig Der Megerdichian, Veteran Educator and ARS Leader, Passes Away",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/varsenig-der-megerdichian-veteran-educator-and-ars-leader-passes-away/",
-      "published_date": "2026-06-11T21:24:22Z",
       "category": "Military"
     },
     {
@@ -142,6 +163,34 @@
       "url": "https://asbarez.com/three-apples-armenias-new-export-a-learning-model-built-between-worlds/",
       "published_date": "2026-06-12T16:40:03Z",
       "category": "Economy"
+    },
+    {
+      "title": "Armenia’s 2026 Election: Between Geopolitical Rivalry, Domestic Fear, and the Search for an Armenian Strategy",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/armenias-2026-election-between-geopolitical-rivalry-domestic-fear-and-the-search-for-an-armenian-strategy/",
+      "published_date": "2026-06-18T17:19:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "11 works celebrating Armenian fathers and grandfathers",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/18/11-works-celebrating-armenian-fathers-and-grandfathers/",
+      "published_date": "2026-06-18T16:43:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Idram and Glovo Sign Memorandum of Cooperation in Barcelona",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182170",
+      "published_date": "2026-06-18T16:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Yerevan&#039;s &quot;Vahagn the Dragon Slayer&quot; Statue to be Moved to Russia Square",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182167",
+      "published_date": "2026-06-18T13:18:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Armenia to Purchase Six H145 Helicopters",
@@ -253,34 +302,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/06/16/democracy-hijacked-armenias-rigged-parliamentary-elections/",
       "published_date": "2026-06-16T14:40:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "AYF “Hyortik” Chapter members reflect on 2026 AYF-YOARF Junior Seminar",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/16/ayf-hyortik-chapter-members-reflect-on-2026-ayf-yoarf-junior-seminar/",
-      "published_date": "2026-06-16T14:39:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Firebird and Kazakhstan Sign Strategic Agreements to Advance National AI Infrastructure",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182111",
-      "published_date": "2026-06-16T08:04:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Death Notice: Sonia Zavzavadjian",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/death-notice-sonia-zavzavadjian/",
-      "published_date": "2026-06-15T21:37:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Death Notice: Lucy Harootoonian",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/death-notice-lucy-harootoonian/",
-      "published_date": "2026-06-15T21:35:29Z",
       "category": "Local Events"
     }
   ]
