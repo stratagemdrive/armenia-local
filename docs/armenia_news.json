@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-22T00:06:18Z",
+  "generated_at": "2026-06-22T15:50:24Z",
   "country": "Armenia",
-  "total_stories": 42,
+  "total_stories": 43,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Telecom Armenia OJSC and AzerTelecom OJSC Sign Internet Traffic Transit Agreement",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182216",
+      "published_date": "2026-06-22T08:38:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "ANCA backs House measures to protect Armenia, hold Azerbaijan accountable",
       "source": "The Armenian Weekly",
@@ -102,25 +109,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Armenian, German Foreign Ministers Discuss Bilateral Partnership",
+      "title": "Armenia&#039;s POW, Missing Persons Committee Discusses Priorities",
       "source": "Hetq",
-      "url": "https://hetq.am/en/article/182101",
-      "published_date": "2026-06-15T15:35:00Z",
-      "category": "Diplomacy"
+      "url": "https://hetq.am/en/article/182223",
+      "published_date": "2026-06-22T14:55:00Z",
+      "category": "Military"
     },
     {
-      "title": "First Lady?  Anna Hakobyan On a Business Trip to U.S. as PM Pashinyan’s Wife",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182093",
-      "published_date": "2026-06-15T11:10:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ruben Vardanyan&#039;s Wife to Organize Women&#039;s Humanitarian Delegation to Baku",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182092",
-      "published_date": "2026-06-15T11:08:00Z",
-      "category": "Diplomacy"
+      "title": "The Armenian American community during World War II: Patriotism amid anxieties",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/22/the-armenian-american-community-during-world-war-ii-patriotism-amid-anxieties/",
+      "published_date": "2026-06-22T13:58:53Z",
+      "category": "Military"
     },
     {
       "title": "Beheaded Armenian Soldier’s Family Wins European Court Case Against Azerbaijan",
@@ -158,11 +158,39 @@
       "category": "Energy"
     },
     {
+      "title": "Unibank&#039;s Net Profit Hits AMD 9.8 Billion",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182220",
+      "published_date": "2026-06-22T10:02:00Z",
+      "category": "Economy"
+    },
+    {
       "title": "Armenia’s education reforms fall short as system continues to fail",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/06/16/armenias-education-reforms-fall-short-as-system-continues-to-fail/",
       "published_date": "2026-06-16T14:40:44Z",
       "category": "Economy"
+    },
+    {
+      "title": "John Berberian, Antranig Kzirian share oud compositions at AMA",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/22/john-berberian-antranig-kzirian-share-oud-compositions-at-ama/",
+      "published_date": "2026-06-22T14:05:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Constitutional change is challenging but ensures all voices are heard",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/22/constitutional-change-is-challenging-but-ensures-all-voices-are-heard/",
+      "published_date": "2026-06-22T10:01:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Parents View Yerevan Municipality&#039;s Book Distribution to Kindergartners as Unfair",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182210",
+      "published_date": "2026-06-22T07:31:00Z",
+      "category": "Local Events"
     },
     {
       "title": "No Red Carpet for Erdogan: ANCA-WR Calls on California Leaders to Deny Turkish President Any Official Welcome",
@@ -281,27 +309,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/06/17/parliamentary-elections-widen-armenias-political-crisis/",
       "published_date": "2026-06-17T16:57:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "More than toys: Inside Zarman’s educational toy lab in Armenia",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/17/more-than-toys-inside-zarmans-educational-toy-lab-in-armenia/",
-      "published_date": "2026-06-17T15:16:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Homenetmen Eastern Region scouts complete final Jamboree seminar in Detroit",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/17/homenetmen-eastern-region-scouts-complete-final-jamboree-seminar-in-detroit/",
-      "published_date": "2026-06-17T14:58:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hamazkayin benefit gala concert to feature internationally acclaimed Armenian artists",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/17/hamazkayin-benefit-gala-concert-to-feature-internationally-acclaimed-armenian-artists/",
-      "published_date": "2026-06-17T14:43:38Z",
       "category": "Local Events"
     }
   ]
