@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-22T15:50:24Z",
+  "generated_at": "2026-06-23T00:01:35Z",
   "country": "Armenia",
-  "total_stories": 43,
+  "total_stories": 39,
   "categories": [
     "Diplomacy",
     "Military",
@@ -81,34 +81,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Yerevan Indicates it Will Continue to Move Toward EU",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/yerevan-indicates-it-will-continue-move-toward-eu/",
-      "published_date": "2026-06-15T20:54:21Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Aliyev’s Adviser Enters Armenia Through Delimited Border",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/aliyevs-adviser-crosses-enters-armenia-through-delimited-border/",
-      "published_date": "2026-06-15T19:20:42Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ruben Vardanyan’s Wife Plans Women’s Humanitarian Delegation Visit to Azerbaijan",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/ruben-vardanyans-wifeplans-womens-humanitarian-delegation-visit-to-azerbaijan/",
-      "published_date": "2026-06-15T19:18:18Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Global Arabic Music Sensation Majid Al Mohandis to Perform Exclusive West Coast Concert at Pechanga Resort Casino This July",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/global-arabic-music-sensation-majid-al-mohandis-to-perform-exclusive-west-coast-concert-at-pechanga-resort-casino-this-july/",
-      "published_date": "2026-06-15T17:59:32Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Armenia&#039;s POW, Missing Persons Committee Discusses Priorities",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/182223",
@@ -170,6 +142,20 @@
       "url": "https://armenianweekly.com/2026/06/16/armenias-education-reforms-fall-short-as-system-continues-to-fail/",
       "published_date": "2026-06-16T14:40:44Z",
       "category": "Economy"
+    },
+    {
+      "title": "Clean lines: The graphic world of Mery Matevosyan",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/22/clean-lines-the-graphic-world-of-mery-matevosyan/",
+      "published_date": "2026-06-22T16:33:13Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Junior Seminar 2026 unites youth under “Our Identity, One Mission”",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/22/junior-seminar-2026-unites-youth-under-our-identity-one-mission/",
+      "published_date": "2026-06-22T16:02:09Z",
+      "category": "Local Events"
     },
     {
       "title": "John Berberian, Antranig Kzirian share oud compositions at AMA",
@@ -295,20 +281,6 @@
       "source": "Asbarez",
       "url": "https://asbarez.com/cec-lifts-robert-kocharians-immunity-fulfilling-prosecutor-generals-request/",
       "published_date": "2026-06-17T17:07:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pashinyan Vows to ‘Crush’ Top Opposition Leaders",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/pashinyan-vows-to-crush-top-opposition-leaders/",
-      "published_date": "2026-06-17T16:57:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Parliamentary elections widen Armenia’s political crisis",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/17/parliamentary-elections-widen-armenias-political-crisis/",
-      "published_date": "2026-06-17T16:57:07Z",
       "category": "Local Events"
     }
   ]
