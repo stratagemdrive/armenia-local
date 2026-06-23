@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-23T00:01:35Z",
+  "generated_at": "2026-06-23T13:42:36Z",
   "country": "Armenia",
-  "total_stories": 39,
+  "total_stories": 43,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,34 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Ursula von der Leyen to Visit Armenia",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182235",
+      "published_date": "2026-06-23T11:40:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Armenia’s Women’s Tennis Team Beats Azerbaijan",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/armenias-womens-tennis-team-beats-azerbaijan/",
+      "published_date": "2026-06-22T21:10:36Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Armenia, Azerbaijan Telecom Operators Sign Internet Transit Agreement",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/armenia-azerbaijan-telecom-operators-sign-internet-transit-agreement/",
+      "published_date": "2026-06-22T20:35:10Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "ANCA Backs U.S. House Measures to Protect Armenian Security, Hold Azerbaijan Accountable",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/anca-backs-u-s-house-measures-to-protect-armenian-security-hold-azerbaijan-accountable/",
+      "published_date": "2026-06-22T18:17:34Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Telecom Armenia OJSC and AzerTelecom OJSC Sign Internet Traffic Transit Agreement",
       "source": "Hetq",
@@ -116,17 +144,17 @@
       "category": "Military"
     },
     {
+      "title": "Armenian Government Submits Bill to Recognize Electricity Distributor as &quot;Public Interest&quot; Concern",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182234",
+      "published_date": "2026-06-23T11:16:00Z",
+      "category": "Energy"
+    },
+    {
       "title": "Abe and son, creative reusers",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/06/16/abe-and-son-creative-reusers/",
       "published_date": "2026-06-16T15:46:08Z",
-      "category": "Energy"
-    },
-    {
-      "title": "UNICEF Report: More Than 668,000 Children in Armenia Exposed to Air Pollution",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182122",
-      "published_date": "2026-06-16T13:09:00Z",
       "category": "Energy"
     },
     {
@@ -142,6 +170,41 @@
       "url": "https://armenianweekly.com/2026/06/16/armenias-education-reforms-fall-short-as-system-continues-to-fail/",
       "published_date": "2026-06-16T14:40:44Z",
       "category": "Economy"
+    },
+    {
+      "title": "Dust Disaster: Geghashen Villagers Oppose Government-Backed Sand Mine",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182228",
+      "published_date": "2026-06-23T12:14:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Park If You Can: Yerevan’s Car Overflow",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182224",
+      "published_date": "2026-06-23T04:20:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Constitutional Court Will Hear Opposition Election Dispute Petitions",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/constitutional-court-will-hear-opposition-election-dispute-petitions/",
+      "published_date": "2026-06-22T20:55:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "UC Berkeley Offers Online Summer Course on Armenian Language and Sociolinguistics",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/uc-berkeley-offers-online-summer-course-on-the-armenian-language-and-sociolinguistics/",
+      "published_date": "2026-06-22T19:53:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Yervand Mkrtchyan Wins Gold, Sets National Record for 3000m Race at Balkan Championships",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/yervand-mkrtchyan-wins-god-sets-national-record-for-3000m-race-at-balkan-championships/",
+      "published_date": "2026-06-22T19:32:57Z",
+      "category": "Local Events"
     },
     {
       "title": "Clean lines: The graphic world of Mery Matevosyan",
@@ -246,41 +309,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/182164",
       "published_date": "2026-06-18T12:47:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Catholicos Karekin II, &#039;Save Armenia&#039; Delegation Meet in Etchmiadzin",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182149",
-      "published_date": "2026-06-18T03:48:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Roll Up the Red Carpet",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/roll-up-the-red-carpet/",
-      "published_date": "2026-06-17T21:11:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "ANCA’s Hamparian Strengthens Armenian-Hellenic Alliance at Pro-Cyprus Conference",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/ancas-hamparian-strengthens-armenian-hellenic-alliance-at-pro-cyprus-conference/",
-      "published_date": "2026-06-17T20:51:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "ANCA’s Hamparian strengthens Armenian-Hellenic alliance at pro-Cyprus conference",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/17/ancas-hamparian-strengthens-armenian-hellenic-alliance/",
-      "published_date": "2026-06-17T20:31:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "CEC Lifts Robert Kocharian’s Immunity, Fulfilling Prosecutor General’s Request",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/cec-lifts-robert-kocharians-immunity-fulfilling-prosecutor-generals-request/",
-      "published_date": "2026-06-17T17:07:34Z",
       "category": "Local Events"
     }
   ]
