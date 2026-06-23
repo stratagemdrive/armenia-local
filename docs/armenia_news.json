@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-23T13:42:36Z",
+  "generated_at": "2026-06-23T23:52:09Z",
   "country": "Armenia",
-  "total_stories": 43,
+  "total_stories": 45,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,27 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "EU’s von der Leyen to Visit Baku then Yerevan Next Week",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/eus-von-der-leyen-to-visit-baku-then-yerevan-next-week/",
+      "published_date": "2026-06-23T20:31:22Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "WATCH: Capitol Hill Press Conference Marks 1,000th Day of Azerbaijani Detention of Armenian Hostages",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/sherman-mcclintock-to-lead-capitol-hill-press-conference-today-marking-1000th-day-of-azerbaijani-detention-of-armenian-hostages/",
+      "published_date": "2026-06-23T18:09:40Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Sherman, McClintock to mark 1,000 days of Armenian hostages’ detention",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/23/sherman-mcclintock-to-mark-1000-days-of-armenian-hostages-detention/",
+      "published_date": "2026-06-23T14:53:35Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Ursula von der Leyen to Visit Armenia",
       "source": "Hetq",
@@ -109,6 +130,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Beyond Approval: Trauma, Collective Shame, and Political Paralysis in Post-War Armenia",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/beyond-approval-trauma-collective-shame-and-political-paralysis-in-post-war-armenia/",
+      "published_date": "2026-06-23T17:44:52Z",
+      "category": "Military"
+    },
+    {
       "title": "Armenia&#039;s POW, Missing Persons Committee Discusses Priorities",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/182223",
@@ -151,13 +179,6 @@
       "category": "Energy"
     },
     {
-      "title": "Abe and son, creative reusers",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/16/abe-and-son-creative-reusers/",
-      "published_date": "2026-06-16T15:46:08Z",
-      "category": "Energy"
-    },
-    {
       "title": "Unibank&#039;s Net Profit Hits AMD 9.8 Billion",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/182220",
@@ -165,11 +186,81 @@
       "category": "Economy"
     },
     {
-      "title": "Armenia’s education reforms fall short as system continues to fail",
+      "title": "The trickery of images",
       "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/16/armenias-education-reforms-fall-short-as-system-continues-to-fail/",
-      "published_date": "2026-06-16T14:40:44Z",
-      "category": "Economy"
+      "url": "https://armenianweekly.com/2026/06/23/the-trickery-of-images/",
+      "published_date": "2026-06-23T23:35:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Death Notice: Zarouhie Krikorian",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/death-notice-zarouhie-krikorian/",
+      "published_date": "2026-06-23T21:36:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "ARF Leader Saghatelyan’s Home Searched In ‘Post-Election’ Probe",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/arf-leader-saghatelyans-home-searched-in-post-election-probe/",
+      "published_date": "2026-06-23T20:36:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenia: Political Pluralism, Democratic Governance, and the Challenges of the Post-Election Period",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/armenia-political-pluralism-democratic-governance-and-the-challenges-of-the-post-election-period/",
+      "published_date": "2026-06-23T20:27:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "UCLA Promise Armenian Institute Announces 2026-27 Grant and Fellowship Recipients",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/ucla-promise-armenian-institute-announces-2026-27-grant-and-fellowship-recipients/",
+      "published_date": "2026-06-23T19:22:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Assemblymember Schultz Calls on Officials to ‘Refrain From’ Meeting Erdoğan  in L.A.",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/statement-from-assemblymember-schultz-regarding-the-potential-visit-of-turkish-president-recep-tayyip-erdogan/",
+      "published_date": "2026-06-23T19:11:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "New Glendale Rental Assistance Program Application Period to Open July 6",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/new-glendale-rental-assistance-program-application-period-to-open-july-6/",
+      "published_date": "2026-06-23T19:07:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cal State LA Professor Satik Andriassian to Lead Arts Residency for Displaced Children in Armenia",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/cal-state-la-professor-satik-andriassian-to-lead-arts-residency-for-displaced-children-in-armenia/",
+      "published_date": "2026-06-23T17:14:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The grief of not having the right words: Is Western Armenian fading?",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/23/the-grief-of-not-having-the-right-words-is-western-armenian-fading/",
+      "published_date": "2026-06-23T14:54:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pluralism, governance and post-election challenges",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/23/political-pluralism-democratic-governance-and-the-challenges-of-the-post-election-period/",
+      "published_date": "2026-06-23T14:35:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pashinyan may strip the citizenship of Armenians who didn’t vote for him",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/23/pashinyan-may-strip-the-citizenship-of-armenians-who-didnt-vote-for-him/",
+      "published_date": "2026-06-23T13:58:51Z",
+      "category": "Local Events"
     },
     {
       "title": "Dust Disaster: Geghashen Villagers Oppose Government-Backed Sand Mine",
@@ -232,83 +323,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/06/22/constitutional-change-is-challenging-but-ensures-all-voices-are-heard/",
       "published_date": "2026-06-22T10:01:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Parents View Yerevan Municipality&#039;s Book Distribution to Kindergartners as Unfair",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182210",
-      "published_date": "2026-06-22T07:31:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "No Red Carpet for Erdogan: ANCA-WR Calls on California Leaders to Deny Turkish President Any Official Welcome",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/no-red-carpet-for-erdogan-anca-wr-calls-on-california-leaders-to-deny-turkish-president-any-official-welcome/",
-      "published_date": "2026-06-20T16:27:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Salvard’s Future Uncertain as Village School Faces Closure Under Merger Plan",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182169",
-      "published_date": "2026-06-20T10:19:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Catholicos Aram I Meets Lebanese MP Murr, President of Syriac League",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182198",
-      "published_date": "2026-06-20T10:16:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "ARS of Eastern USA hosts regional seminar at AYF Camp Haiastan",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/19/ars-of-eastern-usa-hosts-regional-seminar/",
-      "published_date": "2026-06-19T14:17:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former MP Rubik Hakobyan Arrested in Criminal Investigation",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182176",
-      "published_date": "2026-06-19T07:48:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenia’s 2026 Election: Between Geopolitical Rivalry, Domestic Fear, and the Search for an Armenian Strategy",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/armenias-2026-election-between-geopolitical-rivalry-domestic-fear-and-the-search-for-an-armenian-strategy/",
-      "published_date": "2026-06-18T17:19:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "11 works celebrating Armenian fathers and grandfathers",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/18/11-works-celebrating-armenian-fathers-and-grandfathers/",
-      "published_date": "2026-06-18T16:43:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Idram and Glovo Sign Memorandum of Cooperation in Barcelona",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182170",
-      "published_date": "2026-06-18T16:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Yerevan&#039;s &quot;Vahagn the Dragon Slayer&quot; Statue to be Moved to Russia Square",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182167",
-      "published_date": "2026-06-18T13:18:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenia to Purchase Six H145 Helicopters",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182164",
-      "published_date": "2026-06-18T12:47:00Z",
       "category": "Local Events"
     }
   ]
