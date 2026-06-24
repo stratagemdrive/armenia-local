@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-23T23:52:09Z",
+  "generated_at": "2026-06-24T13:21:41Z",
   "country": "Armenia",
-  "total_stories": 45,
+  "total_stories": 44,
   "categories": [
     "Diplomacy",
     "Military",
@@ -165,13 +165,6 @@
       "category": "Military"
     },
     {
-      "title": "Eagle Partner 2026 Joint Military Exercise in Armenia",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182142",
-      "published_date": "2026-06-17T11:51:00Z",
-      "category": "Military"
-    },
-    {
       "title": "Armenian Government Submits Bill to Recognize Electricity Distributor as &quot;Public Interest&quot; Concern",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/182234",
@@ -184,6 +177,27 @@
       "url": "https://hetq.am/en/article/182220",
       "published_date": "2026-06-22T10:02:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Armenian Deputy FM, UNESCO General Conference Prez Meet in Paris",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182257",
+      "published_date": "2026-06-24T12:33:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "“The Blooms That Fall” explores emotion and transformation",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/24/the-blooms-that-fall-explores-emotion-and-transformation/",
+      "published_date": "2026-06-24T12:31:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Middle-Aged Voters Most Active in Armenia&#039;s June 7 Parliamentary Election",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182246",
+      "published_date": "2026-06-24T08:18:00Z",
+      "category": "Local Events"
     },
     {
       "title": "The trickery of images",
@@ -302,27 +316,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/06/22/clean-lines-the-graphic-world-of-mery-matevosyan/",
       "published_date": "2026-06-22T16:33:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Junior Seminar 2026 unites youth under “Our Identity, One Mission”",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/22/junior-seminar-2026-unites-youth-under-our-identity-one-mission/",
-      "published_date": "2026-06-22T16:02:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "John Berberian, Antranig Kzirian share oud compositions at AMA",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/22/john-berberian-antranig-kzirian-share-oud-compositions-at-ama/",
-      "published_date": "2026-06-22T14:05:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Constitutional change is challenging but ensures all voices are heard",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/22/constitutional-change-is-challenging-but-ensures-all-voices-are-heard/",
-      "published_date": "2026-06-22T10:01:22Z",
       "category": "Local Events"
     }
   ]
