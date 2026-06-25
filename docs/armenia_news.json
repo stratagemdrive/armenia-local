@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-25T00:05:02Z",
+  "generated_at": "2026-06-25T13:15:36Z",
   "country": "Armenia",
-  "total_stories": 46,
+  "total_stories": 45,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Armenian, French Officials Stress Need to Expand Business Cooperation",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182289",
+      "published_date": "2026-06-25T12:32:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Congressional Leaders Demand Release of Armenian Hostages",
       "source": "Asbarez",
@@ -123,20 +130,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Bahçeli’s ‘Turan Corridor’ reveals pan-Turkic ambitions behind Zangezur and TRIPP",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/18/bahcelis-turan-corridor-reveals-pan-turkic-ambitions-behind-zangezur-and-tripp/",
-      "published_date": "2026-06-18T12:36:08Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The Region in Brief",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/18/the-region-in-brief-172/",
-      "published_date": "2026-06-18T12:07:07Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Beyond Approval: Trauma, Collective Shame, and Political Paralysis in Post-War Armenia",
       "source": "Asbarez",
       "url": "https://asbarez.com/beyond-approval-trauma-collective-shame-and-political-paralysis-in-post-war-armenia/",
@@ -191,6 +184,27 @@
       "url": "https://hetq.am/en/article/182220",
       "published_date": "2026-06-22T10:02:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Appeals Court Overturns Archbishop Ajapahyan&#039;s Guilty Verdict; Orders New Trial",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182287",
+      "published_date": "2026-06-25T12:11:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Catholicos Aram I Honors Cyprus President in Nicosia",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182281",
+      "published_date": "2026-06-25T11:26:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Home Searches in Gyumri Target Armenia Alliance Supporters",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182277",
+      "published_date": "2026-06-25T08:35:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Saghatelyan’s Lawyers Say Case Against ARF Leader is a Political Order",
@@ -309,27 +323,6 @@
       "source": "Asbarez",
       "url": "https://asbarez.com/new-glendale-rental-assistance-program-application-period-to-open-july-6/",
       "published_date": "2026-06-23T19:07:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cal State LA Professor Satik Andriassian to Lead Arts Residency for Displaced Children in Armenia",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/cal-state-la-professor-satik-andriassian-to-lead-arts-residency-for-displaced-children-in-armenia/",
-      "published_date": "2026-06-23T17:14:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The grief of not having the right words: Is Western Armenian fading?",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/23/the-grief-of-not-having-the-right-words-is-western-armenian-fading/",
-      "published_date": "2026-06-23T14:54:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pluralism, governance and post-election challenges",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/23/political-pluralism-democratic-governance-and-the-challenges-of-the-post-election-period/",
-      "published_date": "2026-06-23T14:35:56Z",
       "category": "Local Events"
     }
   ]
