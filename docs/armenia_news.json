@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-24T13:21:41Z",
+  "generated_at": "2026-06-25T00:05:02Z",
   "country": "Armenia",
-  "total_stories": 44,
+  "total_stories": 46,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,27 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Congressional Leaders Demand Release of Armenian Hostages",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/congressional-leaders-demand-release-of-armenian-hostages/",
+      "published_date": "2026-06-24T17:50:36Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Congressional leaders demand release of Armenian hostages",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/24/congressional-leaders-demand-release-of-armenian-hostages/",
+      "published_date": "2026-06-24T15:24:52Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pashinyan, Modi Discuss Need for Expanded Bilateral Cooperation",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182254",
+      "published_date": "2026-06-24T11:44:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "EU’s von der Leyen to Visit Baku then Yerevan Next Week",
       "source": "Asbarez",
@@ -116,20 +137,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Armenia Hosts Military Exercises With U.S., French and Greek Troops",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/armenia-hosts-military-exercises-with-u-s-french-and-greek-troops/",
-      "published_date": "2026-06-17T17:12:05Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Armenia, EU Discuss Broader Defense and Space Cooperation",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182144",
-      "published_date": "2026-06-17T13:50:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Beyond Approval: Trauma, Collective Shame, and Political Paralysis in Post-War Armenia",
       "source": "Asbarez",
       "url": "https://asbarez.com/beyond-approval-trauma-collective-shame-and-political-paralysis-in-post-war-armenia/",
@@ -172,11 +179,60 @@
       "category": "Energy"
     },
     {
+      "title": "2026 graduates are ready to take on a changing world",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/24/2026-graduates-are-ready-to-take-on-a-changing-world/",
+      "published_date": "2026-06-24T17:02:21Z",
+      "category": "Economy"
+    },
+    {
       "title": "Unibank&#039;s Net Profit Hits AMD 9.8 Billion",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/182220",
       "published_date": "2026-06-22T10:02:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Saghatelyan’s Lawyers Say Case Against ARF Leader is a Political Order",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/saghatelyans-lawyers-say-case-against-arf-leader-is-a-political-order/",
+      "published_date": "2026-06-24T20:58:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Schiff Urges State Department to Call Out Human Rights Abuses in Azerbaijan",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/schiff-urges-state-department-to-call-out-human-rights-abuses-in-azerbaijan/",
+      "published_date": "2026-06-24T20:56:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenian Priest Tells South Texas Faith Leaders About Rep. Cuellar’s Betrayal of Persecuted Christians",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/priest-calls-on-south-texas-faith-leaders-calls-out-rep-cuellar-for-betraying-persecuted-christians/",
+      "published_date": "2026-06-24T18:10:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenian Museum of America to Host Book Launch for Chris Bohjalian’s 26th Novel, ‘The Amateur’",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/armenian-museum-of-american-to-host-book-launch-for-chris-bohjalians-26th-novel-the-amateur/",
+      "published_date": "2026-06-24T17:18:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Foundation for Armenian Youth supports first-time campers at AYF Junior Seminar",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/24/foundation-for-armenian-youth-supports-first-time-campers-at-ayf-junior-seminar/",
+      "published_date": "2026-06-24T14:52:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "AI Solutions, Expanded Geography and Much More. Eventhub&#039;s New Features and Offers",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182260",
+      "published_date": "2026-06-24T13:28:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Armenian Deputy FM, UNESCO General Conference Prez Meet in Paris",
@@ -190,6 +246,13 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/06/24/the-blooms-that-fall-explores-emotion-and-transformation/",
       "published_date": "2026-06-24T12:31:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Budapest exhibition and conference explore the afterlives of Ani",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/24/budapest-exhibition-and-conference-explore-the-afterlives-of-ani/",
+      "published_date": "2026-06-24T10:15:19Z",
       "category": "Local Events"
     },
     {
@@ -267,55 +330,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/06/23/political-pluralism-democratic-governance-and-the-challenges-of-the-post-election-period/",
       "published_date": "2026-06-23T14:35:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pashinyan may strip the citizenship of Armenians who didn’t vote for him",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/23/pashinyan-may-strip-the-citizenship-of-armenians-who-didnt-vote-for-him/",
-      "published_date": "2026-06-23T13:58:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dust Disaster: Geghashen Villagers Oppose Government-Backed Sand Mine",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182228",
-      "published_date": "2026-06-23T12:14:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Park If You Can: Yerevan’s Car Overflow",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182224",
-      "published_date": "2026-06-23T04:20:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Constitutional Court Will Hear Opposition Election Dispute Petitions",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/constitutional-court-will-hear-opposition-election-dispute-petitions/",
-      "published_date": "2026-06-22T20:55:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "UC Berkeley Offers Online Summer Course on Armenian Language and Sociolinguistics",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/uc-berkeley-offers-online-summer-course-on-the-armenian-language-and-sociolinguistics/",
-      "published_date": "2026-06-22T19:53:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Yervand Mkrtchyan Wins Gold, Sets National Record for 3000m Race at Balkan Championships",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/yervand-mkrtchyan-wins-god-sets-national-record-for-3000m-race-at-balkan-championships/",
-      "published_date": "2026-06-22T19:32:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Clean lines: The graphic world of Mery Matevosyan",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/22/clean-lines-the-graphic-world-of-mery-matevosyan/",
-      "published_date": "2026-06-22T16:33:13Z",
       "category": "Local Events"
     }
   ]
