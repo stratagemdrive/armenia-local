@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T00:05:30Z",
+  "generated_at": "2026-06-26T13:10:46Z",
   "country": "Armenia",
   "total_stories": 41,
   "categories": [
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Israeli Foreign Minister to Introduce Armenian Genocide Recognition Resolution for Government’s Consideration",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182304",
+      "published_date": "2026-06-26T11:46:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "The Armenian Genocide and the pursuit of recognition in Australia",
       "source": "The Armenian Weekly",
@@ -109,13 +116,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Armenian Deputy FM, New EUPM Head Meet in Yerevan",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182186",
-      "published_date": "2026-06-19T12:50:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Beyond Approval: Trauma, Collective Shame, and Political Paralysis in Post-War Armenia",
       "source": "Asbarez",
       "url": "https://asbarez.com/beyond-approval-trauma-collective-shame-and-political-paralysis-in-post-war-armenia/",
@@ -156,6 +156,27 @@
       "url": "https://hetq.am/en/article/182220",
       "published_date": "2026-06-22T10:02:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Baku’s “Western Azerbaijan” campaign moves from rhetoric to state policy",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/26/bakus-western-azerbaijan-campaign-moves-from-rhetoric-to-state-policy/",
+      "published_date": "2026-06-26T11:39:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenia Wants to Create Database of IMEI Mobile Phone Numbers: Experts Warn of Dangers",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182321",
+      "published_date": "2026-06-26T11:35:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Unibank and &quot;Vanq&quot; Charity Fund Support Wheelchair Basketball Exhibition Game in Yerevan",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182305",
+      "published_date": "2026-06-26T07:09:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Aurora Prize Laureate Dr. Denis Mukwege Extends Funding Support for Local Humanitarians",
@@ -274,27 +295,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/06/24/budapest-exhibition-and-conference-explore-the-afterlives-of-ani/",
       "published_date": "2026-06-24T10:15:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Middle-Aged Voters Most Active in Armenia&#039;s June 7 Parliamentary Election",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182246",
-      "published_date": "2026-06-24T08:18:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The trickery of images",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/23/the-trickery-of-images/",
-      "published_date": "2026-06-23T23:35:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Death Notice: Zarouhie Krikorian",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/death-notice-zarouhie-krikorian/",
-      "published_date": "2026-06-23T21:36:08Z",
       "category": "Local Events"
     }
   ]
