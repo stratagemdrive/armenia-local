@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-26T13:10:46Z",
+  "generated_at": "2026-06-27T00:01:25Z",
   "country": "Armenia",
-  "total_stories": 41,
+  "total_stories": 48,
   "categories": [
     "Diplomacy",
     "Military",
@@ -11,10 +11,66 @@
   ],
   "stories": [
     {
+      "title": "Councilmember Adrin Nazarian Says Turkey’s FIFA ‘Vibe Zone’ at Grand Park is ‘Offensive’ to Armenians",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/councilmember-adrin-nazarians-releases-statement-on-grand-park-display-by-republic-of-turkey/",
+      "published_date": "2026-06-26T21:35:46Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "ANC International Statement on Artsakh Movement and Democracy",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/anc-international-statement-on-artsakh-movement-and-democracy/",
+      "published_date": "2026-06-26T16:18:21Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "When a French writer asked about Artsakh",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/26/when-a-french-writer-asked-about-artsakh/",
+      "published_date": "2026-06-26T15:46:16Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "ARF Hai Tahd Central Council statement on Artsakh and democracy",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/26/arf-hai-tahd-central-council-statement-on-artsakh-and-democracy/",
+      "published_date": "2026-06-26T14:31:38Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "U.S. Embassy Celebrates 250th Anniversary of American Independence",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182329",
+      "published_date": "2026-06-26T14:14:00Z",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Israeli Foreign Minister to Introduce Armenian Genocide Recognition Resolution for Government’s Consideration",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/182304",
       "published_date": "2026-06-26T11:46:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iraq Nominates Krikor Der-Hagopian as Ambassador to U.S.",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/iraq-nominates-krikor-der-hagopian-as-ambassador-to-u-s/",
+      "published_date": "2026-06-25T21:35:28Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Israel’s Foreign Minister Plans to Propose Resolution Recognizing Armenian Genocide",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/israels-foreign-minister-plans-to-propose-resolution-recognizing-armenian-genocide/",
+      "published_date": "2026-06-25T21:33:28Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pashinyan Blames Diaspora’s Advocacy for Artsakh for Baku’s ‘Western Azerbaijan’ Demands",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/pashinyan-blames-diasporas-advocacy-for-artsakh-for-bakus-western-azerbaijan-demands/",
+      "published_date": "2026-06-25T21:01:47Z",
       "category": "Diplomacy"
     },
     {
@@ -95,27 +151,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "ANCA Backs U.S. House Measures to Protect Armenian Security, Hold Azerbaijan Accountable",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/anca-backs-u-s-house-measures-to-protect-armenian-security-hold-azerbaijan-accountable/",
-      "published_date": "2026-06-22T18:17:34Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Telecom Armenia OJSC and AzerTelecom OJSC Sign Internet Traffic Transit Agreement",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182216",
-      "published_date": "2026-06-22T08:38:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "ANCA backs House measures to protect Armenia, hold Azerbaijan accountable",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/19/anca-backs-house-measures/",
-      "published_date": "2026-06-19T13:51:23Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Beyond Approval: Trauma, Collective Shame, and Political Paralysis in Post-War Armenia",
       "source": "Asbarez",
       "url": "https://asbarez.com/beyond-approval-trauma-collective-shame-and-political-paralysis-in-post-war-armenia/",
@@ -144,6 +179,20 @@
       "category": "Energy"
     },
     {
+      "title": "Russia Halts All Fish Imports from Armenia",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182326",
+      "published_date": "2026-06-26T14:00:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Unibank to Pay AMD 9.3 bln in Dividends to Shareholders",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182323",
+      "published_date": "2026-06-26T13:24:00Z",
+      "category": "Economy"
+    },
+    {
       "title": "2026 graduates are ready to take on a changing world",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/06/24/2026-graduates-are-ready-to-take-on-a-changing-world/",
@@ -156,6 +205,34 @@
       "url": "https://hetq.am/en/article/182220",
       "published_date": "2026-06-22T10:02:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "After Earthquake, Armenian Community in Venezuela on Edge",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/after-earthquake-armenian-community-in-venezuela-on-edge/",
+      "published_date": "2026-06-26T19:01:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Melkonian Institute’s Centennial Kicks Off with Book Presentation at Presidential Palace",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/melkonian-institutes-centennial-kicks-off-with-book-presentation-at-presidential-palace/",
+      "published_date": "2026-06-26T18:40:13Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Shakart, the artist turning Charbakh into an open-air gallery",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/26/shakart-the-artist-turning-charbakh-into-an-open-air-gallery/",
+      "published_date": "2026-06-26T15:33:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "ANCA Eastern Region to host milestone 20th annual gala in Rhode Island",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/26/anca-eastern-region-to-host-milestone-20th-annual-gala-in-rhode-island/",
+      "published_date": "2026-06-26T14:34:31Z",
+      "category": "Local Events"
     },
     {
       "title": "Baku’s “Western Azerbaijan” campaign moves from rhetoric to state policy",
@@ -183,6 +260,20 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/182299",
       "published_date": "2026-06-25T19:22:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Robert William Becomes First Armenian-American Glendale Police Chief",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/robert-william-becomes-first-armenian-glendale-police-chief/",
+      "published_date": "2026-06-25T18:29:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "New Publication Traces Historic Relationship Between Germans and Turks",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/new-publication-traces-historic-relationship-between-germans-and-turks/",
+      "published_date": "2026-06-25T18:18:03Z",
       "category": "Local Events"
     },
     {
@@ -253,48 +344,6 @@
       "source": "Asbarez",
       "url": "https://asbarez.com/priest-calls-on-south-texas-faith-leaders-calls-out-rep-cuellar-for-betraying-persecuted-christians/",
       "published_date": "2026-06-24T18:10:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenian Museum of America to Host Book Launch for Chris Bohjalian’s 26th Novel, ‘The Amateur’",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/armenian-museum-of-american-to-host-book-launch-for-chris-bohjalians-26th-novel-the-amateur/",
-      "published_date": "2026-06-24T17:18:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Foundation for Armenian Youth supports first-time campers at AYF Junior Seminar",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/24/foundation-for-armenian-youth-supports-first-time-campers-at-ayf-junior-seminar/",
-      "published_date": "2026-06-24T14:52:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "AI Solutions, Expanded Geography and Much More. Eventhub&#039;s New Features and Offers",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182260",
-      "published_date": "2026-06-24T13:28:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenian Deputy FM, UNESCO General Conference Prez Meet in Paris",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182257",
-      "published_date": "2026-06-24T12:33:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "“The Blooms That Fall” explores emotion and transformation",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/24/the-blooms-that-fall-explores-emotion-and-transformation/",
-      "published_date": "2026-06-24T12:31:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Budapest exhibition and conference explore the afterlives of Ani",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/24/budapest-exhibition-and-conference-explore-the-afterlives-of-ani/",
-      "published_date": "2026-06-24T10:15:19Z",
       "category": "Local Events"
     }
   ]
