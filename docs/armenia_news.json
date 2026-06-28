@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T23:57:16Z",
+  "generated_at": "2026-06-28T12:15:54Z",
   "country": "Armenia",
   "total_stories": 48,
   "categories": [
@@ -207,6 +207,13 @@
       "category": "Economy"
     },
     {
+      "title": "Israeli Cabinet Approves Armenian Genocide Resolution",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182345",
+      "published_date": "2026-06-28T11:07:00Z",
+      "category": "Local Events"
+    },
+    {
       "title": "After Earthquake, Armenian Community in Venezuela on Edge",
       "source": "Asbarez",
       "url": "https://asbarez.com/after-earthquake-armenian-community-in-venezuela-on-edge/",
@@ -337,13 +344,6 @@
       "source": "Asbarez",
       "url": "https://asbarez.com/schiff-urges-state-department-to-call-out-human-rights-abuses-in-azerbaijan/",
       "published_date": "2026-06-24T20:56:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenian Priest Tells South Texas Faith Leaders About Rep. Cuellar’s Betrayal of Persecuted Christians",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/priest-calls-on-south-texas-faith-leaders-calls-out-rep-cuellar-for-betraying-persecuted-christians/",
-      "published_date": "2026-06-24T18:10:19Z",
       "category": "Local Events"
     }
   ]
