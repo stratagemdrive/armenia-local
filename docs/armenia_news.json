@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-29T00:03:23Z",
+  "generated_at": "2026-06-29T14:47:19Z",
   "country": "Armenia",
-  "total_stories": 48,
+  "total_stories": 46,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,34 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "ANC-International statement on Israeli Cabinet’s Armenian Genocide recognition",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/29/anc-international-statement-on-israeli-cabinets-armenian-genocide-recognition/",
+      "published_date": "2026-06-29T10:11:38Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Tukey, Azerbaijan Condemn Israeli Government&#039;s Recognition of Armenian Genocide",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182353",
+      "published_date": "2026-06-29T07:20:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "ANC-International Statement on Israeli Cabinet’s Armenian Genocide Recognition Decision",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/anc-international-statement-on-israeli-cabinets-armenian-genocide-recognition-decision/",
+      "published_date": "2026-06-28T21:11:30Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Israel Recognizes Armenian Genocide",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/israel-recognizes-armenian-genocide/",
+      "published_date": "2026-06-28T21:07:26Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "ANCA joins Hellenic allies to block $700 million Turkey jet engine sale",
       "source": "The Armenian Weekly",
@@ -123,34 +151,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU’s von der Leyen to Visit Baku then Yerevan Next Week",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/eus-von-der-leyen-to-visit-baku-then-yerevan-next-week/",
-      "published_date": "2026-06-23T20:31:22Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "WATCH: Capitol Hill Press Conference Marks 1,000th Day of Azerbaijani Detention of Armenian Hostages",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/sherman-mcclintock-to-lead-capitol-hill-press-conference-today-marking-1000th-day-of-azerbaijani-detention-of-armenian-hostages/",
-      "published_date": "2026-06-23T18:09:40Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Sherman, McClintock to mark 1,000 days of Armenian hostages’ detention",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/23/sherman-mcclintock-to-mark-1000-days-of-armenian-hostages-detention/",
-      "published_date": "2026-06-23T14:53:35Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ursula von der Leyen to Visit Armenia",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182235",
-      "published_date": "2026-06-23T11:40:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Beyond Approval: Trauma, Collective Shame, and Political Paralysis in Post-War Armenia",
       "source": "Asbarez",
       "url": "https://asbarez.com/beyond-approval-trauma-collective-shame-and-political-paralysis-in-post-war-armenia/",
@@ -162,13 +162,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/182223",
       "published_date": "2026-06-22T14:55:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "The Armenian American community during World War II: Patriotism amid anxieties",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/22/the-armenian-american-community-during-world-war-ii-patriotism-amid-anxieties/",
-      "published_date": "2026-06-22T13:58:53Z",
       "category": "Military"
     },
     {
@@ -200,11 +193,25 @@
       "category": "Economy"
     },
     {
-      "title": "Unibank&#039;s Net Profit Hits AMD 9.8 Billion",
+      "title": "UC Berkeley offers online course on Armenian and sociolinguistics",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/29/uc-berkeley-offers-online-course-on-armenian-and-sociolinguistics/",
+      "published_date": "2026-06-29T13:59:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Celebration of the 31st Anniversary of His Holiness Aram I’s Enthronement as Catholicos",
       "source": "Hetq",
-      "url": "https://hetq.am/en/article/182220",
-      "published_date": "2026-06-22T10:02:00Z",
-      "category": "Economy"
+      "url": "https://hetq.am/en/article/182363",
+      "published_date": "2026-06-29T12:51:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenian church registers and the reconstruction of immigrant lives in America",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/29/armenian-church-registers-and-the-reconstruction-of-immigrant-lives-in-america/",
+      "published_date": "2026-06-29T11:53:24Z",
+      "category": "Local Events"
     },
     {
       "title": "Israeli Cabinet Approves Armenian Genocide Resolution",
@@ -323,27 +330,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/182281",
       "published_date": "2026-06-25T11:26:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Home Searches in Gyumri Target Armenia Alliance Supporters",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182277",
-      "published_date": "2026-06-25T08:35:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saghatelyan’s Lawyers Say Case Against ARF Leader is a Political Order",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/saghatelyans-lawyers-say-case-against-arf-leader-is-a-political-order/",
-      "published_date": "2026-06-24T20:58:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Schiff Urges State Department to Call Out Human Rights Abuses in Azerbaijan",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/schiff-urges-state-department-to-call-out-human-rights-abuses-in-azerbaijan/",
-      "published_date": "2026-06-24T20:56:20Z",
       "category": "Local Events"
     }
   ]
