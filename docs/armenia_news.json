@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T12:15:54Z",
+  "generated_at": "2026-06-29T00:03:23Z",
   "country": "Armenia",
   "total_stories": 48,
   "categories": [
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "ANCA joins Hellenic allies to block $700 million Turkey jet engine sale",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/28/anca-joins-hellenic-allies-to-block-700-million/",
+      "published_date": "2026-06-28T15:06:33Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ursula von der Leyen to Visit Yerevan and Baku for Transport Corridor Talks",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182346",
+      "published_date": "2026-06-28T13:00:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Councilmember Adrin Nazarian Says Turkey’s FIFA ‘Vibe Zone’ at Grand Park is ‘Offensive’ to Armenians",
       "source": "Asbarez",
@@ -134,20 +148,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/182235",
       "published_date": "2026-06-23T11:40:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Armenia’s Women’s Tennis Team Beats Azerbaijan",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/armenias-womens-tennis-team-beats-azerbaijan/",
-      "published_date": "2026-06-22T21:10:36Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Armenia, Azerbaijan Telecom Operators Sign Internet Transit Agreement",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/armenia-azerbaijan-telecom-operators-sign-internet-transit-agreement/",
-      "published_date": "2026-06-22T20:35:10Z",
       "category": "Diplomacy"
     },
     {
