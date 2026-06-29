@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-29T14:47:19Z",
+  "generated_at": "2026-06-29T23:58:42Z",
   "country": "Armenia",
-  "total_stories": 46,
+  "total_stories": 45,
   "categories": [
     "Diplomacy",
     "Military",
@@ -158,13 +158,6 @@
       "category": "Military"
     },
     {
-      "title": "Armenia&#039;s POW, Missing Persons Committee Discusses Priorities",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182223",
-      "published_date": "2026-06-22T14:55:00Z",
-      "category": "Military"
-    },
-    {
       "title": "Armenian Government Submits Bill to Recognize Electricity Distributor as &quot;Public Interest&quot; Concern",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/182234",
@@ -191,6 +184,20 @@
       "url": "https://armenianweekly.com/2026/06/24/2026-graduates-are-ready-to-take-on-a-changing-world/",
       "published_date": "2026-06-24T17:02:21Z",
       "category": "Economy"
+    },
+    {
+      "title": "SheCan: How FAR helps Armenian women rewrite their future",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/29/shecan-how-far-helps-armenian-women-rewrite-their-future/",
+      "published_date": "2026-06-29T15:57:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "AMA to host “The Amateur” launch with Chris Bohjalian, Nancy Kricorian",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/29/ama-to-host-the-amateur-launch-with-chris-bohjalian-nancy-kricorian/",
+      "published_date": "2026-06-29T14:57:13Z",
+      "category": "Local Events"
     },
     {
       "title": "UC Berkeley offers online course on Armenian and sociolinguistics",
@@ -316,20 +323,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/06/25/five-ways-to-identify-armenian-carpets/",
       "published_date": "2026-06-25T14:25:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Appeals Court Overturns Archbishop Ajapahyan&#039;s Guilty Verdict; Orders New Trial",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182287",
-      "published_date": "2026-06-25T12:11:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Catholicos Aram I Honors Cyprus President in Nicosia",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182281",
-      "published_date": "2026-06-25T11:26:00Z",
       "category": "Local Events"
     }
   ]
