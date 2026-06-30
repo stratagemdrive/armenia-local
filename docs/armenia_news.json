@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-29T23:58:42Z",
+  "generated_at": "2026-06-30T13:09:02Z",
   "country": "Armenia",
-  "total_stories": 45,
+  "total_stories": 44,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Pashinyan, EU Member State Ambassadors  Discuss Cooperation",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182386",
+      "published_date": "2026-06-30T11:50:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "ANC-International statement on Israeli Cabinet’s Armenian Genocide recognition",
       "source": "The Armenian Weekly",
@@ -144,25 +151,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Pashinyan, Modi Discuss Need for Expanded Bilateral Cooperation",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182254",
-      "published_date": "2026-06-24T11:44:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Beyond Approval: Trauma, Collective Shame, and Political Paralysis in Post-War Armenia",
       "source": "Asbarez",
       "url": "https://asbarez.com/beyond-approval-trauma-collective-shame-and-political-paralysis-in-post-war-armenia/",
       "published_date": "2026-06-23T17:44:52Z",
       "category": "Military"
-    },
-    {
-      "title": "Armenian Government Submits Bill to Recognize Electricity Distributor as &quot;Public Interest&quot; Concern",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182234",
-      "published_date": "2026-06-23T11:16:00Z",
-      "category": "Energy"
     },
     {
       "title": "Russia Halts All Fish Imports from Armenia",
@@ -184,6 +177,13 @@
       "url": "https://armenianweekly.com/2026/06/24/2026-graduates-are-ready-to-take-on-a-changing-world/",
       "published_date": "2026-06-24T17:02:21Z",
       "category": "Economy"
+    },
+    {
+      "title": "Yerevan Mayor, U.K. Ambassador Discuss Cooperation Prospects",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182376",
+      "published_date": "2026-06-30T06:20:00Z",
+      "category": "Local Events"
     },
     {
       "title": "SheCan: How FAR helps Armenian women rewrite their future",
@@ -316,13 +316,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/06/25/little-mher-brings-armenian-epic-into-ai-age/",
       "published_date": "2026-06-25T15:04:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Five ways to identify Armenian carpets",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/25/five-ways-to-identify-armenian-carpets/",
-      "published_date": "2026-06-25T14:25:52Z",
       "category": "Local Events"
     }
   ]
