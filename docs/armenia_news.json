@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-30T13:09:02Z",
+  "generated_at": "2026-07-01T00:02:35Z",
   "country": "Armenia",
-  "total_stories": 44,
+  "total_stories": 45,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Aliyev escalated to the U.N., his demand to resettle 300,000 Azerbaijanis in Armenia",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/30/aliyev-escalated-to-the-u-n-his-demand-to-resettle-300000-azerbaijanis-in-armenia/",
+      "published_date": "2026-06-30T13:12:49Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Pashinyan, EU Member State Ambassadors  Discuss Cooperation",
       "source": "Hetq",
@@ -144,18 +151,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Congressional leaders demand release of Armenian hostages",
+      "title": "Carving pathways to justice",
       "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/24/congressional-leaders-demand-release-of-armenian-hostages/",
-      "published_date": "2026-06-24T15:24:52Z",
-      "category": "Diplomacy"
+      "url": "https://armenianweekly.com/2026/06/30/carving-pathways-to-justice/",
+      "published_date": "2026-06-30T15:34:06Z",
+      "category": "Military"
     },
     {
-      "title": "Beyond Approval: Trauma, Collective Shame, and Political Paralysis in Post-War Armenia",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/beyond-approval-trauma-collective-shame-and-political-paralysis-in-post-war-armenia/",
-      "published_date": "2026-06-23T17:44:52Z",
-      "category": "Military"
+      "title": "Greece visa delays paralyze travel agencies in Armenia",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/30/greece-visa-delays-paralyze-travel-agencies-in-armenia/",
+      "published_date": "2026-06-30T10:00:53Z",
+      "category": "Economy"
     },
     {
       "title": "Russia Halts All Fish Imports from Armenia",
@@ -177,6 +184,27 @@
       "url": "https://armenianweekly.com/2026/06/24/2026-graduates-are-ready-to-take-on-a-changing-world/",
       "published_date": "2026-06-24T17:02:21Z",
       "category": "Economy"
+    },
+    {
+      "title": "Armenian Health Minister: Medical Insurance Payouts Total $264.8 Million",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182389",
+      "published_date": "2026-06-30T16:07:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hamazkayin Armenian Music Festival brings musicians and youth together",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/30/hamazkayin-armenian-music-festival-brings-musicians-and-youth-together/",
+      "published_date": "2026-06-30T15:59:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jean Bekirian: The golfer making history for Armenia",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/06/30/jean-bekirian-the-golfer-making-history-for-armenia/",
+      "published_date": "2026-06-30T14:35:41Z",
+      "category": "Local Events"
     },
     {
       "title": "Yerevan Mayor, U.K. Ambassador Discuss Cooperation Prospects",
@@ -295,27 +323,6 @@
       "source": "Asbarez",
       "url": "https://asbarez.com/new-publication-traces-historic-relationship-between-germans-and-turks/",
       "published_date": "2026-06-25T18:18:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "AYF members gather for ARF Educational Weekend in Liberty, New York",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/25/ayf-members-gather-for-arf-educational-weekend-in-liberty-new-york/",
-      "published_date": "2026-06-25T15:41:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Region in Brief",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/25/the-region-in-brief-173/",
-      "published_date": "2026-06-25T15:17:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "“Little Mher” brings Armenian epic into AI Age",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/25/little-mher-brings-armenian-epic-into-ai-age/",
-      "published_date": "2026-06-25T15:04:21Z",
       "category": "Local Events"
     }
   ]
