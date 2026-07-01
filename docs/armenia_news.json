@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T00:02:35Z",
+  "generated_at": "2026-07-01T13:33:17Z",
   "country": "Armenia",
   "total_stories": 45,
   "categories": [
@@ -186,6 +186,27 @@
       "category": "Economy"
     },
     {
+      "title": "The Region in Brief",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/01/the-region-in-brief-174/",
+      "published_date": "2026-07-01T13:22:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenian Justice Minister Upholds June 7 Election Results",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182416",
+      "published_date": "2026-07-01T11:51:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "European Court Rules Against Armenia, Finding Citizens Lack Effective Remedies for Judicial Delays",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182392",
+      "published_date": "2026-07-01T06:49:00Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Armenian Health Minister: Medical Insurance Payouts Total $264.8 Million",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/182389",
@@ -302,27 +323,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/182305",
       "published_date": "2026-06-26T07:09:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Aurora Prize Laureate Dr. Denis Mukwege Extends Funding Support for Local Humanitarians",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182299",
-      "published_date": "2026-06-25T19:22:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Robert William Becomes First Armenian-American Glendale Police Chief",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/robert-william-becomes-first-armenian-glendale-police-chief/",
-      "published_date": "2026-06-25T18:29:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "New Publication Traces Historic Relationship Between Germans and Turks",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/new-publication-traces-historic-relationship-between-germans-and-turks/",
-      "published_date": "2026-06-25T18:18:03Z",
       "category": "Local Events"
     }
   ]
