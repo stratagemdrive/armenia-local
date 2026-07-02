@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-01T13:33:17Z",
+  "generated_at": "2026-07-02T00:03:18Z",
   "country": "Armenia",
-  "total_stories": 45,
+  "total_stories": 44,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Lousé Foundation goes beyond rehabilitation",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/01/louse-foundation-goes-beyond-rehabilitation/",
+      "published_date": "2026-07-01T16:14:37Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Aliyev escalated to the U.N., his demand to resettle 300,000 Azerbaijanis in Armenia",
       "source": "The Armenian Weekly",
@@ -144,13 +151,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Congressional Leaders Demand Release of Armenian Hostages",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/congressional-leaders-demand-release-of-armenian-hostages/",
-      "published_date": "2026-06-24T17:50:36Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Carving pathways to justice",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/06/30/carving-pathways-to-justice/",
@@ -179,11 +179,25 @@
       "category": "Economy"
     },
     {
-      "title": "2026 graduates are ready to take on a changing world",
+      "title": "Leslie Ayvazian brings rebellious insight to one-woman show “Mention My Beauty”",
       "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/24/2026-graduates-are-ready-to-take-on-a-changing-world/",
-      "published_date": "2026-06-24T17:02:21Z",
-      "category": "Economy"
+      "url": "https://armenianweekly.com/2026/07/01/leslie-ayvazian-brings-rebellious-insight-to-one-woman-show-mention-my-beauty/",
+      "published_date": "2026-07-01T15:32:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "What we remember",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/01/what-we-remember/",
+      "published_date": "2026-07-01T14:53:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘A Willingness of the Heart’",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/01/a-willingness-of-the-heart/",
+      "published_date": "2026-07-01T14:52:40Z",
+      "category": "Local Events"
     },
     {
       "title": "The Region in Brief",
@@ -302,27 +316,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/06/26/anca-eastern-region-to-host-milestone-20th-annual-gala-in-rhode-island/",
       "published_date": "2026-06-26T14:34:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Baku’s “Western Azerbaijan” campaign moves from rhetoric to state policy",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/26/bakus-western-azerbaijan-campaign-moves-from-rhetoric-to-state-policy/",
-      "published_date": "2026-06-26T11:39:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenia Wants to Create Database of IMEI Mobile Phone Numbers: Experts Warn of Dangers",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182321",
-      "published_date": "2026-06-26T11:35:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Unibank and &quot;Vanq&quot; Charity Fund Support Wheelchair Basketball Exhibition Game in Yerevan",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182305",
-      "published_date": "2026-06-26T07:09:00Z",
       "category": "Local Events"
     }
   ]
