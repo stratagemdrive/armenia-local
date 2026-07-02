@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-02T00:03:18Z",
+  "generated_at": "2026-07-02T12:57:16Z",
   "country": "Armenia",
-  "total_stories": 44,
+  "total_stories": 45,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,41 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Gas, Wheat, Cooking Oil: Top 20 Products Armenia Imports from Russia",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182396",
+      "published_date": "2026-07-02T11:01:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Von der Leyen: EU Will Open Market to Armenian Goods if Russia Imposes Ban",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182434",
+      "published_date": "2026-07-02T09:47:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ursula von der Leyen in Armenia",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182429",
+      "published_date": "2026-07-02T06:18:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU to Pump More Money for ‘Peace in South Caucasus’",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/eu-to-pump-more-money-for-peace-in-south-caucasus/",
+      "published_date": "2026-07-01T21:36:52Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Yerevan Says Not In Talks With Russia on TRIPP",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/yerevan-says-not-in-talks-with-russia-on-tripp/",
+      "published_date": "2026-07-01T21:35:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Lousé Foundation goes beyond rehabilitation",
       "source": "The Armenian Weekly",
@@ -116,46 +151,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iraq Nominates Krikor Der-Hagopian as Ambassador to U.S.",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/iraq-nominates-krikor-der-hagopian-as-ambassador-to-u-s/",
-      "published_date": "2026-06-25T21:35:28Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Israel’s Foreign Minister Plans to Propose Resolution Recognizing Armenian Genocide",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/israels-foreign-minister-plans-to-propose-resolution-recognizing-armenian-genocide/",
-      "published_date": "2026-06-25T21:33:28Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pashinyan Blames Diaspora’s Advocacy for Artsakh for Baku’s ‘Western Azerbaijan’ Demands",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/pashinyan-blames-diasporas-advocacy-for-artsakh-for-bakus-western-azerbaijan-demands/",
-      "published_date": "2026-06-25T21:01:47Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The Armenian Genocide and the pursuit of recognition in Australia",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/25/the-armenian-genocide-and-the-pursuit-of-recognition-in-australia/",
-      "published_date": "2026-06-25T15:48:45Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Armenian, French Officials Stress Need to Expand Business Cooperation",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182289",
-      "published_date": "2026-06-25T12:32:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Carving pathways to justice",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/06/30/carving-pathways-to-justice/",
       "published_date": "2026-06-30T15:34:06Z",
       "category": "Military"
+    },
+    {
+      "title": "Armenia&#039;s Energy Surplus: How to Utilize the Sun&#039;s Power",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182372",
+      "published_date": "2026-07-02T08:40:00Z",
+      "category": "Energy"
     },
     {
       "title": "Greece visa delays paralyze travel agencies in Armenia",
@@ -177,6 +184,62 @@
       "url": "https://hetq.am/en/article/182323",
       "published_date": "2026-06-26T13:24:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Alen Simonyan Says He Will Not Enter Armenia’s New Parliament",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182436",
+      "published_date": "2026-07-02T10:10:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Murals of Fallen Artsakh Heroes Being Removed From Yerevan’s Streets",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/murals-of-fallen-artsakh-heroes-being-removed-from-yerevans-streets/",
+      "published_date": "2026-07-01T21:39:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "ARS Western U.S. Offers Condolences on the Passing of Iris Sahatdjian",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/ars-western-u-s-offers-condolences-on-the-passing-of-iris-sahatdjian/",
+      "published_date": "2026-07-01T19:35:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Matenadaran’s Armenian Manuscript Exhibition In Spain Concludes, Draws 13,000 Visitors",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/matenadarans-armenian-manuscript-exhibition-in-spain-concludes-draws-13000-visitors/",
+      "published_date": "2026-07-01T19:34:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "California State Assembly Launches Select Committee on California and Armenia Mutual Trade, Art and Cultural Exchange",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/california-state-assembly-launches-select-committee-on-california-and-armenia-mutual-trade-art-and-cultural-exchange/",
+      "published_date": "2026-07-01T18:51:05Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pechanga Rewards Members Can Ride Off in Style or Take Home a Cool 100-Grand During the July Mercedes-Benz & Easyplay® Drawings",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/pechanga-rewards-members-can-ride-off-in-style-or-take-home-a-cool-100-grand-during-the-july-mercedes-benz-easyplay-drawings/",
+      "published_date": "2026-07-01T16:41:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "While the World Played",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/while-the-world-played/",
+      "published_date": "2026-07-01T16:06:05Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "AUA to Celebrate 35th Anniversary at Nov. 7 Gala",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/aua-to-celebrate-35th-anniversary-at-nov-7-gala/",
+      "published_date": "2026-07-01T16:04:35Z",
+      "category": "Local Events"
     },
     {
       "title": "Leslie Ayvazian brings rebellious insight to one-woman show “Mention My Beauty”",
@@ -221,6 +284,13 @@
       "category": "Local Events"
     },
     {
+      "title": "ANCA-WR Launches 2026 Summer Internship Program",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/anca-wr-launches-2026-summer-internship-program/",
+      "published_date": "2026-07-01T00:17:30Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Armenian Health Minister: Medical Insurance Payouts Total $264.8 Million",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/182389",
@@ -253,69 +323,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/06/29/shecan-how-far-helps-armenian-women-rewrite-their-future/",
       "published_date": "2026-06-29T15:57:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "AMA to host “The Amateur” launch with Chris Bohjalian, Nancy Kricorian",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/29/ama-to-host-the-amateur-launch-with-chris-bohjalian-nancy-kricorian/",
-      "published_date": "2026-06-29T14:57:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "UC Berkeley offers online course on Armenian and sociolinguistics",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/29/uc-berkeley-offers-online-course-on-armenian-and-sociolinguistics/",
-      "published_date": "2026-06-29T13:59:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Celebration of the 31st Anniversary of His Holiness Aram I’s Enthronement as Catholicos",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182363",
-      "published_date": "2026-06-29T12:51:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenian church registers and the reconstruction of immigrant lives in America",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/29/armenian-church-registers-and-the-reconstruction-of-immigrant-lives-in-america/",
-      "published_date": "2026-06-29T11:53:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli Cabinet Approves Armenian Genocide Resolution",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182345",
-      "published_date": "2026-06-28T11:07:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "After Earthquake, Armenian Community in Venezuela on Edge",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/after-earthquake-armenian-community-in-venezuela-on-edge/",
-      "published_date": "2026-06-26T19:01:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Melkonian Institute’s Centennial Kicks Off with Book Presentation at Presidential Palace",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/melkonian-institutes-centennial-kicks-off-with-book-presentation-at-presidential-palace/",
-      "published_date": "2026-06-26T18:40:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Shakart, the artist turning Charbakh into an open-air gallery",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/26/shakart-the-artist-turning-charbakh-into-an-open-air-gallery/",
-      "published_date": "2026-06-26T15:33:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "ANCA Eastern Region to host milestone 20th annual gala in Rhode Island",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/26/anca-eastern-region-to-host-milestone-20th-annual-gala-in-rhode-island/",
-      "published_date": "2026-06-26T14:34:31Z",
       "category": "Local Events"
     }
   ]
