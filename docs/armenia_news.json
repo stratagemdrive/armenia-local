@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-02T12:57:16Z",
+  "generated_at": "2026-07-03T00:01:39Z",
   "country": "Armenia",
-  "total_stories": 45,
+  "total_stories": 47,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,48 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "EU Proposes Tariff-Free Access for Armenia’s Exports; Offers 52 Million Euros",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/eu-proposes-tariff-free-access-for-armenias-exports-offers-52-million-euros/",
+      "published_date": "2026-07-02T21:19:06Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Armenia’s Opposition Accuses EU of Ignoring ‘Political Arrests’",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/armenias-opposition-accuses-eu-of-ignoring-political-arrests/",
+      "published_date": "2026-07-02T21:02:14Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "AWWA announces 2026 International Armenian Elder Care Grant Program recipients",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/02/awwa-announces-2026-international-armenian-elder-care-grant-program-recipients/",
+      "published_date": "2026-07-02T20:02:56Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Book on Armenian Woman in Iran Highlights the Women that History Almost Missed",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/the-armenian-woman-book-highlights-the-women-that-history-almost-missed/",
+      "published_date": "2026-07-02T19:09:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "ARF Western United States 60th Regional Convention Declaration",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/arf-western-united-states-60th-regional-convention-declaration/",
+      "published_date": "2026-07-02T18:01:43Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Between Two Powers: Armenia’s Foreign Policy Dilemma",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/between-two-powers-armenias-foreign-policy-dilemma/",
+      "published_date": "2026-07-02T16:23:47Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Gas, Wheat, Cooking Oil: Top 20 Products Armenia Imports from Russia",
       "source": "Hetq",
@@ -109,48 +151,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Councilmember Adrin Nazarian Says Turkey’s FIFA ‘Vibe Zone’ at Grand Park is ‘Offensive’ to Armenians",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/councilmember-adrin-nazarians-releases-statement-on-grand-park-display-by-republic-of-turkey/",
-      "published_date": "2026-06-26T21:35:46Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "ANC International Statement on Artsakh Movement and Democracy",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/anc-international-statement-on-artsakh-movement-and-democracy/",
-      "published_date": "2026-06-26T16:18:21Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "When a French writer asked about Artsakh",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/26/when-a-french-writer-asked-about-artsakh/",
-      "published_date": "2026-06-26T15:46:16Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "ARF Hai Tahd Central Council statement on Artsakh and democracy",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/26/arf-hai-tahd-central-council-statement-on-artsakh-and-democracy/",
-      "published_date": "2026-06-26T14:31:38Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "U.S. Embassy Celebrates 250th Anniversary of American Independence",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182329",
-      "published_date": "2026-06-26T14:14:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Israeli Foreign Minister to Introduce Armenian Genocide Recognition Resolution for Government’s Consideration",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182304",
-      "published_date": "2026-06-26T11:46:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Carving pathways to justice",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/06/30/carving-pathways-to-justice/",
@@ -163,6 +163,20 @@
       "url": "https://hetq.am/en/article/182372",
       "published_date": "2026-07-02T08:40:00Z",
       "category": "Energy"
+    },
+    {
+      "title": "The Rug Wizard",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/02/the-rug-wizard/",
+      "published_date": "2026-07-02T16:17:32Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Founding the Museum",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/02/founding-the-museum/",
+      "published_date": "2026-07-02T14:33:35Z",
+      "category": "Economy"
     },
     {
       "title": "Greece visa delays paralyze travel agencies in Armenia",
@@ -184,6 +198,41 @@
       "url": "https://hetq.am/en/article/182323",
       "published_date": "2026-06-26T13:24:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Mary Ouzghoushian Vartanian, one of the last Armenian Genocide survivors, dies at 111",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/02/mary-ouzghoushian-vartanian-one-of-the-last-armenian-genocide-survivors-dies-at-111/",
+      "published_date": "2026-07-02T22:03:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pashinyan to Attend Iran’s Late Supreme Leader’s Farewell Ceremony",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/pashinyan-to-attend-irans-late-supreme-leaders-farewell-ceremony/",
+      "published_date": "2026-07-02T20:56:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mary Vardanyan, 112-Year-Old Armenian Genocide Survivor, Passes Away",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/mary-vardanyan-112-year-old-armenian-genocide-survivor-passes-away/",
+      "published_date": "2026-07-02T20:53:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Yerevan faces renewed Russian pressure ahead of EU Visit",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/02/yerevan-faces-renewed-russian-pressure-ahead-of-eu-visit/",
+      "published_date": "2026-07-02T14:34:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kavat Café hosts Armenian coffee cup reading ritual",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/02/kavat-cafe-hosts-armenian-coffee-cup-reading-ritual/",
+      "published_date": "2026-07-02T14:34:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Alen Simonyan Says He Will Not Enter Armenia’s New Parliament",
@@ -288,41 +337,6 @@
       "source": "Asbarez",
       "url": "https://asbarez.com/anca-wr-launches-2026-summer-internship-program/",
       "published_date": "2026-07-01T00:17:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenian Health Minister: Medical Insurance Payouts Total $264.8 Million",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182389",
-      "published_date": "2026-06-30T16:07:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hamazkayin Armenian Music Festival brings musicians and youth together",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/30/hamazkayin-armenian-music-festival-brings-musicians-and-youth-together/",
-      "published_date": "2026-06-30T15:59:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jean Bekirian: The golfer making history for Armenia",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/30/jean-bekirian-the-golfer-making-history-for-armenia/",
-      "published_date": "2026-06-30T14:35:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Yerevan Mayor, U.K. Ambassador Discuss Cooperation Prospects",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182376",
-      "published_date": "2026-06-30T06:20:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "SheCan: How FAR helps Armenian women rewrite their future",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/29/shecan-how-far-helps-armenian-women-rewrite-their-future/",
-      "published_date": "2026-06-29T15:57:26Z",
       "category": "Local Events"
     }
   ]
