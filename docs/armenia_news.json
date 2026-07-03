@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T00:01:39Z",
+  "generated_at": "2026-07-03T12:55:13Z",
   "country": "Armenia",
   "total_stories": 47,
   "categories": [
@@ -200,6 +200,13 @@
       "category": "Economy"
     },
     {
+      "title": "Pashinyan in Iran to Attend Funeral of Late Supreme Leader Ayatollah Khamenei",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182462",
+      "published_date": "2026-07-03T09:39:00Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Mary Ouzghoushian Vartanian, one of the last Armenian Genocide survivors, dies at 111",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/07/02/mary-ouzghoushian-vartanian-one-of-the-last-armenian-genocide-survivors-dies-at-111/",
@@ -330,13 +337,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/182392",
       "published_date": "2026-07-01T06:49:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "ANCA-WR Launches 2026 Summer Internship Program",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/anca-wr-launches-2026-summer-internship-program/",
-      "published_date": "2026-07-01T00:17:30Z",
       "category": "Local Events"
     }
   ]
