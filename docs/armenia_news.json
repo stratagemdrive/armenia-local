@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-03T12:55:13Z",
+  "generated_at": "2026-07-04T00:00:10Z",
   "country": "Armenia",
-  "total_stories": 47,
+  "total_stories": 45,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,27 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "ANCA welcomes bipartisan Congressional action to block arms sales to Turkey",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/03/anca-welcomes-bipartisan-congressional-action/",
+      "published_date": "2026-07-03T14:08:24Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "ANCA testifies for restricting U.S. aid to Azerbaijan, demands hostage release",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/03/anca-testifies-for-restricting-u-s-aid-to-azerbaijan/",
+      "published_date": "2026-07-03T14:00:59Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Armenian Genocide recognition used as political scoring card",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/03/armenian-genocide-recognition-used-as-political-scoring-card/",
+      "published_date": "2026-07-03T13:15:15Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "EU Proposes Tariff-Free Access for Armenia’s Exports; Offers 52 Million Euros",
       "source": "Asbarez",
@@ -130,27 +151,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Israel Recognizes Armenian Genocide",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/israel-recognizes-armenian-genocide/",
-      "published_date": "2026-06-28T21:07:26Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "ANCA joins Hellenic allies to block $700 million Turkey jet engine sale",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/28/anca-joins-hellenic-allies-to-block-700-million/",
-      "published_date": "2026-06-28T15:06:33Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ursula von der Leyen to Visit Yerevan and Baku for Transport Corridor Talks",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182346",
-      "published_date": "2026-06-28T13:00:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Carving pathways to justice",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/06/30/carving-pathways-to-justice/",
@@ -183,20 +183,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/06/30/greece-visa-delays-paralyze-travel-agencies-in-armenia/",
       "published_date": "2026-06-30T10:00:53Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Russia Halts All Fish Imports from Armenia",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182326",
-      "published_date": "2026-06-26T14:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Unibank to Pay AMD 9.3 bln in Dividends to Shareholders",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182323",
-      "published_date": "2026-06-26T13:24:00Z",
       "category": "Economy"
     },
     {
