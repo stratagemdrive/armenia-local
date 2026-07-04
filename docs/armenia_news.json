@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T12:06:04Z",
+  "generated_at": "2026-07-04T23:57:23Z",
   "country": "Armenia",
   "total_stories": 45,
   "categories": [
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "ANCA Testifies in Favor of Restricting U.S. Aid to Azerbaijan, Demanding Release of Armenian Hostages",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/anca-testifies-in-favor-of-restricting-u-s-aid-to-azerbaijan-demanding-release-of-armenian-hostages/",
+      "published_date": "2026-07-03T22:01:24Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Tehran Warns Pashinyan Against ‘Foreign Interference’ in Armenia-Iran Ties",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/tehran-warns-pashinyan-against-foreign-interference-in-armenia-iran-ties/",
+      "published_date": "2026-07-03T21:56:52Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "ANCA welcomes bipartisan Congressional action to block arms sales to Turkey",
       "source": "The Armenian Weekly",
@@ -137,20 +151,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Tukey, Azerbaijan Condemn Israeli Government&#039;s Recognition of Armenian Genocide",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182353",
-      "published_date": "2026-06-29T07:20:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "ANC-International Statement on Israeli Cabinet’s Armenian Genocide Recognition Decision",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/anc-international-statement-on-israeli-cabinets-armenian-genocide-recognition-decision/",
-      "published_date": "2026-06-28T21:11:30Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Carving pathways to justice",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/06/30/carving-pathways-to-justice/",
@@ -186,6 +186,20 @@
       "category": "Economy"
     },
     {
+      "title": "Constitutional Court Rejects Opposition Appeals, Upholds Election Results",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/constitutional-court-rejects-opposition-appeals-upholds-election-results/",
+      "published_date": "2026-07-04T19:35:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenia&#039;s Constitutional Court Upholds June 7 Election Results",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182475",
+      "published_date": "2026-07-04T13:58:00Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Pashinyan Congratulates Trump on U.S. Independence Anniversary",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/182471",
@@ -197,6 +211,13 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/182470",
       "published_date": "2026-07-04T07:40:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "EDITORIAL: America at 250 and the Armenians",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/editorial-america-at-250-and-the-armenians/",
+      "published_date": "2026-07-03T22:00:26Z",
       "category": "Local Events"
     },
     {
@@ -302,27 +323,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/07/01/leslie-ayvazian-brings-rebellious-insight-to-one-woman-show-mention-my-beauty/",
       "published_date": "2026-07-01T15:32:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "What we remember",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/01/what-we-remember/",
-      "published_date": "2026-07-01T14:53:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘A Willingness of the Heart’",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/01/a-willingness-of-the-heart/",
-      "published_date": "2026-07-01T14:52:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Region in Brief",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/01/the-region-in-brief-174/",
-      "published_date": "2026-07-01T13:22:41Z",
       "category": "Local Events"
     }
   ]
