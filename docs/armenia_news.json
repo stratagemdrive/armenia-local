@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T00:00:10Z",
+  "generated_at": "2026-07-04T12:06:04Z",
   "country": "Armenia",
   "total_stories": 45,
   "categories": [
@@ -186,6 +186,20 @@
       "category": "Economy"
     },
     {
+      "title": "Pashinyan Congratulates Trump on U.S. Independence Anniversary",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182471",
+      "published_date": "2026-07-04T07:44:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hope and Disappointment: Yerevan Exhibition Dedicated to Great Repatriation",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182470",
+      "published_date": "2026-07-04T07:40:00Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Pashinyan in Iran to Attend Funeral of Late Supreme Leader Ayatollah Khamenei",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/182462",
@@ -309,20 +323,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/07/01/the-region-in-brief-174/",
       "published_date": "2026-07-01T13:22:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenian Justice Minister Upholds June 7 Election Results",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182416",
-      "published_date": "2026-07-01T11:51:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "European Court Rules Against Armenia, Finding Citizens Lack Effective Remedies for Judicial Delays",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182392",
-      "published_date": "2026-07-01T06:49:00Z",
       "category": "Local Events"
     }
   ]
