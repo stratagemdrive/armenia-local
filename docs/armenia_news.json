@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-05T12:15:07Z",
+  "generated_at": "2026-07-06T00:01:59Z",
   "country": "Armenia",
-  "total_stories": 45,
+  "total_stories": 46,
   "categories": [
     "Diplomacy",
     "Military",
@@ -149,6 +149,13 @@
       "url": "https://armenianweekly.com/2026/06/29/anc-international-statement-on-israeli-cabinets-armenian-genocide-recognition/",
       "published_date": "2026-06-29T10:11:38Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Veteran Journalist Larisa Paremuzyan Has Died",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182484",
+      "published_date": "2026-07-05T11:30:00Z",
+      "category": "Military"
     },
     {
       "title": "Carving pathways to justice",
