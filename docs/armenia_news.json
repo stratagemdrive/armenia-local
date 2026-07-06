@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T00:01:59Z",
+  "generated_at": "2026-07-06T14:23:59Z",
   "country": "Armenia",
   "total_stories": 46,
   "categories": [
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Israel’s Cabinet resolution is not recognition",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/06/israels-cabinet-resolution-is-not-recognition/",
+      "published_date": "2026-07-06T11:22:32Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "ANCA Testifies in Favor of Restricting U.S. Aid to Azerbaijan, Demanding Release of Armenian Hostages",
       "source": "Asbarez",
@@ -144,13 +151,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "ANC-International statement on Israeli Cabinet’s Armenian Genocide recognition",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/29/anc-international-statement-on-israeli-cabinets-armenian-genocide-recognition/",
-      "published_date": "2026-06-29T10:11:38Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Veteran Journalist Larisa Paremuzyan Has Died",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/182484",
@@ -191,6 +191,27 @@
       "url": "https://armenianweekly.com/2026/06/30/greece-visa-delays-paralyze-travel-agencies-in-armenia/",
       "published_date": "2026-06-30T10:00:53Z",
       "category": "Economy"
+    },
+    {
+      "title": "Library of Congress to spotlight Armenian American history",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/06/library-of-congress-to-spotlight-armenian-american-history/",
+      "published_date": "2026-07-06T14:14:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pashinyan in Russia for Industrial Trade Fair",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182501",
+      "published_date": "2026-07-06T09:55:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Law Enforcement Conduct Searches of Gagik Tsarukyan&#039;s Home, Businesses",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182490",
+      "published_date": "2026-07-06T09:12:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Constitutional Court Rejects Opposition Appeals, Upholds Election Results",
@@ -309,27 +330,6 @@
       "source": "Asbarez",
       "url": "https://asbarez.com/pechanga-rewards-members-can-ride-off-in-style-or-take-home-a-cool-100-grand-during-the-july-mercedes-benz-easyplay-drawings/",
       "published_date": "2026-07-01T16:41:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "While the World Played",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/while-the-world-played/",
-      "published_date": "2026-07-01T16:06:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "AUA to Celebrate 35th Anniversary at Nov. 7 Gala",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/aua-to-celebrate-35th-anniversary-at-nov-7-gala/",
-      "published_date": "2026-07-01T16:04:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Leslie Ayvazian brings rebellious insight to one-woman show “Mention My Beauty”",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/01/leslie-ayvazian-brings-rebellious-insight-to-one-woman-show-mention-my-beauty/",
-      "published_date": "2026-07-01T15:32:34Z",
       "category": "Local Events"
     }
   ]
