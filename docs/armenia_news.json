@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T00:02:38Z",
+  "generated_at": "2026-07-07T13:20:04Z",
   "country": "Armenia",
-  "total_stories": 46,
+  "total_stories": 45,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,41 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Pashinyan, Erdogan and Aliyev are unhappy with Israel’s recognition of the genocide",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/07/pashinyan-erdogan-and-aliyev-are-unhappy-with-israels-recognition-of-the-genocide/",
+      "published_date": "2026-07-07T11:16:33Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Galstyan calls for OSCE monitoring of Armenia’s democratic decline",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/07/galstyan-calls-for-osce-monitoring-of-armenias-democratic-decline/",
+      "published_date": "2026-07-07T11:11:57Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "ARF Bureau Member Lilit Galstyan Calls on OSCE to Monitor Armenia’s Democratic Decline",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/arf-bureau-member-lilit-galstyan-calls-on-osce-to-monitor-armenias-democratic-decline/",
+      "published_date": "2026-07-06T21:21:20Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Christian Solidarity Urges UN to Send Fact-Finding Mission to Artsakh",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/christian-solidarity-urges-un-to-send-fact-finding-mission-to-artsakh/",
+      "published_date": "2026-07-06T20:46:07Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "ANCA Welcomes Bi-Partisan Congressional Action to Block Arms Sales to Turkey",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/anca-welcomes-bipartisan-congressional-action-to-block-arms-sales-to-turkey/",
+      "published_date": "2026-07-06T15:46:14Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "North American AYF regions issue statement on hostages’ 1,000th day in captivity",
       "source": "The Armenian Weekly",
@@ -116,41 +151,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Ursula von der Leyen in Armenia",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182429",
-      "published_date": "2026-07-02T06:18:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU to Pump More Money for ‘Peace in South Caucasus’",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/eu-to-pump-more-money-for-peace-in-south-caucasus/",
-      "published_date": "2026-07-01T21:36:52Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Yerevan Says Not In Talks With Russia on TRIPP",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/yerevan-says-not-in-talks-with-russia-on-tripp/",
-      "published_date": "2026-07-01T21:35:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Lousé Foundation goes beyond rehabilitation",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/01/louse-foundation-goes-beyond-rehabilitation/",
-      "published_date": "2026-07-01T16:14:37Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Aliyev escalated to the U.N., his demand to resettle 300,000 Azerbaijanis in Armenia",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/30/aliyev-escalated-to-the-u-n-his-demand-to-resettle-300000-azerbaijanis-in-armenia/",
-      "published_date": "2026-06-30T13:12:49Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Veteran Journalist Larisa Paremuzyan Has Died",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/182484",
@@ -186,11 +186,39 @@
       "category": "Economy"
     },
     {
-      "title": "Greece visa delays paralyze travel agencies in Armenia",
+      "title": "Armenia Alliance to continue struggle following Constitutional Court ruling",
       "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/30/greece-visa-delays-paralyze-travel-agencies-in-armenia/",
-      "published_date": "2026-06-30T10:00:53Z",
-      "category": "Economy"
+      "url": "https://armenianweekly.com/2026/07/07/armenia-alliance-to-continue-struggle-following-constitutional-court-ruling/",
+      "published_date": "2026-07-07T11:14:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenia Alliance Vows to Continue Political Struggle Following Court Ruling on Elections",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/armenia-alliance-says-it-will-continue-political-struggle-following-court-ruling-on-elections/",
+      "published_date": "2026-07-06T21:18:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tsarukyan Arrested; Home, Businesses Raided",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/tsarukyan-arrested-home-businesses-raided/",
+      "published_date": "2026-07-06T20:49:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenian Bar Association Elects Zaven Sargsian as Chair",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/amenian-bar-association-elects-zaven-sargsian-as-chair/",
+      "published_date": "2026-07-06T17:53:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why Armenian-Americans May Seat California’s Next Governor",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/why-armenian-americans-may-seat-californias-next-governor/",
+      "published_date": "2026-07-06T15:57:45Z",
+      "category": "Local Events"
     },
     {
       "title": "The heartbeat behind the Marionette Theater",
@@ -295,41 +323,6 @@
       "source": "Asbarez",
       "url": "https://asbarez.com/mary-vardanyan-112-year-old-armenian-genocide-survivor-passes-away/",
       "published_date": "2026-07-02T20:53:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Yerevan faces renewed Russian pressure ahead of EU Visit",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/02/yerevan-faces-renewed-russian-pressure-ahead-of-eu-visit/",
-      "published_date": "2026-07-02T14:34:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kavat Café hosts Armenian coffee cup reading ritual",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/02/kavat-cafe-hosts-armenian-coffee-cup-reading-ritual/",
-      "published_date": "2026-07-02T14:34:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Alen Simonyan Says He Will Not Enter Armenia’s New Parliament",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182436",
-      "published_date": "2026-07-02T10:10:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Murals of Fallen Artsakh Heroes Being Removed From Yerevan’s Streets",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/murals-of-fallen-artsakh-heroes-being-removed-from-yerevans-streets/",
-      "published_date": "2026-07-01T21:39:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "ARS Western U.S. Offers Condolences on the Passing of Iris Sahatdjian",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/ars-western-u-s-offers-condolences-on-the-passing-of-iris-sahatdjian/",
-      "published_date": "2026-07-01T19:35:07Z",
       "category": "Local Events"
     }
   ]
