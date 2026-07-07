@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T13:20:04Z",
+  "generated_at": "2026-07-07T23:54:27Z",
   "country": "Armenia",
   "total_stories": 45,
   "categories": [
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Israel Recognizing Armenian Genocide Doesn’t Go Far Enough – They Must Protect Armenians",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/israel-recognizing-armenian-genocide-doesnt-go-far-enough-they-must-protect-armenians/",
+      "published_date": "2026-07-07T17:33:52Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Congressional Opposition Mounts Against Turkey’s Return to F-35 Program on Eve of NATO Summit in Ankara",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/congressional-opposition-mounts-against-turkeys-return-to-f-35-program-on-eve-of-nato-summit-in-ankara/",
+      "published_date": "2026-07-07T16:47:31Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Pashinyan, Erdogan and Aliyev are unhappy with Israel’s recognition of the genocide",
       "source": "The Armenian Weekly",
@@ -137,31 +151,17 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Gas, Wheat, Cooking Oil: Top 20 Products Armenia Imports from Russia",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182396",
-      "published_date": "2026-07-02T11:01:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Von der Leyen: EU Will Open Market to Armenian Goods if Russia Imposes Ban",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182434",
-      "published_date": "2026-07-02T09:47:00Z",
-      "category": "Diplomacy"
+      "title": "Over 10,000 Lose their Jobs after Security Forces Seize Tsarukyan’s Businesses",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/over-10000-lose-their-jobs-after-security-forces-seize-tsarukyans-businesses/",
+      "published_date": "2026-07-07T21:11:51Z",
+      "category": "Military"
     },
     {
       "title": "Veteran Journalist Larisa Paremuzyan Has Died",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/182484",
       "published_date": "2026-07-05T11:30:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Carving pathways to justice",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/06/30/carving-pathways-to-justice/",
-      "published_date": "2026-06-30T15:34:06Z",
       "category": "Military"
     },
     {
@@ -186,10 +186,59 @@
       "category": "Economy"
     },
     {
+      "title": "San Diego’s St. Sarkis Church to Hold ‘Gala of Hope’ on October 24",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/san-diegos-st-sarkis-church-to-hold-gala-esperanza-gala-of-hope-on-october-24/",
+      "published_date": "2026-07-07T16:33:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Merdinian School Names Peter Amloian Board Chair",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/merdinian-school-names-peter-amloian-06-board-chair/",
+      "published_date": "2026-07-07T16:30:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gagik Tsarukyan Gets Two-Month Detention",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182534",
+      "published_date": "2026-07-07T15:34:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Congressional opposition to Turkey’s return to F-35 program",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/07/congressional-opposition-against-turkeys-return-to-f-35-program/",
+      "published_date": "2026-07-07T15:10:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenian Bar Association elects new leadership at 37th annual meeting",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/07/armenian-bar-association-elects-new-leadership-at-37th-annual-meeting/",
+      "published_date": "2026-07-07T14:50:17Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Armenia Alliance to continue struggle following Constitutional Court ruling",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/07/07/armenia-alliance-to-continue-struggle-following-constitutional-court-ruling/",
       "published_date": "2026-07-07T11:14:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Archbishop Galstanyan Sues Pashinyan for Defamation",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182526",
+      "published_date": "2026-07-07T06:31:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Remembering Varoujan Koundakjian",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/remembering-varoujan-koundakjian/",
+      "published_date": "2026-07-06T23:23:00Z",
       "category": "Local Events"
     },
     {
@@ -274,55 +323,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/182475",
       "published_date": "2026-07-04T13:58:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pashinyan Congratulates Trump on U.S. Independence Anniversary",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182471",
-      "published_date": "2026-07-04T07:44:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hope and Disappointment: Yerevan Exhibition Dedicated to Great Repatriation",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182470",
-      "published_date": "2026-07-04T07:40:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "EDITORIAL: America at 250 and the Armenians",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/editorial-america-at-250-and-the-armenians/",
-      "published_date": "2026-07-03T22:00:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pashinyan in Iran to Attend Funeral of Late Supreme Leader Ayatollah Khamenei",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182462",
-      "published_date": "2026-07-03T09:39:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mary Ouzghoushian Vartanian, one of the last Armenian Genocide survivors, dies at 111",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/02/mary-ouzghoushian-vartanian-one-of-the-last-armenian-genocide-survivors-dies-at-111/",
-      "published_date": "2026-07-02T22:03:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pashinyan to Attend Iran’s Late Supreme Leader’s Farewell Ceremony",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/pashinyan-to-attend-irans-late-supreme-leaders-farewell-ceremony/",
-      "published_date": "2026-07-02T20:56:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mary Vardanyan, 112-Year-Old Armenian Genocide Survivor, Passes Away",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/mary-vardanyan-112-year-old-armenian-genocide-survivor-passes-away/",
-      "published_date": "2026-07-02T20:53:12Z",
       "category": "Local Events"
     }
   ]
