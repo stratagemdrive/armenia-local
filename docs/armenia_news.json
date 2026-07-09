@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T12:21:11Z",
+  "generated_at": "2026-07-09T00:05:10Z",
   "country": "Armenia",
   "total_stories": 45,
   "categories": [
@@ -11,10 +11,38 @@
   ],
   "stories": [
     {
+      "title": "Vardanyan’s Wife Appeals for International Support for Humanitarian Visit to Azerbaijan",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/vardanyans-wife-appeals-for-international-support-for-humanitarian-visit-to-azerbaijan/",
+      "published_date": "2026-07-08T19:56:55Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump Defies Bipartisan Congressional Opposition to Arming Turkey",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/trump-defies-bipartisan-congressional-opposition-to-arming-turkey/",
+      "published_date": "2026-07-08T17:30:09Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump defies bipartisan congressional opposition to arming Turkey",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/08/trump-defies-bipartisan-congressional-opposition-to-arming-turkey/",
+      "published_date": "2026-07-08T14:49:54Z",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Mobile Phones, Brandy, TVs: Top 20 Products Armenia Exports to Russia",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/182538",
       "published_date": "2026-07-08T11:25:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "European Union Donates Remotely Controlled Demining Vehicle to Armenia",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182563",
+      "published_date": "2026-07-08T09:40:00Z",
       "category": "Diplomacy"
     },
     {
@@ -123,34 +151,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU Proposes Tariff-Free Access for Armenia’s Exports; Offers 52 Million Euros",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/eu-proposes-tariff-free-access-for-armenias-exports-offers-52-million-euros/",
-      "published_date": "2026-07-02T21:19:06Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Armenia’s Opposition Accuses EU of Ignoring ‘Political Arrests’",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/armenias-opposition-accuses-eu-of-ignoring-political-arrests/",
-      "published_date": "2026-07-02T21:02:14Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "AWWA announces 2026 International Armenian Elder Care Grant Program recipients",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/02/awwa-announces-2026-international-armenian-elder-care-grant-program-recipients/",
-      "published_date": "2026-07-02T20:02:56Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Book on Armenian Woman in Iran Highlights the Women that History Almost Missed",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/the-armenian-woman-book-highlights-the-women-that-history-almost-missed/",
-      "published_date": "2026-07-02T19:09:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Over 10,000 Lose their Jobs after Security Forces Seize Tsarukyan’s Businesses",
       "source": "Asbarez",
       "url": "https://asbarez.com/over-10000-lose-their-jobs-after-security-forces-seize-tsarukyans-businesses/",
@@ -186,10 +186,52 @@
       "category": "Economy"
     },
     {
+      "title": "Iran’s Says its Concerns over TRIPP ‘Legitimate.’ Tehran Seeks Clarity from Yerevan",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/irans-says-its-concerns-over-tripp-legitimate-tehran-seeks-clarity-from-yerevan/",
+      "published_date": "2026-07-08T21:30:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Images of Tsarukyan’s Violent Arrest Spark Outrage and Uproar",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/images-of-tsarukyans-violent-arrest-spark-outrage-and-uproar/",
+      "published_date": "2026-07-08T21:24:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bridging the gap between generations",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/08/bridging-the-gap-between-generations/",
+      "published_date": "2026-07-08T16:48:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The art of belonging",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/08/the-art-of-belonging/",
+      "published_date": "2026-07-08T16:20:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ani Israyelyan immortalizes the homeland on canvas",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/08/ani-israyelyan-immortalizes-the-homeland-on-canvas/",
+      "published_date": "2026-07-08T13:48:57Z",
+      "category": "Local Events"
+    },
+    {
       "title": "The election Armenia’s opposition was not prepared to win",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/07/08/the-election-armenias-opposition-was-not-prepared-to-win/",
       "published_date": "2026-07-08T11:30:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ruben Vardanyan’s Wife Issues Statement on International Women’s Humanitarian Delegation’s Planned Visit to Baku",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182565",
+      "published_date": "2026-07-08T10:13:00Z",
       "category": "Local Events"
     },
     {
@@ -281,48 +323,6 @@
       "source": "Asbarez",
       "url": "https://asbarez.com/why-armenian-americans-may-seat-californias-next-governor/",
       "published_date": "2026-07-06T15:57:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The heartbeat behind the Marionette Theater",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/06/the-heartbeat-behind-the-marionette-theater/",
-      "published_date": "2026-07-06T14:50:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Making the case for deepening Franco-Armenian relations",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/06/making-the-case-for-deepening-franco-armenian-relations/",
-      "published_date": "2026-07-06T14:17:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Library of Congress to spotlight Armenian American history",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/06/library-of-congress-to-spotlight-armenian-american-history/",
-      "published_date": "2026-07-06T14:14:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Low Salaries Lead to Vacancies, Turnover in Armenia&#039;s Court System",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182493",
-      "published_date": "2026-07-06T11:07:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pashinyan in Russia for Industrial Trade Fair",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182501",
-      "published_date": "2026-07-06T09:55:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Law Enforcement Conduct Searches of Gagik Tsarukyan&#039;s Home, Businesses",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182490",
-      "published_date": "2026-07-06T09:12:00Z",
       "category": "Local Events"
     }
   ]
