@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T13:49:26Z",
+  "generated_at": "2026-07-10T00:00:00Z",
   "country": "Armenia",
   "total_stories": 46,
   "categories": [
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Congressional panel calls out Turkey’s aggression and denial",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/09/congressional-panel-calls-out-turkeys-aggression-and-denial/",
+      "published_date": "2026-07-09T13:06:06Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Vardanyan’s Wife Appeals for International Support for Humanitarian Visit to Azerbaijan",
       "source": "Asbarez",
@@ -144,11 +151,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Armenian Genocide recognition used as political scoring card",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/03/armenian-genocide-recognition-used-as-political-scoring-card/",
-      "published_date": "2026-07-03T13:15:15Z",
-      "category": "Diplomacy"
+      "title": "ARF Bureau Issues Statement on June 7 Parliamentary Elections",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/arf-bureau-issues-statement-on-june-7-parliamentary-elections/",
+      "published_date": "2026-07-09T20:09:32Z",
+      "category": "Military"
     },
     {
       "title": "Armenia’s Shortcomings and Progress in Combating Money Laundering: MONEYVAL’s Latest Report",
@@ -172,6 +179,13 @@
       "category": "Military"
     },
     {
+      "title": "Old Ideas, New Discoveries: Armenian Statistical Methods Find New Applications in Astronomy and Cosmology",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/old-ideas-new-discoveries-armenian-statistical-methods-find-new-applications-in-astronomy-and-cosmology/",
+      "published_date": "2026-07-09T17:56:18Z",
+      "category": "Energy"
+    },
+    {
       "title": "Labor Dispute Mediation May Become Mandatory in Armenia",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/182591",
@@ -179,18 +193,53 @@
       "category": "Economy"
     },
     {
-      "title": "The Rug Wizard",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/02/the-rug-wizard/",
-      "published_date": "2026-07-02T16:17:32Z",
-      "category": "Economy"
+      "title": "‘This Is a Politically Motivated Trial,’ Says Jailed Artsakh Leader",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/this-is-a-politically-motivated-trial-says-jailed-artsakh-leader/",
+      "published_date": "2026-07-09T20:17:32Z",
+      "category": "Local Events"
     },
     {
-      "title": "Founding the Museum",
+      "title": "Leading with Trust: Glendale’s First Armenian Police Chief Robert William on Safety, Service, and Community",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/leading-with-trust-glendales-first-armenian-police-chief-robert-william-on-safety-service-and-community/",
+      "published_date": "2026-07-09T19:38:42Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "ANCA Marks 40th Anniversary of Leo Sarkisian Internship Program",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/anca-marks-40th-anniversary-of-leo-sarkisian-internship-program/",
+      "published_date": "2026-07-09T15:47:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "ANCA marks 40th anniversary of Leo Sarkisian Internship",
       "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/02/founding-the-museum/",
-      "published_date": "2026-07-02T14:33:35Z",
-      "category": "Economy"
+      "url": "https://armenianweekly.com/2026/07/09/anca-marks-40th-anniversary-of-leo-sarkisian-internship/",
+      "published_date": "2026-07-09T15:07:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Cost of a Diploma in Armenia: A Thesis in Three Days",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182598",
+      "published_date": "2026-07-09T14:55:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "ARF Bureau statement on June 7 parliamentary elections",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/09/arf-bureau-statement-on-june-7-parliamentary-elections/",
+      "published_date": "2026-07-09T13:56:50Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Humanitarian Aid from Armenia Handed Over to Lebanon",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182601",
+      "published_date": "2026-07-09T13:26:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Tsarukyan’s arrest sparks political uproar",
@@ -281,55 +330,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/182534",
       "published_date": "2026-07-07T15:34:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Congressional opposition to Turkey’s return to F-35 program",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/07/congressional-opposition-against-turkeys-return-to-f-35-program/",
-      "published_date": "2026-07-07T15:10:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenian Bar Association elects new leadership at 37th annual meeting",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/07/armenian-bar-association-elects-new-leadership-at-37th-annual-meeting/",
-      "published_date": "2026-07-07T14:50:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenia Alliance to continue struggle following Constitutional Court ruling",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/07/armenia-alliance-to-continue-struggle-following-constitutional-court-ruling/",
-      "published_date": "2026-07-07T11:14:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Archbishop Galstanyan Sues Pashinyan for Defamation",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182526",
-      "published_date": "2026-07-07T06:31:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Remembering Varoujan Koundakjian",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/remembering-varoujan-koundakjian/",
-      "published_date": "2026-07-06T23:23:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenia Alliance Vows to Continue Political Struggle Following Court Ruling on Elections",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/armenia-alliance-says-it-will-continue-political-struggle-following-court-ruling-on-elections/",
-      "published_date": "2026-07-06T21:18:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tsarukyan Arrested; Home, Businesses Raided",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/tsarukyan-arrested-home-businesses-raided/",
-      "published_date": "2026-07-06T20:49:53Z",
       "category": "Local Events"
     }
   ]
