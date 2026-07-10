@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T00:00:00Z",
+  "generated_at": "2026-07-10T13:10:14Z",
   "country": "Armenia",
   "total_stories": 46,
   "categories": [
@@ -193,6 +193,13 @@
       "category": "Economy"
     },
     {
+      "title": "AECOM Delegation Surveys Future TRIPP Site in Armenia",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182611",
+      "published_date": "2026-07-10T06:48:00Z",
+      "category": "Local Events"
+    },
+    {
       "title": "‘This Is a Politically Motivated Trial,’ Says Jailed Artsakh Leader",
       "source": "Asbarez",
       "url": "https://asbarez.com/this-is-a-politically-motivated-trial-says-jailed-artsakh-leader/",
@@ -323,13 +330,6 @@
       "source": "Asbarez",
       "url": "https://asbarez.com/merdinian-school-names-peter-amloian-06-board-chair/",
       "published_date": "2026-07-07T16:30:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gagik Tsarukyan Gets Two-Month Detention",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182534",
-      "published_date": "2026-07-07T15:34:00Z",
       "category": "Local Events"
     }
   ]
