@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-10T13:10:14Z",
+  "generated_at": "2026-07-10T23:54:22Z",
   "country": "Armenia",
-  "total_stories": 46,
+  "total_stories": 45,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Lawyer to Appeal Ruben Vardanyan’s Case to European Court",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/lawyer-to-appeal-ruben-vardanyans-case-to-european-court/",
+      "published_date": "2026-07-10T20:11:17Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Aliyev needs a clear reminder!",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/10/aliyev-needs-a-clear-reminder/",
+      "published_date": "2026-07-10T14:48:20Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Congressional panel calls out Turkey’s aggression and denial",
       "source": "The Armenian Weekly",
@@ -123,34 +137,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "ANCA Testifies in Favor of Restricting U.S. Aid to Azerbaijan, Demanding Release of Armenian Hostages",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/anca-testifies-in-favor-of-restricting-u-s-aid-to-azerbaijan-demanding-release-of-armenian-hostages/",
-      "published_date": "2026-07-03T22:01:24Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Tehran Warns Pashinyan Against ‘Foreign Interference’ in Armenia-Iran Ties",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/tehran-warns-pashinyan-against-foreign-interference-in-armenia-iran-ties/",
-      "published_date": "2026-07-03T21:56:52Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "ANCA welcomes bipartisan Congressional action to block arms sales to Turkey",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/03/anca-welcomes-bipartisan-congressional-action/",
-      "published_date": "2026-07-03T14:08:24Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "ANCA testifies for restricting U.S. aid to Azerbaijan, demands hostage release",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/03/anca-testifies-for-restricting-u-s-aid-to-azerbaijan/",
-      "published_date": "2026-07-03T14:00:59Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "ARF Bureau Issues Statement on June 7 Parliamentary Elections",
       "source": "Asbarez",
       "url": "https://asbarez.com/arf-bureau-issues-statement-on-june-7-parliamentary-elections/",
@@ -186,11 +172,53 @@
       "category": "Energy"
     },
     {
+      "title": "Images of light",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/10/images-of-light/",
+      "published_date": "2026-07-10T21:17:23Z",
+      "category": "Economy"
+    },
+    {
       "title": "Labor Dispute Mediation May Become Mandatory in Armenia",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/182591",
       "published_date": "2026-07-09T10:52:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Shirvanian Youth Center Celebrates 10 Years of Transforming the Lives of Armenia’s Youth",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/shirvanian-youth-center-celebrates-10-years-of-transforming-the-lives-of-armenias-youth/",
+      "published_date": "2026-07-10T19:28:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "AYF Hollywood Juniors Launches Inaugural Scholarship Program Recognizing Leadership and Service",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/ayf-hollywood-juniors-launches-inaugural-scholarship-program-recognizing-leadership-and-service/",
+      "published_date": "2026-07-10T18:40:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "C-Rouge to perform at Koghb Vardavar",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/10/c-rouge-to-perform-at-koghb-vardavar/",
+      "published_date": "2026-07-10T17:08:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Neither Empowered nor Erased: Armenian Cypriots and the Politics of Recognition",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/10/neither-empowered-nor-erased-armenian-cypriots-and-the-politics-of-recognition/",
+      "published_date": "2026-07-10T17:08:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Golden Apricot 2026: A cinematic map of memory and borders",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/10/golden-apricot-2026-a-cinematic-map-of-memory-and-borders/",
+      "published_date": "2026-07-10T15:06:00Z",
+      "category": "Local Events"
     },
     {
       "title": "AECOM Delegation Surveys Future TRIPP Site in Armenia",
@@ -295,41 +323,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/07/08/ani-israyelyan-immortalizes-the-homeland-on-canvas/",
       "published_date": "2026-07-08T13:48:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The election Armenia’s opposition was not prepared to win",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/08/the-election-armenias-opposition-was-not-prepared-to-win/",
-      "published_date": "2026-07-08T11:30:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ruben Vardanyan’s Wife Issues Statement on International Women’s Humanitarian Delegation’s Planned Visit to Baku",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182565",
-      "published_date": "2026-07-08T10:13:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenia&#039;s Polytechnic University Graduation Ceremony Held with Unibank Support",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182558",
-      "published_date": "2026-07-08T09:15:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "San Diego’s St. Sarkis Church to Hold ‘Gala of Hope’ on October 24",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/san-diegos-st-sarkis-church-to-hold-gala-esperanza-gala-of-hope-on-october-24/",
-      "published_date": "2026-07-07T16:33:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Merdinian School Names Peter Amloian Board Chair",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/merdinian-school-names-peter-amloian-06-board-chair/",
-      "published_date": "2026-07-07T16:30:59Z",
       "category": "Local Events"
     }
   ]
