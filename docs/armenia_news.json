@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T23:54:22Z",
+  "generated_at": "2026-07-11T11:51:16Z",
   "country": "Armenia",
   "total_stories": 45,
   "categories": [
@@ -186,6 +186,13 @@
       "category": "Economy"
     },
     {
+      "title": "Pashinyan Files Defamation Lawsuits Against Former MPs",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182630",
+      "published_date": "2026-07-11T06:00:00Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Shirvanian Youth Center Celebrates 10 Years of Transforming the Lives of Armenia’s Youth",
       "source": "Asbarez",
       "url": "https://asbarez.com/shirvanian-youth-center-celebrates-10-years-of-transforming-the-lives-of-armenias-youth/",
@@ -316,13 +323,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/07/08/the-art-of-belonging/",
       "published_date": "2026-07-08T16:20:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ani Israyelyan immortalizes the homeland on canvas",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/08/ani-israyelyan-immortalizes-the-homeland-on-canvas/",
-      "published_date": "2026-07-08T13:48:57Z",
       "category": "Local Events"
     }
   ]
