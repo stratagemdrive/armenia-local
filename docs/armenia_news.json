@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T11:58:36Z",
+  "generated_at": "2026-07-12T23:48:00Z",
   "country": "Armenia",
   "total_stories": 45,
   "categories": [
@@ -186,6 +186,13 @@
       "category": "Economy"
     },
     {
+      "title": "Yerevan Celebrates Vardavar Folk Holiday",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182640",
+      "published_date": "2026-07-12T19:29:00Z",
+      "category": "Local Events"
+    },
+    {
       "title": "A jar of cherry jam",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/07/11/a-jar-of-cherry-jam/",
@@ -316,13 +323,6 @@
       "source": "Asbarez",
       "url": "https://asbarez.com/irans-says-its-concerns-over-tripp-legitimate-tehran-seeks-clarity-from-yerevan/",
       "published_date": "2026-07-08T21:30:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Images of Tsarukyan’s Violent Arrest Spark Outrage and Uproar",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/images-of-tsarukyans-violent-arrest-spark-outrage-and-uproar/",
-      "published_date": "2026-07-08T21:24:48Z",
       "category": "Local Events"
     }
   ]
