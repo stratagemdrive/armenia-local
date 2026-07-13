@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-12T23:48:00Z",
+  "generated_at": "2026-07-13T23:49:34Z",
   "country": "Armenia",
-  "total_stories": 45,
+  "total_stories": 41,
   "categories": [
     "Diplomacy",
     "Military",
@@ -102,39 +102,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "ARF Bureau Member Lilit Galstyan Calls on OSCE to Monitor Armenia’s Democratic Decline",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/arf-bureau-member-lilit-galstyan-calls-on-osce-to-monitor-armenias-democratic-decline/",
-      "published_date": "2026-07-06T21:21:20Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Christian Solidarity Urges UN to Send Fact-Finding Mission to Artsakh",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/christian-solidarity-urges-un-to-send-fact-finding-mission-to-artsakh/",
-      "published_date": "2026-07-06T20:46:07Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "ANCA Welcomes Bi-Partisan Congressional Action to Block Arms Sales to Turkey",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/anca-welcomes-bipartisan-congressional-action-to-block-arms-sales-to-turkey/",
-      "published_date": "2026-07-06T15:46:14Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "North American AYF regions issue statement on hostages’ 1,000th day in captivity",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/06/north-american-ayf-regions-issue-statement-on-hostages-1000th-day-in-captivity/",
-      "published_date": "2026-07-06T14:15:23Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Israel’s Cabinet resolution is not recognition",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/06/israels-cabinet-resolution-is-not-recognition/",
-      "published_date": "2026-07-06T11:22:32Z",
-      "category": "Diplomacy"
+      "title": "Iran War’s Strategic Impact on the Middle East and South Caucasus",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182633",
+      "published_date": "2026-07-13T07:00:00Z",
+      "category": "Military"
     },
     {
       "title": "ARF Bureau Issues Statement on June 7 Parliamentary Elections",
@@ -184,6 +156,48 @@
       "url": "https://hetq.am/en/article/182591",
       "published_date": "2026-07-09T10:52:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Colors of fire",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/13/colors-of-fire/",
+      "published_date": "2026-07-13T18:20:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Speech therapy and neurodiversity in the Armenian community",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/13/speech-therapy-and-neurodiversity-in-the-armenian-community/",
+      "published_date": "2026-07-13T16:28:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "10 books every AYF-YOARF member should read",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/13/10-books-every-ayf-yoarf-member-should-read/",
+      "published_date": "2026-07-13T15:50:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Georgia Armenians gather for premiere of “Syunik: The Last Barrier”",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/13/georgia-armenians-gather-for-premiere-of-syunik-the-last-barrier/",
+      "published_date": "2026-07-13T14:51:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Qanun player Marianna Gevorgyan reaches final round of ICMA Awards",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/13/qanun-player-marianna-gevorgyan-reaches-final-round-of-icma-awards/",
+      "published_date": "2026-07-13T14:25:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Democracy under strain in Vanadzor",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/13/democracy-under-strain-in-vanadzor/",
+      "published_date": "2026-07-13T14:05:01Z",
+      "category": "Local Events"
     },
     {
       "title": "Yerevan Celebrates Vardavar Folk Holiday",
@@ -281,48 +295,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/07/09/anca-marks-40th-anniversary-of-leo-sarkisian-internship/",
       "published_date": "2026-07-09T15:07:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Cost of a Diploma in Armenia: A Thesis in Three Days",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182598",
-      "published_date": "2026-07-09T14:55:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "ARF Bureau statement on June 7 parliamentary elections",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/09/arf-bureau-statement-on-june-7-parliamentary-elections/",
-      "published_date": "2026-07-09T13:56:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Humanitarian Aid from Armenia Handed Over to Lebanon",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182601",
-      "published_date": "2026-07-09T13:26:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tsarukyan’s arrest sparks political uproar",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/09/tsarukyans-arrest-sparks-political-uproar/",
-      "published_date": "2026-07-09T13:00:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Region in Brief",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/09/the-region-in-brief-175/",
-      "published_date": "2026-07-09T12:00:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran’s Says its Concerns over TRIPP ‘Legitimate.’ Tehran Seeks Clarity from Yerevan",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/irans-says-its-concerns-over-tripp-legitimate-tehran-seeks-clarity-from-yerevan/",
-      "published_date": "2026-07-08T21:30:02Z",
       "category": "Local Events"
     }
   ]
