@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-13T23:49:34Z",
+  "generated_at": "2026-07-14T12:11:02Z",
   "country": "Armenia",
-  "total_stories": 41,
+  "total_stories": 42,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Aliyev Says Azerbaijan Considering Leaving Council of Europe",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182677",
+      "published_date": "2026-07-14T10:40:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran War Implications: Iran Gains Leverage, Armenia Gains Maneuvering Space",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182634",
+      "published_date": "2026-07-14T07:00:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Lawyer to Appeal Ruben Vardanyan’s Case to European Court",
       "source": "Asbarez",
@@ -88,20 +102,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Pashinyan, Erdogan and Aliyev are unhappy with Israel’s recognition of the genocide",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/07/pashinyan-erdogan-and-aliyev-are-unhappy-with-israels-recognition-of-the-genocide/",
-      "published_date": "2026-07-07T11:16:33Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Galstyan calls for OSCE monitoring of Armenia’s democratic decline",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/07/galstyan-calls-for-osce-monitoring-of-armenias-democratic-decline/",
-      "published_date": "2026-07-07T11:11:57Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Iran War’s Strategic Impact on the Middle East and South Caucasus",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/182633",
@@ -137,6 +137,13 @@
       "category": "Energy"
     },
     {
+      "title": "Aliyev Announces New Era of Interstate Relations with France",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182669",
+      "published_date": "2026-07-14T08:40:00Z",
+      "category": "Economy"
+    },
+    {
       "title": "Message in a bottle",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/07/11/message-in-a-bottle/",
@@ -156,6 +163,20 @@
       "url": "https://hetq.am/en/article/182591",
       "published_date": "2026-07-09T10:52:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Unibank to Raffle a Trip to Italy",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182679",
+      "published_date": "2026-07-14T11:45:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pashinyan Congratulates Macron on Bastille Day",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182667",
+      "published_date": "2026-07-14T08:06:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Colors of fire",
@@ -281,20 +302,6 @@
       "source": "Asbarez",
       "url": "https://asbarez.com/leading-with-trust-glendales-first-armenian-police-chief-robert-william-on-safety-service-and-community/",
       "published_date": "2026-07-09T19:38:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "ANCA Marks 40th Anniversary of Leo Sarkisian Internship Program",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/anca-marks-40th-anniversary-of-leo-sarkisian-internship-program/",
-      "published_date": "2026-07-09T15:47:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "ANCA marks 40th anniversary of Leo Sarkisian Internship",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/09/anca-marks-40th-anniversary-of-leo-sarkisian-internship/",
-      "published_date": "2026-07-09T15:07:39Z",
       "category": "Local Events"
     }
   ]
