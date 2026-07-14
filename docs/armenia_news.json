@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-14T12:11:02Z",
+  "generated_at": "2026-07-14T23:48:13Z",
   "country": "Armenia",
-  "total_stories": 42,
+  "total_stories": 41,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "EU signs letters of intent with six Armenian organizations",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/14/eu-signs-letters-of-intent-with-six-armenian-organizations/",
+      "published_date": "2026-07-14T13:00:34Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Aliyev Says Azerbaijan Considering Leaving Council of Europe",
       "source": "Hetq",
@@ -88,20 +95,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Israel Recognizing Armenian Genocide Doesn’t Go Far Enough – They Must Protect Armenians",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/israel-recognizing-armenian-genocide-doesnt-go-far-enough-they-must-protect-armenians/",
-      "published_date": "2026-07-07T17:33:52Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Congressional Opposition Mounts Against Turkey’s Return to F-35 Program on Eve of NATO Summit in Ankara",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/congressional-opposition-mounts-against-turkeys-return-to-f-35-program-on-eve-of-nato-summit-in-ankara/",
-      "published_date": "2026-07-07T16:47:31Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Iran War’s Strategic Impact on the Middle East and South Caucasus",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/182633",
@@ -123,18 +116,18 @@
       "category": "Military"
     },
     {
-      "title": "Over 10,000 Lose their Jobs after Security Forces Seize Tsarukyan’s Businesses",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/over-10000-lose-their-jobs-after-security-forces-seize-tsarukyans-businesses/",
-      "published_date": "2026-07-07T21:11:51Z",
-      "category": "Military"
-    },
-    {
       "title": "Old Ideas, New Discoveries: Armenian Statistical Methods Find New Applications in Astronomy and Cosmology",
       "source": "Asbarez",
       "url": "https://asbarez.com/old-ideas-new-discoveries-armenian-statistical-methods-find-new-applications-in-astronomy-and-cosmology/",
       "published_date": "2026-07-09T17:56:18Z",
       "category": "Energy"
+    },
+    {
+      "title": "Armenian State Symphony Orchestra releases “Symphonic Lullabies”",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/14/armenian-state-symphony-orchestra-releases-symphonic-lullabies/",
+      "published_date": "2026-07-14T15:21:20Z",
+      "category": "Economy"
     },
     {
       "title": "Aliyev Announces New Era of Interstate Relations with France",
@@ -165,6 +158,27 @@
       "category": "Economy"
     },
     {
+      "title": "Why I love being an AYF-YOARF Junior",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/14/why-i-love-being-an-ayf-yoarf-junior/",
+      "published_date": "2026-07-14T17:03:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Zara Janibekyan’s path from medicine to canvas",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/14/zara-janibekyans-path-from-medicine-to-canvas/",
+      "published_date": "2026-07-14T15:30:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "I recognize it before I see it",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/14/i-recognize-it-before-i-see-it/",
+      "published_date": "2026-07-14T15:21:09Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Unibank to Raffle a Trip to Italy",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/182679",
@@ -176,6 +190,13 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/182667",
       "published_date": "2026-07-14T08:06:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Golden Apricot International Film Festival Opens in Yerevan",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182656",
+      "published_date": "2026-07-14T04:20:00Z",
       "category": "Local Events"
     },
     {
@@ -274,34 +295,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/07/10/neither-empowered-nor-erased-armenian-cypriots-and-the-politics-of-recognition/",
       "published_date": "2026-07-10T17:08:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Golden Apricot 2026: A cinematic map of memory and borders",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/10/golden-apricot-2026-a-cinematic-map-of-memory-and-borders/",
-      "published_date": "2026-07-10T15:06:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "AECOM Delegation Surveys Future TRIPP Site in Armenia",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182611",
-      "published_date": "2026-07-10T06:48:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘This Is a Politically Motivated Trial,’ Says Jailed Artsakh Leader",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/this-is-a-politically-motivated-trial-says-jailed-artsakh-leader/",
-      "published_date": "2026-07-09T20:17:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Leading with Trust: Glendale’s First Armenian Police Chief Robert William on Safety, Service, and Community",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/leading-with-trust-glendales-first-armenian-police-chief-robert-william-on-safety-service-and-community/",
-      "published_date": "2026-07-09T19:38:42Z",
       "category": "Local Events"
     }
   ]
