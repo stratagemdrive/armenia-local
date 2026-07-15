@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-15T12:14:00Z",
+  "generated_at": "2026-07-15T23:55:01Z",
   "country": "Armenia",
-  "total_stories": 39,
+  "total_stories": 36,
   "categories": [
     "Diplomacy",
     "Military",
@@ -50,27 +50,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/07/09/congressional-panel-calls-out-turkeys-aggression-and-denial/",
       "published_date": "2026-07-09T13:06:06Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Vardanyan’s Wife Appeals for International Support for Humanitarian Visit to Azerbaijan",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/vardanyans-wife-appeals-for-international-support-for-humanitarian-visit-to-azerbaijan/",
-      "published_date": "2026-07-08T19:56:55Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump Defies Bipartisan Congressional Opposition to Arming Turkey",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/trump-defies-bipartisan-congressional-opposition-to-arming-turkey/",
-      "published_date": "2026-07-08T17:30:09Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump defies bipartisan congressional opposition to arming Turkey",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/08/trump-defies-bipartisan-congressional-opposition-to-arming-turkey/",
-      "published_date": "2026-07-08T14:49:54Z",
       "category": "Diplomacy"
     },
     {
@@ -142,6 +121,34 @@
       "url": "https://hetq.am/en/article/182591",
       "published_date": "2026-07-09T10:52:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Watertown youth delegate attends Democratic state convention",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/15/watertown-youth-delegate-attends-democratic-state-convention/",
+      "published_date": "2026-07-15T14:15:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Applications open for the Summer 2027 Israelyan Fellowship",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/15/applications-open-for-the-summer-2027-israelyan-fellowship/",
+      "published_date": "2026-07-15T14:13:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Beyond the “King of Armenians” syndrome: A blueprint for strategic resilience",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/15/beyond-the-king-of-armenians-syndrome-a-blueprint-for-strategic-resilience/",
+      "published_date": "2026-07-15T14:12:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "In memory of Arax Aroosian Balakian",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/15/in-memory-of-arax-aroosian-balakian/",
+      "published_date": "2026-07-15T12:30:01Z",
+      "category": "Local Events"
     },
     {
       "title": "What must not be yielded",
@@ -253,34 +260,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/182656",
       "published_date": "2026-07-14T04:20:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenia Will Oversee Border, Customs on TRIPP, State Department Says",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/armenia-will-oversee-border-customs-on-tripp-state-department-says/",
-      "published_date": "2026-07-13T21:36:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Colors of fire",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/13/colors-of-fire/",
-      "published_date": "2026-07-13T18:20:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Speech therapy and neurodiversity in the Armenian community",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/13/speech-therapy-and-neurodiversity-in-the-armenian-community/",
-      "published_date": "2026-07-13T16:28:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "10 books every AYF-YOARF member should read",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/13/10-books-every-ayf-yoarf-member-should-read/",
-      "published_date": "2026-07-13T15:50:11Z",
       "category": "Local Events"
     }
   ]
