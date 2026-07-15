@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-14T23:48:13Z",
+  "generated_at": "2026-07-15T12:14:00Z",
   "country": "Armenia",
-  "total_stories": 41,
+  "total_stories": 39,
   "categories": [
     "Diplomacy",
     "Military",
@@ -74,27 +74,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Mobile Phones, Brandy, TVs: Top 20 Products Armenia Exports to Russia",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182538",
-      "published_date": "2026-07-08T11:25:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "European Union Donates Remotely Controlled Demining Vehicle to Armenia",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182563",
-      "published_date": "2026-07-08T09:40:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Israel’s Recognition of Armenian Genocide Sparks Crisis with Azerbaijan",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182557",
-      "published_date": "2026-07-08T08:57:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Iran War’s Strategic Impact on the Middle East and South Caucasus",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/182633",
@@ -121,6 +100,13 @@
       "url": "https://asbarez.com/old-ideas-new-discoveries-armenian-statistical-methods-find-new-applications-in-astronomy-and-cosmology/",
       "published_date": "2026-07-09T17:56:18Z",
       "category": "Energy"
+    },
+    {
+      "title": "Armenia Fest Returns to Royal Oak for an Evening of Food, Music and Dance",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/armenia-fest-returns-to-royal-oak-for-an-evening-of-food-music-and-dance/",
+      "published_date": "2026-07-14T21:49:38Z",
+      "category": "Economy"
     },
     {
       "title": "Armenian State Symphony Orchestra releases “Symphonic Lullabies”",
@@ -156,6 +142,76 @@
       "url": "https://hetq.am/en/article/182591",
       "published_date": "2026-07-09T10:52:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "What must not be yielded",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/15/what-must-not-be-yielded/",
+      "published_date": "2026-07-15T10:47:50Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Detained Tsarukyan Thanks His Supporters",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182702",
+      "published_date": "2026-07-15T07:23:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "In Loving Memory of Oriort Ani Hovagimian",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/in-loving-memory-of-oriort-ani-hovagimian/",
+      "published_date": "2026-07-14T21:37:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rex Kalamian Joins Chicago Bulls Coaching Staff",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/rex-kalamian-joins-chicago-bulls-coaching-staff/",
+      "published_date": "2026-07-14T21:22:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "More Pashinyan Critics Being Fired from State Positions",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/more-pashinyan-critics-being-fired-from-state-positions/",
+      "published_date": "2026-07-14T21:13:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump Ballroom Donor to Lead $200 Million TRIPP+ Fund",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/trump-ballroom-donor-to-lead-200-million-tripp-fund/",
+      "published_date": "2026-07-14T21:06:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘The Power of Family’: Young Woman in Yerevan Donates Stem Cells to Help Save Her Mother’s Life",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/the-power-of-family-young-woman-in-yerevan-donates-stem-cells-to-help-save-her-mothers-life/",
+      "published_date": "2026-07-14T19:28:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenian Scientist Co-Authors Study Confirming Einstein’s Theory with Record Precision",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/armenian-scientist-co-authors-study-confirming-einsteins-theory-with-record-precision/",
+      "published_date": "2026-07-14T18:46:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Applications Open for the Summer 2027 Israelyan Fellowship at Gladstone’s Library",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/applications-open-for-the-summer-2027-israelyan-fellowship-at-gladstones-library/",
+      "published_date": "2026-07-14T17:30:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Acclaimed Armenian Artists to Take Center Stage at 2026 Northwest Mahler Festival",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/acclaimed-armenian-artists-to-take-center-stage-at-2026-northwest-mahler-festival/",
+      "published_date": "2026-07-14T17:18:08Z",
+      "category": "Local Events"
     },
     {
       "title": "Why I love being an AYF-YOARF Junior",
@@ -200,6 +256,13 @@
       "category": "Local Events"
     },
     {
+      "title": "Armenia Will Oversee Border, Customs on TRIPP, State Department Says",
+      "source": "Asbarez",
+      "url": "https://asbarez.com/armenia-will-oversee-border-customs-on-tripp-state-department-says/",
+      "published_date": "2026-07-13T21:36:19Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Colors of fire",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/07/13/colors-of-fire/",
@@ -218,83 +281,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/07/13/10-books-every-ayf-yoarf-member-should-read/",
       "published_date": "2026-07-13T15:50:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Georgia Armenians gather for premiere of “Syunik: The Last Barrier”",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/13/georgia-armenians-gather-for-premiere-of-syunik-the-last-barrier/",
-      "published_date": "2026-07-13T14:51:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Qanun player Marianna Gevorgyan reaches final round of ICMA Awards",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/13/qanun-player-marianna-gevorgyan-reaches-final-round-of-icma-awards/",
-      "published_date": "2026-07-13T14:25:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Democracy under strain in Vanadzor",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/13/democracy-under-strain-in-vanadzor/",
-      "published_date": "2026-07-13T14:05:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Yerevan Celebrates Vardavar Folk Holiday",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182640",
-      "published_date": "2026-07-12T19:29:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "A jar of cherry jam",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/11/a-jar-of-cherry-jam/",
-      "published_date": "2026-07-11T13:09:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenia to Designate 20% of Its Territory as Specially Protected Nature Areas by 2030",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182606",
-      "published_date": "2026-07-11T12:26:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pashinyan Files Defamation Lawsuits Against Former MPs",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182630",
-      "published_date": "2026-07-11T06:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Shirvanian Youth Center Celebrates 10 Years of Transforming the Lives of Armenia’s Youth",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/shirvanian-youth-center-celebrates-10-years-of-transforming-the-lives-of-armenias-youth/",
-      "published_date": "2026-07-10T19:28:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "AYF Hollywood Juniors Launches Inaugural Scholarship Program Recognizing Leadership and Service",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/ayf-hollywood-juniors-launches-inaugural-scholarship-program-recognizing-leadership-and-service/",
-      "published_date": "2026-07-10T18:40:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "C-Rouge to perform at Koghb Vardavar",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/10/c-rouge-to-perform-at-koghb-vardavar/",
-      "published_date": "2026-07-10T17:08:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Neither Empowered nor Erased: Armenian Cypriots and the Politics of Recognition",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/10/neither-empowered-nor-erased-armenian-cypriots-and-the-politics-of-recognition/",
-      "published_date": "2026-07-10T17:08:33Z",
       "category": "Local Events"
     }
   ]
