@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T12:19:33Z",
+  "generated_at": "2026-07-16T23:54:03Z",
   "country": "Armenia",
   "total_stories": 36,
   "categories": [
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Diplomatic and operational power struggles shape TRIPP",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/16/diplomatic-and-operational-power-struggles-shape-tripp/",
+      "published_date": "2026-07-16T13:29:26Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "EU Trade Exemptions for Armenian Agricultural Exporters: Timelines and Procedures",
       "source": "Hetq",
@@ -60,13 +67,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Congressional panel calls out Turkey’s aggression and denial",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/09/congressional-panel-calls-out-turkeys-aggression-and-denial/",
-      "published_date": "2026-07-09T13:06:06Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Iran War’s Strategic Impact on the Middle East and South Caucasus",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/182633",
@@ -74,18 +74,18 @@
       "category": "Military"
     },
     {
-      "title": "ARF Bureau Issues Statement on June 7 Parliamentary Elections",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/arf-bureau-issues-statement-on-june-7-parliamentary-elections/",
-      "published_date": "2026-07-09T20:09:32Z",
-      "category": "Military"
+      "title": "Armenia Fest returns to Royal Oak with food, music and dance",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/16/armenia-fest-returns-to-royal-oak-with-food-music-and-dance/",
+      "published_date": "2026-07-16T14:49:11Z",
+      "category": "Economy"
     },
     {
-      "title": "Old Ideas, New Discoveries: Armenian Statistical Methods Find New Applications in Astronomy and Cosmology",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/old-ideas-new-discoveries-armenian-statistical-methods-find-new-applications-in-astronomy-and-cosmology/",
-      "published_date": "2026-07-09T17:56:18Z",
-      "category": "Energy"
+      "title": "Armenia’s dance traditions bring a new generation together",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/16/armenias-dance-traditions-bring-a-new-generation-together/",
+      "published_date": "2026-07-16T14:34:26Z",
+      "category": "Economy"
     },
     {
       "title": "Armenia Fest Returns to Royal Oak for an Evening of Food, Music and Dance",
@@ -121,6 +121,13 @@
       "url": "https://armenianweekly.com/2026/07/10/images-of-light/",
       "published_date": "2026-07-10T21:17:23Z",
       "category": "Economy"
+    },
+    {
+      "title": "Aida Zilelian on why kids need to tell their stories at TEDxCabarete",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/16/aida-zilelian-on-why-kids-need-to-tell-their-stories-at-tedxcabarete/",
+      "published_date": "2026-07-16T12:01:41Z",
+      "category": "Local Events"
     },
     {
       "title": "The Region in Brief",
@@ -253,13 +260,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/07/14/i-recognize-it-before-i-see-it/",
       "published_date": "2026-07-14T15:21:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Unibank to Raffle a Trip to Italy",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182679",
-      "published_date": "2026-07-14T11:45:00Z",
       "category": "Local Events"
     }
   ]
