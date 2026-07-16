@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T23:55:01Z",
+  "generated_at": "2026-07-16T12:19:33Z",
   "country": "Armenia",
   "total_stories": 36,
   "categories": [
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "EU Trade Exemptions for Armenian Agricultural Exporters: Timelines and Procedures",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182646",
+      "published_date": "2026-07-16T11:12:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "RCDS Calls on International Partners to Impose Visa Restrictions on Individuals Promoting Hate Speech Against Nagorno-Karabakh Refugees",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182720",
+      "published_date": "2026-07-16T10:50:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "EU signs letters of intent with six Armenian organizations",
       "source": "The Armenian Weekly",
@@ -67,13 +81,6 @@
       "category": "Military"
     },
     {
-      "title": "Armenia’s Shortcomings and Progress in Combating Money Laundering: MONEYVAL’s Latest Report",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182576",
-      "published_date": "2026-07-09T08:00:00Z",
-      "category": "Military"
-    },
-    {
       "title": "Old Ideas, New Discoveries: Armenian Statistical Methods Find New Applications in Astronomy and Cosmology",
       "source": "Asbarez",
       "url": "https://asbarez.com/old-ideas-new-discoveries-armenian-statistical-methods-find-new-applications-in-astronomy-and-cosmology/",
@@ -116,11 +123,18 @@
       "category": "Economy"
     },
     {
-      "title": "Labor Dispute Mediation May Become Mandatory in Armenia",
+      "title": "The Region in Brief",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/16/the-region-in-brief-176/",
+      "published_date": "2026-07-16T11:23:13Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "IOC Aware of Closure of Armenia’s National Olympic Committee",
       "source": "Hetq",
-      "url": "https://hetq.am/en/article/182591",
-      "published_date": "2026-07-09T10:52:00Z",
-      "category": "Economy"
+      "url": "https://hetq.am/en/article/182717",
+      "published_date": "2026-07-16T10:48:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Watertown youth delegate attends Democratic state convention",
@@ -246,20 +260,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/182679",
       "published_date": "2026-07-14T11:45:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pashinyan Congratulates Macron on Bastille Day",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182667",
-      "published_date": "2026-07-14T08:06:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Golden Apricot International Film Festival Opens in Yerevan",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182656",
-      "published_date": "2026-07-14T04:20:00Z",
       "category": "Local Events"
     }
   ]
