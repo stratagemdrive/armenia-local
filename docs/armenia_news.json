@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T12:08:28Z",
+  "generated_at": "2026-07-17T23:47:08Z",
   "country": "Armenia",
   "total_stories": 36,
   "categories": [
@@ -53,18 +53,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Lawyer to Appeal Ruben Vardanyan’s Case to European Court",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/lawyer-to-appeal-ruben-vardanyans-case-to-european-court/",
-      "published_date": "2026-07-10T20:11:17Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Aliyev needs a clear reminder!",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/10/aliyev-needs-a-clear-reminder/",
-      "published_date": "2026-07-10T14:48:20Z",
-      "category": "Diplomacy"
+      "title": "Pashinyan-Tsarukyan Clash: War of Words Leads to Businessman’s Arrest and New Charges",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182668",
+      "published_date": "2026-07-17T12:55:00Z",
+      "category": "Military"
     },
     {
       "title": "Iran War’s Strategic Impact on the Middle East and South Caucasus",
@@ -72,6 +65,20 @@
       "url": "https://hetq.am/en/article/182633",
       "published_date": "2026-07-13T07:00:00Z",
       "category": "Military"
+    },
+    {
+      "title": "France&#039;s Prestigious Les Echos Highlights Armenia Wine and the Renaissance of Armenian Winemaking",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182745",
+      "published_date": "2026-07-17T13:48:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Armenian rose grower forced to sell home, greenhouses amid Russia export crisis",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/17/armenian-rose-grower-forced-to-sell-home-greenhouses-amid-russia-export-crisis/",
+      "published_date": "2026-07-17T11:36:46Z",
+      "category": "Economy"
     },
     {
       "title": "Armenia Fest returns to Royal Oak with food, music and dance",
@@ -116,11 +123,32 @@
       "category": "Economy"
     },
     {
-      "title": "Images of light",
+      "title": "Trump&#039;s Generous Donor to the Republican Party Appointed to Head the TRIPP+ Fund",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182743",
+      "published_date": "2026-07-17T20:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why Goris is worth the journey",
       "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/10/images-of-light/",
-      "published_date": "2026-07-10T21:17:23Z",
-      "category": "Economy"
+      "url": "https://armenianweekly.com/2026/07/17/why-goris-is-worth-the-journey/",
+      "published_date": "2026-07-17T15:31:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Court closes last door on Armenia’s election fight",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/17/court-closes-last-door-on-armenias-election-fight/",
+      "published_date": "2026-07-17T14:39:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "“The Blooms That Fall” on beauty and imperfection through nature’s seasons",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/17/the-blooms-that-fall-on-beauty-and-imperfection-through-natures-seasons/",
+      "published_date": "2026-07-17T14:39:17Z",
+      "category": "Local Events"
     },
     {
       "title": "Vignettes on continuity and change in Yerevan",
@@ -232,34 +260,6 @@
       "source": "Asbarez",
       "url": "https://asbarez.com/armenian-scientist-co-authors-study-confirming-einsteins-theory-with-record-precision/",
       "published_date": "2026-07-14T18:46:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Applications Open for the Summer 2027 Israelyan Fellowship at Gladstone’s Library",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/applications-open-for-the-summer-2027-israelyan-fellowship-at-gladstones-library/",
-      "published_date": "2026-07-14T17:30:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Acclaimed Armenian Artists to Take Center Stage at 2026 Northwest Mahler Festival",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/acclaimed-armenian-artists-to-take-center-stage-at-2026-northwest-mahler-festival/",
-      "published_date": "2026-07-14T17:18:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why I love being an AYF-YOARF Junior",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/14/why-i-love-being-an-ayf-yoarf-junior/",
-      "published_date": "2026-07-14T17:03:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zara Janibekyan’s path from medicine to canvas",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/14/zara-janibekyans-path-from-medicine-to-canvas/",
-      "published_date": "2026-07-14T15:30:08Z",
       "category": "Local Events"
     }
   ]
