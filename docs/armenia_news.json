@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T23:54:03Z",
+  "generated_at": "2026-07-17T12:08:28Z",
   "country": "Armenia",
   "total_stories": 36,
   "categories": [
@@ -121,6 +121,13 @@
       "url": "https://armenianweekly.com/2026/07/10/images-of-light/",
       "published_date": "2026-07-10T21:17:23Z",
       "category": "Economy"
+    },
+    {
+      "title": "Vignettes on continuity and change in Yerevan",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/17/vignettes-on-continuity-and-change-in-yerevan/",
+      "published_date": "2026-07-17T11:38:56Z",
+      "category": "Local Events"
     },
     {
       "title": "Aida Zilelian on why kids need to tell their stories at TEDxCabarete",
@@ -253,13 +260,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/07/14/zara-janibekyans-path-from-medicine-to-canvas/",
       "published_date": "2026-07-14T15:30:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "I recognize it before I see it",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/14/i-recognize-it-before-i-see-it/",
-      "published_date": "2026-07-14T15:21:09Z",
       "category": "Local Events"
     }
   ]
