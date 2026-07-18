@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T11:52:04Z",
+  "generated_at": "2026-07-18T23:48:33Z",
   "country": "Armenia",
   "total_stories": 36,
   "categories": [
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "The Somme remembers: An Armenian son lost in the First World War",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/18/the-somme-remembers-an-armenian-son/",
+      "published_date": "2026-07-18T13:01:52Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Diplomatic and operational power struggles shape TRIPP",
       "source": "The Armenian Weekly",
@@ -116,11 +123,32 @@
       "category": "Economy"
     },
     {
-      "title": "Message in a bottle",
+      "title": "Yerevan Exhibition Focuses on Logistics, E-Commerce",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182757",
+      "published_date": "2026-07-18T17:45:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Three-Body Problem",
       "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/11/message-in-a-bottle/",
-      "published_date": "2026-07-11T13:27:43Z",
-      "category": "Economy"
+      "url": "https://armenianweekly.com/2026/07/18/the-three-body-problem/",
+      "published_date": "2026-07-18T13:38:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenian Film Society London launches open call for Western Armenian cinema",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/18/armenian-film-society-london-launches-open-call/",
+      "published_date": "2026-07-18T12:28:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sununu: Gold, greed and the Granite State",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/18/sununu-gold-greed-and-the-granite-state/",
+      "published_date": "2026-07-18T12:11:21Z",
+      "category": "Local Events"
     },
     {
       "title": "Trump&#039;s Generous Donor to the Republican Party Appointed to Head the TRIPP+ Fund",
@@ -232,34 +260,6 @@
       "source": "Asbarez",
       "url": "https://asbarez.com/rex-kalamian-joins-chicago-bulls-coaching-staff/",
       "published_date": "2026-07-14T21:22:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "More Pashinyan Critics Being Fired from State Positions",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/more-pashinyan-critics-being-fired-from-state-positions/",
-      "published_date": "2026-07-14T21:13:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump Ballroom Donor to Lead $200 Million TRIPP+ Fund",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/trump-ballroom-donor-to-lead-200-million-tripp-fund/",
-      "published_date": "2026-07-14T21:06:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘The Power of Family’: Young Woman in Yerevan Donates Stem Cells to Help Save Her Mother’s Life",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/the-power-of-family-young-woman-in-yerevan-donates-stem-cells-to-help-save-her-mothers-life/",
-      "published_date": "2026-07-14T19:28:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenian Scientist Co-Authors Study Confirming Einstein’s Theory with Record Precision",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/armenian-scientist-co-authors-study-confirming-einsteins-theory-with-record-precision/",
-      "published_date": "2026-07-14T18:46:45Z",
       "category": "Local Events"
     }
   ]
