@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-20T13:04:38Z",
+  "generated_at": "2026-07-20T23:53:08Z",
   "country": "Armenia",
-  "total_stories": 35,
+  "total_stories": 37,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "UN Following “Holy Struggle” Case in Armenia; Does the Government’s Terrorism Charges Meet International Standards?",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182782",
+      "published_date": "2026-07-20T19:45:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Israeli Cabinet recognition: A new chapter? Not so fast",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/20/israeli-cabinet-recognition-a-new-chapter-not-so-fast/",
+      "published_date": "2026-07-20T15:16:29Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "The Somme remembers: An Armenian son lost in the First World War",
       "source": "The Armenian Weekly",
@@ -116,6 +130,41 @@
       "category": "Economy"
     },
     {
+      "title": "Stamp collecting highlights",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/20/stamp-collecting-highlights/",
+      "published_date": "2026-07-20T15:20:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Faces erased: Why Yerevan must preserve the memory of its fallen heroes",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/20/faces-erased-why-yerevan-must-preserve-the-memory-of-its-fallen-heroes/",
+      "published_date": "2026-07-20T15:18:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "When It Hails, It Pours: Livelihood of Armenia&#039;s Farmers at the Mercy of the Heavens",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182780",
+      "published_date": "2026-07-20T15:05:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hetq Media Factory Project Manager Wins Yerevan Press Club Award",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182773",
+      "published_date": "2026-07-20T12:20:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Moko Khatchatryan’s inherited yet unique artistic signature",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/20/moko-khatchatryans-inherited-yet-unique-artistic-signature/",
+      "published_date": "2026-07-20T11:15:29Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Yerevan Exhibition Focuses on Logistics, E-Commerce",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/182757",
@@ -218,41 +267,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/07/15/beyond-the-king-of-armenians-syndrome-a-blueprint-for-strategic-resilience/",
       "published_date": "2026-07-15T14:12:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "In memory of Arax Aroosian Balakian",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/15/in-memory-of-arax-aroosian-balakian/",
-      "published_date": "2026-07-15T12:30:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "What must not be yielded",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/15/what-must-not-be-yielded/",
-      "published_date": "2026-07-15T10:47:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Detained Tsarukyan Thanks His Supporters",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182702",
-      "published_date": "2026-07-15T07:23:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "In Loving Memory of Oriort Ani Hovagimian",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/in-loving-memory-of-oriort-ani-hovagimian/",
-      "published_date": "2026-07-14T21:37:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rex Kalamian Joins Chicago Bulls Coaching Staff",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/rex-kalamian-joins-chicago-bulls-coaching-staff/",
-      "published_date": "2026-07-14T21:22:23Z",
       "category": "Local Events"
     }
   ]
