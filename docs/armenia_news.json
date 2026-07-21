@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-21T12:23:07Z",
+  "generated_at": "2026-07-21T23:52:14Z",
   "country": "Armenia",
-  "total_stories": 35,
+  "total_stories": 33,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "What happened to Israel’s recognition of the Armenian Genocide? Fact vs. rumor",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/21/what-happened-to-israels-recognition-of-the-armenian-genocide-fact-vs-rumor/",
+      "published_date": "2026-07-21T14:04:17Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "ANCA endorses Rep. Mike Lawler for re-election to Congress",
       "source": "The Armenian Weekly",
@@ -60,13 +67,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU signs letters of intent with six Armenian organizations",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/14/eu-signs-letters-of-intent-with-six-armenian-organizations/",
-      "published_date": "2026-07-14T13:00:34Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Pashinyan-Tsarukyan Clash: War of Words Leads to Businessman’s Arrest and New Charges",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/182668",
@@ -102,18 +102,18 @@
       "category": "Economy"
     },
     {
-      "title": "Armenia Fest Returns to Royal Oak for an Evening of Food, Music and Dance",
-      "source": "Asbarez",
-      "url": "https://asbarez.com/armenia-fest-returns-to-royal-oak-for-an-evening-of-food-music-and-dance/",
-      "published_date": "2026-07-14T21:49:38Z",
-      "category": "Economy"
+      "title": "Armenia Ranks 89th in World Happiness Report",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182801",
+      "published_date": "2026-07-21T14:59:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Armenian State Symphony Orchestra releases “Symphonic Lullabies”",
+      "title": "IALA announces 2026 Mentorship Program cohort",
       "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/14/armenian-state-symphony-orchestra-releases-symphonic-lullabies/",
-      "published_date": "2026-07-14T15:21:20Z",
-      "category": "Economy"
+      "url": "https://armenianweekly.com/2026/07/21/iala-announces-2026-mentorship-program-cohort/",
+      "published_date": "2026-07-21T14:04:35Z",
+      "category": "Local Events"
     },
     {
       "title": "From Sanitek to ICSID: Lawyer who Argued Against Armenia Selected as Its International Arbitrator",
@@ -127,6 +127,13 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/182796",
       "published_date": "2026-07-21T12:04:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenian Youth Center holds inaugural fundraiser",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/21/armenian-youth-center-holds-inaugural-fundraiser/",
+      "published_date": "2026-07-21T04:07:42Z",
       "category": "Local Events"
     },
     {
@@ -232,27 +239,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/07/16/aida-zilelian-on-why-kids-need-to-tell-their-stories-at-tedxcabarete/",
       "published_date": "2026-07-16T12:01:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Region in Brief",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/16/the-region-in-brief-176/",
-      "published_date": "2026-07-16T11:23:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "IOC Aware of Closure of Armenia’s National Olympic Committee",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182717",
-      "published_date": "2026-07-16T10:48:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Watertown youth delegate attends Democratic state convention",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/15/watertown-youth-delegate-attends-democratic-state-convention/",
-      "published_date": "2026-07-15T14:15:28Z",
       "category": "Local Events"
     }
   ]
