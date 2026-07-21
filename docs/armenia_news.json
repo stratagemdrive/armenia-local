@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-20T23:53:08Z",
+  "generated_at": "2026-07-21T12:23:07Z",
   "country": "Armenia",
-  "total_stories": 37,
+  "total_stories": 35,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "ANCA endorses Rep. Mike Lawler for re-election to Congress",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/21/anca-endorses-rep-mike-lawler-for-re-election-to-congress/",
+      "published_date": "2026-07-21T04:00:26Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "UN Following “Holy Struggle” Case in Armenia; Does the Government’s Terrorism Charges Meet International Standards?",
       "source": "Hetq",
@@ -57,20 +64,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/07/14/eu-signs-letters-of-intent-with-six-armenian-organizations/",
       "published_date": "2026-07-14T13:00:34Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Aliyev Says Azerbaijan Considering Leaving Council of Europe",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182677",
-      "published_date": "2026-07-14T10:40:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran War Implications: Iran Gains Leverage, Armenia Gains Maneuvering Space",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182634",
-      "published_date": "2026-07-14T07:00:00Z",
       "category": "Diplomacy"
     },
     {
@@ -123,11 +116,18 @@
       "category": "Economy"
     },
     {
-      "title": "Aliyev Announces New Era of Interstate Relations with France",
+      "title": "From Sanitek to ICSID: Lawyer who Argued Against Armenia Selected as Its International Arbitrator",
       "source": "Hetq",
-      "url": "https://hetq.am/en/article/182669",
-      "published_date": "2026-07-14T08:40:00Z",
-      "category": "Economy"
+      "url": "https://hetq.am/en/article/182787",
+      "published_date": "2026-07-21T12:10:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fresno Armenian Community Breaks Ground on Monument Honoring Monte Melkonian, National Hero of Armenia",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182796",
+      "published_date": "2026-07-21T12:04:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Stamp collecting highlights",
@@ -253,20 +253,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/07/15/watertown-youth-delegate-attends-democratic-state-convention/",
       "published_date": "2026-07-15T14:15:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Applications open for the Summer 2027 Israelyan Fellowship",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/15/applications-open-for-the-summer-2027-israelyan-fellowship/",
-      "published_date": "2026-07-15T14:13:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Beyond the “King of Armenians” syndrome: A blueprint for strategic resilience",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/15/beyond-the-king-of-armenians-syndrome-a-blueprint-for-strategic-resilience/",
-      "published_date": "2026-07-15T14:12:36Z",
       "category": "Local Events"
     }
   ]
