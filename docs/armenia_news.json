@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-21T23:52:14Z",
+  "generated_at": "2026-07-22T12:24:05Z",
   "country": "Armenia",
-  "total_stories": 33,
+  "total_stories": 35,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Application Lodged with ECtHR in Ruben Vardanyan Case, Says Lawyer",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182808",
+      "published_date": "2026-07-22T07:03:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "What happened to Israel’s recognition of the Armenian Genocide? Fact vs. rumor",
       "source": "The Armenian Weekly",
@@ -74,6 +81,13 @@
       "category": "Military"
     },
     {
+      "title": "Azerbaijan, Germany Sign Strategic Agenda Declaration",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182818",
+      "published_date": "2026-07-22T12:21:00Z",
+      "category": "Energy"
+    },
+    {
       "title": "France&#039;s Prestigious Les Echos Highlights Armenia Wine and the Renaissance of Armenian Winemaking",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/182745",
@@ -100,6 +114,13 @@
       "url": "https://armenianweekly.com/2026/07/16/armenias-dance-traditions-bring-a-new-generation-together/",
       "published_date": "2026-07-16T14:34:26Z",
       "category": "Economy"
+    },
+    {
+      "title": "Tsarukyan Brought to Investigative Committee for Questioning",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182811",
+      "published_date": "2026-07-22T11:43:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Armenia Ranks 89th in World Happiness Report",
@@ -232,13 +253,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/07/17/vignettes-on-continuity-and-change-in-yerevan/",
       "published_date": "2026-07-17T11:38:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Aida Zilelian on why kids need to tell their stories at TEDxCabarete",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/16/aida-zilelian-on-why-kids-need-to-tell-their-stories-at-tedxcabarete/",
-      "published_date": "2026-07-16T12:01:41Z",
       "category": "Local Events"
     }
   ]
