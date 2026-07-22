@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-22T12:24:05Z",
+  "generated_at": "2026-07-22T23:58:05Z",
   "country": "Armenia",
-  "total_stories": 35,
+  "total_stories": 37,
   "categories": [
     "Diplomacy",
     "Military",
@@ -74,6 +74,20 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Book Review: ‘Defeat: Documenting the Karabagh War of 2020’",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/22/book-review-defeat-documenting-the-karabagh-war-of-2020/",
+      "published_date": "2026-07-22T14:45:28Z",
+      "category": "Military"
+    },
+    {
+      "title": "Andranik Tevanyan&#039;s Detention Extended",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182817",
+      "published_date": "2026-07-22T11:58:00Z",
+      "category": "Military"
+    },
+    {
       "title": "Pashinyan-Tsarukyan Clash: War of Words Leads to Businessman’s Arrest and New Charges",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/182668",
@@ -114,6 +128,34 @@
       "url": "https://armenianweekly.com/2026/07/16/armenias-dance-traditions-bring-a-new-generation-together/",
       "published_date": "2026-07-16T14:34:26Z",
       "category": "Economy"
+    },
+    {
+      "title": "ARF members, supporters and sympathizers will not be intimidated",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/22/arf-members-supporters-and-sympathizers-will-not-be-intimidated/",
+      "published_date": "2026-07-22T16:44:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "New bilingual children’s book: “Loucine and the Doll That Walked to Aleppo”",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/22/new-bilingual-childrens-book-loucine-and-the-doll-that-walked-to-aleppo/",
+      "published_date": "2026-07-22T15:13:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Greater New York legal community celebrates public service at Armenian Bar dinner",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/22/greater-new-york-legal-community-celebrates-public-service-at-armenian-bar-dinner/",
+      "published_date": "2026-07-22T15:11:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pashinyan Congratulates New UK Prime Minister",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182828",
+      "published_date": "2026-07-22T14:23:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Tsarukyan Brought to Investigative Committee for Questioning",
@@ -225,34 +267,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/182743",
       "published_date": "2026-07-17T20:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why Goris is worth the journey",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/17/why-goris-is-worth-the-journey/",
-      "published_date": "2026-07-17T15:31:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Court closes last door on Armenia’s election fight",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/17/court-closes-last-door-on-armenias-election-fight/",
-      "published_date": "2026-07-17T14:39:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "“The Blooms That Fall” on beauty and imperfection through nature’s seasons",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/17/the-blooms-that-fall-on-beauty-and-imperfection-through-natures-seasons/",
-      "published_date": "2026-07-17T14:39:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vignettes on continuity and change in Yerevan",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/17/vignettes-on-continuity-and-change-in-yerevan/",
-      "published_date": "2026-07-17T11:38:56Z",
       "category": "Local Events"
     }
   ]
