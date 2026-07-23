@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-23T12:23:07Z",
+  "generated_at": "2026-07-23T23:55:25Z",
   "country": "Armenia",
-  "total_stories": 35,
+  "total_stories": 38,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "HFAC calls for immediate release of Armenian hostages",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/23/hfac-calls-for-immediate-release-of-armenian-hostages/",
+      "published_date": "2026-07-23T14:07:33Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Rights Groups Condemn Remarks by OSCE Secretary General Regarding Removal of Armenian Church Head",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182838",
+      "published_date": "2026-07-23T09:55:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Application Lodged with ECtHR in Ruben Vardanyan Case, Says Lawyer",
       "source": "Hetq",
@@ -53,11 +67,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Diplomatic and operational power struggles shape TRIPP",
+      "title": "Government frames opposition as a national security threat",
       "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/16/diplomatic-and-operational-power-struggles-shape-tripp/",
-      "published_date": "2026-07-16T13:29:26Z",
-      "category": "Diplomacy"
+      "url": "https://armenianweekly.com/2026/07/23/government-frames-opposition-as-a-national-security-threat/",
+      "published_date": "2026-07-23T14:08:34Z",
+      "category": "Military"
+    },
+    {
+      "title": "Defendant in Armenia&#039;s &#039;Holy Struggle&#039; Terrorism Case to Remain Under House Arrest",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182857",
+      "published_date": "2026-07-23T14:06:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "The Region in Brief",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/23/the-region-in-brief-177/",
+      "published_date": "2026-07-23T14:05:35Z",
+      "category": "Military"
     },
     {
       "title": "Book Review: ‘Defeat: Documenting the Karabagh War of 2020’",
@@ -88,6 +116,13 @@
       "category": "Energy"
     },
     {
+      "title": "Armenia Economy Minister, U.S. Officials Discuss Market Economy Status Issue",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182854",
+      "published_date": "2026-07-23T12:19:00Z",
+      "category": "Economy"
+    },
+    {
       "title": "France&#039;s Prestigious Les Echos Highlights Armenia Wine and the Renaissance of Armenian Winemaking",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/182745",
@@ -102,18 +137,18 @@
       "category": "Economy"
     },
     {
-      "title": "Armenia Fest returns to Royal Oak with food, music and dance",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/16/armenia-fest-returns-to-royal-oak-with-food-music-and-dance/",
-      "published_date": "2026-07-16T14:49:11Z",
-      "category": "Economy"
+      "title": "Ingesting Nails and Screws: Incidents of Self-Harm in Armenia’s Prisons",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182861",
+      "published_date": "2026-07-23T19:39:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Armenia’s dance traditions bring a new generation together",
+      "title": "Lusine Tumanyan and the medicine of cultural restoration",
       "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/16/armenias-dance-traditions-bring-a-new-generation-together/",
-      "published_date": "2026-07-16T14:34:26Z",
-      "category": "Economy"
+      "url": "https://armenianweekly.com/2026/07/23/lusine-tumanyan-and-the-medicine-of-cultural-restoration/",
+      "published_date": "2026-07-23T14:03:26Z",
+      "category": "Local Events"
     },
     {
       "title": "ARF members, supporters and sympathizers will not be intimidated",
@@ -239,20 +274,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/07/18/armenian-film-society-london-launches-open-call/",
       "published_date": "2026-07-18T12:28:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sununu: Gold, greed and the Granite State",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/18/sununu-gold-greed-and-the-granite-state/",
-      "published_date": "2026-07-18T12:11:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump&#039;s Generous Donor to the Republican Party Appointed to Head the TRIPP+ Fund",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182743",
-      "published_date": "2026-07-17T20:30:00Z",
       "category": "Local Events"
     }
   ]
