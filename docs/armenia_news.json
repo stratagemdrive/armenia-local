@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-24T12:17:34Z",
+  "generated_at": "2026-07-24T23:58:27Z",
   "country": "Armenia",
-  "total_stories": 37,
+  "total_stories": 36,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Armenian Arts in America: From chart-toppers to jazz innovators",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/24/armenian-arts-in-america-from-chart-toppers-to-jazz-innovators/",
+      "published_date": "2026-07-24T16:16:54Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "HFAC calls for immediate release of Armenian hostages",
       "source": "The Armenian Weekly",
@@ -102,13 +109,6 @@
       "category": "Military"
     },
     {
-      "title": "Pashinyan-Tsarukyan Clash: War of Words Leads to Businessman’s Arrest and New Charges",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182668",
-      "published_date": "2026-07-17T12:55:00Z",
-      "category": "Military"
-    },
-    {
       "title": "Azerbaijan, Germany Sign Strategic Agenda Declaration",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/182818",
@@ -123,11 +123,25 @@
       "category": "Economy"
     },
     {
-      "title": "France&#039;s Prestigious Les Echos Highlights Armenia Wine and the Renaissance of Armenian Winemaking",
+      "title": "1958: Soviet Fighter Jets Clash with U.S. Aircraft Over Armenia",
       "source": "Hetq",
-      "url": "https://hetq.am/en/article/182745",
-      "published_date": "2026-07-17T13:48:00Z",
-      "category": "Economy"
+      "url": "https://hetq.am/en/article/182841",
+      "published_date": "2026-07-24T18:42:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "A Yerevan landmark finds new life through Musæum",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/24/a-yerevan-landmark-finds-new-life-through-musaeum/",
+      "published_date": "2026-07-24T16:15:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Elen Grigoryan’s journey from pharmacy to painting",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/24/elen-grigoryans-journey-from-pharmacy-to-painting/",
+      "published_date": "2026-07-24T14:01:09Z",
+      "category": "Local Events"
     },
     {
       "title": "Ingesting Nails and Screws: Incidents of Self-Harm in Armenia’s Prisons",
@@ -246,27 +260,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/07/20/moko-khatchatryans-inherited-yet-unique-artistic-signature/",
       "published_date": "2026-07-20T11:15:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Yerevan Exhibition Focuses on Logistics, E-Commerce",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182757",
-      "published_date": "2026-07-18T17:45:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Three-Body Problem",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/18/the-three-body-problem/",
-      "published_date": "2026-07-18T13:38:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenian Film Society London launches open call for Western Armenian cinema",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/18/armenian-film-society-london-launches-open-call/",
-      "published_date": "2026-07-18T12:28:34Z",
       "category": "Local Events"
     }
   ]
