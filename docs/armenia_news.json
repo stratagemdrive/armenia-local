@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-25T23:55:34Z",
+  "generated_at": "2026-07-26T12:02:01Z",
   "country": "Armenia",
-  "total_stories": 35,
+  "total_stories": 36,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "From Hormuz to Yerevan: Rebuilding Life After Fleeing a War Zone",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182884",
+      "published_date": "2026-07-26T10:00:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Armenian Arts in America: From chart-toppers to jazz innovators",
       "source": "The Armenian Weekly",
