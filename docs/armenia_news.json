@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-26T12:02:01Z",
+  "generated_at": "2026-07-26T23:56:03Z",
   "country": "Armenia",
-  "total_stories": 36,
+  "total_stories": 37,
   "categories": [
     "Diplomacy",
     "Military",
@@ -15,6 +15,13 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/182884",
       "published_date": "2026-07-26T10:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Armenia, Iran Discuss Project to Erect Second Bridge Spanning Araks River",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182882",
+      "published_date": "2026-07-25T20:04:00Z",
       "category": "Diplomacy"
     },
     {
