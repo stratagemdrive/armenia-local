@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T23:56:03Z",
+  "generated_at": "2026-07-27T13:38:23Z",
   "country": "Armenia",
   "total_stories": 37,
   "categories": [
@@ -128,6 +128,13 @@
       "url": "https://hetq.am/en/article/182854",
       "published_date": "2026-07-23T12:19:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Jerusalem Armenian Patriarchate Slams Removal of Genocide Proposal from Knesset Vote; Blames Azerbaijani Pressure",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182892",
+      "published_date": "2026-07-27T05:59:00Z",
+      "category": "Local Events"
     },
     {
       "title": "10.4 Million Euros Down the Drain: Yerevan’s New Wastewater Treatment Plant Still Not Working",
@@ -260,13 +267,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/182780",
       "published_date": "2026-07-20T15:05:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hetq Media Factory Project Manager Wins Yerevan Press Club Award",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182773",
-      "published_date": "2026-07-20T12:20:00Z",
       "category": "Local Events"
     }
   ]
