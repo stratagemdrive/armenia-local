@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-27T13:38:23Z",
+  "generated_at": "2026-07-27T23:57:54Z",
   "country": "Armenia",
-  "total_stories": 37,
+  "total_stories": 36,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Pashinyan Urges Putin to Remove Restrictions on Armenian Exports",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182909",
+      "published_date": "2026-07-27T15:40:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "From Hormuz to Yerevan: Rebuilding Life After Fleeing a War Zone",
       "source": "Hetq",
@@ -67,20 +74,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "UN Following “Holy Struggle” Case in Armenia; Does the Government’s Terrorism Charges Meet International Standards?",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182782",
-      "published_date": "2026-07-20T19:45:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Israeli Cabinet recognition: A new chapter? Not so fast",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/20/israeli-cabinet-recognition-a-new-chapter-not-so-fast/",
-      "published_date": "2026-07-20T15:16:29Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Government frames opposition as a national security threat",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/07/23/government-frames-opposition-as-a-national-security-threat/",
@@ -128,6 +121,41 @@
       "url": "https://hetq.am/en/article/182854",
       "published_date": "2026-07-23T12:19:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "In Dad’s own hand",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/27/in-dads-own-hand/",
+      "published_date": "2026-07-27T20:15:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Yerevan’s COP-17 Botched Preparations: Construction Waste Tumbling Into Hrazdan Gorge",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182896",
+      "published_date": "2026-07-27T17:33:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Haute Couture, baked: Artur Poghosyan’s radical dessert architecture",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/27/haute-couture-baked-artur-poghosyans-radical-dessert-architecture/",
+      "published_date": "2026-07-27T15:12:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Honoring Paul Ignatius’ legacy of service",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/27/honoring-paul-ignatius-legacy-of-service/",
+      "published_date": "2026-07-27T13:52:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenian Heritage Park: A living tribute through public art",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/27/armenian-heritage-park-a-living-tribute-through-public-art/",
+      "published_date": "2026-07-27T10:12:35Z",
+      "category": "Local Events"
     },
     {
       "title": "Jerusalem Armenian Patriarchate Slams Removal of Genocide Proposal from Knesset Vote; Blames Azerbaijani Pressure",
@@ -232,41 +260,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/182787",
       "published_date": "2026-07-21T12:10:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fresno Armenian Community Breaks Ground on Monument Honoring Monte Melkonian, National Hero of Armenia",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182796",
-      "published_date": "2026-07-21T12:04:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenian Youth Center holds inaugural fundraiser",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/21/armenian-youth-center-holds-inaugural-fundraiser/",
-      "published_date": "2026-07-21T04:07:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Stamp collecting highlights",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/20/stamp-collecting-highlights/",
-      "published_date": "2026-07-20T15:20:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Faces erased: Why Yerevan must preserve the memory of its fallen heroes",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/20/faces-erased-why-yerevan-must-preserve-the-memory-of-its-fallen-heroes/",
-      "published_date": "2026-07-20T15:18:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "When It Hails, It Pours: Livelihood of Armenia&#039;s Farmers at the Mercy of the Heavens",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182780",
-      "published_date": "2026-07-20T15:05:00Z",
       "category": "Local Events"
     }
   ]
