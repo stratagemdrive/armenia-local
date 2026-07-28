@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-27T23:57:54Z",
+  "generated_at": "2026-07-28T12:52:20Z",
   "country": "Armenia",
-  "total_stories": 36,
+  "total_stories": 35,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Pashinyan Didn&#039;t Specify EU Membership Referendum Deadline, Says Peskov",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182922",
+      "published_date": "2026-07-28T10:56:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Pashinyan Urges Putin to Remove Restrictions on Armenian Exports",
       "source": "Hetq",
@@ -64,13 +71,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/07/21/what-happened-to-israels-recognition-of-the-armenian-genocide-fact-vs-rumor/",
       "published_date": "2026-07-21T14:04:17Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "ANCA endorses Rep. Mike Lawler for re-election to Congress",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/21/anca-endorses-rep-mike-lawler-for-re-election-to-congress/",
-      "published_date": "2026-07-21T04:00:26Z",
       "category": "Diplomacy"
     },
     {
@@ -253,13 +253,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/07/21/iala-announces-2026-mentorship-program-cohort/",
       "published_date": "2026-07-21T14:04:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "From Sanitek to ICSID: Lawyer who Argued Against Armenia Selected as Its International Arbitrator",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182787",
-      "published_date": "2026-07-21T12:10:00Z",
       "category": "Local Events"
     }
   ]
