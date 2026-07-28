@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-28T12:52:20Z",
+  "generated_at": "2026-07-28T23:54:42Z",
   "country": "Armenia",
-  "total_stories": 35,
+  "total_stories": 37,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Silence is complicity: Who will protect the sanctuaries of Artsakh?",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/28/silence-is-complicity-who-will-protect-the-sanctuaries-of-artsakh/",
+      "published_date": "2026-07-28T16:27:29Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Pashinyan Didn&#039;t Specify EU Membership Referendum Deadline, Says Peskov",
       "source": "Hetq",
@@ -67,13 +74,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "What happened to Israel’s recognition of the Armenian Genocide? Fact vs. rumor",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/21/what-happened-to-israels-recognition-of-the-armenian-genocide-fact-vs-rumor/",
-      "published_date": "2026-07-21T14:04:17Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Government frames opposition as a national security threat",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/07/23/government-frames-opposition-as-a-national-security-threat/",
@@ -116,11 +116,39 @@
       "category": "Energy"
     },
     {
+      "title": "Ameriabank Presents Retail Banking Results for H1 2026",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182928",
+      "published_date": "2026-07-28T16:26:00Z",
+      "category": "Economy"
+    },
+    {
       "title": "Armenia Economy Minister, U.S. Officials Discuss Market Economy Status Issue",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/182854",
       "published_date": "2026-07-23T12:19:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "NAASR NextGen students launch Hamaynk, a New England Armenian events website",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/28/naasr-nextgen-students-launch-hamaynk/",
+      "published_date": "2026-07-28T19:13:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "A phone call from Baku answered the question",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/28/a-phone-call-from-baku-answered-the-question/",
+      "published_date": "2026-07-28T14:11:50Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Not finding justice in Yerevan, Armenians should apply to the European Court",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/28/not-finding-justice-in-yerevan-armenians-should-apply-to-the-european-court/",
+      "published_date": "2026-07-28T14:11:31Z",
+      "category": "Local Events"
     },
     {
       "title": "In Dad’s own hand",
@@ -239,20 +267,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/182811",
       "published_date": "2026-07-22T11:43:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenia Ranks 89th in World Happiness Report",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182801",
-      "published_date": "2026-07-21T14:59:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "IALA announces 2026 Mentorship Program cohort",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/21/iala-announces-2026-mentorship-program-cohort/",
-      "published_date": "2026-07-21T14:04:35Z",
       "category": "Local Events"
     }
   ]
