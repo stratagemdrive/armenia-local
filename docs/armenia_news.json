@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-28T23:54:42Z",
+  "generated_at": "2026-07-29T12:59:03Z",
   "country": "Armenia",
-  "total_stories": 37,
+  "total_stories": 35,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Azerbaijani Prosecutors Urge Baku Court to Reject Appeals of Armenian Detainees",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182931",
+      "published_date": "2026-07-29T06:52:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Silence is complicity: Who will protect the sanctuaries of Artsakh?",
       "source": "The Armenian Weekly",
@@ -67,13 +74,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Application Lodged with ECtHR in Ruben Vardanyan Case, Says Lawyer",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182808",
-      "published_date": "2026-07-22T07:03:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Government frames opposition as a national security threat",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/07/23/government-frames-opposition-as-a-national-security-threat/",
@@ -102,18 +102,11 @@
       "category": "Military"
     },
     {
-      "title": "Andranik Tevanyan&#039;s Detention Extended",
+      "title": "New World Bank Group Report Says Higher-Productivity Jobs Key to Reducing Poverty in Armenia",
       "source": "Hetq",
-      "url": "https://hetq.am/en/article/182817",
-      "published_date": "2026-07-22T11:58:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Azerbaijan, Germany Sign Strategic Agenda Declaration",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182818",
-      "published_date": "2026-07-22T12:21:00Z",
-      "category": "Energy"
+      "url": "https://hetq.am/en/article/182940",
+      "published_date": "2026-07-29T12:06:00Z",
+      "category": "Economy"
     },
     {
       "title": "Ameriabank Presents Retail Banking Results for H1 2026",
@@ -260,13 +253,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/182828",
       "published_date": "2026-07-22T14:23:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tsarukyan Brought to Investigative Committee for Questioning",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182811",
-      "published_date": "2026-07-22T11:43:00Z",
       "category": "Local Events"
     }
   ]
