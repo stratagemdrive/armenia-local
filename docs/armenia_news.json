@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-29T12:59:03Z",
+  "generated_at": "2026-07-29T23:56:40Z",
   "country": "Armenia",
-  "total_stories": 35,
+  "total_stories": 37,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "For truth and justice",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/29/for-truth-and-justice/",
+      "published_date": "2026-07-29T15:22:01Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Survival after displacement at Hadrut Children’s Art Center",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/29/survival-after-displacement-at-hadrut-childrens-art-center/",
+      "published_date": "2026-07-29T14:30:29Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Azerbaijani Prosecutors Urge Baku Court to Reject Appeals of Armenian Detainees",
       "source": "Hetq",
@@ -95,11 +109,11 @@
       "category": "Military"
     },
     {
-      "title": "Book Review: ‘Defeat: Documenting the Karabagh War of 2020’",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/22/book-review-defeat-documenting-the-karabagh-war-of-2020/",
-      "published_date": "2026-07-22T14:45:28Z",
-      "category": "Military"
+      "title": "Stay or Go: Making a Living Far from Armenia",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182943",
+      "published_date": "2026-07-29T15:00:00Z",
+      "category": "Economy"
     },
     {
       "title": "New World Bank Group Report Says Higher-Productivity Jobs Key to Reducing Poverty in Armenia",
@@ -121,6 +135,34 @@
       "url": "https://hetq.am/en/article/182854",
       "published_date": "2026-07-23T12:19:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Armenia&#039;s Janes Nazaryan Crowned U17 Greco-Roman Wrestling World Champion",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182949",
+      "published_date": "2026-07-29T15:57:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "“Déjà Vu” and the fragile boundaries of identity",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/29/deja-vu-and-the-fragile-boundaries-of-identity/",
+      "published_date": "2026-07-29T14:30:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Reflecting on the legacy of the reopened Gulbenkian Museum",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/29/reflecting-on-the-legacy-of-the-reopened-gulbenkian-museum/",
+      "published_date": "2026-07-29T14:03:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenia to Expand Child Sexual Abuse Liability; ECHR Says Country&#039;s Current Laws Are Inadequate",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182941",
+      "published_date": "2026-07-29T12:19:00Z",
+      "category": "Local Events"
     },
     {
       "title": "NAASR NextGen students launch Hamaynk, a New England Armenian events website",
@@ -225,34 +267,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/07/23/lusine-tumanyan-and-the-medicine-of-cultural-restoration/",
       "published_date": "2026-07-23T14:03:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "ARF members, supporters and sympathizers will not be intimidated",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/22/arf-members-supporters-and-sympathizers-will-not-be-intimidated/",
-      "published_date": "2026-07-22T16:44:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "New bilingual children’s book: “Loucine and the Doll That Walked to Aleppo”",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/22/new-bilingual-childrens-book-loucine-and-the-doll-that-walked-to-aleppo/",
-      "published_date": "2026-07-22T15:13:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Greater New York legal community celebrates public service at Armenian Bar dinner",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/22/greater-new-york-legal-community-celebrates-public-service-at-armenian-bar-dinner/",
-      "published_date": "2026-07-22T15:11:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pashinyan Congratulates New UK Prime Minister",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182828",
-      "published_date": "2026-07-22T14:23:00Z",
       "category": "Local Events"
     }
   ]
