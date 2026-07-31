@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-31T12:54:21Z",
+  "generated_at": "2026-07-31T23:56:58Z",
   "country": "Armenia",
-  "total_stories": 37,
+  "total_stories": 39,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,27 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Ruben Vardanyan’s Wife Again Appeals to Pashinyan, Azerbaijan’s Human Rights Commissioner to Organize Baku Visit",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183000",
+      "published_date": "2026-07-31T18:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Globalism, communism and Armenian national identity",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/31/globalism-communism-and-armenian-national-identity/",
+      "published_date": "2026-07-31T16:31:10Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Armenian Arts in America: From pop icons to kef legends",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/31/armenian-arts-in-america-from-pop-icons-to-kef-legends/",
+      "published_date": "2026-07-31T15:39:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Armenia isn’t the only target of Azerbaijani land claims",
       "source": "The Armenian Weekly",
@@ -74,13 +95,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Armenian Arts in America: From chart-toppers to jazz innovators",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/24/armenian-arts-in-america-from-chart-toppers-to-jazz-innovators/",
-      "published_date": "2026-07-24T16:16:54Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "The Region in Brief",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/07/30/the-region-in-brief-178/",
@@ -130,10 +144,38 @@
       "category": "Economy"
     },
     {
+      "title": "How Alzheimer’s Care Armenia is transforming dementia care",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/31/how-alzheimers-care-armenia-is-transforming-dementia-care/",
+      "published_date": "2026-07-31T15:07:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Catfish of Yerevan",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/07/31/the-catfish-of-yerevan/",
+      "published_date": "2026-07-31T15:06:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenian Court Orders State Takeover of Gagik Tsarukyan&#039;s Yerevan Ararat Brandy Factory",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182997",
+      "published_date": "2026-07-31T13:53:00Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Vayots Dzor Honey Festival Highlights Natural Wares, Environmental Awareness",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/182899",
       "published_date": "2026-07-31T12:12:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Law Enforcement in Armenia Search Home of Strong Armenia Alliance MP",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/182984",
+      "published_date": "2026-07-31T06:34:00Z",
       "category": "Local Events"
     },
     {
@@ -239,34 +281,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/182892",
       "published_date": "2026-07-27T05:59:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "10.4 Million Euros Down the Drain: Yerevan’s New Wastewater Treatment Plant Still Not Working",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182876",
-      "published_date": "2026-07-25T15:49:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "1958: Soviet Fighter Jets Clash with U.S. Aircraft Over Armenia",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182841",
-      "published_date": "2026-07-24T18:42:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "A Yerevan landmark finds new life through Musæum",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/24/a-yerevan-landmark-finds-new-life-through-musaeum/",
-      "published_date": "2026-07-24T16:15:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Elen Grigoryan’s journey from pharmacy to painting",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/24/elen-grigoryans-journey-from-pharmacy-to-painting/",
-      "published_date": "2026-07-24T14:01:09Z",
       "category": "Local Events"
     }
   ]
