@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T23:56:58Z",
+  "generated_at": "2026-08-01T12:01:51Z",
   "country": "Armenia",
   "total_stories": 39,
   "categories": [
@@ -144,6 +144,13 @@
       "category": "Economy"
     },
     {
+      "title": "Van Ardi, One of Armenia’s Premier Boutique Estates, Launches Three New Wines and Wine Club",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183003",
+      "published_date": "2026-08-01T08:52:00Z",
+      "category": "Local Events"
+    },
+    {
       "title": "How Alzheimer’s Care Armenia is transforming dementia care",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/07/31/how-alzheimers-care-armenia-is-transforming-dementia-care/",
@@ -274,13 +281,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/07/27/armenian-heritage-park-a-living-tribute-through-public-art/",
       "published_date": "2026-07-27T10:12:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jerusalem Armenian Patriarchate Slams Removal of Genocide Proposal from Knesset Vote; Blames Azerbaijani Pressure",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182892",
-      "published_date": "2026-07-27T05:59:00Z",
       "category": "Local Events"
     }
   ]
