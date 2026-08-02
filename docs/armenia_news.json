@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-02T12:01:45Z",
+  "generated_at": "2026-08-02T23:53:55Z",
   "country": "Armenia",
-  "total_stories": 37,
+  "total_stories": 39,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "International Backlash Forces Marriott to Drop Tourism Package in Ethnically Cleansed Artsakh",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183021",
+      "published_date": "2026-08-02T14:54:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Marriott drops genocide-tourism package in ethnically cleansed Artsakh",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/08/02/marriott-drops-genocide-tourism-package-in-ethnically-cleansed-artsakh/",
+      "published_date": "2026-08-02T13:08:29Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Ruben Vardanyan’s Wife Again Appeals to Pashinyan, Azerbaijan’s Human Rights Commissioner to Organize Baku Visit",
       "source": "Hetq",
@@ -128,6 +142,13 @@
       "url": "https://hetq.am/en/article/182928",
       "published_date": "2026-07-28T16:26:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Pashinyan Reappointed Armenia’s Prime Minister",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183018",
+      "published_date": "2026-08-02T14:23:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Armenia’s New Parliament Convenes: Catholicos Karekin II Not Invited",
@@ -260,13 +281,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/07/27/haute-couture-baked-artur-poghosyans-radical-dessert-architecture/",
       "published_date": "2026-07-27T15:12:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Honoring Paul Ignatius’ legacy of service",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/27/honoring-paul-ignatius-legacy-of-service/",
-      "published_date": "2026-07-27T13:52:24Z",
       "category": "Local Events"
     }
   ]
