@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-01T23:52:36Z",
+  "generated_at": "2026-08-02T12:01:45Z",
   "country": "Armenia",
-  "total_stories": 38,
+  "total_stories": 37,
   "categories": [
     "Diplomacy",
     "Military",
@@ -81,13 +81,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "From Hormuz to Yerevan: Rebuilding Life After Fleeing a War Zone",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182884",
-      "published_date": "2026-07-26T10:00:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "The Region in Brief",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/07/30/the-region-in-brief-178/",
@@ -135,6 +128,13 @@
       "url": "https://hetq.am/en/article/182928",
       "published_date": "2026-07-28T16:26:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Armenia’s New Parliament Convenes: Catholicos Karekin II Not Invited",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183019",
+      "published_date": "2026-08-02T11:30:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Van Ardi, One of Armenia’s Premier Boutique Estates, Launches Three New Wines and Wine Club",
@@ -267,13 +267,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/07/27/honoring-paul-ignatius-legacy-of-service/",
       "published_date": "2026-07-27T13:52:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenian Heritage Park: A living tribute through public art",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/27/armenian-heritage-park-a-living-tribute-through-public-art/",
-      "published_date": "2026-07-27T10:12:35Z",
       "category": "Local Events"
     }
   ]
