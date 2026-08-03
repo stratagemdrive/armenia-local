@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T23:53:55Z",
+  "generated_at": "2026-08-03T13:40:17Z",
   "country": "Armenia",
   "total_stories": 39,
   "categories": [
@@ -144,6 +144,13 @@
       "category": "Economy"
     },
     {
+      "title": "Ruben Rubinyan Elected Speaker of Armenia&#039;s New Parliament; Seeks Constructive Dialog with Opposition",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183010",
+      "published_date": "2026-08-03T10:30:00Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Pashinyan Reappointed Armenia’s Prime Minister",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/183018",
@@ -274,13 +281,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/182896",
       "published_date": "2026-07-27T17:33:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Haute Couture, baked: Artur Poghosyan’s radical dessert architecture",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/27/haute-couture-baked-artur-poghosyans-radical-dessert-architecture/",
-      "published_date": "2026-07-27T15:12:28Z",
       "category": "Local Events"
     }
   ]
