@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-04T00:03:48Z",
+  "generated_at": "2026-08-04T13:01:15Z",
   "country": "Armenia",
-  "total_stories": 40,
+  "total_stories": 39,
   "categories": [
     "Diplomacy",
     "Military",
@@ -81,13 +81,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Pashinyan Didn&#039;t Specify EU Membership Referendum Deadline, Says Peskov",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182922",
-      "published_date": "2026-07-28T10:56:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Theatrics, Not Solutions: My Experience at an Armenian Army Training Camp",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/183034",
@@ -149,6 +142,13 @@
       "url": "https://hetq.am/en/article/182928",
       "published_date": "2026-07-28T16:26:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Armenia&#039;s New Government: Ministers Appointed",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183045",
+      "published_date": "2026-08-04T11:17:00Z",
+      "category": "Local Events"
     },
     {
       "title": "The last spike",
@@ -281,13 +281,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/07/28/a-phone-call-from-baku-answered-the-question/",
       "published_date": "2026-07-28T14:11:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Not finding justice in Yerevan, Armenians should apply to the European Court",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/28/not-finding-justice-in-yerevan-armenians-should-apply-to-the-european-court/",
-      "published_date": "2026-07-28T14:11:31Z",
       "category": "Local Events"
     }
   ]
