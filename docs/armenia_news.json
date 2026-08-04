@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T13:01:15Z",
+  "generated_at": "2026-08-04T23:58:18Z",
   "country": "Armenia",
   "total_stories": 39,
   "categories": [
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Azerbaijani Official Confirms Reports that Baku Pressured Israel to Drop Armenian Genocide Resolution",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183077",
+      "published_date": "2026-08-04T13:29:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "International Backlash Forces Marriott to Drop Tourism Package in Ethnically Cleansed Artsakh",
       "source": "Hetq",
@@ -74,11 +81,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Silence is complicity: Who will protect the sanctuaries of Artsakh?",
+      "title": "More than POWs",
       "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/28/silence-is-complicity-who-will-protect-the-sanctuaries-of-artsakh/",
-      "published_date": "2026-07-28T16:27:29Z",
-      "category": "Diplomacy"
+      "url": "https://armenianweekly.com/2026/08/04/more-than-pows/",
+      "published_date": "2026-08-04T14:06:25Z",
+      "category": "Military"
     },
     {
       "title": "Theatrics, Not Solutions: My Experience at an Armenian Army Training Camp",
@@ -137,11 +144,18 @@
       "category": "Economy"
     },
     {
-      "title": "Ameriabank Presents Retail Banking Results for H1 2026",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182928",
-      "published_date": "2026-07-28T16:26:00Z",
-      "category": "Economy"
+      "title": "Gabriel Sundukyan’s architectural legacy in Derbent",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/08/04/gabriel-sundukyans-architectural-legacy-in-derbent/",
+      "published_date": "2026-08-04T14:06:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "If Pashinyan jails Catholicos Karekin II, will Armenians still remain in a coma?",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/08/04/if-pashinyan-jails-catholicos-karekin-ii-will-armenians-still-remain-in-a-coma/",
+      "published_date": "2026-08-04T14:06:12Z",
+      "category": "Local Events"
     },
     {
       "title": "Armenia&#039;s New Government: Ministers Appointed",
@@ -267,20 +281,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/182941",
       "published_date": "2026-07-29T12:19:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "NAASR NextGen students launch Hamaynk, a New England Armenian events website",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/28/naasr-nextgen-students-launch-hamaynk/",
-      "published_date": "2026-07-28T19:13:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "A phone call from Baku answered the question",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/28/a-phone-call-from-baku-answered-the-question/",
-      "published_date": "2026-07-28T14:11:50Z",
       "category": "Local Events"
     }
   ]
