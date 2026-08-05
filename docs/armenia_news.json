@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-04T23:58:18Z",
+  "generated_at": "2026-08-05T12:50:50Z",
   "country": "Armenia",
-  "total_stories": 39,
+  "total_stories": 37,
   "categories": [
     "Diplomacy",
     "Military",
@@ -74,13 +74,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Azerbaijani Prosecutors Urge Baku Court to Reject Appeals of Armenian Detainees",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182931",
-      "published_date": "2026-07-29T06:52:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "More than POWs",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/08/04/more-than-pows/",
@@ -137,11 +130,11 @@
       "category": "Economy"
     },
     {
-      "title": "New World Bank Group Report Says Higher-Productivity Jobs Key to Reducing Poverty in Armenia",
+      "title": "U.S. Increases TRIPP+ Enterprise Fund Assets to $402 Million",
       "source": "Hetq",
-      "url": "https://hetq.am/en/article/182940",
-      "published_date": "2026-07-29T12:06:00Z",
-      "category": "Economy"
+      "url": "https://hetq.am/en/article/183044",
+      "published_date": "2026-08-05T08:31:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Gabriel Sundukyan’s architectural legacy in Derbent",
@@ -274,13 +267,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/07/29/reflecting-on-the-legacy-of-the-reopened-gulbenkian-museum/",
       "published_date": "2026-07-29T14:03:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenia to Expand Child Sexual Abuse Liability; ECHR Says Country&#039;s Current Laws Are Inadequate",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182941",
-      "published_date": "2026-07-29T12:19:00Z",
       "category": "Local Events"
     }
   ]
