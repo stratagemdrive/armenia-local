@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-05T12:50:50Z",
+  "generated_at": "2026-08-05T23:55:19Z",
   "country": "Armenia",
-  "total_stories": 37,
+  "total_stories": 35,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Pashinyan, Senior Advisor to the U.S. Special Envoy for Peace Missions Discuss TRIPP Project",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183112",
+      "published_date": "2026-08-05T13:17:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Azerbaijani Official Confirms Reports that Baku Pressured Israel to Drop Armenian Genocide Resolution",
       "source": "Hetq",
@@ -57,20 +64,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/07/30/armenia-isnt-the-only-target-of-azerbaijani-land-claims/",
       "published_date": "2026-07-30T14:02:46Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "For truth and justice",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/29/for-truth-and-justice/",
-      "published_date": "2026-07-29T15:22:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Survival after displacement at Hadrut Children’s Art Center",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/29/survival-after-displacement-at-hadrut-childrens-art-center/",
-      "published_date": "2026-07-29T14:30:29Z",
       "category": "Diplomacy"
     },
     {
@@ -123,11 +116,32 @@
       "category": "Economy"
     },
     {
-      "title": "Stay or Go: Making a Living Far from Armenia",
+      "title": "A closer look at Armenian shorts at Golden Apricot 2026",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/08/05/a-closer-look-at-armenian-shorts-at-golden-apricot-2026/",
+      "published_date": "2026-08-05T15:21:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The griddle, the counter and the everlasting spirit of Aram Postaljian",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/08/05/the-griddle-the-counter-and-the-everlasting-spirit-of-aram-postaljian/",
+      "published_date": "2026-08-05T14:45:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Art as resistance: How GOY keeps Artsakh’s heritage alive",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/08/05/art-as-resistance-how-goy-keeps-artsakhs-heritage-alive/",
+      "published_date": "2026-08-05T14:43:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Former Director of Gagik Tsarukyan&#039;s Multi Group Company Arrested in Fraud Probe",
       "source": "Hetq",
-      "url": "https://hetq.am/en/article/182943",
-      "published_date": "2026-07-29T15:00:00Z",
-      "category": "Economy"
+      "url": "https://hetq.am/en/article/183110",
+      "published_date": "2026-08-05T12:18:00Z",
+      "category": "Local Events"
     },
     {
       "title": "U.S. Increases TRIPP+ Enterprise Fund Assets to $402 Million",
@@ -239,34 +253,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/182979",
       "published_date": "2026-07-30T17:27:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The loss of community churches: Prosperity has a price",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/30/the-loss-of-community-churches-prosperity-has-a-price/",
-      "published_date": "2026-07-30T14:00:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenia&#039;s Janes Nazaryan Crowned U17 Greco-Roman Wrestling World Champion",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182949",
-      "published_date": "2026-07-29T15:57:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "“Déjà Vu” and the fragile boundaries of identity",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/29/deja-vu-and-the-fragile-boundaries-of-identity/",
-      "published_date": "2026-07-29T14:30:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Reflecting on the legacy of the reopened Gulbenkian Museum",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/29/reflecting-on-the-legacy-of-the-reopened-gulbenkian-museum/",
-      "published_date": "2026-07-29T14:03:21Z",
       "category": "Local Events"
     }
   ]
