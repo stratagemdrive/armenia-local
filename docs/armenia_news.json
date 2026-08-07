@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-07T11:43:20Z",
+  "generated_at": "2026-08-07T23:28:22Z",
   "country": "Armenia",
-  "total_stories": 34,
+  "total_stories": 32,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Anahit Hayrapetyan remembers it differently in her drawings",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/08/07/anahit-hayrapetyan-remembers-it-differently-in-her-drawings/",
+      "published_date": "2026-08-07T13:20:40Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "ANCA condemns Trump administration’s intent to renew Azerbaijan aid waiver",
       "source": "The Armenian Weekly",
@@ -60,27 +67,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Ruben Vardanyan’s Wife Again Appeals to Pashinyan, Azerbaijan’s Human Rights Commissioner to Organize Baku Visit",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183000",
-      "published_date": "2026-07-31T18:00:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Globalism, communism and Armenian national identity",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/31/globalism-communism-and-armenian-national-identity/",
-      "published_date": "2026-07-31T16:31:10Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Armenian Arts in America: From pop icons to kef legends",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/31/armenian-arts-in-america-from-pop-icons-to-kef-legends/",
-      "published_date": "2026-07-31T15:39:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "More than POWs",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/08/04/more-than-pows/",
@@ -107,6 +93,41 @@
       "url": "https://hetq.am/en/article/183138",
       "published_date": "2026-08-06T14:15:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Mouradian discusses heritage, under-resourced languages and AI at Haigazian",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/08/07/mouradian-discusses-heritage-under-resourced-languages-and-ai-at-haigazian/",
+      "published_date": "2026-08-07T13:33:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "ARF Bureau condemns legal proceedings against Catholicos Karekin II",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/08/07/arf-bureau-condemns-legal-proceedings-against-catholicos-karekin-ii/",
+      "published_date": "2026-08-07T13:30:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Catholicos Karekin II on Trial for Defying Civil Court Order",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183164",
+      "published_date": "2026-08-07T12:35:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Applications open for 2027 “Amaras” Youth Internship",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/08/07/applications-open-for-2027-amaras-youth-internship/",
+      "published_date": "2026-08-07T12:29:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Subway Wants to Open Sixty Fast Food Outlets in Armenia",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183152",
+      "published_date": "2026-08-07T07:48:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Concessions under the guise of constitutional reform",
@@ -211,41 +232,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/183018",
       "published_date": "2026-08-02T14:23:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenia’s New Parliament Convenes: Catholicos Karekin II Not Invited",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183019",
-      "published_date": "2026-08-02T11:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Van Ardi, One of Armenia’s Premier Boutique Estates, Launches Three New Wines and Wine Club",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183003",
-      "published_date": "2026-08-01T08:52:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "How Alzheimer’s Care Armenia is transforming dementia care",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/31/how-alzheimers-care-armenia-is-transforming-dementia-care/",
-      "published_date": "2026-07-31T15:07:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Catfish of Yerevan",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/31/the-catfish-of-yerevan/",
-      "published_date": "2026-07-31T15:06:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenian Court Orders State Takeover of Gagik Tsarukyan&#039;s Yerevan Ararat Brandy Factory",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182997",
-      "published_date": "2026-07-31T13:53:00Z",
       "category": "Local Events"
     }
   ]
