@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-07T01:40:22Z",
+  "generated_at": "2026-08-07T11:43:20Z",
   "country": "Armenia",
-  "total_stories": 33,
+  "total_stories": 34,
   "categories": [
     "Diplomacy",
     "Military",
@@ -100,6 +100,13 @@
       "url": "https://armenianweekly.com/2026/08/03/the-meaning-of-war-in-september/",
       "published_date": "2026-08-03T13:50:51Z",
       "category": "Military"
+    },
+    {
+      "title": "Armenia Picks Maltese Company to Regulate Gambling Sector",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183138",
+      "published_date": "2026-08-06T14:15:00Z",
+      "category": "Economy"
     },
     {
       "title": "Concessions under the guise of constitutional reform",
