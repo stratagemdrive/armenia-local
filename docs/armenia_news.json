@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T12:54:38Z",
+  "generated_at": "2026-08-07T01:40:22Z",
   "country": "Armenia",
   "total_stories": 33,
   "categories": [
@@ -10,6 +10,27 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "ANCA condemns Trump administration’s intent to renew Azerbaijan aid waiver",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/08/06/anca-condemns-trump-administrations-intent/",
+      "published_date": "2026-08-07T00:38:16Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Azerbaijan’s Court of Appeals Upholds Guilty Verdicts Against Armenian Detainees",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183142",
+      "published_date": "2026-08-06T14:41:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pashinyan, Despite Trade Rift, to Attend Eurasian Intergovernmental Council Session",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183122",
+      "published_date": "2026-08-06T06:58:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Pashinyan, Senior Advisor to the U.S. Special Envoy for Peace Missions Discuss TRIPP Project",
       "source": "Hetq",
@@ -60,13 +81,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Armenia isn’t the only target of Azerbaijani land claims",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/30/armenia-isnt-the-only-target-of-azerbaijani-land-claims/",
-      "published_date": "2026-07-30T14:02:46Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "More than POWs",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/08/04/more-than-pows/",
@@ -88,18 +102,25 @@
       "category": "Military"
     },
     {
-      "title": "The Region in Brief",
+      "title": "Concessions under the guise of constitutional reform",
       "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/30/the-region-in-brief-178/",
-      "published_date": "2026-07-30T14:06:32Z",
-      "category": "Military"
+      "url": "https://armenianweekly.com/2026/08/06/concessions-under-the-guise-of-constitutional-reform/",
+      "published_date": "2026-08-06T13:26:13Z",
+      "category": "Local Events"
     },
     {
-      "title": "Yerevan faces European uncertainty as EAEU tensions deepen",
+      "title": "The Region in Brief",
       "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/07/30/yerevan-faces-european-uncertainty-as-eaeu-tensions-deepen/",
-      "published_date": "2026-07-30T14:04:51Z",
-      "category": "Energy"
+      "url": "https://armenianweekly.com/2026/08/06/the-region-in-brief-179/",
+      "published_date": "2026-08-06T13:25:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why Armenia needs a Museum of Dolls",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/08/06/why-armenia-needs-a-museum-of-dolls/",
+      "published_date": "2026-08-06T12:06:06Z",
+      "category": "Local Events"
     },
     {
       "title": "A closer look at Armenian shorts at Golden Apricot 2026",
@@ -218,27 +239,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/182997",
       "published_date": "2026-07-31T13:53:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vayots Dzor Honey Festival Highlights Natural Wares, Environmental Awareness",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182899",
-      "published_date": "2026-07-31T12:12:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Law Enforcement in Armenia Search Home of Strong Armenia Alliance MP",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182984",
-      "published_date": "2026-07-31T06:34:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gyumri’s Victory Park Slated for Much Needed Facelift: Government to Spend $469K",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/182979",
-      "published_date": "2026-07-30T17:27:00Z",
       "category": "Local Events"
     }
   ]
