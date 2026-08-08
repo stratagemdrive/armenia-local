@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-08T11:27:14Z",
+  "generated_at": "2026-08-08T23:22:36Z",
   "country": "Armenia",
-  "total_stories": 34,
+  "total_stories": 36,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Pashinyan, Trump Mark Anniversary of Armenia-Azerbaijan Peace Deal",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183180",
+      "published_date": "2026-08-08T13:58:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France Hails First Anniversary of Armenia-Azerbaijan Peace Deal",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183173",
+      "published_date": "2026-08-08T11:55:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "A telephone conversation between the Prime Minister of Armenia and the President of Azerbaijan took place",
       "source": "Hetq",
@@ -107,6 +121,13 @@
       "url": "https://hetq.am/en/article/183138",
       "published_date": "2026-08-06T14:15:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Pashinyan, Aliyev Discuss TRIPP Project Implementation",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183172",
+      "published_date": "2026-08-08T08:35:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Mouradian discusses heritage, under-resourced languages and AI at Haigazian",
@@ -239,13 +260,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/183010",
       "published_date": "2026-08-03T10:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pashinyan Reappointed Armenia’s Prime Minister",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183018",
-      "published_date": "2026-08-02T14:23:00Z",
       "category": "Local Events"
     }
   ]
