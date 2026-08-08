@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-07T23:28:22Z",
+  "generated_at": "2026-08-08T11:27:14Z",
   "country": "Armenia",
-  "total_stories": 32,
+  "total_stories": 34,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "A telephone conversation between the Prime Minister of Armenia and the President of Azerbaijan took place",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183172",
+      "published_date": "2026-08-08T09:14:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Anahit Hayrapetyan remembers it differently in her drawings",
       "source": "The Armenian Weekly",
@@ -65,6 +72,13 @@
       "url": "https://armenianweekly.com/2026/08/02/marriott-drops-genocide-tourism-package-in-ethnically-cleansed-artsakh/",
       "published_date": "2026-08-02T13:08:29Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Deadly Cold War Clash: Soviet MiG-17 Fighters Down U.S. Spy Plane Over Armenia",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183129",
+      "published_date": "2026-08-08T11:03:00Z",
+      "category": "Military"
     },
     {
       "title": "More than POWs",
