@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-10T11:45:50Z",
+  "generated_at": "2026-08-10T23:29:19Z",
   "country": "Armenia",
-  "total_stories": 34,
+  "total_stories": 33,
   "categories": [
     "Diplomacy",
     "Military",
@@ -74,6 +74,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "The diaspora as asset and vector",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/08/10/the-diaspora-as-asset-and-vector/",
+      "published_date": "2026-08-10T15:09:24Z",
+      "category": "Military"
+    },
+    {
       "title": "Deadly Cold War Clash: Soviet MiG-17 Fighters Down U.S. Spy Plane Over Armenia",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/183129",
@@ -88,25 +95,46 @@
       "category": "Military"
     },
     {
-      "title": "Theatrics, Not Solutions: My Experience at an Armenian Army Training Camp",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183034",
-      "published_date": "2026-08-03T15:13:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "The meaning of “War in September”",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/03/the-meaning-of-war-in-september/",
-      "published_date": "2026-08-03T13:50:51Z",
-      "category": "Military"
-    },
-    {
       "title": "Armenia Picks Maltese Company to Regulate Gambling Sector",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/183138",
       "published_date": "2026-08-06T14:15:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Memory Parade",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/08/10/memory-parade/",
+      "published_date": "2026-08-10T18:00:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "AYF interns visit Syunik: A two-day travel diary",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/08/10/ayf-interns-visit-syunik-a-two-day-travel-diary/",
+      "published_date": "2026-08-10T17:33:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "From biology to animation: Diana Yeghikyan’s universe of color",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/08/10/from-biology-to-animation-diana-yeghikyans-universe-of-color/",
+      "published_date": "2026-08-10T15:49:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Invasive Species and Weak Government Response Threaten Armenia’s Biodiversity",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183197",
+      "published_date": "2026-08-10T13:09:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenia&#039;s New Parliament to Have Twelve Standing Committees",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183201",
+      "published_date": "2026-08-10T11:02:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Ruben Vardanyan’s Wife Awaits Armenian Foreign Ministry Response on Women’s Humanitarian Visit to Baku",
@@ -211,41 +239,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/183044",
       "published_date": "2026-08-05T08:31:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gabriel Sundukyan’s architectural legacy in Derbent",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/04/gabriel-sundukyans-architectural-legacy-in-derbent/",
-      "published_date": "2026-08-04T14:06:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "If Pashinyan jails Catholicos Karekin II, will Armenians still remain in a coma?",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/04/if-pashinyan-jails-catholicos-karekin-ii-will-armenians-still-remain-in-a-coma/",
-      "published_date": "2026-08-04T14:06:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenia&#039;s New Government: Ministers Appointed",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183045",
-      "published_date": "2026-08-04T11:17:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The last spike",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/03/the-last-spike/",
-      "published_date": "2026-08-03T15:51:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nemo Resideo: Leave no Armenian behind",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/03/nemo-resideo-leave-no-armenian-behind/",
-      "published_date": "2026-08-03T13:50:38Z",
       "category": "Local Events"
     }
   ]
