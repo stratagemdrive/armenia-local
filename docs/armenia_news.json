@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T23:25:04Z",
+  "generated_at": "2026-08-10T11:45:50Z",
   "country": "Armenia",
   "total_stories": 34,
   "categories": [
@@ -107,6 +107,13 @@
       "url": "https://hetq.am/en/article/183138",
       "published_date": "2026-08-06T14:15:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Ruben Vardanyan’s Wife Awaits Armenian Foreign Ministry Response on Women’s Humanitarian Visit to Baku",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183196",
+      "published_date": "2026-08-10T09:19:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Pashinyan, Aliyev Discuss TRIPP Project Implementation",
@@ -239,13 +246,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/08/03/nemo-resideo-leave-no-armenian-behind/",
       "published_date": "2026-08-03T13:50:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ruben Rubinyan Elected Speaker of Armenia&#039;s New Parliament; Seeks Constructive Dialog with Opposition",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183010",
-      "published_date": "2026-08-03T10:30:00Z",
       "category": "Local Events"
     }
   ]
