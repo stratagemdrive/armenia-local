@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-11T11:42:24Z",
+  "generated_at": "2026-08-11T23:33:54Z",
   "country": "Armenia",
-  "total_stories": 33,
+  "total_stories": 35,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,34 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Why my disappointment shifted to Armenia’s leadership",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/08/11/why-my-disappointment-shifted-to-armenias-leadership/",
+      "published_date": "2026-08-11T15:06:39Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Erdogan’s denial of genocide attracts more attention to Turkish mass crimes",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/08/11/erdogans-denial-of-genocide-attracts-more-attention-to-turkish-mass-crimes/",
+      "published_date": "2026-08-11T15:03:25Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "CSTO to Discuss Depriving Armenia of Vote Right",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183231",
+      "published_date": "2026-08-11T10:51:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Russian Deputy FM Gives Armenia December Deadline for Holding EU Membership Referendum",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183227",
+      "published_date": "2026-08-11T10:23:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Pashinyan, Trump Mark Anniversary of Armenia-Azerbaijan Peace Deal",
       "source": "Hetq",
@@ -67,13 +95,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Azerbaijani Official Confirms Reports that Baku Pressured Israel to Drop Armenian Genocide Resolution",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183077",
-      "published_date": "2026-08-04T13:29:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "The diaspora as asset and vector",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/08/10/the-diaspora-as-asset-and-vector/",
@@ -88,18 +109,25 @@
       "category": "Military"
     },
     {
-      "title": "More than POWs",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/04/more-than-pows/",
-      "published_date": "2026-08-04T14:06:25Z",
-      "category": "Military"
-    },
-    {
       "title": "Armenia Picks Maltese Company to Regulate Gambling Sector",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/183138",
       "published_date": "2026-08-06T14:15:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Armenian Bar responds to prosecution of Catholicos Karekin II",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/08/11/armenian-bar-responds-to-prosecution-of-catholicos-karekin-ii/",
+      "published_date": "2026-08-11T14:32:05Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The importance of innovative outreach for our church",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/08/11/the-importance-of-innovative-outreach-for-our-church/",
+      "published_date": "2026-08-11T14:30:23Z",
+      "category": "Local Events"
     },
     {
       "title": "Memory Parade",
@@ -225,20 +253,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/08/05/art-as-resistance-how-goy-keeps-artsakhs-heritage-alive/",
       "published_date": "2026-08-05T14:43:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former Director of Gagik Tsarukyan&#039;s Multi Group Company Arrested in Fraud Probe",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183110",
-      "published_date": "2026-08-05T12:18:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "U.S. Increases TRIPP+ Enterprise Fund Assets to $402 Million",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183044",
-      "published_date": "2026-08-05T08:31:00Z",
       "category": "Local Events"
     }
   ]
