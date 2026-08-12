@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-12T11:43:43Z",
+  "generated_at": "2026-08-12T23:35:16Z",
   "country": "Armenia",
-  "total_stories": 35,
+  "total_stories": 38,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Armenian startups broaden their market horizons",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/08/12/armenian-startups-broaden-their-market-horizons/",
+      "published_date": "2026-08-12T14:59:44Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Armenian Parliament Speaker, Chinese Ambassador Discuss Expanding Ties",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183265",
+      "published_date": "2026-08-12T11:15:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Why my disappointment shifted to Armenia’s leadership",
       "source": "The Armenian Weekly",
@@ -88,11 +102,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Pashinyan, Senior Advisor to the U.S. Special Envoy for Peace Missions Discuss TRIPP Project",
+      "title": "The daughter who became her father’s hero: Carla Jane Babayan",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/08/12/the-daughter-who-became-her-fathers-hero-carla-jane-babayan/",
+      "published_date": "2026-08-12T14:59:10Z",
+      "category": "Military"
+    },
+    {
+      "title": "Armenian High Schoolers Win Two Broze at AI Olympiad",
       "source": "Hetq",
-      "url": "https://hetq.am/en/article/183112",
-      "published_date": "2026-08-05T13:17:00Z",
-      "category": "Diplomacy"
+      "url": "https://hetq.am/en/article/183255",
+      "published_date": "2026-08-12T07:14:00Z",
+      "category": "Military"
     },
     {
       "title": "The diaspora as asset and vector",
@@ -114,6 +135,27 @@
       "url": "https://hetq.am/en/article/183138",
       "published_date": "2026-08-06T14:15:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "A brave space for creation: How Hosq is redefining creativity",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/08/12/a-brave-space-for-creation-how-hosq-is-redefining-creativity/",
+      "published_date": "2026-08-12T17:16:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "In memory of Marguerite “Peggy” Sarkisian Bargamian",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/08/12/in-memory-of-marguerite-peggy-sarkisian-bargamian/",
+      "published_date": "2026-08-12T14:59:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Catholicos Karekin II Welcomes Diasporan Students",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183270",
+      "published_date": "2026-08-12T12:47:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Armenian Bar responds to prosecution of Catholicos Karekin II",
@@ -232,27 +274,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/08/06/why-armenia-needs-a-museum-of-dolls/",
       "published_date": "2026-08-06T12:06:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "A closer look at Armenian shorts at Golden Apricot 2026",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/05/a-closer-look-at-armenian-shorts-at-golden-apricot-2026/",
-      "published_date": "2026-08-05T15:21:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The griddle, the counter and the everlasting spirit of Aram Postaljian",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/05/the-griddle-the-counter-and-the-everlasting-spirit-of-aram-postaljian/",
-      "published_date": "2026-08-05T14:45:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Art as resistance: How GOY keeps Artsakh’s heritage alive",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/05/art-as-resistance-how-goy-keeps-artsakhs-heritage-alive/",
-      "published_date": "2026-08-05T14:43:35Z",
       "category": "Local Events"
     }
   ]
