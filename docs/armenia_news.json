@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-12T23:35:16Z",
+  "generated_at": "2026-08-13T11:44:10Z",
   "country": "Armenia",
-  "total_stories": 38,
+  "total_stories": 37,
   "categories": [
     "Diplomacy",
     "Military",
@@ -95,13 +95,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Pashinyan, Despite Trade Rift, to Attend Eurasian Intergovernmental Council Session",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183122",
-      "published_date": "2026-08-06T06:58:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "The daughter who became her father’s hero: Carla Jane Babayan",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/08/12/the-daughter-who-became-her-fathers-hero-carla-jane-babayan/",
@@ -135,6 +128,13 @@
       "url": "https://hetq.am/en/article/183138",
       "published_date": "2026-08-06T14:15:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Alen Simonyan Appointed Head of Armenia’s Security Council",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183287",
+      "published_date": "2026-08-13T08:17:00Z",
+      "category": "Local Events"
     },
     {
       "title": "A brave space for creation: How Hosq is redefining creativity",
@@ -267,13 +267,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/08/06/the-region-in-brief-179/",
       "published_date": "2026-08-06T13:25:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why Armenia needs a Museum of Dolls",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/06/why-armenia-needs-a-museum-of-dolls/",
-      "published_date": "2026-08-06T12:06:06Z",
       "category": "Local Events"
     }
   ]
