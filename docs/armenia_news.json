@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-13T11:44:10Z",
+  "generated_at": "2026-08-13T23:35:30Z",
   "country": "Armenia",
-  "total_stories": 37,
+  "total_stories": 36,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "NAASR library enriched by Der Matossian donation",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/08/13/naasr-library-enriched-by-der-matossian-donation/",
+      "published_date": "2026-08-13T15:07:57Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Armenian startups broaden their market horizons",
       "source": "The Armenian Weekly",
@@ -88,13 +95,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Azerbaijan’s Court of Appeals Upholds Guilty Verdicts Against Armenian Detainees",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183142",
-      "published_date": "2026-08-06T14:41:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "The daughter who became her father’s hero: Carla Jane Babayan",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/08/12/the-daughter-who-became-her-fathers-hero-carla-jane-babayan/",
@@ -123,11 +123,32 @@
       "category": "Military"
     },
     {
-      "title": "Armenia Picks Maltese Company to Regulate Gambling Sector",
+      "title": "From Beirut to Gyumri: How Narine Poladian became a khachkar carver",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/08/13/from-beirut-to-gyumri-how-narine-poladian-became-a-khachkar-carver/",
+      "published_date": "2026-08-13T16:51:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Empowering Artsakh women to thrive",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/08/13/empowering-artsakh-women-to-thrive/",
+      "published_date": "2026-08-13T16:48:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Beyond butterflies: Siranush Aghajanyan’s mosaicked Yerevan",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/08/13/beyond-butterflies-siranush-aghajanyans-mosaicked-yerevan/",
+      "published_date": "2026-08-13T16:05:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenian Parliament Speaker, UK Ambassador Discuss Expanding Cooperation",
       "source": "Hetq",
-      "url": "https://hetq.am/en/article/183138",
-      "published_date": "2026-08-06T14:15:00Z",
-      "category": "Economy"
+      "url": "https://hetq.am/en/article/183298",
+      "published_date": "2026-08-13T12:38:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Alen Simonyan Appointed Head of Armenia’s Security Council",
@@ -239,34 +260,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/183164",
       "published_date": "2026-08-07T12:35:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Applications open for 2027 “Amaras” Youth Internship",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/07/applications-open-for-2027-amaras-youth-internship/",
-      "published_date": "2026-08-07T12:29:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Subway Wants to Open Sixty Fast Food Outlets in Armenia",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183152",
-      "published_date": "2026-08-07T07:48:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Concessions under the guise of constitutional reform",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/06/concessions-under-the-guise-of-constitutional-reform/",
-      "published_date": "2026-08-06T13:26:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Region in Brief",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/06/the-region-in-brief-179/",
-      "published_date": "2026-08-06T13:25:55Z",
       "category": "Local Events"
     }
   ]
