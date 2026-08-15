@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-15T11:18:33Z",
+  "generated_at": "2026-08-15T23:14:44Z",
   "country": "Armenia",
-  "total_stories": 33,
+  "total_stories": 32,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Turkey May Force Armenia-Born Students Out of Istanbul Armenian Schools",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183336",
+      "published_date": "2026-08-15T13:27:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Azerbaijan Defies ECHR Rulings as CoE Ministers Stop Short of Tougher Action",
       "source": "Hetq",
@@ -64,20 +71,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/183227",
       "published_date": "2026-08-11T10:23:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pashinyan, Trump Mark Anniversary of Armenia-Azerbaijan Peace Deal",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183180",
-      "published_date": "2026-08-08T13:58:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "France Hails First Anniversary of Armenia-Azerbaijan Peace Deal",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183173",
-      "published_date": "2026-08-08T11:55:00Z",
       "category": "Diplomacy"
     },
     {
