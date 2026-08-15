@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-14T23:16:03Z",
+  "generated_at": "2026-08-15T11:18:33Z",
   "country": "Armenia",
-  "total_stories": 35,
+  "total_stories": 33,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Azerbaijan Defies ECHR Rulings as CoE Ministers Stop Short of Tougher Action",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183325",
+      "published_date": "2026-08-15T04:58:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "NAASR library enriched by Der Matossian donation",
       "source": "The Armenian Weekly",
@@ -74,13 +81,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "A telephone conversation between the Prime Minister of Armenia and the President of Azerbaijan took place",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183172",
-      "published_date": "2026-08-08T09:14:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "The Middle East beyond the old alliances",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/08/14/the-middle-east-beyond-the-old-alliances/",
@@ -106,13 +106,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/08/10/the-diaspora-as-asset-and-vector/",
       "published_date": "2026-08-10T15:09:24Z",
-      "category": "Military"
-    },
-    {
-      "title": "Deadly Cold War Clash: Soviet MiG-17 Fighters Down U.S. Spy Plane Over Armenia",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183129",
-      "published_date": "2026-08-08T11:03:00Z",
       "category": "Military"
     },
     {
@@ -246,13 +239,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/183196",
       "published_date": "2026-08-10T09:19:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pashinyan, Aliyev Discuss TRIPP Project Implementation",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183172",
-      "published_date": "2026-08-08T08:35:00Z",
       "category": "Local Events"
     }
   ]
