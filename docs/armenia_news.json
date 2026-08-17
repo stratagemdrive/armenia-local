@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-16T23:13:59Z",
+  "generated_at": "2026-08-17T11:23:30Z",
   "country": "Armenia",
-  "total_stories": 32,
+  "total_stories": 30,
   "categories": [
     "Diplomacy",
     "Military",
@@ -218,20 +218,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/183197",
       "published_date": "2026-08-10T13:09:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenia&#039;s New Parliament to Have Twelve Standing Committees",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183201",
-      "published_date": "2026-08-10T11:02:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ruben Vardanyan’s Wife Awaits Armenian Foreign Ministry Response on Women’s Humanitarian Visit to Baku",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183196",
-      "published_date": "2026-08-10T09:19:00Z",
       "category": "Local Events"
     }
   ]
