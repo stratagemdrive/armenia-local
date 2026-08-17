@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-17T11:23:30Z",
+  "generated_at": "2026-08-17T23:17:28Z",
   "country": "Armenia",
-  "total_stories": 30,
+  "total_stories": 29,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Why Azerbaijanis won’t live in occupied Artsakh",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/08/17/why-azerbaijanis-wont-live-in-occupied-artsakh/",
+      "published_date": "2026-08-17T15:45:32Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Turkey May Force Armenia-Born Students Out of Istanbul Armenian Schools",
       "source": "Hetq",
@@ -74,6 +81,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "The risk of symbolic overstatement",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/08/17/the-risk-of-symbolic-overstatement/",
+      "published_date": "2026-08-17T15:24:05Z",
+      "category": "Military"
+    },
+    {
       "title": "The Middle East beyond the old alliances",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/08/14/the-middle-east-beyond-the-old-alliances/",
@@ -95,18 +109,25 @@
       "category": "Military"
     },
     {
-      "title": "The diaspora as asset and vector",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/10/the-diaspora-as-asset-and-vector/",
-      "published_date": "2026-08-10T15:09:24Z",
-      "category": "Military"
-    },
-    {
       "title": "Publication of Philliou and Kolovos’ “Naming Non-Muslims”",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/08/14/publication-of-philliou-and-kolovos-naming-non-muslims/",
       "published_date": "2026-08-14T13:30:07Z",
       "category": "Economy"
+    },
+    {
+      "title": "All Aboard Abe’s Express",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/08/17/all-aboard-abes-express/",
+      "published_date": "2026-08-17T18:39:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "From watching cartoons to creating comics: Edgar Soghomonyan’s artistic journey",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/08/17/from-watching-cartoons-to-creating-comics-edgar-soghomonyans-artistic-journey/",
+      "published_date": "2026-08-17T15:40:59Z",
+      "category": "Local Events"
     },
     {
       "title": "Haigazian University Press and Hairenik Press launch Armenian memory book series",
@@ -190,34 +211,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/08/11/the-importance-of-innovative-outreach-for-our-church/",
       "published_date": "2026-08-11T14:30:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Memory Parade",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/10/memory-parade/",
-      "published_date": "2026-08-10T18:00:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "AYF interns visit Syunik: A two-day travel diary",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/10/ayf-interns-visit-syunik-a-two-day-travel-diary/",
-      "published_date": "2026-08-10T17:33:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "From biology to animation: Diana Yeghikyan’s universe of color",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/10/from-biology-to-animation-diana-yeghikyans-universe-of-color/",
-      "published_date": "2026-08-10T15:49:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Invasive Species and Weak Government Response Threaten Armenia’s Biodiversity",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183197",
-      "published_date": "2026-08-10T13:09:00Z",
       "category": "Local Events"
     }
   ]
