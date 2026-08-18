@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-18T11:23:36Z",
+  "generated_at": "2026-08-18T23:16:12Z",
   "country": "Armenia",
-  "total_stories": 28,
+  "total_stories": 31,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Artsakh athletes to represent Armenia at IMMAF Youth World Championships",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/08/18/artsakh-athletes-to-represent-armenia/",
+      "published_date": "2026-08-18T14:51:07Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Armenia’s Environment Ministry Fails to Support ‘High-Performance’ Claims with Specifics on $2.2 Million Grant Spending",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183355",
+      "published_date": "2026-08-18T12:20:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Why Azerbaijanis won’t live in occupied Artsakh",
       "source": "The Armenian Weekly",
@@ -53,20 +67,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Why my disappointment shifted to Armenia’s leadership",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/11/why-my-disappointment-shifted-to-armenias-leadership/",
-      "published_date": "2026-08-11T15:06:39Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Erdogan’s denial of genocide attracts more attention to Turkish mass crimes",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/11/erdogans-denial-of-genocide-attracts-more-attention-to-turkish-mass-crimes/",
-      "published_date": "2026-08-11T15:03:25Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "The risk of symbolic overstatement",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/08/17/the-risk-of-symbolic-overstatement/",
@@ -95,6 +95,13 @@
       "category": "Military"
     },
     {
+      "title": "The students who brought Qrji Bazar to the stage",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/08/18/the-students-who-brought-qrji-bazar-to-the-stage/",
+      "published_date": "2026-08-18T15:07:51Z",
+      "category": "Economy"
+    },
+    {
       "title": "Syrian-Armenian Specialists at Yerevan’s Matenadaran Preserve Arabic Manuscripts for the Future",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/183371",
@@ -107,6 +114,34 @@
       "url": "https://armenianweekly.com/2026/08/14/publication-of-philliou-and-kolovos-naming-non-muslims/",
       "published_date": "2026-08-14T13:30:07Z",
       "category": "Economy"
+    },
+    {
+      "title": "Surprise on Sevan Highway: The sanctuary of St. Vartan in Vartenis",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/08/18/surprise-on-sevan-highway-the-sanctuary-of-st-vartan-in-vartenis/",
+      "published_date": "2026-08-18T17:01:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "More than a summer camp: Celebrating 75 years of Camp Haiastan",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/08/18/more-than-a-summer-camp-celebrating-75-years-of-camp-haiastan/",
+      "published_date": "2026-08-18T15:26:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Erdogan’s denial of genocide attracts more attention to Turkish mass crimes",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/08/18/erdogans-denial-of-genocide-attracts-more-attention-to-turkish-mass-crimes-2/",
+      "published_date": "2026-08-18T15:05:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Intensive Orchard Agriculture in Armenia: Large Investors vs. Small-Scale Farmers",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183376",
+      "published_date": "2026-08-18T14:30:00Z",
+      "category": "Local Events"
     },
     {
       "title": "All Aboard Abe’s Express",
@@ -190,20 +225,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/183270",
       "published_date": "2026-08-12T12:47:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenian Bar responds to prosecution of Catholicos Karekin II",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/11/armenian-bar-responds-to-prosecution-of-catholicos-karekin-ii/",
-      "published_date": "2026-08-11T14:32:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The importance of innovative outreach for our church",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/11/the-importance-of-innovative-outreach-for-our-church/",
-      "published_date": "2026-08-11T14:30:23Z",
       "category": "Local Events"
     }
   ]
