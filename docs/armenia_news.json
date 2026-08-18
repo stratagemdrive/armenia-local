@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-17T23:17:28Z",
+  "generated_at": "2026-08-18T11:23:36Z",
   "country": "Armenia",
-  "total_stories": 29,
+  "total_stories": 28,
   "categories": [
     "Diplomacy",
     "Military",
@@ -67,20 +67,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "CSTO to Discuss Depriving Armenia of Vote Right",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183231",
-      "published_date": "2026-08-11T10:51:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Russian Deputy FM Gives Armenia December Deadline for Holding EU Membership Referendum",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183227",
-      "published_date": "2026-08-11T10:23:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "The risk of symbolic overstatement",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/08/17/the-risk-of-symbolic-overstatement/",
@@ -107,6 +93,13 @@
       "url": "https://hetq.am/en/article/183255",
       "published_date": "2026-08-12T07:14:00Z",
       "category": "Military"
+    },
+    {
+      "title": "Syrian-Armenian Specialists at Yerevan’s Matenadaran Preserve Arabic Manuscripts for the Future",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183371",
+      "published_date": "2026-08-18T09:00:00Z",
+      "category": "Economy"
     },
     {
       "title": "Publication of Philliou and Kolovos’ “Naming Non-Muslims”",
