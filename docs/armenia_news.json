@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-19T11:23:08Z",
+  "generated_at": "2026-08-19T23:17:43Z",
   "country": "Armenia",
-  "total_stories": 29,
+  "total_stories": 30,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "What happens if 300,000 Azerbaijanis are resettled in Armenia?",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/08/19/what-happens-if-300000-azerbaijanis-are-resettled-in-armenia/",
+      "published_date": "2026-08-19T16:31:06Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Artsakh athletes to represent Armenia at IMMAF Youth World Championships",
       "source": "The Armenian Weekly",
@@ -53,13 +60,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Armenian startups broaden their market horizons",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/12/armenian-startups-broaden-their-market-horizons/",
-      "published_date": "2026-08-12T14:59:44Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "The risk of symbolic overstatement",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/08/17/the-risk-of-symbolic-overstatement/",
@@ -71,13 +71,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/08/14/the-middle-east-beyond-the-old-alliances/",
       "published_date": "2026-08-14T16:29:24Z",
-      "category": "Military"
-    },
-    {
-      "title": "The daughter who became her father’s hero: Carla Jane Babayan",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/12/the-daughter-who-became-her-fathers-hero-carla-jane-babayan/",
-      "published_date": "2026-08-12T14:59:10Z",
       "category": "Military"
     },
     {
@@ -100,6 +93,41 @@
       "url": "https://armenianweekly.com/2026/08/14/publication-of-philliou-and-kolovos-naming-non-muslims/",
       "published_date": "2026-08-14T13:30:07Z",
       "category": "Economy"
+    },
+    {
+      "title": "When the student becomes the teacher",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/08/19/when-the-student-becomes-the-teacher/",
+      "published_date": "2026-08-19T17:18:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Weakening the diaspora means weakening Armenia",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/08/19/weakening-the-diaspora-means-weakening-armenia/",
+      "published_date": "2026-08-19T15:32:50Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "AMAA to hold 107th Annual Meeting Banquet honoring two distinguished leaders",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/08/19/amaa-to-hold-107th-annual-meeting-banquet-honoring-two-distinguished-leaders/",
+      "published_date": "2026-08-19T15:12:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Knights and Daughters of Vartan advance mission at 108th Grand Convocation",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/08/19/knights-and-daughters-of-vartan-advance-mission-at-108th-grand-convocation/",
+      "published_date": "2026-08-19T15:12:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Master of Beauty: Yerevan Exhibit Celebrates Life and Work of Architect Jim Torosyan",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183404",
+      "published_date": "2026-08-19T14:13:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Surprise on Sevan Highway: The sanctuary of St. Vartan in Vartenis",
@@ -190,27 +218,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/183287",
       "published_date": "2026-08-13T08:17:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "A brave space for creation: How Hosq is redefining creativity",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/12/a-brave-space-for-creation-how-hosq-is-redefining-creativity/",
-      "published_date": "2026-08-12T17:16:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "In memory of Marguerite “Peggy” Sarkisian Bargamian",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/12/in-memory-of-marguerite-peggy-sarkisian-bargamian/",
-      "published_date": "2026-08-12T14:59:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Catholicos Karekin II Welcomes Diasporan Students",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183270",
-      "published_date": "2026-08-12T12:47:00Z",
       "category": "Local Events"
     }
   ]
