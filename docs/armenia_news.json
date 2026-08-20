@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-19T23:17:43Z",
+  "generated_at": "2026-08-20T11:24:41Z",
   "country": "Armenia",
-  "total_stories": 30,
+  "total_stories": 29,
   "categories": [
     "Diplomacy",
     "Military",
@@ -211,13 +211,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/183298",
       "published_date": "2026-08-13T12:38:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Alen Simonyan Appointed Head of Armenia’s Security Council",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183287",
-      "published_date": "2026-08-13T08:17:00Z",
       "category": "Local Events"
     }
   ]
