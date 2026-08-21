@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-21T11:23:55Z",
+  "generated_at": "2026-08-21T23:17:55Z",
   "country": "Armenia",
-  "total_stories": 29,
+  "total_stories": 30,
   "categories": [
     "Diplomacy",
     "Military",
@@ -67,13 +67,6 @@
       "category": "Military"
     },
     {
-      "title": "The Middle East beyond the old alliances",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/14/the-middle-east-beyond-the-old-alliances/",
-      "published_date": "2026-08-14T16:29:24Z",
-      "category": "Military"
-    },
-    {
       "title": "The students who brought Qrji Bazar to the stage",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/08/18/the-students-who-brought-qrji-bazar-to-the-stage/",
@@ -88,11 +81,39 @@
       "category": "Economy"
     },
     {
-      "title": "Publication of Philliou and Kolovos’ “Naming Non-Muslims”",
+      "title": "The meaning behind Gostan Zarian’s “Three Songs”",
       "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/14/publication-of-philliou-and-kolovos-naming-non-muslims/",
-      "published_date": "2026-08-14T13:30:07Z",
-      "category": "Economy"
+      "url": "https://armenianweekly.com/2026/08/21/the-meaning-behind-gostan-zarians-three-songs/",
+      "published_date": "2026-08-21T16:17:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "In Argentina, Armenian Genocide seminar examines women, children and silence",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/08/21/in-argentina-armenian-genocide-seminar-examines-women-children-and-silence/",
+      "published_date": "2026-08-21T15:20:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "IODA to host press conference on Armenia’s democratic trajectory",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/08/21/ioda-to-host-press-conference-on-armenias-democratic-trajectory/",
+      "published_date": "2026-08-21T14:32:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Providence Homenetmen scouts’ effort extends beyond jamboree in Armenia",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/08/21/providence-homenetmen-scouts-effort-extends-beyond-jamboree-in-armenia/",
+      "published_date": "2026-08-21T14:29:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Avetik Chalabyan Released from Pre-Trial Detention",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183458",
+      "published_date": "2026-08-21T11:35:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Vergine Smbatyan’s life woven with carpet patterns",
@@ -197,20 +218,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/08/17/from-watching-cartoons-to-creating-comics-edgar-soghomonyans-artistic-journey/",
       "published_date": "2026-08-17T15:40:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Haigazian University Press and Hairenik Press launch Armenian memory book series",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/14/haigazian-university-press-and-hairenik-press-launch-armenian-memory-book-series/",
-      "published_date": "2026-08-14T14:00:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lucy Yeghiazaryan fills Birdland Jazz Club with love",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/14/lucy-yeghiazaryan-fills-birdland-jazz-club-with-love/",
-      "published_date": "2026-08-14T13:55:28Z",
       "category": "Local Events"
     }
   ]
