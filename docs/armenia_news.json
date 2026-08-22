@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-22T11:19:14Z",
+  "generated_at": "2026-08-22T23:15:04Z",
   "country": "Armenia",
-  "total_stories": 29,
+  "total_stories": 28,
   "categories": [
     "Diplomacy",
     "Military",
@@ -46,13 +46,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Turkey May Force Armenia-Born Students Out of Istanbul Armenian Schools",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183336",
-      "published_date": "2026-08-15T13:27:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "The risk of symbolic overstatement",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/08/17/the-risk-of-symbolic-overstatement/",
@@ -72,6 +65,27 @@
       "url": "https://hetq.am/en/article/183371",
       "published_date": "2026-08-18T09:00:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Tebi Bazmaşen",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/08/22/tebi-bazmasen/",
+      "published_date": "2026-08-22T14:32:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Khachkar Studios releases Masterclass #3: Revitalizing churches worldwide",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/08/22/khachkar-studios-releases-masterclass-3-revitalizing-churches-worldwide/",
+      "published_date": "2026-08-22T14:20:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pashinyan’s Band to Perform at Sevan Music Festival",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183473",
+      "published_date": "2026-08-22T12:58:00Z",
+      "category": "Local Events"
     },
     {
       "title": "The meaning behind Gostan Zarian’s “Three Songs”",
@@ -190,27 +204,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/08/18/erdogans-denial-of-genocide-attracts-more-attention-to-turkish-mass-crimes-2/",
       "published_date": "2026-08-18T15:05:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Intensive Orchard Agriculture in Armenia: Large Investors vs. Small-Scale Farmers",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183376",
-      "published_date": "2026-08-18T14:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "All Aboard Abe’s Express",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/17/all-aboard-abes-express/",
-      "published_date": "2026-08-17T18:39:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "From watching cartoons to creating comics: Edgar Soghomonyan’s artistic journey",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/17/from-watching-cartoons-to-creating-comics-edgar-soghomonyans-artistic-journey/",
-      "published_date": "2026-08-17T15:40:59Z",
       "category": "Local Events"
     }
   ]
