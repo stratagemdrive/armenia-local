@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T23:15:25Z",
+  "generated_at": "2026-08-24T11:26:43Z",
   "country": "Armenia",
   "total_stories": 28,
   "categories": [
@@ -65,6 +65,13 @@
       "url": "https://hetq.am/en/article/183371",
       "published_date": "2026-08-18T09:00:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Aram Barseghyan Appointed CEO of Team Telecom Armenia, Hayk Yesayan to Lead Team Group",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183485",
+      "published_date": "2026-08-24T08:57:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Tebi Bazmaşen",
@@ -197,13 +204,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/08/18/more-than-a-summer-camp-celebrating-75-years-of-camp-haiastan/",
       "published_date": "2026-08-18T15:26:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Erdogan’s denial of genocide attracts more attention to Turkish mass crimes",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/18/erdogans-denial-of-genocide-attracts-more-attention-to-turkish-mass-crimes-2/",
-      "published_date": "2026-08-18T15:05:35Z",
       "category": "Local Events"
     }
   ]
