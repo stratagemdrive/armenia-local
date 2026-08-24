@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T11:26:43Z",
+  "generated_at": "2026-08-24T23:17:42Z",
   "country": "Armenia",
   "total_stories": 28,
   "categories": [
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Pashinyan Criticizes Weaponizing of Armenian Genocide; Announces EU Membership Bid",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183491",
+      "published_date": "2026-08-24T13:38:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "The Region in Brief",
       "source": "The Armenian Weekly",
@@ -39,18 +46,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Why Azerbaijanis won’t live in occupied Artsakh",
+      "title": "Reunion",
       "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/17/why-azerbaijanis-wont-live-in-occupied-artsakh/",
-      "published_date": "2026-08-17T15:45:32Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The risk of symbolic overstatement",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/17/the-risk-of-symbolic-overstatement/",
-      "published_date": "2026-08-17T15:24:05Z",
-      "category": "Military"
+      "url": "https://armenianweekly.com/2026/08/24/reunion/",
+      "published_date": "2026-08-24T18:00:56Z",
+      "category": "Economy"
     },
     {
       "title": "The students who brought Qrji Bazar to the stage",
@@ -65,6 +65,27 @@
       "url": "https://hetq.am/en/article/183371",
       "published_date": "2026-08-18T09:00:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "The nation is broader than any government",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/08/24/the-nation-is-broader-than-any-government/",
+      "published_date": "2026-08-24T15:32:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenuhi Sargsyan’s journey supporting seniors in Gyumri",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/08/24/armenuhi-sargsyans-journey-supporting-seniors-in-gyumri/",
+      "published_date": "2026-08-24T15:32:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pashinyan Announces Armenia’s “Fourth Republic”,  End of Karabakh Movement",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183489",
+      "published_date": "2026-08-24T12:26:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Aram Barseghyan Appointed CEO of Team Telecom Armenia, Hayk Yesayan to Lead Team Group",
@@ -183,27 +204,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/08/19/knights-and-daughters-of-vartan-advance-mission-at-108th-grand-convocation/",
       "published_date": "2026-08-19T15:12:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Master of Beauty: Yerevan Exhibit Celebrates Life and Work of Architect Jim Torosyan",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183404",
-      "published_date": "2026-08-19T14:13:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Surprise on Sevan Highway: The sanctuary of St. Vartan in Vartenis",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/18/surprise-on-sevan-highway-the-sanctuary-of-st-vartan-in-vartenis/",
-      "published_date": "2026-08-18T17:01:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "More than a summer camp: Celebrating 75 years of Camp Haiastan",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/18/more-than-a-summer-camp-celebrating-75-years-of-camp-haiastan/",
-      "published_date": "2026-08-18T15:26:53Z",
       "category": "Local Events"
     }
   ]
