@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-26T11:28:17Z",
+  "generated_at": "2026-08-27T04:11:19Z",
   "country": "Armenia",
-  "total_stories": 27,
+  "total_stories": 28,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Armenia-Born Students Can Still Attend Istanbul Armenian Schools",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183545",
+      "published_date": "2026-08-26T16:24:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Pashinyan Criticizes Weaponizing of Armenian Genocide; Announces EU Membership Bid",
       "source": "Hetq",
@@ -25,11 +32,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "What happens if 300,000 Azerbaijanis are resettled in Armenia?",
+      "title": "Preserving our communities’ vibrancy and survival",
       "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/19/what-happens-if-300000-azerbaijanis-are-resettled-in-armenia/",
-      "published_date": "2026-08-19T16:31:06Z",
-      "category": "Diplomacy"
+      "url": "https://armenianweekly.com/2026/08/26/preserving-our-communities-vibrancy-and-survival/",
+      "published_date": "2026-08-26T15:30:37Z",
+      "category": "Military"
     },
     {
       "title": "Baku may regret suing CNN for its report on Israeli forces in Azerbaijan",
@@ -58,6 +65,34 @@
       "url": "https://armenianweekly.com/2026/08/24/reunion/",
       "published_date": "2026-08-24T18:00:56Z",
       "category": "Economy"
+    },
+    {
+      "title": "Can the Armenian Diaspora survive success?",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/08/26/can-the-armenian-diaspora-survive-success/",
+      "published_date": "2026-08-26T17:11:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenian American artist Lusine Saakyan weaves history into art",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/08/26/armenian-american-artist-lusine-saakyan-weaves-history-into-art/",
+      "published_date": "2026-08-26T17:09:42Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Artist Argues Armenians Undervalue Their Culture: A Case Study of Cilician Armenian Embroidery",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183529",
+      "published_date": "2026-08-26T16:21:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Son of Former Armenian President Robert Kocharyan Detained for Two Months",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183522",
+      "published_date": "2026-08-26T03:21:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Armenian Border Guard and State Revenue Committee Representatives Attend U.S. International Rail Interdiction Training",
@@ -169,34 +204,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/08/21/ioda-to-host-press-conference-on-armenias-democratic-trajectory/",
       "published_date": "2026-08-21T14:32:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Providence Homenetmen scouts’ effort extends beyond jamboree in Armenia",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/21/providence-homenetmen-scouts-effort-extends-beyond-jamboree-in-armenia/",
-      "published_date": "2026-08-21T14:29:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Avetik Chalabyan Released from Pre-Trial Detention",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183458",
-      "published_date": "2026-08-21T11:35:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vergine Smbatyan’s life woven with carpet patterns",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/20/vergine-smbatyans-life-woven-with-carpet-patterns/",
-      "published_date": "2026-08-20T17:04:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ruling party widens divide between diaspora and Yerevan",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/20/ruling-party-widens-divide-between-diaspora-and-yerevan/",
-      "published_date": "2026-08-20T16:29:08Z",
       "category": "Local Events"
     }
   ]
