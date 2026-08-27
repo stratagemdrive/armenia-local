@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-27T04:11:19Z",
+  "generated_at": "2026-08-27T20:54:18Z",
   "country": "Armenia",
-  "total_stories": 28,
+  "total_stories": 30,
   "categories": [
     "Diplomacy",
     "Military",
@@ -27,9 +27,9 @@
     {
       "title": "The Region in Brief",
       "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/20/the-region-in-brief-180/",
-      "published_date": "2026-08-20T14:39:41Z",
-      "category": "Diplomacy"
+      "url": "https://armenianweekly.com/2026/08/27/the-region-in-brief-181/",
+      "published_date": "2026-08-27T13:48:40Z",
+      "category": "Military"
     },
     {
       "title": "Preserving our communities’ vibrancy and survival",
@@ -53,6 +53,13 @@
       "category": "Military"
     },
     {
+      "title": "Pashinyan Says Former Presidents Must Return “Illegal Assets”",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183571",
+      "published_date": "2026-08-27T15:45:00Z",
+      "category": "Energy"
+    },
+    {
       "title": "Armenia, Azerbaijan Discuss Electricity Exchange",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/183509",
@@ -60,11 +67,46 @@
       "category": "Energy"
     },
     {
+      "title": "Launch of the Diaspora National Mobilization Conference website",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/08/27/launch-of-the-diaspora-national-mobilization-conference-website/",
+      "published_date": "2026-08-27T13:30:39Z",
+      "category": "Economy"
+    },
+    {
       "title": "Reunion",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/08/24/reunion/",
       "published_date": "2026-08-24T18:00:56Z",
       "category": "Economy"
+    },
+    {
+      "title": "Chris Bohjalian and Nancy Kricorian discuss “The Amateur”",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/08/27/chris-bohjalian-and-nancy-kricorian-discuss-the-amateur/",
+      "published_date": "2026-08-27T13:45:42Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pashinyan brands himself ‘judge’ of the opposition",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/08/27/pashinyan-brands-himself-judge-of-the-opposition/",
+      "published_date": "2026-08-27T13:44:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Intensification of neo-Bolshevik campaign against diaspora, pan-Armenian institutions",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/08/27/intensification-of-neo-bolshevik-campaign-against-diaspora-pan-armenian-institutions/",
+      "published_date": "2026-08-27T13:35:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Court Orders Two Month Detention for Former Armenian President Robert Kocharyan",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183548",
+      "published_date": "2026-08-27T05:00:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Can the Armenian Diaspora survive success?",
@@ -176,34 +218,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/08/22/khachkar-studios-releases-masterclass-3-revitalizing-churches-worldwide/",
       "published_date": "2026-08-22T14:20:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pashinyan’s Band to Perform at Sevan Music Festival",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183473",
-      "published_date": "2026-08-22T12:58:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The meaning behind Gostan Zarian’s “Three Songs”",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/21/the-meaning-behind-gostan-zarians-three-songs/",
-      "published_date": "2026-08-21T16:17:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "In Argentina, Armenian Genocide seminar examines women, children and silence",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/21/in-argentina-armenian-genocide-seminar-examines-women-children-and-silence/",
-      "published_date": "2026-08-21T15:20:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "IODA to host press conference on Armenia’s democratic trajectory",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/21/ioda-to-host-press-conference-on-armenias-democratic-trajectory/",
-      "published_date": "2026-08-21T14:32:55Z",
       "category": "Local Events"
     }
   ]
