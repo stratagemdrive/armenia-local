@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T00:57:19Z",
+  "generated_at": "2026-08-30T15:09:58Z",
   "country": "Armenia",
   "total_stories": 31,
   "categories": [
@@ -86,6 +86,13 @@
       "url": "https://armenianweekly.com/2026/08/24/reunion/",
       "published_date": "2026-08-24T18:00:56Z",
       "category": "Economy"
+    },
+    {
+      "title": "Armenian Foreign Minister Visits Margara Border Checkpoint",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183603",
+      "published_date": "2026-08-30T10:54:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Judges in Armenia Compensated Despite Facing Criminal Charges",
@@ -218,13 +225,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/08/24/the-nation-is-broader-than-any-government/",
       "published_date": "2026-08-24T15:32:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenuhi Sargsyan’s journey supporting seniors in Gyumri",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/24/armenuhi-sargsyans-journey-supporting-seniors-in-gyumri/",
-      "published_date": "2026-08-24T15:32:10Z",
       "category": "Local Events"
     }
   ]
