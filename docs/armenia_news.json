@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-30T15:09:58Z",
+  "generated_at": "2026-08-31T01:02:37Z",
   "country": "Armenia",
-  "total_stories": 31,
+  "total_stories": 32,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Lorik Humanitarian Fund launches 2026-27 scholarship campaign for Artsakh students",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/08/30/lorik-humanitarian-fund-launches-2026-27-scholarship-campaign-for-artsakh-students/",
+      "published_date": "2026-08-30T20:04:05Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Armenia drifts from Russia, but EU membership may remain out of reach",
       "source": "The Armenian Weekly",
@@ -86,6 +93,27 @@
       "url": "https://armenianweekly.com/2026/08/24/reunion/",
       "published_date": "2026-08-24T18:00:56Z",
       "category": "Economy"
+    },
+    {
+      "title": "Peter Balakian and Foster Hirsch to introduce Elia Kazan’s ‘America, America’ at Barrymore Film Center",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/08/30/peter-balakian-and-foster-hirsch-to-introduce-elia-kazans-america-america/",
+      "published_date": "2026-08-30T21:22:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Zamanigian bequest makes AECP international medical fellowships possible",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/08/30/zamanigian-bequest-makes-aecp-international-medical-fellowships-possible/",
+      "published_date": "2026-08-30T20:18:42Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenia brings home three medals from 2026 MMA Youth World Championships",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/08/30/armenia-brings-home-three-medals-from-2026-mma-youth-world-championships/",
+      "published_date": "2026-08-30T19:52:09Z",
+      "category": "Local Events"
     },
     {
       "title": "Armenian Foreign Minister Visits Margara Border Checkpoint",
@@ -204,27 +232,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/183519",
       "published_date": "2026-08-25T15:11:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenia Alliance Denounces Kocharyan Detention, Labels Pashinyan Administration a Dictatorship",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183518",
-      "published_date": "2026-08-25T14:15:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenian Police Detain Former President Robert Kocharyan and Son in Corruption Probe",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183500",
-      "published_date": "2026-08-25T05:41:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The nation is broader than any government",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/24/the-nation-is-broader-than-any-government/",
-      "published_date": "2026-08-24T15:32:27Z",
       "category": "Local Events"
     }
   ]
