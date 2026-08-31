@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-31T01:02:37Z",
+  "generated_at": "2026-08-31T17:53:44Z",
   "country": "Armenia",
-  "total_stories": 32,
+  "total_stories": 37,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,41 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Armenia’s molybdenum moment",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/08/31/armenias-molybdenum-moment/",
+      "published_date": "2026-08-31T14:42:06Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Complaint filed with ECtHR over rights violations of 15 Armenians",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/08/31/complaint-filed-with-ecthr-over-rights-violations-of-15-armenians/",
+      "published_date": "2026-08-31T14:40:05Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pashinyan, Tajik President Discuss Regional Developments",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183620",
+      "published_date": "2026-08-31T12:46:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pashinyan, Aliyev Agree to Continue Working Towards Lasting Peace",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183617",
+      "published_date": "2026-08-31T11:13:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pashinyan. Modi Meet; Discuss Expanding Cooperation",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183613",
+      "published_date": "2026-08-31T09:07:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Lorik Humanitarian Fund launches 2026-27 scholarship campaign for Artsakh students",
       "source": "The Armenian Weekly",
@@ -29,13 +64,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/183545",
       "published_date": "2026-08-26T16:24:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pashinyan Criticizes Weaponizing of Armenian Genocide; Announces EU Membership Bid",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183491",
-      "published_date": "2026-08-24T13:38:00Z",
       "category": "Diplomacy"
     },
     {
@@ -81,6 +109,13 @@
       "category": "Energy"
     },
     {
+      "title": "Armenia’s Exports and Agriculture Decline in Tandem",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183599",
+      "published_date": "2026-08-31T03:31:00Z",
+      "category": "Economy"
+    },
+    {
       "title": "Launch of the Diaspora National Mobilization Conference website",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/08/27/launch-of-the-diaspora-national-mobilization-conference-website/",
@@ -95,9 +130,30 @@
       "category": "Economy"
     },
     {
+      "title": "How Hayk Heritage turns shirts into stories",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/08/31/how-hayk-heritage-turns-shirts-into-stories/",
+      "published_date": "2026-08-31T16:12:42Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Yerevan’s Matenadaran Book Depository Expands its Collection",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183615",
+      "published_date": "2026-08-31T10:00:00Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Peter Balakian and Foster Hirsch to introduce Elia Kazan’s ‘America, America’ at Barrymore Film Center",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/08/30/peter-balakian-and-foster-hirsch-to-introduce-elia-kazans-america-america/",
+      "published_date": "2026-08-30T21:22:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Peter Balakian, Foster Hirsch to introduce Elia Kazan’s ‘America, America’",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/08/30/peter-balakian-foster-hirsch-to-introduce-elia-kazans-america-america/",
       "published_date": "2026-08-30T21:22:14Z",
       "category": "Local Events"
     },
@@ -211,27 +267,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/183523",
       "published_date": "2026-08-25T18:54:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "IODA experts warn of repression, democratic backsliding in Armenia",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/25/ioda-experts-warn-of-repression-democratic-backsliding-in-armenia/",
-      "published_date": "2026-08-25T15:59:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenia Alliance condemns actions against Robert Kocharyan and his family",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/25/armenia-alliance-condemns-actions-against-robert-kocharyan-and-his-family/",
-      "published_date": "2026-08-25T15:45:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former Armenian President Robert Kocharyan Detained in Sweeping Anti-Corruption Probe",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183519",
-      "published_date": "2026-08-25T15:11:00Z",
       "category": "Local Events"
     }
   ]
