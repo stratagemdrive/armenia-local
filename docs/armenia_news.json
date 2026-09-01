@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-01T01:33:14Z",
+  "generated_at": "2026-09-01T15:23:04Z",
   "country": "Armenia",
-  "total_stories": 36,
+  "total_stories": 34,
   "categories": [
     "Diplomacy",
     "Military",
@@ -81,20 +81,6 @@
       "category": "Military"
     },
     {
-      "title": "Baku may regret suing CNN for its report on Israeli forces in Azerbaijan",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/25/baku-may-regret-suing-cnn-for-its-report-on-israeli-forces-in-azerbaijan/",
-      "published_date": "2026-08-25T14:31:12Z",
-      "category": "Military"
-    },
-    {
-      "title": "Noncombat deaths expose a deeper crisis in Armenia’s army",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/25/noncombat-deaths-expose-a-deeper-crisis-in-armenias-army/",
-      "published_date": "2026-08-25T14:30:59Z",
-      "category": "Military"
-    },
-    {
       "title": "Pashinyan Says Former Presidents Must Return “Illegal Assets”",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/183571",
@@ -102,11 +88,11 @@
       "category": "Energy"
     },
     {
-      "title": "Armenia, Azerbaijan Discuss Electricity Exchange",
+      "title": "Pashinyan, Vietnam&#039;s VP Discuss Expanding Bilateral Agenda",
       "source": "Hetq",
-      "url": "https://hetq.am/en/article/183509",
-      "published_date": "2026-08-25T11:17:00Z",
-      "category": "Energy"
+      "url": "https://hetq.am/en/article/183641",
+      "published_date": "2026-09-01T09:08:00Z",
+      "category": "Economy"
     },
     {
       "title": "Armenia’s Exports and Agriculture Decline in Tandem",
@@ -121,6 +107,34 @@
       "url": "https://armenianweekly.com/2026/08/27/launch-of-the-diaspora-national-mobilization-conference-website/",
       "published_date": "2026-08-27T13:30:39Z",
       "category": "Economy"
+    },
+    {
+      "title": "Can Raphael Lemkin’s relatives force the Lemkin Institute to remove his name?",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/01/can-raphael-lemkins-relatives-force-the-lemkin-institute-to-remove-his-name/",
+      "published_date": "2026-09-01T15:04:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Family-Run Company Preserves Yerevan’s Traditional Wool Washing",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183642",
+      "published_date": "2026-09-01T12:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Former Armenian State Revenue Committee Chairman Arrested in Bribery Probe",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183647",
+      "published_date": "2026-09-01T11:46:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "TRIPP Facebook Page Launched",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183637",
+      "published_date": "2026-09-01T08:06:00Z",
+      "category": "Local Events"
     },
     {
       "title": "The Juggler-Swatter",
@@ -232,34 +246,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/183548",
       "published_date": "2026-08-27T05:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Can the Armenian Diaspora survive success?",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/26/can-the-armenian-diaspora-survive-success/",
-      "published_date": "2026-08-26T17:11:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenian American artist Lusine Saakyan weaves history into art",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/26/armenian-american-artist-lusine-saakyan-weaves-history-into-art/",
-      "published_date": "2026-08-26T17:09:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Artist Argues Armenians Undervalue Their Culture: A Case Study of Cilician Armenian Embroidery",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183529",
-      "published_date": "2026-08-26T16:21:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Son of Former Armenian President Robert Kocharyan Detained for Two Months",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183522",
-      "published_date": "2026-08-26T03:21:00Z",
       "category": "Local Events"
     }
   ]
