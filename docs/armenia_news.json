@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-31T17:53:44Z",
+  "generated_at": "2026-09-01T01:33:14Z",
   "country": "Armenia",
-  "total_stories": 37,
+  "total_stories": 36,
   "categories": [
     "Diplomacy",
     "Military",
@@ -123,11 +123,11 @@
       "category": "Economy"
     },
     {
-      "title": "Reunion",
+      "title": "The Juggler-Swatter",
       "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/24/reunion/",
-      "published_date": "2026-08-24T18:00:56Z",
-      "category": "Economy"
+      "url": "https://armenianweekly.com/2026/08/31/the-juggler-swatter/",
+      "published_date": "2026-08-31T23:50:27Z",
+      "category": "Local Events"
     },
     {
       "title": "How Hayk Heritage turns shirts into stories",
@@ -260,13 +260,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/183522",
       "published_date": "2026-08-26T03:21:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenian Border Guard and State Revenue Committee Representatives Attend U.S. International Rail Interdiction Training",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183523",
-      "published_date": "2026-08-25T18:54:00Z",
       "category": "Local Events"
     }
   ]
