@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-02T00:46:13Z",
+  "generated_at": "2026-09-02T14:58:19Z",
   "country": "Armenia",
-  "total_stories": 37,
+  "total_stories": 38,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Putin Says Russia Will Close Gyumri Base if Armenia Requests It",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183670",
+      "published_date": "2026-09-02T12:28:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Pashinyan, Putin Meet Amidst Rising Tensions",
       "source": "Hetq",
@@ -130,6 +137,34 @@
       "category": "Economy"
     },
     {
+      "title": "Sarkisian Workshop Series returns with Peter Balakian",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/02/sarkisian-workshop-series-returns-with-peter-balakian/",
+      "published_date": "2026-09-02T14:42:30Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Art against violence",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/02/art-against-violence/",
+      "published_date": "2026-09-02T14:40:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Unibank Launches a New Promotion &quot;U-Teenager&quot;: Grand Prize — a Summer Course at One of the Top Universities Abroad",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183675",
+      "published_date": "2026-09-02T14:24:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gagik Khachatryan Brought to Court on Stretcher, Gets Two Months Detention",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183651",
+      "published_date": "2026-09-02T11:02:00Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Camp friends become family",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/09/01/camp-friends-become-family/",
@@ -141,6 +176,13 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/09/01/can-raphael-lemkins-relatives-force-the-lemkin-institute-to-remove-his-name/",
       "published_date": "2026-09-01T15:04:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "&quot;Unisport&quot; Advances to the Main Round of the UEFA Futsal Champions League",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183674",
+      "published_date": "2026-09-01T13:01:00Z",
       "category": "Local Events"
     },
     {
@@ -232,41 +274,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/08/28/metal-and-silence-the-sculptural-world-of-sargis-hovhannisyan/",
       "published_date": "2026-08-28T15:59:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Book Review: ‘Purist Pursuits: Language, Global Ideas, and the Creation of Western Armenian in the Ottoman Empire’ by Jennifer Manoukian",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/28/book-review-purist-pursuits/",
-      "published_date": "2026-08-28T15:56:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Yerevan Municipality Says No Need to Investigate August 13 Fire",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183582",
-      "published_date": "2026-08-28T14:36:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chris Bohjalian and Nancy Kricorian discuss “The Amateur”",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/27/chris-bohjalian-and-nancy-kricorian-discuss-the-amateur/",
-      "published_date": "2026-08-27T13:45:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pashinyan brands himself ‘judge’ of the opposition",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/27/pashinyan-brands-himself-judge-of-the-opposition/",
-      "published_date": "2026-08-27T13:44:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Intensification of neo-Bolshevik campaign against diaspora, pan-Armenian institutions",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/27/intensification-of-neo-bolshevik-campaign-against-diaspora-pan-armenian-institutions/",
-      "published_date": "2026-08-27T13:35:20Z",
       "category": "Local Events"
     }
   ]
