@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-03T00:54:26Z",
+  "generated_at": "2026-09-03T14:52:31Z",
   "country": "Armenia",
-  "total_stories": 36,
+  "total_stories": 38,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,34 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Bared Maronian previews “Genocide 2.0,” a documentary on the Artsakh War and ethnic cleansing",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/03/bared-maronian-previews-genocide-2-0-a-documentary-on-the-artsakh-war-and-ethnic-cleansing/",
+      "published_date": "2026-09-03T14:36:15Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pashinyan, Putin and the blame game over Artsakh in Bishkek",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/03/pashinyan-putin-and-the-blame-game-over-artsakh-in-bishkek/",
+      "published_date": "2026-09-03T14:04:16Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Armenian, U.S. Officials Visit Syunik to Discuss TRIPP with Local Communities",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183707",
+      "published_date": "2026-09-03T11:23:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Armenian Parliament Speaker, Egyptian Ambassador Discuss Expanding Cooperation",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183693",
+      "published_date": "2026-09-03T08:11:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Putin Says Russia Will Close Gyumri Base if Armenia Requests It",
       "source": "Hetq",
@@ -74,13 +102,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "The Region in Brief",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/27/the-region-in-brief-181/",
-      "published_date": "2026-08-27T13:48:40Z",
-      "category": "Military"
-    },
-    {
       "title": "Pashinyan Says Former Presidents Must Return “Illegal Assets”",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/183571",
@@ -116,11 +137,11 @@
       "category": "Economy"
     },
     {
-      "title": "Launch of the Diaspora National Mobilization Conference website",
+      "title": "The Region in Brief",
       "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/27/launch-of-the-diaspora-national-mobilization-conference-website/",
-      "published_date": "2026-08-27T13:30:39Z",
-      "category": "Economy"
+      "url": "https://armenianweekly.com/2026/09/03/the-region-in-brief-182/",
+      "published_date": "2026-09-03T14:04:29Z",
+      "category": "Local Events"
     },
     {
       "title": "The Wednesday before the AYF Olympics",
@@ -253,13 +274,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/08/30/armenia-brings-home-three-medals-from-2026-mma-youth-world-championships/",
       "published_date": "2026-08-30T19:52:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenian Foreign Minister Visits Margara Border Checkpoint",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183603",
-      "published_date": "2026-08-30T10:54:00Z",
       "category": "Local Events"
     }
   ]
