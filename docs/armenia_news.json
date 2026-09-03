@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-02T14:58:19Z",
+  "generated_at": "2026-09-03T00:54:26Z",
   "country": "Armenia",
-  "total_stories": 38,
+  "total_stories": 36,
   "categories": [
     "Diplomacy",
     "Military",
@@ -74,24 +74,10 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Armenia-Born Students Can Still Attend Istanbul Armenian Schools",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183545",
-      "published_date": "2026-08-26T16:24:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "The Region in Brief",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/08/27/the-region-in-brief-181/",
       "published_date": "2026-08-27T13:48:40Z",
-      "category": "Military"
-    },
-    {
-      "title": "Preserving our communities’ vibrancy and survival",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/26/preserving-our-communities-vibrancy-and-survival/",
-      "published_date": "2026-08-26T15:30:37Z",
       "category": "Military"
     },
     {
@@ -135,6 +121,20 @@
       "url": "https://armenianweekly.com/2026/08/27/launch-of-the-diaspora-national-mobilization-conference-website/",
       "published_date": "2026-08-27T13:30:39Z",
       "category": "Economy"
+    },
+    {
+      "title": "The Wednesday before the AYF Olympics",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/02/the-wednesday-before-the-ayf-olympics-2/",
+      "published_date": "2026-09-03T00:11:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "MCMA opens second season with ‘Crossroads’ concert in Lexington",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/02/mcma-opens-second-season-with-crossroads-concert-in-lexington/",
+      "published_date": "2026-09-02T17:16:06Z",
+      "category": "Local Events"
     },
     {
       "title": "Sarkisian Workshop Series returns with Peter Balakian",
@@ -260,20 +260,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/183603",
       "published_date": "2026-08-30T10:54:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Judges in Armenia Compensated Despite Facing Criminal Charges",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183587",
-      "published_date": "2026-08-29T06:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Metal and silence: The sculptural world of Sargis Hovhannisyan",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/28/metal-and-silence-the-sculptural-world-of-sargis-hovhannisyan/",
-      "published_date": "2026-08-28T15:59:04Z",
       "category": "Local Events"
     }
   ]
