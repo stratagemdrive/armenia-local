@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-04T00:39:08Z",
+  "generated_at": "2026-09-04T14:47:56Z",
   "country": "Armenia",
-  "total_stories": 38,
+  "total_stories": 40,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Israel’s PR instrumentalizes a diplomat’s Armenian and Arab Christian lineage",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/04/israels-pr-instrumentalizes-a-diplomats-armenian-and-arab-christian-lineage/",
+      "published_date": "2026-09-04T14:04:17Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Armenian Parliament Speaker, Qatar Ambassador Discuss Regional Issues",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183738",
+      "published_date": "2026-09-04T09:36:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Pashinyan Visits Yerevan COP 17 Site; Work Said to Progress Despite Botched Prep",
       "source": "Hetq",
@@ -102,11 +116,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Armenia drifts from Russia, but EU membership may remain out of reach",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/28/armenia-drifts-from-russia-but-eu-membership-may-remain-out-of-reach/",
-      "published_date": "2026-08-28T14:42:37Z",
-      "category": "Diplomacy"
+      "title": "Pashinyan, Turkmenistan President Stress Expanding Bilateral Agenda",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183728",
+      "published_date": "2026-09-04T07:28:00Z",
+      "category": "Economy"
     },
     {
       "title": "New Jersey gears up for 92nd AYF Olympics",
@@ -135,6 +149,41 @@
       "url": "https://hetq.am/en/article/183599",
       "published_date": "2026-08-31T03:31:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Thursday at the AYF Olympics",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/04/thursday-at-the-ayf-olympics-3/",
+      "published_date": "2026-09-04T13:37:42Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "AYF Olympics analytics project goes live",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/04/ayf-olympics-analytics-project-goes-live/",
+      "published_date": "2026-09-04T11:26:30Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Navigating the Massachusetts and New Hampshire primaries as an Armenian American voter",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/04/navigating-the-massachusetts-and-new-hampshire-primaries-as-an-armenian-american-voter/",
+      "published_date": "2026-09-04T11:00:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenian President Thanks Czech Republic for 1988 Spitak Earthquake Assistance",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183737",
+      "published_date": "2026-09-04T09:32:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenian Prosecutors Want to Seize $637K of Assets from Former Yerevan Deputy Mayor",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183736",
+      "published_date": "2026-09-04T09:29:00Z",
+      "category": "Local Events"
     },
     {
       "title": "The Region in Brief",
@@ -239,41 +288,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/08/31/how-hayk-heritage-turns-shirts-into-stories/",
       "published_date": "2026-08-31T16:12:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Yerevan’s Matenadaran Book Depository Expands its Collection",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183615",
-      "published_date": "2026-08-31T10:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Peter Balakian and Foster Hirsch to introduce Elia Kazan’s ‘America, America’ at Barrymore Film Center",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/30/peter-balakian-and-foster-hirsch-to-introduce-elia-kazans-america-america/",
-      "published_date": "2026-08-30T21:22:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Peter Balakian, Foster Hirsch to introduce Elia Kazan’s ‘America, America’",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/30/peter-balakian-foster-hirsch-to-introduce-elia-kazans-america-america/",
-      "published_date": "2026-08-30T21:22:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zamanigian bequest makes AECP international medical fellowships possible",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/30/zamanigian-bequest-makes-aecp-international-medical-fellowships-possible/",
-      "published_date": "2026-08-30T20:18:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenia brings home three medals from 2026 MMA Youth World Championships",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/30/armenia-brings-home-three-medals-from-2026-mma-youth-world-championships/",
-      "published_date": "2026-08-30T19:52:09Z",
       "category": "Local Events"
     }
   ]
