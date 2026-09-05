@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-05T00:34:18Z",
+  "generated_at": "2026-09-05T13:40:20Z",
   "country": "Armenia",
-  "total_stories": 40,
+  "total_stories": 41,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Florian Escudié: France&#039;s New Ambassador to Armenia",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183754",
+      "published_date": "2026-09-05T09:34:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Israel’s PR instrumentalizes a diplomat’s Armenian and Arab Christian lineage",
       "source": "The Armenian Weekly",
