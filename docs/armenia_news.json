@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T13:40:20Z",
+  "generated_at": "2026-09-06T00:30:55Z",
   "country": "Armenia",
   "total_stories": 41,
   "categories": [
@@ -158,6 +158,13 @@
       "category": "Economy"
     },
     {
+      "title": "Friday at the AYF Olympics",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/05/friday-at-the-ayf-olympics-3/",
+      "published_date": "2026-09-05T15:41:07Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Thursday at the AYF Olympics",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/09/04/thursday-at-the-ayf-olympics-3/",
@@ -288,13 +295,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/08/31/the-juggler-swatter/",
       "published_date": "2026-08-31T23:50:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "How Hayk Heritage turns shirts into stories",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/31/how-hayk-heritage-turns-shirts-into-stories/",
-      "published_date": "2026-08-31T16:12:42Z",
       "category": "Local Events"
     }
   ]
