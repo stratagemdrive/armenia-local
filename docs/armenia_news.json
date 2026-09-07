@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-06T13:56:05Z",
+  "generated_at": "2026-09-07T00:37:57Z",
   "country": "Armenia",
-  "total_stories": 41,
+  "total_stories": 40,
   "categories": [
     "Diplomacy",
     "Military",
@@ -116,13 +116,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Lorik Humanitarian Fund launches 2026-27 scholarship campaign for Artsakh students",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/30/lorik-humanitarian-fund-launches-2026-27-scholarship-campaign-for-artsakh-students/",
-      "published_date": "2026-08-30T20:04:05Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Pashinyan, Turkmenistan President Stress Expanding Bilateral Agenda",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/183728",
@@ -156,6 +149,13 @@
       "url": "https://hetq.am/en/article/183599",
       "published_date": "2026-08-31T03:31:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Saturday at the AYF Olympics",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/06/saturday-at-the-ayf-olympics-3/",
+      "published_date": "2026-09-06T14:14:42Z",
+      "category": "Local Events"
     },
     {
       "title": "Friday at the AYF Olympics",
@@ -288,13 +288,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/183637",
       "published_date": "2026-09-01T08:06:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Juggler-Swatter",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/31/the-juggler-swatter/",
-      "published_date": "2026-08-31T23:50:27Z",
       "category": "Local Events"
     }
   ]
