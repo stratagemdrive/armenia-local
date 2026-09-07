@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-07T00:37:57Z",
+  "generated_at": "2026-09-07T16:17:05Z",
   "country": "Armenia",
-  "total_stories": 40,
+  "total_stories": 36,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Armenian Constantinople Patriarch Calls for Restoration of Armenia-Turkey Relations",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183776",
+      "published_date": "2026-09-07T14:03:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pashinyan Accepts Putin’s Invitation for Moscow Meeting",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183775",
+      "published_date": "2026-09-07T12:47:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Florian Escudié: France&#039;s New Ambassador to Armenia",
       "source": "Hetq",
@@ -81,41 +95,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Armenia’s molybdenum moment",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/31/armenias-molybdenum-moment/",
-      "published_date": "2026-08-31T14:42:06Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Complaint filed with ECtHR over rights violations of 15 Armenians",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/08/31/complaint-filed-with-ecthr-over-rights-violations-of-15-armenians/",
-      "published_date": "2026-08-31T14:40:05Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pashinyan, Tajik President Discuss Regional Developments",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183620",
-      "published_date": "2026-08-31T12:46:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pashinyan, Aliyev Agree to Continue Working Towards Lasting Peace",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183617",
-      "published_date": "2026-08-31T11:13:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pashinyan. Modi Meet; Discuss Expanding Cooperation",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183613",
-      "published_date": "2026-08-31T09:07:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Pashinyan, Turkmenistan President Stress Expanding Bilateral Agenda",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/183728",
@@ -144,11 +123,18 @@
       "category": "Economy"
     },
     {
-      "title": "Armenia’s Exports and Agriculture Decline in Tandem",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183599",
-      "published_date": "2026-08-31T03:31:00Z",
-      "category": "Economy"
+      "title": "Sunday at the AYF Olympics",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/07/sunday-at-the-ayf-olympics-3/",
+      "published_date": "2026-09-07T15:58:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sarah Ignatius and Dana Walrath to launch ‘The Kaleidoscope of Destiny’ at NAASR",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/07/sarah-ignatius-and-dana-walrath-to-launch-the-kaleidoscope-of-destiny-at-naasr/",
+      "published_date": "2026-09-07T13:35:03Z",
+      "category": "Local Events"
     },
     {
       "title": "Saturday at the AYF Olympics",
@@ -274,20 +260,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/183642",
       "published_date": "2026-09-01T12:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former Armenian State Revenue Committee Chairman Arrested in Bribery Probe",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183647",
-      "published_date": "2026-09-01T11:46:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "TRIPP Facebook Page Launched",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183637",
-      "published_date": "2026-09-01T08:06:00Z",
       "category": "Local Events"
     }
   ]
