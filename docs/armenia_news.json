@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-07T16:17:05Z",
+  "generated_at": "2026-09-08T00:52:14Z",
   "country": "Armenia",
-  "total_stories": 36,
+  "total_stories": 37,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Latvian President, Armenian FM Discuss Expanding Economic Ties",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183780",
+      "published_date": "2026-09-07T16:46:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Armenian Constantinople Patriarch Calls for Restoration of Armenia-Turkey Relations",
       "source": "Hetq",
@@ -121,6 +128,13 @@
       "url": "https://hetq.am/en/article/183641",
       "published_date": "2026-09-01T09:08:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Beyond the Red Line: Yerevan&#039;s Invisible Air Threat",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183779",
+      "published_date": "2026-09-07T16:30:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Sunday at the AYF Olympics",
@@ -253,13 +267,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/183674",
       "published_date": "2026-09-01T13:01:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Family-Run Company Preserves Yerevan’s Traditional Wool Washing",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183642",
-      "published_date": "2026-09-01T12:00:00Z",
       "category": "Local Events"
     }
   ]
