@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T00:52:14Z",
+  "generated_at": "2026-09-08T14:53:56Z",
   "country": "Armenia",
   "total_stories": 37,
   "categories": [
@@ -102,6 +102,20 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Armenia’s Investigative Committee Sets 2020 War Death Toll at 3,833",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183789",
+      "published_date": "2026-09-08T07:42:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Yerevan Clothing Retailer Accused of $4.4 Million Tax Evasion",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183790",
+      "published_date": "2026-09-08T09:00:00Z",
+      "category": "Economy"
+    },
+    {
       "title": "Pashinyan, Turkmenistan President Stress Expanding Bilateral Agenda",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/183728",
@@ -120,13 +134,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/09/01/why-are-women-in-armenia-delaying-having-a-second-child/",
       "published_date": "2026-09-01T16:32:32Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Pashinyan, Vietnam&#039;s VP Discuss Expanding Bilateral Agenda",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183641",
-      "published_date": "2026-09-01T09:08:00Z",
       "category": "Economy"
     },
     {
@@ -260,13 +267,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/09/01/can-raphael-lemkins-relatives-force-the-lemkin-institute-to-remove-his-name/",
       "published_date": "2026-09-01T15:04:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "&quot;Unisport&quot; Advances to the Main Round of the UEFA Futsal Champions League",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183674",
-      "published_date": "2026-09-01T13:01:00Z",
       "category": "Local Events"
     }
   ]
