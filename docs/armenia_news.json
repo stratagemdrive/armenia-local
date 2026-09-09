@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-08T14:53:56Z",
+  "generated_at": "2026-09-09T00:59:04Z",
   "country": "Armenia",
-  "total_stories": 37,
+  "total_stories": 38,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Artsakh marks 35 years of independence in exile",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/08/artsakh-marks-35-years-of-independence-in-exile/",
+      "published_date": "2026-09-08T15:46:04Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Nakhichevan protocol: A blueprint for the destruction of Artsakh",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/08/the-nakhichevan-protocol-a-blueprint-for-the-destruction-of-artsakh/",
+      "published_date": "2026-09-08T15:23:38Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Latvian President, Armenian FM Discuss Expanding Economic Ties",
       "source": "Hetq",
@@ -95,18 +109,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Pashinyan, Putin Meet Amidst Rising Tensions",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183652",
-      "published_date": "2026-09-01T17:04:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Armenia’s Investigative Committee Sets 2020 War Death Toll at 3,833",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/183789",
       "published_date": "2026-09-08T07:42:00Z",
       "category": "Military"
+    },
+    {
+      "title": "The day after: AYF Olympics denouement",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/08/the-day-after-ayf-olympics-denouement/",
+      "published_date": "2026-09-08T20:39:36Z",
+      "category": "Economy"
+    },
+    {
+      "title": "New Jersey AYF Olympics summary results 2026",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/08/new-jersey-ayf-olympics-summary-results-2026/",
+      "published_date": "2026-09-08T17:36:55Z",
+      "category": "Economy"
     },
     {
       "title": "Yerevan Clothing Retailer Accused of $4.4 Million Tax Evasion",
@@ -123,18 +144,18 @@
       "category": "Economy"
     },
     {
-      "title": "New Jersey gears up for 92nd AYF Olympics",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/01/new-jersey-gears-up-for-92nd-ayf-olympics/",
-      "published_date": "2026-09-01T16:39:16Z",
-      "category": "Economy"
+      "title": "Armenia Moves to Tighten Requirements and Raise Costs for Citizenship",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183808",
+      "published_date": "2026-09-08T18:30:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Why are women in Armenia delaying having a second child?",
+      "title": "Pashinyan wants to turn Armenia into a country without Armenians",
       "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/01/why-are-women-in-armenia-delaying-having-a-second-child/",
-      "published_date": "2026-09-01T16:32:32Z",
-      "category": "Economy"
+      "url": "https://armenianweekly.com/2026/09/08/pashinyan-wants-to-turn-armenia-into-a-country-without-armenians/",
+      "published_date": "2026-09-08T15:23:25Z",
+      "category": "Local Events"
     },
     {
       "title": "Beyond the Red Line: Yerevan&#039;s Invisible Air Threat",
@@ -253,20 +274,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/183651",
       "published_date": "2026-09-02T11:02:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Camp friends become family",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/01/camp-friends-become-family/",
-      "published_date": "2026-09-01T15:56:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Can Raphael Lemkin’s relatives force the Lemkin Institute to remove his name?",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/01/can-raphael-lemkins-relatives-force-the-lemkin-institute-to-remove-his-name/",
-      "published_date": "2026-09-01T15:04:20Z",
       "category": "Local Events"
     }
   ]
