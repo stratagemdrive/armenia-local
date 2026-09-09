@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-09T00:59:04Z",
+  "generated_at": "2026-09-09T15:00:55Z",
   "country": "Armenia",
-  "total_stories": 38,
+  "total_stories": 40,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Armenia, Azerbaijan Foreign Ministers to Meet",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183822",
+      "published_date": "2026-09-09T11:25:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pashinyan to Paris for International Space Summit",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183814",
+      "published_date": "2026-09-09T06:09:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Artsakh marks 35 years of independence in exile",
       "source": "The Armenian Weekly",
@@ -102,13 +116,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Putin Says Russia Will Close Gyumri Base if Armenia Requests It",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183670",
-      "published_date": "2026-09-02T12:28:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Armenia’s Investigative Committee Sets 2020 War Death Toll at 3,833",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/183789",
@@ -144,6 +151,55 @@
       "category": "Economy"
     },
     {
+      "title": "What I learned interviewing Arman Tsarukyan",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/09/what-i-learned-interviewing-arman-tsarukyan/",
+      "published_date": "2026-09-09T14:36:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "An Endless Wait: Yerevan Apartment Buyers Remain Homeless",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183832",
+      "published_date": "2026-09-09T14:35:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Diaspora Mobilization Conference roundtable summary",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/09/diaspora-mobilization-conference-roundtable-summaries/",
+      "published_date": "2026-09-09T14:31:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenia’s Return to the Global Wine Map: Le Figaro’s Coverage of Armenia Wine Company",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183835",
+      "published_date": "2026-09-09T14:28:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Look out below",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/09/look-out-below/",
+      "published_date": "2026-09-09T14:00:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Stage props and photo ops: Pashinyan’s shameless use and abuse of the Armenian church",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/09/stage-props-and-photo-ops-pashinyans-shameless-use-and-abuse-of-the-armenian-church/",
+      "published_date": "2026-09-09T11:17:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenian Parliament Speaker, Italian Ambassador Discuss Expanding Cooperation",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183820",
+      "published_date": "2026-09-09T09:39:00Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Armenia Moves to Tighten Requirements and Raise Costs for Citizenship",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/183808",
@@ -155,6 +211,13 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/09/08/pashinyan-wants-to-turn-armenia-into-a-country-without-armenians/",
       "published_date": "2026-09-08T15:23:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Denis Katsyv&#039;s response to Hetq&#039;s publication",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183616",
+      "published_date": "2026-09-08T09:40:00Z",
       "category": "Local Events"
     },
     {
@@ -225,55 +288,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/183736",
       "published_date": "2026-09-04T09:29:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Region in Brief",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/03/the-region-in-brief-182/",
-      "published_date": "2026-09-03T14:04:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Wednesday before the AYF Olympics",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/02/the-wednesday-before-the-ayf-olympics-2/",
-      "published_date": "2026-09-03T00:11:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "MCMA opens second season with ‘Crossroads’ concert in Lexington",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/02/mcma-opens-second-season-with-crossroads-concert-in-lexington/",
-      "published_date": "2026-09-02T17:16:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sarkisian Workshop Series returns with Peter Balakian",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/02/sarkisian-workshop-series-returns-with-peter-balakian/",
-      "published_date": "2026-09-02T14:42:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Art against violence",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/02/art-against-violence/",
-      "published_date": "2026-09-02T14:40:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Unibank Launches a New Promotion &quot;U-Teenager&quot;: Grand Prize — a Summer Course at One of the Top Universities Abroad",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183675",
-      "published_date": "2026-09-02T14:24:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gagik Khachatryan Brought to Court on Stretcher, Gets Two Months Detention",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183651",
-      "published_date": "2026-09-02T11:02:00Z",
       "category": "Local Events"
     }
   ]
