@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-09T15:00:55Z",
+  "generated_at": "2026-09-10T00:45:37Z",
   "country": "Armenia",
-  "total_stories": 40,
+  "total_stories": 41,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Cultural Erasure: Baku Uses Tourism to Rewrite Artsakh&#039;s History",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183833",
+      "published_date": "2026-09-09T15:07:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Armenia, Azerbaijan Foreign Ministers to Meet",
       "source": "Hetq",
@@ -186,6 +193,13 @@
       "category": "Local Events"
     },
     {
+      "title": "Preserving identity, keeping the cause alive",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/09/preserving-identity-keeping-the-cause-alive/",
+      "published_date": "2026-09-09T13:55:01Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Stage props and photo ops: Pashinyan’s shameless use and abuse of the Armenian church",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/09/09/stage-props-and-photo-ops-pashinyans-shameless-use-and-abuse-of-the-armenian-church/",
@@ -281,13 +295,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/183737",
       "published_date": "2026-09-04T09:32:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenian Prosecutors Want to Seize $637K of Assets from Former Yerevan Deputy Mayor",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183736",
-      "published_date": "2026-09-04T09:29:00Z",
       "category": "Local Events"
     }
   ]
