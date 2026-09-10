@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T00:45:37Z",
+  "generated_at": "2026-09-10T14:50:25Z",
   "country": "Armenia",
   "total_stories": 41,
   "categories": [
@@ -10,6 +10,27 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Armenia-Azerbaijan normalization is moving faster than resolution",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/10/armenia-azerbaijan-normalization-is-moving-faster-than-resolution/",
+      "published_date": "2026-09-10T13:18:16Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pashinyan Boasts Armenia Has Entered New Phase of Space Exploration",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183852",
+      "published_date": "2026-09-10T12:42:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pashinyan, Macron Meet in Paris; Discuss Economic Cooperation",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183842",
+      "published_date": "2026-09-10T04:56:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Cultural Erasure: Baku Uses Tourism to Rewrite Artsakh&#039;s History",
       "source": "Hetq",
@@ -95,39 +116,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Bared Maronian previews “Genocide 2.0,” a documentary on the Artsakh War and ethnic cleansing",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/03/bared-maronian-previews-genocide-2-0-a-documentary-on-the-artsakh-war-and-ethnic-cleansing/",
-      "published_date": "2026-09-03T14:36:15Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pashinyan, Putin and the blame game over Artsakh in Bishkek",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/03/pashinyan-putin-and-the-blame-game-over-artsakh-in-bishkek/",
-      "published_date": "2026-09-03T14:04:16Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Armenian, U.S. Officials Visit Syunik to Discuss TRIPP with Local Communities",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183707",
-      "published_date": "2026-09-03T11:23:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Armenian Parliament Speaker, Egyptian Ambassador Discuss Expanding Cooperation",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183693",
-      "published_date": "2026-09-03T08:11:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Armenia’s Investigative Committee Sets 2020 War Death Toll at 3,833",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/183789",
       "published_date": "2026-09-08T07:42:00Z",
       "category": "Military"
+    },
+    {
+      "title": "Armenia Imports $18M in Azerbaijani Fuel, Exports Zero",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183823",
+      "published_date": "2026-09-10T12:38:00Z",
+      "category": "Energy"
     },
     {
       "title": "The day after: AYF Olympics denouement",
@@ -156,6 +156,13 @@
       "url": "https://hetq.am/en/article/183728",
       "published_date": "2026-09-04T07:28:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "The Region in Brief",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/10/the-region-in-brief-183/",
+      "published_date": "2026-09-10T13:21:11Z",
+      "category": "Local Events"
     },
     {
       "title": "What I learned interviewing Arman Tsarukyan",
@@ -288,13 +295,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/09/04/navigating-the-massachusetts-and-new-hampshire-primaries-as-an-armenian-american-voter/",
       "published_date": "2026-09-04T11:00:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenian President Thanks Czech Republic for 1988 Spitak Earthquake Assistance",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183737",
-      "published_date": "2026-09-04T09:32:00Z",
       "category": "Local Events"
     }
   ]
