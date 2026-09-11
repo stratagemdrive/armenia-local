@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-10T14:50:25Z",
+  "generated_at": "2026-09-11T00:47:03Z",
   "country": "Armenia",
-  "total_stories": 41,
+  "total_stories": 42,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Oshagan on photographing diaspora, crafting Artsakh portraits circa 2125",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/10/oshagan-on-photographing-diaspora-crafting-artsakh-portraits-circa-2125/",
+      "published_date": "2026-09-10T14:50:52Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Armenia-Azerbaijan normalization is moving faster than resolution",
       "source": "The Armenian Weekly",
@@ -109,13 +116,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Pashinyan Visits Yerevan COP 17 Site; Work Said to Progress Despite Botched Prep",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183722",
-      "published_date": "2026-09-03T18:03:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Armenia’s Investigative Committee Sets 2020 War Death Toll at 3,833",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/183789",
@@ -128,6 +128,13 @@
       "url": "https://hetq.am/en/article/183823",
       "published_date": "2026-09-10T12:38:00Z",
       "category": "Energy"
+    },
+    {
+      "title": "Belarus Businessman Vinitski Files Investment Claim Against Armenia at ICSID",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183859",
+      "published_date": "2026-09-10T14:21:00Z",
+      "category": "Economy"
     },
     {
       "title": "The day after: AYF Olympics denouement",
@@ -162,6 +169,20 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/09/10/the-region-in-brief-183/",
       "published_date": "2026-09-10T13:21:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Şahan Arzruni on Armenian piano music: An interview",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/10/sahan-arzruni-on-armenian-piano-music-an-interview/",
+      "published_date": "2026-09-10T12:45:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "UNICEF, Afeyan Foundation advance mental health support",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/10/unicef-afeyan-foundation-advance-mental-health-support/",
+      "published_date": "2026-09-10T10:54:05Z",
       "category": "Local Events"
     },
     {
@@ -281,20 +302,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/09/04/thursday-at-the-ayf-olympics-3/",
       "published_date": "2026-09-04T13:37:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "AYF Olympics analytics project goes live",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/04/ayf-olympics-analytics-project-goes-live/",
-      "published_date": "2026-09-04T11:26:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Navigating the Massachusetts and New Hampshire primaries as an Armenian American voter",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/04/navigating-the-massachusetts-and-new-hampshire-primaries-as-an-armenian-american-voter/",
-      "published_date": "2026-09-04T11:00:45Z",
       "category": "Local Events"
     }
   ]
