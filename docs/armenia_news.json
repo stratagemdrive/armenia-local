@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-11T00:47:03Z",
+  "generated_at": "2026-09-11T14:50:25Z",
   "country": "Armenia",
-  "total_stories": 42,
+  "total_stories": 40,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Armenian Foreign Minister, Pakistani Ambassador Discuss Bilateral Agenda Development",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183880",
+      "published_date": "2026-09-11T13:30:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Oshagan on photographing diaspora, crafting Artsakh portraits circa 2125",
       "source": "The Armenian Weekly",
@@ -102,20 +109,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Israel’s PR instrumentalizes a diplomat’s Armenian and Arab Christian lineage",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/04/israels-pr-instrumentalizes-a-diplomats-armenian-and-arab-christian-lineage/",
-      "published_date": "2026-09-04T14:04:17Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Armenian Parliament Speaker, Qatar Ambassador Discuss Regional Issues",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183738",
-      "published_date": "2026-09-04T09:36:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Armenia’s Investigative Committee Sets 2020 War Death Toll at 3,833",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/183789",
@@ -158,11 +151,25 @@
       "category": "Economy"
     },
     {
-      "title": "Pashinyan, Turkmenistan President Stress Expanding Bilateral Agenda",
+      "title": "Columbia University launches minor in Armenian Studies",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/11/columbia-university-launches-minor-in-armenian-studies/",
+      "published_date": "2026-09-11T11:17:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pashinyan Calls for Direct Partnerships with Diaspora",
       "source": "Hetq",
-      "url": "https://hetq.am/en/article/183728",
-      "published_date": "2026-09-04T07:28:00Z",
-      "category": "Economy"
+      "url": "https://hetq.am/en/article/183868",
+      "published_date": "2026-09-11T08:26:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Construction Site Accidents in Armenia Rising; 142 Incidents in 2026",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183861",
+      "published_date": "2026-09-11T06:08:00Z",
+      "category": "Local Events"
     },
     {
       "title": "The Region in Brief",
@@ -281,27 +288,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/09/07/sarah-ignatius-and-dana-walrath-to-launch-the-kaleidoscope-of-destiny-at-naasr/",
       "published_date": "2026-09-07T13:35:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saturday at the AYF Olympics",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/06/saturday-at-the-ayf-olympics-3/",
-      "published_date": "2026-09-06T14:14:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Friday at the AYF Olympics",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/05/friday-at-the-ayf-olympics-3/",
-      "published_date": "2026-09-05T15:41:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thursday at the AYF Olympics",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/04/thursday-at-the-ayf-olympics-3/",
-      "published_date": "2026-09-04T13:37:42Z",
       "category": "Local Events"
     }
   ]
