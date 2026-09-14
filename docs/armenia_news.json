@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-14T00:37:27Z",
+  "generated_at": "2026-09-14T16:46:50Z",
   "country": "Armenia",
-  "total_stories": 40,
+  "total_stories": 39,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Ani Khachian elected first female president of AJA East Coast",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/14/ani-khachian-elected-first-female-president-elect-of-aja-east-coast/",
+      "published_date": "2026-09-14T09:27:23Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Armenian Foreign Minister, Pakistani Ambassador Discuss Bilateral Agenda Development",
       "source": "Hetq",
@@ -81,25 +88,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Latvian President, Armenian FM Discuss Expanding Economic Ties",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183780",
-      "published_date": "2026-09-07T16:46:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Armenian Constantinople Patriarch Calls for Restoration of Armenia-Turkey Relations",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183776",
-      "published_date": "2026-09-07T14:03:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pashinyan Accepts Putin’s Invitation for Moscow Meeting",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183775",
-      "published_date": "2026-09-07T12:47:00Z",
-      "category": "Diplomacy"
+      "title": "Simon Maghakyan to lecture on the ‘Western Azerbaijan’ expansionist narrative",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/14/simon-maghakyan-to-lecture-on-the-western-azerbaijan-expansionist-narrative/",
+      "published_date": "2026-09-14T14:06:35Z",
+      "category": "Military"
     },
     {
       "title": "Armenia’s Investigative Committee Sets 2020 War Death Toll at 3,833",
@@ -149,6 +142,20 @@
       "url": "https://hetq.am/en/article/183790",
       "published_date": "2026-09-08T09:00:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Ambassador warns of Goris-Kapan repeat in Tigranashen, says Baku has no legal claim",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/14/ambassador-warns-of-goris-kapan-repeat-in-tigranashen-says-baku-has-no-legal-claim/",
+      "published_date": "2026-09-14T16:09:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "AI MoU: Capability is not yet strength",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/14/ai-mou-capability-is-not-yet-strength/",
+      "published_date": "2026-09-14T14:06:46Z",
+      "category": "Local Events"
     },
     {
       "title": "More than a century later, Gomidas’ voice was heard once again",
@@ -274,20 +281,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/183820",
       "published_date": "2026-09-09T09:39:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenia Moves to Tighten Requirements and Raise Costs for Citizenship",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183808",
-      "published_date": "2026-09-08T18:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pashinyan wants to turn Armenia into a country without Armenians",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/08/pashinyan-wants-to-turn-armenia-into-a-country-without-armenians/",
-      "published_date": "2026-09-08T15:23:25Z",
       "category": "Local Events"
     }
   ]
