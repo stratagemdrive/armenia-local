@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-15T01:07:54Z",
+  "generated_at": "2026-09-15T15:26:36Z",
   "country": "Armenia",
-  "total_stories": 39,
+  "total_stories": 36,
   "categories": [
     "Diplomacy",
     "Military",
@@ -81,24 +81,10 @@
       "category": "Diplomacy"
     },
     {
-      "title": "The Nakhichevan protocol: A blueprint for the destruction of Artsakh",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/08/the-nakhichevan-protocol-a-blueprint-for-the-destruction-of-artsakh/",
-      "published_date": "2026-09-08T15:23:38Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Simon Maghakyan to lecture on the ‘Western Azerbaijan’ expansionist narrative",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/09/14/simon-maghakyan-to-lecture-on-the-western-azerbaijan-expansionist-narrative/",
       "published_date": "2026-09-14T14:06:35Z",
-      "category": "Military"
-    },
-    {
-      "title": "Armenia’s Investigative Committee Sets 2020 War Death Toll at 3,833",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183789",
-      "published_date": "2026-09-08T07:42:00Z",
       "category": "Military"
     },
     {
@@ -137,11 +123,46 @@
       "category": "Economy"
     },
     {
-      "title": "Yerevan Clothing Retailer Accused of $4.4 Million Tax Evasion",
+      "title": "Diaspora Mobilization Conference second roundtable summary",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/15/diaspora-mobilization-conference-second-roundtable-summary/",
+      "published_date": "2026-09-15T14:32:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The ironic relationship of a priest and his community",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/15/the-ironic-relationship-of-a-priest-and-his-community/",
+      "published_date": "2026-09-15T14:20:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Celebrate Armenia! brings culture to Armenian Heritage Park",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/15/celebrate-armenia-brings-culture-to-armenian-heritage-park/",
+      "published_date": "2026-09-15T13:32:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "This one’s for the counselors",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/15/this-ones-for-the-counselors/",
+      "published_date": "2026-09-15T12:37:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pashinyan discourages diaspora Armenians from becoming citizens of Armenia",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/15/pashinyan-discourages-diaspora-armenians-from-becoming-citizens-of-armenia/",
+      "published_date": "2026-09-15T11:43:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "“Digital House of Artsakh Culture” Presented in Yerevan",
       "source": "Hetq",
-      "url": "https://hetq.am/en/article/183790",
-      "published_date": "2026-09-08T09:00:00Z",
-      "category": "Economy"
+      "url": "https://hetq.am/en/article/183926",
+      "published_date": "2026-09-15T07:00:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Labyrinth",
@@ -239,48 +260,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/09/10/unicef-afeyan-foundation-advance-mental-health-support/",
       "published_date": "2026-09-10T10:54:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "What I learned interviewing Arman Tsarukyan",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/09/what-i-learned-interviewing-arman-tsarukyan/",
-      "published_date": "2026-09-09T14:36:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "An Endless Wait: Yerevan Apartment Buyers Remain Homeless",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183832",
-      "published_date": "2026-09-09T14:35:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Diaspora Mobilization Conference roundtable summary",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/09/diaspora-mobilization-conference-roundtable-summaries/",
-      "published_date": "2026-09-09T14:31:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenia’s Return to the Global Wine Map: Le Figaro’s Coverage of Armenia Wine Company",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183835",
-      "published_date": "2026-09-09T14:28:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Look out below",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/09/look-out-below/",
-      "published_date": "2026-09-09T14:00:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Preserving identity, keeping the cause alive",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/09/preserving-identity-keeping-the-cause-alive/",
-      "published_date": "2026-09-09T13:55:01Z",
       "category": "Local Events"
     }
   ]
