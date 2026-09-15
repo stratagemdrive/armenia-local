@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T16:46:50Z",
+  "generated_at": "2026-09-15T01:07:54Z",
   "country": "Armenia",
   "total_stories": 39,
   "categories": [
@@ -144,6 +144,20 @@
       "category": "Economy"
     },
     {
+      "title": "Labyrinth",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/14/labyrinth/",
+      "published_date": "2026-09-14T21:59:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ruben Vardanyan&#039;s Wife Donates Valuable Fine Art Collection to Gyumri",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183919",
+      "published_date": "2026-09-14T19:55:00Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Ambassador warns of Goris-Kapan repeat in Tigranashen, says Baku has no legal claim",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/09/14/ambassador-warns-of-goris-kapan-repeat-in-tigranashen-says-baku-has-no-legal-claim/",
@@ -267,20 +281,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/09/09/preserving-identity-keeping-the-cause-alive/",
       "published_date": "2026-09-09T13:55:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Stage props and photo ops: Pashinyan’s shameless use and abuse of the Armenian church",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/09/stage-props-and-photo-ops-pashinyans-shameless-use-and-abuse-of-the-armenian-church/",
-      "published_date": "2026-09-09T11:17:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenian Parliament Speaker, Italian Ambassador Discuss Expanding Cooperation",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183820",
-      "published_date": "2026-09-09T09:39:00Z",
       "category": "Local Events"
     }
   ]
