@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T00:59:20Z",
+  "generated_at": "2026-09-16T15:19:55Z",
   "country": "Armenia",
   "total_stories": 33,
   "categories": [
@@ -10,6 +10,27 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "ARS to host HRC 63 side event on refugee justice for women and children of Artsakh",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/16/ars-to-host-hrc-63-side-event-on-refugee-justice-for-women-and-children-of-artsakh/",
+      "published_date": "2026-09-16T15:12:08Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Congress rallies for return of Artsakh refugees, release of hostages",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/16/congress-rallies-for-return-of-artsakh-refugees-release-of-hostages/",
+      "published_date": "2026-09-16T13:52:16Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Issue of Enforced Disappearances and Missing People in Armenia: ICLaw and PRWB Presented a Report to the UN",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183958",
+      "published_date": "2026-09-16T08:27:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Ani Khachian elected first female president of AJA East Coast",
       "source": "The Armenian Weekly",
@@ -53,27 +74,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Cultural Erasure: Baku Uses Tourism to Rewrite Artsakh&#039;s History",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183833",
-      "published_date": "2026-09-09T15:07:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Armenia, Azerbaijan Foreign Ministers to Meet",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183822",
-      "published_date": "2026-09-09T11:25:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pashinyan to Paris for International Space Summit",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183814",
-      "published_date": "2026-09-09T06:09:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Simon Maghakyan to lecture on the ‘Western Azerbaijan’ expansionist narrative",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/09/14/simon-maghakyan-to-lecture-on-the-western-azerbaijan-expansionist-narrative/",
@@ -100,6 +100,27 @@
       "url": "https://hetq.am/en/article/183859",
       "published_date": "2026-09-10T14:21:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Varduhi Khachatryan’s efforts to bring Armenian music to European stages",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/16/varduhi-khachatryans-efforts-to-bring-armenian-music-to-european-stages/",
+      "published_date": "2026-09-16T15:14:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Der Matossian, Gzoyan publish “The Concentration Camps of the Armenian Genocide”",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/16/der-matossian-gzoyan-publish-the-concentration-camps-of-the-armenian-genocide/",
+      "published_date": "2026-09-16T15:13:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Unibank Call Center Now Available 24/7 on Weekdays",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183961",
+      "published_date": "2026-09-16T09:18:00Z",
+      "category": "Local Events"
     },
     {
       "title": "In memory of Vrejoohie Bedrossian Armenian",
@@ -218,27 +239,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/183868",
       "published_date": "2026-09-11T08:26:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Construction Site Accidents in Armenia Rising; 142 Incidents in 2026",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183861",
-      "published_date": "2026-09-11T06:08:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Region in Brief",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/10/the-region-in-brief-183/",
-      "published_date": "2026-09-10T13:21:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Şahan Arzruni on Armenian piano music: An interview",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/10/sahan-arzruni-on-armenian-piano-music-an-interview/",
-      "published_date": "2026-09-10T12:45:20Z",
       "category": "Local Events"
     }
   ]
