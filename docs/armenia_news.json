@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-15T15:26:36Z",
+  "generated_at": "2026-09-16T00:59:20Z",
   "country": "Armenia",
-  "total_stories": 36,
+  "total_stories": 33,
   "categories": [
     "Diplomacy",
     "Military",
@@ -74,13 +74,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Artsakh marks 35 years of independence in exile",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/08/artsakh-marks-35-years-of-independence-in-exile/",
-      "published_date": "2026-09-08T15:46:04Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Simon Maghakyan to lecture on the ‘Western Azerbaijan’ expansionist narrative",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/09/14/simon-maghakyan-to-lecture-on-the-western-azerbaijan-expansionist-narrative/",
@@ -109,18 +102,11 @@
       "category": "Economy"
     },
     {
-      "title": "The day after: AYF Olympics denouement",
+      "title": "In memory of Vrejoohie Bedrossian Armenian",
       "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/08/the-day-after-ayf-olympics-denouement/",
-      "published_date": "2026-09-08T20:39:36Z",
-      "category": "Economy"
-    },
-    {
-      "title": "New Jersey AYF Olympics summary results 2026",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/08/new-jersey-ayf-olympics-summary-results-2026/",
-      "published_date": "2026-09-08T17:36:55Z",
-      "category": "Economy"
+      "url": "https://armenianweekly.com/2026/09/15/vrejoohie-bedrossian-armenian/",
+      "published_date": "2026-09-15T18:49:13Z",
+      "category": "Local Events"
     },
     {
       "title": "Diaspora Mobilization Conference second roundtable summary",
@@ -253,13 +239,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/09/10/sahan-arzruni-on-armenian-piano-music-an-interview/",
       "published_date": "2026-09-10T12:45:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "UNICEF, Afeyan Foundation advance mental health support",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/10/unicef-afeyan-foundation-advance-mental-health-support/",
-      "published_date": "2026-09-10T10:54:05Z",
       "category": "Local Events"
     }
   ]
