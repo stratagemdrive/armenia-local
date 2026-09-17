@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T15:19:55Z",
+  "generated_at": "2026-09-17T01:02:34Z",
   "country": "Armenia",
   "total_stories": 33,
   "categories": [
@@ -100,6 +100,13 @@
       "url": "https://hetq.am/en/article/183859",
       "published_date": "2026-09-10T14:21:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "From Classmate to ‘Headache’: How Yerevan’s School System Failed a Ten-Year-Old",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183962",
+      "published_date": "2026-09-16T16:37:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Varduhi Khachatryan’s efforts to bring Armenian music to European stages",
@@ -232,13 +239,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/09/11/columbia-university-launches-minor-in-armenian-studies/",
       "published_date": "2026-09-11T11:17:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pashinyan Calls for Direct Partnerships with Diaspora",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183868",
-      "published_date": "2026-09-11T08:26:00Z",
       "category": "Local Events"
     }
   ]
