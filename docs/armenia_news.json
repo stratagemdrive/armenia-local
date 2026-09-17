@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-17T01:02:34Z",
+  "generated_at": "2026-09-17T15:25:54Z",
   "country": "Armenia",
-  "total_stories": 33,
+  "total_stories": 30,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Pashinyan Labels Baku’s &quot;Western Azerbaijan&quot; Rhetoric a Threat to Security",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183989",
+      "published_date": "2026-09-17T11:51:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "ARS to host HRC 63 side event on refugee justice for women and children of Artsakh",
       "source": "The Armenian Weekly",
@@ -46,34 +53,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Oshagan on photographing diaspora, crafting Artsakh portraits circa 2125",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/10/oshagan-on-photographing-diaspora-crafting-artsakh-portraits-circa-2125/",
-      "published_date": "2026-09-10T14:50:52Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Armenia-Azerbaijan normalization is moving faster than resolution",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/10/armenia-azerbaijan-normalization-is-moving-faster-than-resolution/",
-      "published_date": "2026-09-10T13:18:16Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pashinyan Boasts Armenia Has Entered New Phase of Space Exploration",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183852",
-      "published_date": "2026-09-10T12:42:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pashinyan, Macron Meet in Paris; Discuss Economic Cooperation",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183842",
-      "published_date": "2026-09-10T04:56:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Simon Maghakyan to lecture on the ‘Western Azerbaijan’ expansionist narrative",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/09/14/simon-maghakyan-to-lecture-on-the-western-azerbaijan-expansionist-narrative/",
@@ -88,18 +67,46 @@
       "category": "Energy"
     },
     {
-      "title": "Armenia Imports $18M in Azerbaijani Fuel, Exports Zero",
+      "title": "The Face of Armenia&#039;s Unemployed: An Untapped Labor Force",
       "source": "Hetq",
-      "url": "https://hetq.am/en/article/183823",
-      "published_date": "2026-09-10T12:38:00Z",
-      "category": "Energy"
+      "url": "https://hetq.am/en/article/183997",
+      "published_date": "2026-09-17T13:25:00Z",
+      "category": "Economy"
     },
     {
-      "title": "Belarus Businessman Vinitski Files Investment Claim Against Armenia at ICSID",
+      "title": "World Bank Group Mobilizes Record Private Capital for Developing Countries, Driving Job Creation",
       "source": "Hetq",
-      "url": "https://hetq.am/en/article/183859",
-      "published_date": "2026-09-10T14:21:00Z",
+      "url": "https://hetq.am/en/article/183999",
+      "published_date": "2026-09-17T13:20:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Twenty-five seconds: The remarkable story of Shavarsh Karapetyan",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/17/twenty-five-seconds-the-remarkable-story-of-shavarsh-karapetyan/",
+      "published_date": "2026-09-17T15:13:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Region in Brief",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/17/the-region-in-brief-184/",
+      "published_date": "2026-09-17T15:11:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "ICLaw, PRWB submit report on enforced disappearances in Armenia to U.N.",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/17/iclaw-prwb-submit-report-on-enforced-disappearances-in-armenia-to-u-n/",
+      "published_date": "2026-09-17T12:49:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "U.S. Armenian Religious Leaders, Trump Pray in White House",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/183994",
+      "published_date": "2026-09-17T12:44:00Z",
+      "category": "Local Events"
     },
     {
       "title": "From Classmate to ‘Headache’: How Yerevan’s School System Failed a Ten-Year-Old",
@@ -211,34 +218,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/09/11/more-than-a-century-later-gomidas-voice-was-heard-once-again/",
       "published_date": "2026-09-11T15:06:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Finding our way home: Armenian Genealogy Conference returns to Watertown for 10th anniversary",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/11/finding-our-way-home-armenian-genealogy-conference-returns-to-watertown-for-10th-anniversary/",
-      "published_date": "2026-09-11T14:53:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Applications open for IALA’s 2026 grants",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/11/applications-open-for-ialas-2026-grants/",
-      "published_date": "2026-09-11T14:49:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "New book: ‘The Book of Genocides’ by Dana Mashoian Walrath",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/11/new-book-the-book-of-genocides-by-dana-mashoian-walrath/",
-      "published_date": "2026-09-11T14:49:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Columbia University launches minor in Armenian Studies",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/11/columbia-university-launches-minor-in-armenian-studies/",
-      "published_date": "2026-09-11T11:17:59Z",
       "category": "Local Events"
     }
   ]
