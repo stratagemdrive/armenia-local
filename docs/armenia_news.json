@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-17T15:25:54Z",
+  "generated_at": "2026-09-18T00:57:35Z",
   "country": "Armenia",
-  "total_stories": 30,
+  "total_stories": 32,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Attempts at cultural erasure in Artsakh, “uprooting” opposition at home",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/17/attempts-at-cultural-erasure-in-artsakh-uprooting-opposition-at-home/",
+      "published_date": "2026-09-17T16:40:41Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Pashinyan Labels Baku’s &quot;Western Azerbaijan&quot; Rhetoric a Threat to Security",
       "source": "Hetq",
@@ -58,6 +65,13 @@
       "url": "https://armenianweekly.com/2026/09/14/simon-maghakyan-to-lecture-on-the-western-azerbaijan-expansionist-narrative/",
       "published_date": "2026-09-14T14:06:35Z",
       "category": "Military"
+    },
+    {
+      "title": "Fuel the fire — all roads lead to Jersey",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/17/fuel-the-fire-all-roads-lead-to-jersey/",
+      "published_date": "2026-09-17T15:31:15Z",
+      "category": "Energy"
     },
     {
       "title": "Yerevan’s COP-17 Construction Site: On-Going Government Neglect",
