@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-18T14:47:27Z",
+  "generated_at": "2026-09-19T00:54:06Z",
   "country": "Armenia",
-  "total_stories": 31,
+  "total_stories": 32,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "ALC’s Siranush Sahakyan to discuss Armenian hostage cases in LA",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/18/alcs-siranush-sahakyan-to-discuss-armenian-hostage-cases-in-la/",
+      "published_date": "2026-09-18T15:06:10Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Attempts at cultural erasure in Artsakh, “uprooting” opposition at home",
       "source": "The Armenian Weekly",
@@ -86,6 +93,34 @@
       "url": "https://hetq.am/en/article/183999",
       "published_date": "2026-09-17T13:20:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "MCMA opened its second season with ‘Crossroads’",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/18/mcma-opened-its-second-season-with-crossroads/",
+      "published_date": "2026-09-18T15:12:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Finding family in an engineering internship",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/18/finding-family-in-an-engineering-internship/",
+      "published_date": "2026-09-18T15:10:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Book Review: ‘The Kaleidoscope of Destiny’",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/18/book-review-the-kaleidoscope-of-destiny/",
+      "published_date": "2026-09-18T15:06:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Catholicos Karekin II Calls for a Moral Compass in Scientific Advancement",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184034",
+      "published_date": "2026-09-18T14:50:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Imprisoned Ruben Vardanyan Appeals to Baku Rights Commissioner Over Detainee Violations",
@@ -197,34 +232,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/09/15/this-ones-for-the-counselors/",
       "published_date": "2026-09-15T12:37:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pashinyan discourages diaspora Armenians from becoming citizens of Armenia",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/15/pashinyan-discourages-diaspora-armenians-from-becoming-citizens-of-armenia/",
-      "published_date": "2026-09-15T11:43:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "“Digital House of Artsakh Culture” Presented in Yerevan",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183926",
-      "published_date": "2026-09-15T07:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Labyrinth",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/14/labyrinth/",
-      "published_date": "2026-09-14T21:59:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ruben Vardanyan&#039;s Wife Donates Valuable Fine Art Collection to Gyumri",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183919",
-      "published_date": "2026-09-14T19:55:00Z",
       "category": "Local Events"
     }
   ]
