@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-19T00:54:06Z",
+  "generated_at": "2026-09-19T14:11:20Z",
   "country": "Armenia",
-  "total_stories": 32,
+  "total_stories": 31,
   "categories": [
     "Diplomacy",
     "Military",
@@ -74,13 +74,6 @@
       "category": "Energy"
     },
     {
-      "title": "Yerevan’s COP-17 Construction Site: On-Going Government Neglect",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183864",
-      "published_date": "2026-09-12T11:49:00Z",
-      "category": "Energy"
-    },
-    {
       "title": "The Face of Armenia&#039;s Unemployed: An Untapped Labor Force",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/183997",
@@ -93,6 +86,13 @@
       "url": "https://hetq.am/en/article/183999",
       "published_date": "2026-09-17T13:20:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Khachkar Studios’ Masterclass #3 now available in three languages",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/19/khachkar-studios-masterclass-3-now-available-in-three-languages/",
+      "published_date": "2026-09-19T12:30:32Z",
+      "category": "Local Events"
     },
     {
       "title": "MCMA opened its second season with ‘Crossroads’",
@@ -225,13 +225,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/09/15/celebrate-armenia-brings-culture-to-armenian-heritage-park/",
       "published_date": "2026-09-15T13:32:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "This one’s for the counselors",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/15/this-ones-for-the-counselors/",
-      "published_date": "2026-09-15T12:37:29Z",
       "category": "Local Events"
     }
   ]
