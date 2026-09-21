@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T14:30:21Z",
+  "generated_at": "2026-09-21T00:46:34Z",
   "country": "Armenia",
   "total_stories": 31,
   "categories": [
@@ -86,6 +86,13 @@
       "url": "https://hetq.am/en/article/183999",
       "published_date": "2026-09-17T13:20:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Richard Giragosian Dies in Istanbul",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184054",
+      "published_date": "2026-09-20T16:32:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Khachkar Studios’ Masterclass #3 now available in three languages",
@@ -218,13 +225,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/09/15/the-ironic-relationship-of-a-priest-and-his-community/",
       "published_date": "2026-09-15T14:20:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Celebrate Armenia! brings culture to Armenian Heritage Park",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/15/celebrate-armenia-brings-culture-to-armenian-heritage-park/",
-      "published_date": "2026-09-15T13:32:45Z",
       "category": "Local Events"
     }
   ]
