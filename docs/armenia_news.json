@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T00:46:34Z",
+  "generated_at": "2026-09-21T16:47:33Z",
   "country": "Armenia",
   "total_stories": 31,
   "categories": [
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "In darkness, Armenia reminds us of light",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/21/in-darkness-armenia-reminds-us-of-light/",
+      "published_date": "2026-09-21T15:20:36Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "ALC’s Siranush Sahakyan to discuss Armenian hostage cases in LA",
       "source": "The Armenian Weekly",
@@ -53,25 +60,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Ani Khachian elected first female president of AJA East Coast",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/14/ani-khachian-elected-first-female-president-elect-of-aja-east-coast/",
-      "published_date": "2026-09-14T09:27:23Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Simon Maghakyan to lecture on the ‘Western Azerbaijan’ expansionist narrative",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/14/simon-maghakyan-to-lecture-on-the-western-azerbaijan-expansionist-narrative/",
-      "published_date": "2026-09-14T14:06:35Z",
-      "category": "Military"
-    },
-    {
       "title": "Fuel the fire — all roads lead to Jersey",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/09/17/fuel-the-fire-all-roads-lead-to-jersey/",
       "published_date": "2026-09-17T15:31:15Z",
       "category": "Energy"
+    },
+    {
+      "title": "Armenian Peach Growers Eye European Markets After Sudden Russian Import Ban",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184062",
+      "published_date": "2026-09-21T10:00:00Z",
+      "category": "Economy"
     },
     {
       "title": "The Face of Armenia&#039;s Unemployed: An Untapped Labor Force",
@@ -86,6 +86,41 @@
       "url": "https://hetq.am/en/article/183999",
       "published_date": "2026-09-17T13:20:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Homenetmen Eastern Region U.S. scouts participate in the 13th Pan-Homenetmen Jamboree in Armenia",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/21/homenetmen-eastern-region-u-s-scouts-participate-in-the-13th-pan-homenetmen-jamboree-in-armenia/",
+      "published_date": "2026-09-21T15:54:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Washington Pledges Deeper Ties as Secretary Rubio Salutes Armenia’s National Day",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184067",
+      "published_date": "2026-09-21T12:31:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Berlin’s Museum Island Partners with Armenia for Landmark Ancient Artifact Exhibition in Yerevan",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184066",
+      "published_date": "2026-09-21T12:27:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenian President: Statehood is a Continuous Responsibility",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184060",
+      "published_date": "2026-09-21T05:55:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Catholicos Karekin II Calls for National Unity on Armenia&#039;s Independence Anniversary",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184058",
+      "published_date": "2026-09-21T05:43:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Richard Giragosian Dies in Istanbul",
@@ -190,41 +225,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/09/16/varduhi-khachatryans-efforts-to-bring-armenian-music-to-european-stages/",
       "published_date": "2026-09-16T15:14:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Der Matossian, Gzoyan publish “The Concentration Camps of the Armenian Genocide”",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/16/der-matossian-gzoyan-publish-the-concentration-camps-of-the-armenian-genocide/",
-      "published_date": "2026-09-16T15:13:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Unibank Call Center Now Available 24/7 on Weekdays",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183961",
-      "published_date": "2026-09-16T09:18:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "In memory of Vrejoohie Bedrossian Armenian",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/15/vrejoohie-bedrossian-armenian/",
-      "published_date": "2026-09-15T18:49:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Diaspora Mobilization Conference second roundtable summary",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/15/diaspora-mobilization-conference-second-roundtable-summary/",
-      "published_date": "2026-09-15T14:32:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The ironic relationship of a priest and his community",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/15/the-ironic-relationship-of-a-priest-and-his-community/",
-      "published_date": "2026-09-15T14:20:49Z",
       "category": "Local Events"
     }
   ]
