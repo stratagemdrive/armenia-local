@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-21T16:47:33Z",
+  "generated_at": "2026-09-22T01:23:24Z",
   "country": "Armenia",
-  "total_stories": 31,
+  "total_stories": 32,
   "categories": [
     "Diplomacy",
     "Military",
@@ -60,6 +60,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "When the vector is us",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/21/when-the-vector-is-us/",
+      "published_date": "2026-09-21T17:40:17Z",
+      "category": "Military"
+    },
+    {
       "title": "Fuel the fire — all roads lead to Jersey",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/09/17/fuel-the-fire-all-roads-lead-to-jersey/",
@@ -86,6 +93,13 @@
       "url": "https://hetq.am/en/article/183999",
       "published_date": "2026-09-17T13:20:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Still",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/21/still/",
+      "published_date": "2026-09-21T22:00:43Z",
+      "category": "Local Events"
     },
     {
       "title": "Homenetmen Eastern Region U.S. scouts participate in the 13th Pan-Homenetmen Jamboree in Armenia",
@@ -218,13 +232,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/183962",
       "published_date": "2026-09-16T16:37:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Varduhi Khachatryan’s efforts to bring Armenian music to European stages",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/16/varduhi-khachatryans-efforts-to-bring-armenian-music-to-european-stages/",
-      "published_date": "2026-09-16T15:14:31Z",
       "category": "Local Events"
     }
   ]
