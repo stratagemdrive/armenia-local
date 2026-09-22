@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-22T01:23:24Z",
+  "generated_at": "2026-09-22T15:25:16Z",
   "country": "Armenia",
-  "total_stories": 32,
+  "total_stories": 33,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Pashinyan, Mirzoyan to New York for UN General Assembly Session",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184077",
+      "published_date": "2026-09-22T12:20:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "In darkness, Armenia reminds us of light",
       "source": "The Armenian Weekly",
