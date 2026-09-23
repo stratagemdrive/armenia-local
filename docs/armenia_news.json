@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T01:10:32Z",
+  "generated_at": "2026-09-23T15:17:24Z",
   "country": "Armenia",
   "total_stories": 35,
   "categories": [
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Pashinyan Touts TRIPP’s Economic Benefits for Armenia at New York Summit",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184107",
+      "published_date": "2026-09-23T07:40:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pashinyan Attends Trump&#039;s UN General Assembly Delegation Reception in New York",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184106",
+      "published_date": "2026-09-23T07:33:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Armenia&#039;s Foreign Intel Chief Travels to Baku for Security Forum",
       "source": "Hetq",
@@ -53,25 +67,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "ARS to host HRC 63 side event on refugee justice for women and children of Artsakh",
+      "title": "Book review: ‘Undesirable: The Vietnam War and a Father’s Battle for Justice’",
       "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/16/ars-to-host-hrc-63-side-event-on-refugee-justice-for-women-and-children-of-artsakh/",
-      "published_date": "2026-09-16T15:12:08Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Congress rallies for return of Artsakh refugees, release of hostages",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/16/congress-rallies-for-return-of-artsakh-refugees-release-of-hostages/",
-      "published_date": "2026-09-16T13:52:16Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The Issue of Enforced Disappearances and Missing People in Armenia: ICLaw and PRWB Presented a Report to the UN",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183958",
-      "published_date": "2026-09-16T08:27:00Z",
-      "category": "Diplomacy"
+      "url": "https://armenianweekly.com/2026/09/23/book-review-undesirable-the-vietnam-war-and-a-fathers-battle-for-justice/",
+      "published_date": "2026-09-23T14:58:38Z",
+      "category": "Military"
     },
     {
       "title": "When the vector is us",
@@ -114,6 +114,27 @@
       "url": "https://hetq.am/en/article/183999",
       "published_date": "2026-09-17T13:20:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Who takes responsibility for Yerevan’s diplomatic missteps?",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/23/who-takes-responsibility-for-yerevans-diplomatic-missteps/",
+      "published_date": "2026-09-23T14:54:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump Congratulates Pashinyan on Armenia’s 35th Independence Anniversary",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184118",
+      "published_date": "2026-09-23T13:02:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ameriabank to Showcase All-in-One Car Buying Platform at Yerevan Expo",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184111",
+      "published_date": "2026-09-23T09:30:00Z",
+      "category": "Local Events"
     },
     {
       "title": "What if Armenian churches managed performance every week?",
@@ -232,27 +253,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/184034",
       "published_date": "2026-09-18T14:50:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Imprisoned Ruben Vardanyan Appeals to Baku Rights Commissioner Over Detainee Violations",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184024",
-      "published_date": "2026-09-18T10:12:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Treasured Museum Pieces: The Handiwork of Syrian-Armenian Coppersmiths",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183943",
-      "published_date": "2026-09-18T09:53:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pashinyan to Germany for Peace Award",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184014",
-      "published_date": "2026-09-18T05:53:00Z",
       "category": "Local Events"
     }
   ]
