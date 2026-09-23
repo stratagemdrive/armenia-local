@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-22T15:25:16Z",
+  "generated_at": "2026-09-23T01:10:32Z",
   "country": "Armenia",
-  "total_stories": 33,
+  "total_stories": 35,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Armenia&#039;s Foreign Intel Chief Travels to Baku for Security Forum",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184098",
+      "published_date": "2026-09-22T14:44:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Pashinyan, Mirzoyan to New York for UN General Assembly Session",
       "source": "Hetq",
@@ -81,6 +88,13 @@
       "category": "Energy"
     },
     {
+      "title": "New book release: “Eternal Armenia” and the khatchkars of Noratus",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/22/new-book-release-eternal-armenia-and-the-khatchkars-of-noratus/",
+      "published_date": "2026-09-22T15:26:51Z",
+      "category": "Economy"
+    },
+    {
       "title": "Armenian Peach Growers Eye European Markets After Sudden Russian Import Ban",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/184062",
@@ -100,6 +114,41 @@
       "url": "https://hetq.am/en/article/183999",
       "published_date": "2026-09-17T13:20:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "What if Armenian churches managed performance every week?",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/22/what-if-armenian-churches-managed-performance-every-week/",
+      "published_date": "2026-09-22T22:32:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "A thank-you is in order to the AYF",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/22/a-thank-you-is-in-order-to-the-ayf/",
+      "published_date": "2026-09-22T15:30:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pashinyan makes anti-Armenian statements at international conference in Yerevan",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/22/pashinyan-makes-anti-armenian-statements-at-international-conference-in-yerevan/",
+      "published_date": "2026-09-22T15:27:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "A 15-year walk across a 35-year Republic",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/22/a-15-year-walk-across-a-35-year-republic/",
+      "published_date": "2026-09-22T15:27:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Catholioc Karekin II Hosts Syriac Orthodox Church Pilgrims from U.S.",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184093",
+      "published_date": "2026-09-22T12:51:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Still",
@@ -204,41 +253,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/184014",
       "published_date": "2026-09-18T05:53:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Twenty-five seconds: The remarkable story of Shavarsh Karapetyan",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/17/twenty-five-seconds-the-remarkable-story-of-shavarsh-karapetyan/",
-      "published_date": "2026-09-17T15:13:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Region in Brief",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/17/the-region-in-brief-184/",
-      "published_date": "2026-09-17T15:11:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "ICLaw, PRWB submit report on enforced disappearances in Armenia to U.N.",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/17/iclaw-prwb-submit-report-on-enforced-disappearances-in-armenia-to-u-n/",
-      "published_date": "2026-09-17T12:49:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "U.S. Armenian Religious Leaders, Trump Pray in White House",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183994",
-      "published_date": "2026-09-17T12:44:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "From Classmate to ‘Headache’: How Yerevan’s School System Failed a Ten-Year-Old",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183962",
-      "published_date": "2026-09-16T16:37:00Z",
       "category": "Local Events"
     }
   ]
