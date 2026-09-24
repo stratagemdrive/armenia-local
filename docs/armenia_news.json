@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-24T01:00:13Z",
+  "generated_at": "2026-09-24T15:42:29Z",
   "country": "Armenia",
-  "total_stories": 36,
+  "total_stories": 37,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,34 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Baku advances “Western Azerbaijan” on multiple fronts",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/24/baku-advances-western-azerbaijan-on-multiple-fronts/",
+      "published_date": "2026-09-24T15:14:28Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Region in Brief",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/24/the-region-in-brief-185/",
+      "published_date": "2026-09-24T15:13:45Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU Council Grants Temporary Trade Exemptions to Armenia",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184157",
+      "published_date": "2026-09-24T10:56:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Nikol Pashinyan, Ursula von der Leyen Discuss Cooperation Agenda",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184149",
+      "published_date": "2026-09-24T07:16:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "ANCA advocates take Armenian American strategic priorities to Capitol Hill",
       "source": "The Armenian Weekly",
@@ -67,11 +95,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Pashinyan Labels Baku’s &quot;Western Azerbaijan&quot; Rhetoric a Threat to Security",
+      "title": "1990s Artsakh War Vet Vows: &quot;One Day I&#039;ll Run All the Way to Stepanakert&quot;",
       "source": "Hetq",
-      "url": "https://hetq.am/en/article/183989",
-      "published_date": "2026-09-17T11:51:00Z",
-      "category": "Diplomacy"
+      "url": "https://hetq.am/en/article/184061",
+      "published_date": "2026-09-24T09:02:00Z",
+      "category": "Military"
     },
     {
       "title": "Book review: ‘Undesirable: The Vietnam War and a Father’s Battle for Justice’",
@@ -88,13 +116,6 @@
       "category": "Military"
     },
     {
-      "title": "Fuel the fire — all roads lead to Jersey",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/17/fuel-the-fire-all-roads-lead-to-jersey/",
-      "published_date": "2026-09-17T15:31:15Z",
-      "category": "Energy"
-    },
-    {
       "title": "New book release: “Eternal Armenia” and the khatchkars of Noratus",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/09/22/new-book-release-eternal-armenia-and-the-khatchkars-of-noratus/",
@@ -109,18 +130,18 @@
       "category": "Economy"
     },
     {
-      "title": "The Face of Armenia&#039;s Unemployed: An Untapped Labor Force",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/183997",
-      "published_date": "2026-09-17T13:25:00Z",
-      "category": "Economy"
+      "title": "Everyone’s problem, nobody’s fault: Armenia’s literacy crisis",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/24/everyones-problem-nobodys-fault-armenias-literacy-crisis/",
+      "published_date": "2026-09-24T15:05:51Z",
+      "category": "Local Events"
     },
     {
-      "title": "World Bank Group Mobilizes Record Private Capital for Developing Countries, Driving Job Creation",
+      "title": "Armenian Government Publishes Report on Alleged Church Crisis; Proposes Restructuring",
       "source": "Hetq",
-      "url": "https://hetq.am/en/article/183999",
-      "published_date": "2026-09-17T13:20:00Z",
-      "category": "Economy"
+      "url": "https://hetq.am/en/article/184160",
+      "published_date": "2026-09-24T12:40:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Tunik brings bedtime stories to children on iPhone and Android",
@@ -246,20 +267,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/09/19/khachkar-studios-masterclass-3-now-available-in-three-languages/",
       "published_date": "2026-09-19T12:30:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "MCMA opened its second season with ‘Crossroads’",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/18/mcma-opened-its-second-season-with-crossroads/",
-      "published_date": "2026-09-18T15:12:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Finding family in an engineering internship",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/18/finding-family-in-an-engineering-internship/",
-      "published_date": "2026-09-18T15:10:00Z",
       "category": "Local Events"
     }
   ]
