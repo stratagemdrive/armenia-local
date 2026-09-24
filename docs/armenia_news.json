@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-23T15:17:24Z",
+  "generated_at": "2026-09-24T01:00:13Z",
   "country": "Armenia",
-  "total_stories": 35,
+  "total_stories": 36,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "ANCA advocates take Armenian American strategic priorities to Capitol Hill",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/23/anca-advocates-take-armenian-american-strategic-priorities-to-capitol-hill/",
+      "published_date": "2026-09-23T15:46:56Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Pashinyan Touts TRIPP’s Economic Benefits for Armenia at New York Summit",
       "source": "Hetq",
@@ -116,10 +123,24 @@
       "category": "Economy"
     },
     {
+      "title": "Tunik brings bedtime stories to children on iPhone and Android",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/23/tunik-brings-bedtime-stories-to-children-on-iphone-and-android/",
+      "published_date": "2026-09-23T15:45:17Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Who takes responsibility for Yerevan’s diplomatic missteps?",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/09/23/who-takes-responsibility-for-yerevans-diplomatic-missteps/",
       "published_date": "2026-09-23T14:54:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "In memory of Dorothy (Vartanian) Piligian",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/23/in-memory-of-dorothy-vartanian-piligian/",
+      "published_date": "2026-09-23T14:50:52Z",
       "category": "Local Events"
     },
     {
@@ -239,20 +260,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/09/18/finding-family-in-an-engineering-internship/",
       "published_date": "2026-09-18T15:10:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Book Review: ‘The Kaleidoscope of Destiny’",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/18/book-review-the-kaleidoscope-of-destiny/",
-      "published_date": "2026-09-18T15:06:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Catholicos Karekin II Calls for a Moral Compass in Scientific Advancement",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184034",
-      "published_date": "2026-09-18T14:50:00Z",
       "category": "Local Events"
     }
   ]
