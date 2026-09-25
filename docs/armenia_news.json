@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-25T01:06:09Z",
+  "generated_at": "2026-09-25T15:43:49Z",
   "country": "Armenia",
-  "total_stories": 36,
+  "total_stories": 38,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Silencing Dissent: Government Interference Threatens Academic Freedom in Armenia and Georgia",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184190",
+      "published_date": "2026-09-25T13:58:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Armenian, Azerbaijani Foreign Ministers Meet,  Tout Peace Benefits",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184179",
+      "published_date": "2026-09-25T04:43:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Baku advances “Western Azerbaijan” on multiple fronts",
       "source": "The Armenian Weekly",
@@ -81,13 +95,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "ALC’s Siranush Sahakyan to discuss Armenian hostage cases in LA",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/18/alcs-siranush-sahakyan-to-discuss-armenian-hostage-cases-in-la/",
-      "published_date": "2026-09-18T15:06:10Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "1990s Artsakh War Vet Vows: &quot;One Day I&#039;ll Run All the Way to Stepanakert&quot;",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/184061",
@@ -107,6 +114,13 @@
       "url": "https://armenianweekly.com/2026/09/21/when-the-vector-is-us/",
       "published_date": "2026-09-21T17:40:17Z",
       "category": "Military"
+    },
+    {
+      "title": "Anahit Rodvan left finance for art",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/25/anahit-rodvan-left-finance-for-art/",
+      "published_date": "2026-09-25T15:41:23Z",
+      "category": "Energy"
     },
     {
       "title": "New book release: “Eternal Armenia” and the khatchkars of Noratus",
