@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-24T15:42:29Z",
+  "generated_at": "2026-09-25T01:06:09Z",
   "country": "Armenia",
-  "total_stories": 37,
+  "total_stories": 36,
   "categories": [
     "Diplomacy",
     "Military",
@@ -88,13 +88,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Attempts at cultural erasure in Artsakh, “uprooting” opposition at home",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/17/attempts-at-cultural-erasure-in-artsakh-uprooting-opposition-at-home/",
-      "published_date": "2026-09-17T16:40:41Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "1990s Artsakh War Vet Vows: &quot;One Day I&#039;ll Run All the Way to Stepanakert&quot;",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/184061",
@@ -128,6 +121,13 @@
       "url": "https://hetq.am/en/article/184062",
       "published_date": "2026-09-21T10:00:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Eastern Region mobilizes more than 60 participants for ANCA Advocacy Days",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/24/eastern-region-mobilizes-more-than-60-participants-for-anca-advocacy-days/",
+      "published_date": "2026-09-24T16:35:34Z",
+      "category": "Local Events"
     },
     {
       "title": "Everyone’s problem, nobody’s fault: Armenia’s literacy crisis",
@@ -260,13 +260,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/184054",
       "published_date": "2026-09-20T16:32:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Khachkar Studios’ Masterclass #3 now available in three languages",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/19/khachkar-studios-masterclass-3-now-available-in-three-languages/",
-      "published_date": "2026-09-19T12:30:32Z",
       "category": "Local Events"
     }
   ]
