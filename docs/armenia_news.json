@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T15:43:49Z",
+  "generated_at": "2026-09-26T01:07:57Z",
   "country": "Armenia",
   "total_stories": 38,
   "categories": [
@@ -137,6 +137,27 @@
       "category": "Economy"
     },
     {
+      "title": "Literary Lights 2026 to feature Aram Saroyan",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/25/literary-lights-2026-to-feature-aram-saroyan/",
+      "published_date": "2026-09-25T16:09:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "AMISP releases white paper on the separation of church and state in Armenia",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/25/amisp-releases-white-paper-on-the-separation-of-church-and-state-in-armenia/",
+      "published_date": "2026-09-25T16:01:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenian Tennis Federation hopeful about sport’s future",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/25/armenian-tennis-federation-hopeful-about-sports-future/",
+      "published_date": "2026-09-25T10:54:34Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Eastern Region mobilizes more than 60 participants for ANCA Advocacy Days",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/09/24/eastern-region-mobilizes-more-than-60-participants-for-anca-advocacy-days/",
@@ -253,27 +274,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/184066",
       "published_date": "2026-09-21T12:27:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenian President: Statehood is a Continuous Responsibility",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184060",
-      "published_date": "2026-09-21T05:55:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Catholicos Karekin II Calls for National Unity on Armenia&#039;s Independence Anniversary",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184058",
-      "published_date": "2026-09-21T05:43:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Richard Giragosian Dies in Istanbul",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184054",
-      "published_date": "2026-09-20T16:32:00Z",
       "category": "Local Events"
     }
   ]
