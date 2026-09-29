@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-29T02:27:05Z",
+  "generated_at": "2026-09-29T16:47:36Z",
   "country": "Armenia",
-  "total_stories": 40,
+  "total_stories": 41,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Armenia Speeds Up EU Visa Liberalization, Setting 2029 Target for Schengen Access",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184268",
+      "published_date": "2026-09-29T08:25:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Selected research papers from the Armenian Students for Artsakh competition",
       "source": "The Armenian Weekly",
@@ -81,18 +88,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Armenia&#039;s Foreign Intel Chief Travels to Baku for Security Forum",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184098",
-      "published_date": "2026-09-22T14:44:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pashinyan, Mirzoyan to New York for UN General Assembly Session",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184077",
-      "published_date": "2026-09-22T12:20:00Z",
-      "category": "Diplomacy"
+      "title": "Three years after the fall of Artsakh, mourning at Yerablur",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/29/three-years-after-the-fall-of-artsakh-mourning-at-yerablur/",
+      "published_date": "2026-09-29T16:09:23Z",
+      "category": "Military"
     },
     {
       "title": "Frontline Memories: 2020 Artsakh War Vets Share Untold Stories at Yerevan’s “Soldier’s Home”",
@@ -123,11 +123,25 @@
       "category": "Military"
     },
     {
+      "title": "Pashinyan, Rosatom Chief Discuss New Nuclear Plant Proposals Amid Push for Energy Diversification",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184278",
+      "published_date": "2026-09-29T11:03:00Z",
+      "category": "Energy"
+    },
+    {
       "title": "Anahit Rodvan left finance for art",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/09/25/anahit-rodvan-left-finance-for-art/",
       "published_date": "2026-09-25T15:41:23Z",
       "category": "Energy"
+    },
+    {
+      "title": "Pashinyan, IMF Mission Chief Review Economic Reforms, Regional Projects",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184287",
+      "published_date": "2026-09-29T12:44:00Z",
+      "category": "Economy"
     },
     {
       "title": "Armenian Bar releases report advancing U.S.-Armenia cooperation",
@@ -144,11 +158,46 @@
       "category": "Economy"
     },
     {
-      "title": "New book release: “Eternal Armenia” and the khatchkars of Noratus",
+      "title": "Jen Siraganian’s docupoetic debut: “Everything Has Been Moved, Even the Dead”",
       "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/22/new-book-release-eternal-armenia-and-the-khatchkars-of-noratus/",
-      "published_date": "2026-09-22T15:26:51Z",
-      "category": "Economy"
+      "url": "https://armenianweekly.com/2026/09/29/jen-siraganians-docupoetic-debut-everything-has-been-moved-even-the-dead/",
+      "published_date": "2026-09-29T16:08:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Did Pashinyan come to New York to address the U.N. or split up Armenian university students?",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/29/did-pashinyan-come-to-new-york-to-address-the-u-n-or-split-up-armenian-university-students/",
+      "published_date": "2026-09-29T16:08:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Cost of Information: A Journalist’s Diary",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184283",
+      "published_date": "2026-09-29T14:26:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "In memory of Asadour Santourian",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/29/in-memory-of-asadour-santourian/",
+      "published_date": "2026-09-29T14:07:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenian Wine in the International Media Spotlight",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184273",
+      "published_date": "2026-09-29T09:45:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "A Homeland Without Medicine: Healthcare Gaps Dash Diasporan Armenian&#039;s Dream of Return",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184256",
+      "published_date": "2026-09-29T09:18:00Z",
+      "category": "Local Events"
     },
     {
       "title": "The last Dashnak is a theory of the nation",
@@ -246,48 +295,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/184118",
       "published_date": "2026-09-23T13:02:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ameriabank to Showcase All-in-One Car Buying Platform at Yerevan Expo",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184111",
-      "published_date": "2026-09-23T09:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "What if Armenian churches managed performance every week?",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/22/what-if-armenian-churches-managed-performance-every-week/",
-      "published_date": "2026-09-22T22:32:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "A thank-you is in order to the AYF",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/22/a-thank-you-is-in-order-to-the-ayf/",
-      "published_date": "2026-09-22T15:30:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pashinyan makes anti-Armenian statements at international conference in Yerevan",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/22/pashinyan-makes-anti-armenian-statements-at-international-conference-in-yerevan/",
-      "published_date": "2026-09-22T15:27:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "A 15-year walk across a 35-year Republic",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/22/a-15-year-walk-across-a-35-year-republic/",
-      "published_date": "2026-09-22T15:27:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Catholioc Karekin II Hosts Syriac Orthodox Church Pilgrims from U.S.",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184093",
-      "published_date": "2026-09-22T12:51:00Z",
       "category": "Local Events"
     }
   ]
