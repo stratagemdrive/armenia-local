@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-30T01:47:28Z",
+  "generated_at": "2026-09-30T16:39:46Z",
   "country": "Armenia",
-  "total_stories": 41,
+  "total_stories": 40,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "ARS HRC 63 side event advances refugee justice for women and children of Artsakh",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/30/ars-hrc-63-side-event-advances-refugee-justice-for-women-and-children-of-artsakh/",
+      "published_date": "2026-09-30T14:54:09Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ameriabank named Most Innovative Digital Bank in Armenia, alongside 9 Global Finance Digital Banking Awards",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184311",
+      "published_date": "2026-09-30T13:36:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Armenia Speeds Up EU Visa Liberalization, Setting 2029 Target for Schengen Access",
       "source": "Hetq",
@@ -67,25 +81,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "ANCA advocates take Armenian American strategic priorities to Capitol Hill",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/23/anca-advocates-take-armenian-american-strategic-priorities-to-capitol-hill/",
-      "published_date": "2026-09-23T15:46:56Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pashinyan Touts TRIPP’s Economic Benefits for Armenia at New York Summit",
+      "title": "Guardians of Antiquity: How Crisis and Collaboration are Reshaping the History Museum of Armenia",
       "source": "Hetq",
-      "url": "https://hetq.am/en/article/184107",
-      "published_date": "2026-09-23T07:40:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pashinyan Attends Trump&#039;s UN General Assembly Delegation Reception in New York",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184106",
-      "published_date": "2026-09-23T07:33:00Z",
-      "category": "Diplomacy"
+      "url": "https://hetq.am/en/article/184305",
+      "published_date": "2026-09-30T11:35:00Z",
+      "category": "Military"
     },
     {
       "title": "Three years after the fall of Artsakh, mourning at Yerablur",
@@ -113,13 +113,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/184061",
       "published_date": "2026-09-24T09:02:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Book review: ‘Undesirable: The Vietnam War and a Father’s Battle for Justice’",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/23/book-review-undesirable-the-vietnam-war-and-a-fathers-battle-for-justice/",
-      "published_date": "2026-09-23T14:58:38Z",
       "category": "Military"
     },
     {
@@ -156,6 +149,34 @@
       "url": "https://hetq.am/en/article/184246",
       "published_date": "2026-09-28T11:07:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Armenian National Committees set priorities for Artsakh, Armenia and diaspora advocacy",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/30/armenian-national-committees-set-priorities-for-artsakh-armenia-and-diaspora-advocacy/",
+      "published_date": "2026-09-30T16:25:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Meet Me Under the Trees: Camp Haiastan celebrates 75 Years, Oct. 9-11",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/30/meet-me-under-the-trees-camp-haiastan-celebrates-75-years-oct-9-11/",
+      "published_date": "2026-09-30T16:14:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Book Review: ‘You Must Become Field’",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/30/book-review-you-must-become-field/",
+      "published_date": "2026-09-30T14:53:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Veolia’s Nine Years in Armenia: A Legacy of Chronic Water Outages and Criminal Investigations",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184306",
+      "published_date": "2026-09-30T14:40:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Jen Siraganian’s docupoetic debut: “Everything Has Been Moved, Even the Dead”",
@@ -267,34 +288,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/184160",
       "published_date": "2026-09-24T12:40:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tunik brings bedtime stories to children on iPhone and Android",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/23/tunik-brings-bedtime-stories-to-children-on-iphone-and-android/",
-      "published_date": "2026-09-23T15:45:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Who takes responsibility for Yerevan’s diplomatic missteps?",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/23/who-takes-responsibility-for-yerevans-diplomatic-missteps/",
-      "published_date": "2026-09-23T14:54:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "In memory of Dorothy (Vartanian) Piligian",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/23/in-memory-of-dorothy-vartanian-piligian/",
-      "published_date": "2026-09-23T14:50:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump Congratulates Pashinyan on Armenia’s 35th Independence Anniversary",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184118",
-      "published_date": "2026-09-23T13:02:00Z",
       "category": "Local Events"
     }
   ]
