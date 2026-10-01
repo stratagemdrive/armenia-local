@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-01T01:45:12Z",
+  "generated_at": "2026-10-01T17:16:15Z",
   "country": "Armenia",
-  "total_stories": 41,
+  "total_stories": 44,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "AECP to honor founder and president",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/01/aecp-to-honor-founder-and-president/",
+      "published_date": "2026-10-01T16:01:27Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pashinyan Meets White House Faith Advisor Paula White-Cain Ahead of Prayer Breakfast",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184341",
+      "published_date": "2026-10-01T11:59:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "ARS HRC 63 side event advances refugee justice for women and children of Artsakh",
       "source": "The Armenian Weekly",
@@ -60,38 +74,38 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Baku advances “Western Azerbaijan” on multiple fronts",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/24/baku-advances-western-azerbaijan-on-multiple-fronts/",
-      "published_date": "2026-09-24T15:14:28Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "The Region in Brief",
       "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/24/the-region-in-brief-185/",
-      "published_date": "2026-09-24T15:13:45Z",
-      "category": "Diplomacy"
+      "url": "https://armenianweekly.com/2026/10/01/the-region-in-brief-186/",
+      "published_date": "2026-10-01T15:07:39Z",
+      "category": "Military"
     },
     {
-      "title": "EU Council Grants Temporary Trade Exemptions to Armenia",
+      "title": "Next-Gen Airpower: Is Armenia Quietly Upgrading Its Fleet With the L-39 Skyfox?",
       "source": "Hetq",
-      "url": "https://hetq.am/en/article/184157",
-      "published_date": "2026-09-24T10:56:00Z",
-      "category": "Diplomacy"
+      "url": "https://hetq.am/en/article/184210",
+      "published_date": "2026-10-01T13:41:00Z",
+      "category": "Military"
     },
     {
-      "title": "Nikol Pashinyan, Ursula von der Leyen Discuss Cooperation Agenda",
+      "title": "Azerbaijani Serviceman Detained After Shooting Armenian Civilian in Syunik Province",
       "source": "Hetq",
-      "url": "https://hetq.am/en/article/184149",
-      "published_date": "2026-09-24T07:16:00Z",
-      "category": "Diplomacy"
+      "url": "https://hetq.am/en/article/184345",
+      "published_date": "2026-10-01T12:57:00Z",
+      "category": "Military"
     },
     {
       "title": "Guardians of Antiquity: How Crisis and Collaboration are Reshaping the History Museum of Armenia",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/184305",
       "published_date": "2026-09-30T11:35:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Frontline Memories: Chaos, Courage, and the Fight for Shushi in 2020",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184277",
+      "published_date": "2026-09-30T06:56:00Z",
       "category": "Military"
     },
     {
@@ -116,13 +130,6 @@
       "category": "Military"
     },
     {
-      "title": "1990s Artsakh War Vet Vows: &quot;One Day I&#039;ll Run All the Way to Stepanakert&quot;",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184061",
-      "published_date": "2026-09-24T09:02:00Z",
-      "category": "Military"
-    },
-    {
       "title": "Pashinyan, Rosatom Chief Discuss New Nuclear Plant Proposals Amid Push for Energy Diversification",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/184278",
@@ -135,6 +142,20 @@
       "url": "https://armenianweekly.com/2026/09/25/anahit-rodvan-left-finance-for-art/",
       "published_date": "2026-09-25T15:41:23Z",
       "category": "Energy"
+    },
+    {
+      "title": "Armenia Greenlights €250M French Credit Line to Slash Reliance on External Debt",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184339",
+      "published_date": "2026-10-01T11:31:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Armenia’s Molybdenum Exports Hit $200M on High Global Demand, But Local Processing Collapses",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184264",
+      "published_date": "2026-10-01T07:58:00Z",
+      "category": "Economy"
     },
     {
       "title": "Pashinyan, IMF Mission Chief Review Economic Reforms, Regional Projects",
@@ -156,6 +177,20 @@
       "url": "https://hetq.am/en/article/184246",
       "published_date": "2026-09-28T11:07:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Church-state dispute moves to the international arena",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/01/church-state-dispute-moves-to-the-international-arena/",
+      "published_date": "2026-10-01T15:07:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Artsakh Union Demonstrates in Yerevan, Urging Government to Push Baku on Armenian Captives",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184337",
+      "published_date": "2026-10-01T12:39:00Z",
+      "category": "Local Events"
     },
     {
       "title": "In memory of Margaret Stepanian",
@@ -281,20 +316,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/09/25/armenian-tennis-federation-hopeful-about-sports-future/",
       "published_date": "2026-09-25T10:54:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Eastern Region mobilizes more than 60 participants for ANCA Advocacy Days",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/24/eastern-region-mobilizes-more-than-60-participants-for-anca-advocacy-days/",
-      "published_date": "2026-09-24T16:35:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Everyone’s problem, nobody’s fault: Armenia’s literacy crisis",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/24/everyones-problem-nobodys-fault-armenias-literacy-crisis/",
-      "published_date": "2026-09-24T15:05:51Z",
       "category": "Local Events"
     }
   ]
