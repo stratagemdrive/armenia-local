@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-30T16:39:46Z",
+  "generated_at": "2026-10-01T01:45:12Z",
   "country": "Armenia",
-  "total_stories": 40,
+  "total_stories": 41,
   "categories": [
     "Diplomacy",
     "Military",
@@ -15,6 +15,13 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/09/30/ars-hrc-63-side-event-advances-refugee-justice-for-women-and-children-of-artsakh/",
       "published_date": "2026-09-30T14:54:09Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU Single Market Proposal Sets High Strategic Stakes for Armenia",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184316",
+      "published_date": "2026-09-30T14:35:00Z",
       "category": "Diplomacy"
     },
     {
@@ -151,6 +158,13 @@
       "category": "Economy"
     },
     {
+      "title": "In memory of Margaret Stepanian",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/09/30/in-memory-of-margaret-stepanian/",
+      "published_date": "2026-09-30T21:43:10Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Armenian National Committees set priorities for Artsakh, Armenia and diaspora advocacy",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/09/30/armenian-national-committees-set-priorities-for-artsakh-armenia-and-diaspora-advocacy/",
@@ -281,13 +295,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/09/24/everyones-problem-nobodys-fault-armenias-literacy-crisis/",
       "published_date": "2026-09-24T15:05:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenian Government Publishes Report on Alleged Church Crisis; Proposes Restructuring",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184160",
-      "published_date": "2026-09-24T12:40:00Z",
       "category": "Local Events"
     }
   ]
