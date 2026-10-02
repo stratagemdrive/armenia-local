@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-01T17:16:15Z",
+  "generated_at": "2026-10-02T01:56:13Z",
   "country": "Armenia",
-  "total_stories": 44,
+  "total_stories": 45,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Meeting of the Minister of Foreign Affairs and International Trade of Armenia with the U.S. Under Secretary of State",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184352",
+      "published_date": "2026-10-01T19:09:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "AECP to honor founder and president",
       "source": "The Armenian Weekly",
