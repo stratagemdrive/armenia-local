@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T01:39:43Z",
+  "generated_at": "2026-10-03T15:03:01Z",
   "country": "Armenia",
   "total_stories": 47,
   "categories": [
@@ -200,6 +200,13 @@
       "category": "Economy"
     },
     {
+      "title": "Pashinyan Declares Republic of Armenia ‘The Promised Land Bestowed by God’ Amid Rising Church-State Tensions",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184419",
+      "published_date": "2026-10-03T14:02:00Z",
+      "category": "Local Events"
+    },
+    {
       "title": "The Journey Not Chosen",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/10/02/the-journey-not-chosen/",
@@ -330,13 +337,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/184256",
       "published_date": "2026-09-29T09:18:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The last Dashnak is a theory of the nation",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/28/the-last-dashnak-is-a-theory-of-the-nation/",
-      "published_date": "2026-09-28T17:37:14Z",
       "category": "Local Events"
     }
   ]
