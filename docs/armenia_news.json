@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-04T02:20:20Z",
+  "generated_at": "2026-10-04T15:40:06Z",
   "country": "Armenia",
-  "total_stories": 47,
+  "total_stories": 48,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Armenian Foreign Minister Arrives in Tehran for High-Level Security Talks",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184423",
+      "published_date": "2026-10-04T05:55:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Artsakh weaver rebuilds her life through her craft",
       "source": "The Armenian Weekly",
@@ -200,6 +207,13 @@
       "category": "Economy"
     },
     {
+      "title": "Pashinyan Marks National Minorities Day, Vows Continued Protection of Cultural Identity",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184424",
+      "published_date": "2026-10-04T08:52:00Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Pashinyan Declares Republic of Armenia ‘The Promised Land Bestowed by God’ Amid Rising Church-State Tensions",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/184419",
@@ -330,13 +344,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/184273",
       "published_date": "2026-09-29T09:45:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "A Homeland Without Medicine: Healthcare Gaps Dash Diasporan Armenian&#039;s Dream of Return",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184256",
-      "published_date": "2026-09-29T09:18:00Z",
       "category": "Local Events"
     }
   ]
