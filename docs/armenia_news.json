@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-05T01:30:25Z",
+  "generated_at": "2026-10-05T19:30:08Z",
   "country": "Armenia",
-  "total_stories": 48,
+  "total_stories": 44,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Armenia, Iran Advance &quot;Crossroads of Peace&quot; and Strategic Infrastructure in Tehran Talks",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184442",
+      "published_date": "2026-10-05T11:13:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Armenian Foreign Minister Arrives in Tehran for High-Level Security Talks",
       "source": "Hetq",
@@ -88,13 +95,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Selected research papers from the Armenian Students for Artsakh competition",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/28/selected-research-papers-from-the-armenian-students-for-artsakh-competition/",
-      "published_date": "2026-09-28T16:22:21Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "The Region in Brief",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/10/01/the-region-in-brief-186/",
@@ -134,20 +134,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/09/29/three-years-after-the-fall-of-artsakh-mourning-at-yerablur/",
       "published_date": "2026-09-29T16:09:23Z",
-      "category": "Military"
-    },
-    {
-      "title": "Frontline Memories: 2020 Artsakh War Vets Share Untold Stories at Yerevan’s “Soldier’s Home”",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184231",
-      "published_date": "2026-09-28T16:24:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Public TV of Armenia Apologizes for Concert Broadcast on Artsakh War Anniversary",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184249",
-      "published_date": "2026-09-28T12:52:00Z",
       "category": "Military"
     },
     {
@@ -193,18 +179,46 @@
       "category": "Economy"
     },
     {
-      "title": "Armenian Bar releases report advancing U.S.-Armenia cooperation",
+      "title": "Book review: Dana Mashoian Walrath’s “The Book of Genocides”",
       "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/28/armenian-bar-releases-report-advancing-u-s-armenia-cooperation/",
-      "published_date": "2026-09-28T15:25:31Z",
-      "category": "Economy"
+      "url": "https://armenianweekly.com/2026/10/05/book-review-dana-mashoian-walraths-the-book-of-genocides/",
+      "published_date": "2026-10-05T15:09:38Z",
+      "category": "Local Events"
     },
     {
-      "title": "Armenia, Corporación América Discuss Major Airport Expansion, Infrastructure Upgrades",
+      "title": "From Velvet Revolution to selective justice",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/05/from-velvet-revolution-to-selective-justice/",
+      "published_date": "2026-10-05T14:30:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Calamity Me",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/05/calamity-me/",
+      "published_date": "2026-10-05T14:30:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Choking on Dust to Recover Billions: The Dilapidated Road to Armenia’s Anti-Corruption Court",
       "source": "Hetq",
-      "url": "https://hetq.am/en/article/184246",
-      "published_date": "2026-09-28T11:07:00Z",
-      "category": "Economy"
+      "url": "https://hetq.am/en/article/184447",
+      "published_date": "2026-10-05T14:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jinishian Memorial Program marks 60 years with Yerevan expo",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/05/jinishian-memorial-program-marks-60-years-with-yerevan-expo/",
+      "published_date": "2026-10-05T10:08:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mapping the Words: Armenia Introduces Digital Tool to Solve Textbook Readability Crisis",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184437",
+      "published_date": "2026-10-05T09:32:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Urtsadzor Mountain Refuge: Healing Armenia&#039;s Rescued Bears",
@@ -302,48 +316,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/09/30/meet-me-under-the-trees-camp-haiastan-celebrates-75-years-oct-9-11/",
       "published_date": "2026-09-30T16:14:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Book Review: ‘You Must Become Field’",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/30/book-review-you-must-become-field/",
-      "published_date": "2026-09-30T14:53:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Veolia’s Nine Years in Armenia: A Legacy of Chronic Water Outages and Criminal Investigations",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184306",
-      "published_date": "2026-09-30T14:40:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jen Siraganian’s docupoetic debut: “Everything Has Been Moved, Even the Dead”",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/29/jen-siraganians-docupoetic-debut-everything-has-been-moved-even-the-dead/",
-      "published_date": "2026-09-29T16:08:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Did Pashinyan come to New York to address the U.N. or split up Armenian university students?",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/29/did-pashinyan-come-to-new-york-to-address-the-u-n-or-split-up-armenian-university-students/",
-      "published_date": "2026-09-29T16:08:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Cost of Information: A Journalist’s Diary",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184283",
-      "published_date": "2026-09-29T14:26:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "In memory of Asadour Santourian",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/29/in-memory-of-asadour-santourian/",
-      "published_date": "2026-09-29T14:07:34Z",
       "category": "Local Events"
     }
   ]
