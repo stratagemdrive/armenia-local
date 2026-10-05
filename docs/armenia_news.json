@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T15:40:06Z",
+  "generated_at": "2026-10-05T01:30:25Z",
   "country": "Armenia",
   "total_stories": 48,
   "categories": [
@@ -207,6 +207,13 @@
       "category": "Economy"
     },
     {
+      "title": "Urtsadzor Mountain Refuge: Healing Armenia&#039;s Rescued Bears",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184421",
+      "published_date": "2026-10-04T23:17:00Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Pashinyan Marks National Minorities Day, Vows Continued Protection of Cultural Identity",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/184424",
@@ -337,13 +344,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/09/29/in-memory-of-asadour-santourian/",
       "published_date": "2026-09-29T14:07:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenian Wine in the International Media Spotlight",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184273",
-      "published_date": "2026-09-29T09:45:00Z",
       "category": "Local Events"
     }
   ]
