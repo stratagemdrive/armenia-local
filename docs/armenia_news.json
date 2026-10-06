@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-06T02:38:44Z",
+  "generated_at": "2026-10-06T17:02:27Z",
   "country": "Armenia",
-  "total_stories": 44,
+  "total_stories": 45,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,27 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Lorik Fund supports Artsakh Tsil summer visits to 31 villages",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/06/lorik-fund-supports-artsakh-tsil-summer-visits-to-31-villages/",
+      "published_date": "2026-10-06T14:28:40Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What Armenia’s first U.N. disability rights expert will do",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/06/what-armenias-first-u-n-disability-rights-expert-will-do/",
+      "published_date": "2026-10-06T14:26:04Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pashinyan Welcomes New French Ambassador to Drive Strategic Infrastructure and Economic Ties",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184471",
+      "published_date": "2026-10-06T10:54:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Armenia, Iran Advance &quot;Crossroads of Peace&quot; and Strategic Infrastructure in Tehran Talks",
       "source": "Hetq",
@@ -88,13 +109,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Armenia Speeds Up EU Visa Liberalization, Setting 2029 Target for Schengen Access",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184268",
-      "published_date": "2026-09-29T08:25:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "The Region in Brief",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/10/01/the-region-in-brief-186/",
@@ -130,24 +144,24 @@
       "category": "Military"
     },
     {
-      "title": "Three years after the fall of Artsakh, mourning at Yerablur",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/29/three-years-after-the-fall-of-artsakh-mourning-at-yerablur/",
-      "published_date": "2026-09-29T16:09:23Z",
-      "category": "Military"
+      "title": "Armenia Maps Energy Grid Strategy for Massive Firebird AI Data Center",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184469",
+      "published_date": "2026-10-06T10:10:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Pashinyan Pitch: Armenia Targets UK Capital for Massive Regional Transit and Tech Hub",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184464",
+      "published_date": "2026-10-06T08:28:00Z",
+      "category": "Energy"
     },
     {
       "title": "City of Smile USA announces new board leadership",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/10/01/city-of-smile-usa-announces-new-board-leadership/",
       "published_date": "2026-10-02T01:00:22Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Pashinyan, Rosatom Chief Discuss New Nuclear Plant Proposals Amid Push for Energy Diversification",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184278",
-      "published_date": "2026-09-29T11:03:00Z",
       "category": "Energy"
     },
     {
@@ -172,11 +186,11 @@
       "category": "Economy"
     },
     {
-      "title": "Pashinyan, IMF Mission Chief Review Economic Reforms, Regional Projects",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184287",
-      "published_date": "2026-09-29T12:44:00Z",
-      "category": "Economy"
+      "title": "Anoush Bargamian opens first solo show at AIR Gallery",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/06/anoush-bargamian-opens-first-solo-show-at-air-gallery/",
+      "published_date": "2026-10-06T14:29:12Z",
+      "category": "Local Events"
     },
     {
       "title": "Book review: Dana Mashoian Walrath’s “The Book of Genocides”",
@@ -309,13 +323,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/09/30/armenian-national-committees-set-priorities-for-artsakh-armenia-and-diaspora-advocacy/",
       "published_date": "2026-09-30T16:25:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Meet Me Under the Trees: Camp Haiastan celebrates 75 Years, Oct. 9-11",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/30/meet-me-under-the-trees-camp-haiastan-celebrates-75-years-oct-9-11/",
-      "published_date": "2026-09-30T16:14:46Z",
       "category": "Local Events"
     }
   ]
