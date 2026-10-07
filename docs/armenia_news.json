@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-07T01:59:31Z",
+  "generated_at": "2026-10-07T17:40:24Z",
   "country": "Armenia",
-  "total_stories": 47,
+  "total_stories": 46,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,27 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Access, independence and responsibility",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/07/access-independence-and-responsibility/",
+      "published_date": "2026-10-07T11:34:52Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "A seat at the table requires an independent voice",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/07/a-seat-at-the-table-requires-an-independent-voice/",
+      "published_date": "2026-10-07T10:34:12Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pashinyan, Putin Discuss Bilateral Agenda in Birthday Telephone Call",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184498",
+      "published_date": "2026-10-07T09:55:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Armenia Eyes New World Heritage Bids as National UNESCO Commission Meets in Yerevan",
       "source": "Hetq",
@@ -95,27 +116,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "ARS HRC 63 side event advances refugee justice for women and children of Artsakh",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/30/ars-hrc-63-side-event-advances-refugee-justice-for-women-and-children-of-artsakh/",
-      "published_date": "2026-09-30T14:54:09Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU Single Market Proposal Sets High Strategic Stakes for Armenia",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184316",
-      "published_date": "2026-09-30T14:35:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ameriabank named Most Innovative Digital Bank in Armenia, alongside 9 Global Finance Digital Banking Awards",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184311",
-      "published_date": "2026-09-30T13:36:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "The Region in Brief",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/10/01/the-region-in-brief-186/",
@@ -137,18 +137,11 @@
       "category": "Military"
     },
     {
-      "title": "Guardians of Antiquity: How Crisis and Collaboration are Reshaping the History Museum of Armenia",
+      "title": "Asphalt Plant Near Lake Sevan Suspended Over Toxic Emissions Following Hetq Investigation",
       "source": "Hetq",
-      "url": "https://hetq.am/en/article/184305",
-      "published_date": "2026-09-30T11:35:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Frontline Memories: Chaos, Courage, and the Fight for Shushi in 2020",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184277",
-      "published_date": "2026-09-30T06:56:00Z",
-      "category": "Military"
+      "url": "https://hetq.am/en/article/184495",
+      "published_date": "2026-10-07T09:33:00Z",
+      "category": "Energy"
     },
     {
       "title": "Armenia Maps Energy Grid Strategy for Massive Firebird AI Data Center",
@@ -198,6 +191,34 @@
       "url": "https://hetq.am/en/article/184264",
       "published_date": "2026-10-01T07:58:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Three days in Dilijan: Stories from an AYF Internship excursion",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/07/three-days-in-dilijan-stories-from-an-ayf-internship-excursion/",
+      "published_date": "2026-10-07T16:16:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Secrecy Over Etchmiadzin Anniversary Budget Sparks Backlash From Local Opposition",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184500",
+      "published_date": "2026-10-07T12:02:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Shemmassian publishes illustrated book on Musa Dagh immigrants",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/07/shemmassian-publishes-illustrated-book-on-musa-dagh-immigrants/",
+      "published_date": "2026-10-07T10:01:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenia Fest 2026 brought Armenian culture to Royal Oak",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/07/armenia-fest-2026-brought-armenian-culture-to-royal-oak/",
+      "published_date": "2026-10-07T10:00:26Z",
+      "category": "Local Events"
     },
     {
       "title": "Anoush Bargamian opens first solo show at AIR Gallery",
@@ -309,34 +330,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/184372",
       "published_date": "2026-10-01T20:22:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Church-state dispute moves to the international arena",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/01/church-state-dispute-moves-to-the-international-arena/",
-      "published_date": "2026-10-01T15:07:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Artsakh Union Demonstrates in Yerevan, Urging Government to Push Baku on Armenian Captives",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184337",
-      "published_date": "2026-10-01T12:39:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "In memory of Margaret Stepanian",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/30/in-memory-of-margaret-stepanian/",
-      "published_date": "2026-09-30T21:43:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenian National Committees set priorities for Artsakh, Armenia and diaspora advocacy",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/09/30/armenian-national-committees-set-priorities-for-artsakh-armenia-and-diaspora-advocacy/",
-      "published_date": "2026-09-30T16:25:22Z",
       "category": "Local Events"
     }
   ]
