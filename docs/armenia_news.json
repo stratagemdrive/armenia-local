@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-08T02:24:50Z",
+  "generated_at": "2026-10-08T17:43:46Z",
   "country": "Armenia",
-  "total_stories": 47,
+  "total_stories": 43,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,27 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Galstyan calls for OSCE PA visit to hostages in Baku",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/08/galstyan-calls-for-osce-pa-visit-to-hostages-in-baku/",
+      "published_date": "2026-10-08T14:40:41Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pashinyan Travels to Turkmenistan for CIS Leaders&#039; Summit",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184527",
+      "published_date": "2026-10-08T08:54:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pashinyan Rejects Medvedev&#039;s &quot;New Ukraine&quot; Label, Vows Greater Sovereignty",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184524",
+      "published_date": "2026-10-08T07:06:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Access, independence and responsibility",
       "source": "The Armenian Weekly",
@@ -102,45 +123,10 @@
       "category": "Diplomacy"
     },
     {
-      "title": "AECP to honor founder and president",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/01/aecp-to-honor-founder-and-president/",
-      "published_date": "2026-10-01T16:01:27Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pashinyan Meets White House Faith Advisor Paula White-Cain Ahead of Prayer Breakfast",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184341",
-      "published_date": "2026-10-01T11:59:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Over 100 members of Congress urge Rubio to withhold military aid to Baku",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/10/07/over-100-members-of-congress-urge-rubio-to-withhold-military-aid-to-baku/",
       "published_date": "2026-10-07T17:36:39Z",
-      "category": "Military"
-    },
-    {
-      "title": "The Region in Brief",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/01/the-region-in-brief-186/",
-      "published_date": "2026-10-01T15:07:39Z",
-      "category": "Military"
-    },
-    {
-      "title": "Next-Gen Airpower: Is Armenia Quietly Upgrading Its Fleet With the L-39 Skyfox?",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184210",
-      "published_date": "2026-10-01T13:41:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Azerbaijani Serviceman Detained After Shooting Armenian Civilian in Syunik Province",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184345",
-      "published_date": "2026-10-01T12:57:00Z",
       "category": "Military"
     },
     {
@@ -186,18 +172,39 @@
       "category": "Economy"
     },
     {
-      "title": "Armenia Greenlights €250M French Credit Line to Slash Reliance on External Debt",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184339",
-      "published_date": "2026-10-01T11:31:00Z",
-      "category": "Economy"
+      "title": "A diaspora-Armenia partnership revives a border village",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/08/a-diaspora-armenia-partnership-revives-a-border-village/",
+      "published_date": "2026-10-08T14:42:04Z",
+      "category": "Local Events"
     },
     {
-      "title": "Armenia’s Molybdenum Exports Hit $200M on High Global Demand, But Local Processing Collapses",
+      "title": "ANCA Eastern Region to host milestone 20th annual gala in Rhode Island",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/08/anca-eastern-region-to-host-milestone-20th-annual-gala-in-rhode-island/",
+      "published_date": "2026-10-08T10:34:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "St. Gregory’s Armenian food festival returns for a 49th year",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/08/st-gregorys-armenian-food-festival-returns-for-a-49th-year/",
+      "published_date": "2026-10-08T09:00:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Facebook Posts Land Eurosceptic Opposition Leader in Pre-Trial Detention",
       "source": "Hetq",
-      "url": "https://hetq.am/en/article/184264",
-      "published_date": "2026-10-01T07:58:00Z",
-      "category": "Economy"
+      "url": "https://hetq.am/en/article/184521",
+      "published_date": "2026-10-08T05:43:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Aznavour Foundation to Manage Gyumri’s Friendship Park",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184518",
+      "published_date": "2026-10-08T04:02:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Three days in Dilijan: Stories from an AYF Internship excursion",
@@ -302,41 +309,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/10/02/the-journey-not-chosen/",
       "published_date": "2026-10-02T15:56:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chasing Armenian sports: A chaotic trip to the White House",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/02/chasing-armenian-sports-a-chaotic-trip-to-the-white-house/",
-      "published_date": "2026-10-02T15:52:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "UCLA to launch English edition of Andonian’s “The Great Crime”",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/02/ucla-to-launch-english-edition-of-andonians-the-great-crime/",
-      "published_date": "2026-10-02T14:49:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "European Parliament Hosts Briefing Ahead of Armenia&#039;s COP17 Biodiversity Presidency",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184380",
-      "published_date": "2026-10-02T10:59:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pashinyan Files AMD Six Million Defamation Lawsuit Against Opposition Lawmaker",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184374",
-      "published_date": "2026-10-02T04:55:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fresno Mayor, Armenian President Meet in Yerevan to Strengthen Ties",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184372",
-      "published_date": "2026-10-01T20:22:00Z",
       "category": "Local Events"
     }
   ]
