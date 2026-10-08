@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-07T17:40:24Z",
+  "generated_at": "2026-10-08T02:24:50Z",
   "country": "Armenia",
-  "total_stories": 46,
+  "total_stories": 47,
   "categories": [
     "Diplomacy",
     "Military",
@@ -114,6 +114,13 @@
       "url": "https://hetq.am/en/article/184341",
       "published_date": "2026-10-01T11:59:00Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Over 100 members of Congress urge Rubio to withhold military aid to Baku",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/07/over-100-members-of-congress-urge-rubio-to-withhold-military-aid-to-baku/",
+      "published_date": "2026-10-07T17:36:39Z",
+      "category": "Military"
     },
     {
       "title": "The Region in Brief",
