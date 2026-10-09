@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-08T17:43:46Z",
+  "generated_at": "2026-10-09T02:41:51Z",
   "country": "Armenia",
-  "total_stories": 43,
+  "total_stories": 40,
   "categories": [
     "Diplomacy",
     "Military",
@@ -109,20 +109,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Armenian President Welcomes Pacific Council Delegation Led by Former U.S. Ambassador Kvien",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184370",
-      "published_date": "2026-10-01T20:04:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Meeting of the Minister of Foreign Affairs and International Trade of Armenia with the U.S. Under Secretary of State",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184352",
-      "published_date": "2026-10-01T19:09:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Over 100 members of Congress urge Rubio to withhold military aid to Baku",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/10/07/over-100-members-of-congress-urge-rubio-to-withhold-military-aid-to-baku/",
@@ -151,11 +137,11 @@
       "category": "Energy"
     },
     {
-      "title": "City of Smile USA announces new board leadership",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/01/city-of-smile-usa-announces-new-board-leadership/",
-      "published_date": "2026-10-02T01:00:22Z",
-      "category": "Energy"
+      "title": "Georgia Scraps Offshore Intermediary in Azerbaijani Power Imports",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184555",
+      "published_date": "2026-10-08T17:46:00Z",
+      "category": "Economy"
     },
     {
       "title": "Mapping the Unseen: How Armenia’s Central Bank is Quantifying Climate Risk for the Financial Future",
@@ -165,11 +151,18 @@
       "category": "Economy"
     },
     {
-      "title": "“Building a Safe Community” event to be held Oct. 8 at Belmont Public Library",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/01/building-a-safe-community-event-to-be-held-oct-8-at-belmont-public-library/",
-      "published_date": "2026-10-02T01:05:49Z",
-      "category": "Economy"
+      "title": "Nearly Fifty Arrested as Police Target Western Balkan Drug Network",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184554",
+      "published_date": "2026-10-08T17:43:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenia Proposes New Spending Framework for Foreign Delegations, Requiring an Extra $276,000",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184549",
+      "published_date": "2026-10-08T15:13:00Z",
+      "category": "Local Events"
     },
     {
       "title": "A diaspora-Armenia partnership revives a border village",
@@ -295,20 +288,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/184424",
       "published_date": "2026-10-04T08:52:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pashinyan Declares Republic of Armenia ‘The Promised Land Bestowed by God’ Amid Rising Church-State Tensions",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184419",
-      "published_date": "2026-10-03T14:02:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Journey Not Chosen",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/02/the-journey-not-chosen/",
-      "published_date": "2026-10-02T15:56:19Z",
       "category": "Local Events"
     }
   ]
