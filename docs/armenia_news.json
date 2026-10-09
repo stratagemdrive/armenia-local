@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-09T02:41:51Z",
+  "generated_at": "2026-10-09T17:20:07Z",
   "country": "Armenia",
-  "total_stories": 40,
+  "total_stories": 39,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Armenia and Iran Fast-Track Border Infrastructure Pacts Following Tehran Summit",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184557",
+      "published_date": "2026-10-08T20:14:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Galstyan calls for OSCE PA visit to hostages in Baku",
       "source": "The Armenian Weekly",
@@ -95,20 +102,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Artsakh weaver rebuilds her life through her craft",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/02/artsakh-weaver-rebuilds-her-life-through-her-craft/",
-      "published_date": "2026-10-02T15:08:54Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pashinyan Champions &#039;TRIPP&#039; Railway and Demands EAEU Market Reforms at Summit",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184384",
-      "published_date": "2026-10-02T12:38:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Over 100 members of Congress urge Rubio to withhold military aid to Baku",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/10/07/over-100-members-of-congress-urge-rubio-to-withhold-military-aid-to-baku/",
@@ -149,6 +142,55 @@
       "url": "https://hetq.am/en/article/184434",
       "published_date": "2026-10-06T17:44:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Interview: Dana Mashoian Walrath on genocide and art",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/09/interview-dana-mashoian-walrath-on-genocide-and-art/",
+      "published_date": "2026-10-09T16:24:30Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Naghash Ensemble kicks off its North American tour on Nov. 4",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/09/the-naghash-ensemble-kicks-off-its-north-american-tour-on-nov-4/",
+      "published_date": "2026-10-09T15:54:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "ARF Youth represented at IUSY Balkan Round Table and Black Sea Area Committee",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/09/arf-youth-represented-at-iusy-balkan-round-table-and-black-sea-area-committee/",
+      "published_date": "2026-10-09T15:41:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pashinyan’s Civil Contract Party Monopolizes Parliamentary Probe into Armenian Apostolic Church &quot;Crisis&quot;",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184586",
+      "published_date": "2026-10-09T11:20:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Environmental Watchdog Deflects Blame to Yerevan City Hall Over Hrazdan Gorge Construction Violations",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184579",
+      "published_date": "2026-10-09T10:13:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Yerevan Municipality Ignores Key Questions; Excludes Anti-Corruption Court Access Road From 2027 Renovation Plans",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184568",
+      "published_date": "2026-10-09T07:21:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "From Coma to College Graduate: 2020 Artsakh Vet Describes Chaos at Mataghis",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184563",
+      "published_date": "2026-10-09T05:21:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Nearly Fifty Arrested as Police Target Western Balkan Drug Network",
@@ -239,55 +281,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/10/05/book-review-dana-mashoian-walraths-the-book-of-genocides/",
       "published_date": "2026-10-05T15:09:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "From Velvet Revolution to selective justice",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/05/from-velvet-revolution-to-selective-justice/",
-      "published_date": "2026-10-05T14:30:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Calamity Me",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/05/calamity-me/",
-      "published_date": "2026-10-05T14:30:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Choking on Dust to Recover Billions: The Dilapidated Road to Armenia’s Anti-Corruption Court",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184447",
-      "published_date": "2026-10-05T14:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jinishian Memorial Program marks 60 years with Yerevan expo",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/05/jinishian-memorial-program-marks-60-years-with-yerevan-expo/",
-      "published_date": "2026-10-05T10:08:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mapping the Words: Armenia Introduces Digital Tool to Solve Textbook Readability Crisis",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184437",
-      "published_date": "2026-10-05T09:32:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Urtsadzor Mountain Refuge: Healing Armenia&#039;s Rescued Bears",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184421",
-      "published_date": "2026-10-04T23:17:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pashinyan Marks National Minorities Day, Vows Continued Protection of Cultural Identity",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184424",
-      "published_date": "2026-10-04T08:52:00Z",
       "category": "Local Events"
     }
   ]
