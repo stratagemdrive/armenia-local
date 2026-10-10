@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-10T02:01:38Z",
+  "generated_at": "2026-10-10T16:06:21Z",
   "country": "Armenia",
-  "total_stories": 39,
+  "total_stories": 40,
   "categories": [
     "Diplomacy",
     "Military",
@@ -102,6 +102,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Corruption and Chainsaws: Gor Hovhannisyan on the Ongoing Battle for Armenia&#039;s Forests",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184594",
+      "published_date": "2026-10-10T06:35:00Z",
+      "category": "Military"
+    },
+    {
       "title": "Over 100 members of Congress urge Rubio to withhold military aid to Baku",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/10/07/over-100-members-of-congress-urge-rubio-to-withhold-military-aid-to-baku/",
@@ -142,6 +149,13 @@
       "url": "https://hetq.am/en/article/184434",
       "published_date": "2026-10-06T17:44:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "A timeline of biblical translation in Armenia",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/10/bible-armenian-translation-timeline/",
+      "published_date": "2026-10-10T13:29:49Z",
+      "category": "Local Events"
     },
     {
       "title": "Interview: Dana Mashoian Walrath on genocide and art",
@@ -274,13 +288,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/10/06/anoush-bargamian-opens-first-solo-show-at-air-gallery/",
       "published_date": "2026-10-06T14:29:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Book review: Dana Mashoian Walrath’s “The Book of Genocides”",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/05/book-review-dana-mashoian-walraths-the-book-of-genocides/",
-      "published_date": "2026-10-05T15:09:38Z",
       "category": "Local Events"
     }
   ]
