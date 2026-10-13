@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-13T03:19:00Z",
+  "generated_at": "2026-10-13T17:56:25Z",
   "country": "Armenia",
-  "total_stories": 42,
+  "total_stories": 39,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Armenia, Germany Advance Strategic Partnership and Trade Ties at Warsaw Security Forum",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184669",
+      "published_date": "2026-10-13T11:58:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Armenian Security Chief Alen Simonyan Meets with U.S.-Based &#039;Save Armenia&#039; to Discuss Strategic Partnership",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184661",
+      "published_date": "2026-10-13T09:15:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Armenian, Egyptian Foreign Ministers Discuss Peace Agendas and Bilateral Ties",
       "source": "Hetq",
@@ -81,27 +95,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Lorik Fund supports Artsakh Tsil summer visits to 31 villages",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/06/lorik-fund-supports-artsakh-tsil-summer-visits-to-31-villages/",
-      "published_date": "2026-10-06T14:28:40Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "What Armenia’s first U.N. disability rights expert will do",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/06/what-armenias-first-u-n-disability-rights-expert-will-do/",
-      "published_date": "2026-10-06T14:26:04Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pashinyan Welcomes New French Ambassador to Drive Strategic Infrastructure and Economic Ties",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184471",
-      "published_date": "2026-10-06T10:54:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "The Spelling of Sovereignty: Armenia’s Future Depends on Reclaiming Its Classical Script",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/184621",
@@ -137,18 +130,11 @@
       "category": "Energy"
     },
     {
-      "title": "Armenia Maps Energy Grid Strategy for Massive Firebird AI Data Center",
+      "title": "World Bank Group Mobilizes Record Private Capital for Developing Countries, Driving Job Creation",
       "source": "Hetq",
-      "url": "https://hetq.am/en/article/184469",
-      "published_date": "2026-10-06T10:10:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Pashinyan Pitch: Armenia Targets UK Capital for Massive Regional Transit and Tech Hub",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184464",
-      "published_date": "2026-10-06T08:28:00Z",
-      "category": "Energy"
+      "url": "https://hetq.am/en/article/184671",
+      "published_date": "2026-10-13T12:16:00Z",
+      "category": "Economy"
     },
     {
       "title": "Georgia Scraps Offshore Intermediary in Azerbaijani Power Imports",
@@ -158,11 +144,39 @@
       "category": "Economy"
     },
     {
-      "title": "Mapping the Unseen: How Armenia’s Central Bank is Quantifying Climate Risk for the Financial Future",
+      "title": "Church of Whitinsville to host annual fall festival Nov. 21",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/13/church-of-whitinsville-to-host-annual-fall-festival-nov-21/",
+      "published_date": "2026-10-13T15:52:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The sound that remains: Remembering Hachig Kazarian",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/13/the-sound-that-remains-remembering-hachig-kazarian/",
+      "published_date": "2026-10-13T15:51:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kim Kalunian to serve as master of ceremonies at ANCA ER’s 20th annual gala",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/13/kim-kalunian-to-serve-as-master-of-ceremonies-at-anca-ers-20th-annual-gala/",
+      "published_date": "2026-10-13T15:51:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Long live Pashinyan’s democracy! Cramming the jails with Facebook critics",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/13/long-live-pashinyans-democracy-cramming-the-jails-with-facebook-critics/",
+      "published_date": "2026-10-13T12:45:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Yerevan Municipal Officials to Get Massive Pay Hikes Under New 2027 Salary Framework",
       "source": "Hetq",
-      "url": "https://hetq.am/en/article/184434",
-      "published_date": "2026-10-06T17:44:00Z",
-      "category": "Economy"
+      "url": "https://hetq.am/en/article/184655",
+      "published_date": "2026-10-13T07:18:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Train Ride",
@@ -267,41 +281,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/184554",
       "published_date": "2026-10-08T17:43:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenia Proposes New Spending Framework for Foreign Delegations, Requiring an Extra $276,000",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184549",
-      "published_date": "2026-10-08T15:13:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "A diaspora-Armenia partnership revives a border village",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/08/a-diaspora-armenia-partnership-revives-a-border-village/",
-      "published_date": "2026-10-08T14:42:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "ANCA Eastern Region to host milestone 20th annual gala in Rhode Island",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/08/anca-eastern-region-to-host-milestone-20th-annual-gala-in-rhode-island/",
-      "published_date": "2026-10-08T10:34:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "St. Gregory’s Armenian food festival returns for a 49th year",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/08/st-gregorys-armenian-food-festival-returns-for-a-49th-year/",
-      "published_date": "2026-10-08T09:00:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Facebook Posts Land Eurosceptic Opposition Leader in Pre-Trial Detention",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184521",
-      "published_date": "2026-10-08T05:43:00Z",
       "category": "Local Events"
     }
   ]
