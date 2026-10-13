@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T20:06:51Z",
+  "generated_at": "2026-10-13T03:19:00Z",
   "country": "Armenia",
   "total_stories": 42,
   "categories": [
@@ -165,6 +165,13 @@
       "category": "Economy"
     },
     {
+      "title": "Train Ride",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/12/train-ride/",
+      "published_date": "2026-10-12T19:59:25Z",
+      "category": "Local Events"
+    },
+    {
       "title": "HYEMINDS benefit to feature vocalist Manet-Miriam and Avedisian School principal",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/10/12/hyeminds-benefit-to-feature-vocalist-manet-miriam-and-avedisian-school-principal/",
@@ -295,13 +302,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/184521",
       "published_date": "2026-10-08T05:43:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Aznavour Foundation to Manage Gyumri’s Friendship Park",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184518",
-      "published_date": "2026-10-08T04:02:00Z",
       "category": "Local Events"
     }
   ]
