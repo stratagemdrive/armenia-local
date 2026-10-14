@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-14T01:32:43Z",
+  "generated_at": "2026-10-14T15:42:00Z",
   "country": "Armenia",
-  "total_stories": 40,
+  "total_stories": 41,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Warsaw Security Forum: Armenia Touts &#039;Historic&#039; Strategic Milestones With EU",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184689",
+      "published_date": "2026-10-14T07:04:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU-Funded ‘ACTS’ Initiative Launches in Yerevan to Bridge the Global ‘Implementation Gap’ in Tobacco Cessation",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184687",
+      "published_date": "2026-10-14T06:50:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Armenia Calls for Urgent Overhaul of EU Eastern Partnership at Warsaw Security Forum",
       "source": "Hetq",
@@ -74,25 +88,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Access, independence and responsibility",
+      "title": "U.S. defense firms debut at Azerbaijan arms fair as Ondas’s Israeli ties emerge",
       "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/07/access-independence-and-responsibility/",
-      "published_date": "2026-10-07T11:34:52Z",
-      "category": "Diplomacy"
+      "url": "https://armenianweekly.com/2026/10/14/us-debut-at-adex/",
+      "published_date": "2026-10-14T14:04:39Z",
+      "category": "Military"
     },
     {
-      "title": "A seat at the table requires an independent voice",
+      "title": "Black Tuesday: The disappearance of Capt. Ara Mooradian",
       "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/07/a-seat-at-the-table-requires-an-independent-voice/",
-      "published_date": "2026-10-07T10:34:12Z",
-      "category": "Diplomacy"
+      "url": "https://armenianweekly.com/2026/10/14/black-tuesday-the-disappearance-of-capt-ara-mooradian/",
+      "published_date": "2026-10-14T13:28:19Z",
+      "category": "Military"
     },
     {
-      "title": "Pashinyan, Putin Discuss Bilateral Agenda in Birthday Telephone Call",
+      "title": "Two Worlds, One Language: How a 1962 Short Film United Soviet Armenia and the Global Diaspora",
       "source": "Hetq",
-      "url": "https://hetq.am/en/article/184498",
-      "published_date": "2026-10-07T09:55:00Z",
-      "category": "Diplomacy"
+      "url": "https://hetq.am/en/article/184686",
+      "published_date": "2026-10-14T03:46:00Z",
+      "category": "Military"
     },
     {
       "title": "The Spelling of Sovereignty: Armenia’s Future Depends on Reclaiming Its Classical Script",
@@ -123,13 +137,6 @@
       "category": "Energy"
     },
     {
-      "title": "Asphalt Plant Near Lake Sevan Suspended Over Toxic Emissions Following Hetq Investigation",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184495",
-      "published_date": "2026-10-07T09:33:00Z",
-      "category": "Energy"
-    },
-    {
       "title": "World Bank Group Mobilizes Record Private Capital for Developing Countries, Driving Job Creation",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/184671",
@@ -149,6 +156,48 @@
       "url": "https://hetq.am/en/article/184555",
       "published_date": "2026-10-08T17:46:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "ARF Day in New York to feature panel discussion and celebration",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/14/arf-day-in-new-york-to-feature-panel-discussion-and-celebration/",
+      "published_date": "2026-10-14T15:15:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Granite City hosts successful 2026 Midwest Junior Olympics",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/14/granite-city-hosts-successful-2026-midwest-junior-olympics/",
+      "published_date": "2026-10-14T14:53:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two Armenian fighters, one big night at UFC 331",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/14/two-armenian-fighters-one-big-night-at-ufc-331/",
+      "published_date": "2026-10-14T14:14:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pashinyan, Russian Railways Chief Discuss Regional Rail Integration Amid Infrastructure Push",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184693",
+      "published_date": "2026-10-14T10:11:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Turkish Authorities Seize Opposition Broadcaster Halk TV; Suspend Broadcasts",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184690",
+      "published_date": "2026-10-14T08:43:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why do we call each other “Unger”?",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/13/why-do-we-call-each-other-unger/",
+      "published_date": "2026-10-13T21:58:53Z",
+      "category": "Local Events"
     },
     {
       "title": "Church of Whitinsville to host annual fall festival Nov. 21",
@@ -246,48 +295,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/10/09/the-naghash-ensemble-kicks-off-its-north-american-tour-on-nov-4/",
       "published_date": "2026-10-09T15:54:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "ARF Youth represented at IUSY Balkan Round Table and Black Sea Area Committee",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/09/arf-youth-represented-at-iusy-balkan-round-table-and-black-sea-area-committee/",
-      "published_date": "2026-10-09T15:41:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pashinyan’s Civil Contract Party Monopolizes Parliamentary Probe into Armenian Apostolic Church &quot;Crisis&quot;",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184586",
-      "published_date": "2026-10-09T11:20:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Environmental Watchdog Deflects Blame to Yerevan City Hall Over Hrazdan Gorge Construction Violations",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184579",
-      "published_date": "2026-10-09T10:13:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Yerevan Municipality Ignores Key Questions; Excludes Anti-Corruption Court Access Road From 2027 Renovation Plans",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184568",
-      "published_date": "2026-10-09T07:21:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "From Coma to College Graduate: 2020 Artsakh Vet Describes Chaos at Mataghis",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184563",
-      "published_date": "2026-10-09T05:21:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nearly Fifty Arrested as Police Target Western Balkan Drug Network",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184554",
-      "published_date": "2026-10-08T17:43:00Z",
       "category": "Local Events"
     }
   ]
