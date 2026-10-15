@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-15T01:10:32Z",
+  "generated_at": "2026-10-15T15:29:36Z",
   "country": "Armenia",
-  "total_stories": 40,
+  "total_stories": 44,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,55 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Turkey, Armenia and the limits of transport-route diversification",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/15/turkey-armenia-and-the-limits-of-transport-route-diversification/",
+      "published_date": "2026-10-15T14:58:18Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Syunik’s Shaki incident exposes border security failures",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/15/syuniks-shaki-incident-exposes-border-security-failures/",
+      "published_date": "2026-10-15T13:18:28Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Yerevan to Host UN Biodiversity Conference as Protestors Demand Human Rights Integration Ahead of COP17",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184719",
+      "published_date": "2026-10-15T12:12:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN Chief Applauds Armenian Diplomacy at COP17 as Pashinyan Signals &quot;Final Stage&quot; for Azerbaijan Peace Deal",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184730",
+      "published_date": "2026-10-15T11:59:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Tufenkian X Doyle: Charity Auction in New York for Forcibly Displaced Families from Artsakh",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184721",
+      "published_date": "2026-10-15T09:48:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pashinyan Outlines 2031 Peace Framework with Azerbaijan and Reaffirms Stable Russia Ties",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184718",
+      "published_date": "2026-10-15T08:25:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN Secretary-General António Guterres Arrives in Yerevan for Historic COP17 Biodiversity Summit",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184714",
+      "published_date": "2026-10-15T03:47:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Warsaw Security Forum: Armenia Touts &#039;Historic&#039; Strategic Milestones With EU",
       "source": "Hetq",
@@ -64,27 +113,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/184557",
       "published_date": "2026-10-08T20:14:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Galstyan calls for OSCE PA visit to hostages in Baku",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/08/galstyan-calls-for-osce-pa-visit-to-hostages-in-baku/",
-      "published_date": "2026-10-08T14:40:41Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pashinyan Travels to Turkmenistan for CIS Leaders&#039; Summit",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184527",
-      "published_date": "2026-10-08T08:54:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pashinyan Rejects Medvedev&#039;s &quot;New Ukraine&quot; Label, Vows Greater Sovereignty",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184524",
-      "published_date": "2026-10-08T07:06:00Z",
       "category": "Diplomacy"
     },
     {
@@ -149,6 +177,20 @@
       "url": "https://hetq.am/en/article/184555",
       "published_date": "2026-10-08T17:46:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Voices across time: An homage to Robert Mirak",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/15/voices-across-time-an-homage-to-robert-mirak/",
+      "published_date": "2026-10-15T15:07:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Region in Brief",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/15/the-region-in-brief-187/",
+      "published_date": "2026-10-15T14:57:19Z",
+      "category": "Local Events"
     },
     {
       "title": "Armenian Constitutional Court Presidential Election Fails to Produce Winner; Vacancy Remains",
@@ -274,20 +316,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/10/12/sarkisian-workshop-series-to-feature-sarah-aziza/",
       "published_date": "2026-10-12T09:05:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "A timeline of biblical translation in Armenia",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/10/bible-armenian-translation-timeline/",
-      "published_date": "2026-10-10T13:29:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Interview: Dana Mashoian Walrath on genocide and art",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/09/interview-dana-mashoian-walrath-on-genocide-and-art/",
-      "published_date": "2026-10-09T16:24:30Z",
       "category": "Local Events"
     }
   ]
