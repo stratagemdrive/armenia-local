@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-14T15:42:00Z",
+  "generated_at": "2026-10-15T01:10:32Z",
   "country": "Armenia",
-  "total_stories": 41,
+  "total_stories": 40,
   "categories": [
     "Diplomacy",
     "Military",
@@ -123,13 +123,6 @@
       "category": "Military"
     },
     {
-      "title": "Over 100 members of Congress urge Rubio to withhold military aid to Baku",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/07/over-100-members-of-congress-urge-rubio-to-withhold-military-aid-to-baku/",
-      "published_date": "2026-10-07T17:36:39Z",
-      "category": "Military"
-    },
-    {
       "title": "Controversial Amulsar Gold Mine Reopens in Armenia After Decade of Environmental Delays",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/184636",
@@ -156,6 +149,13 @@
       "url": "https://hetq.am/en/article/184555",
       "published_date": "2026-10-08T17:46:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Armenian Constitutional Court Presidential Election Fails to Produce Winner; Vacancy Remains",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184701",
+      "published_date": "2026-10-14T17:24:00Z",
+      "category": "Local Events"
     },
     {
       "title": "ARF Day in New York to feature panel discussion and celebration",
@@ -288,13 +288,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/10/09/interview-dana-mashoian-walrath-on-genocide-and-art/",
       "published_date": "2026-10-09T16:24:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Naghash Ensemble kicks off its North American tour on Nov. 4",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/09/the-naghash-ensemble-kicks-off-its-north-american-tour-on-nov-4/",
-      "published_date": "2026-10-09T15:54:18Z",
       "category": "Local Events"
     }
   ]
