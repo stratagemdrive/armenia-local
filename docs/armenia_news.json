@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-15T15:29:36Z",
+  "generated_at": "2026-10-16T00:57:47Z",
   "country": "Armenia",
-  "total_stories": 44,
+  "total_stories": 43,
   "categories": [
     "Diplomacy",
     "Military",
@@ -15,6 +15,13 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/10/15/turkey-armenia-and-the-limits-of-transport-route-diversification/",
       "published_date": "2026-10-15T14:58:18Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU Budget Battles and Ukraine War Dominate High-Stakes European Council Summit in Brussels",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184733",
+      "published_date": "2026-10-15T13:21:00Z",
       "category": "Diplomacy"
     },
     {
@@ -109,13 +116,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Armenia and Iran Fast-Track Border Infrastructure Pacts Following Tehran Summit",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184557",
-      "published_date": "2026-10-08T20:14:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "U.S. defense firms debut at Azerbaijan arms fair as Ondas’s Israeli ties emerge",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/10/14/us-debut-at-adex/",
@@ -172,11 +172,11 @@
       "category": "Economy"
     },
     {
-      "title": "Georgia Scraps Offshore Intermediary in Azerbaijani Power Imports",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184555",
-      "published_date": "2026-10-08T17:46:00Z",
-      "category": "Economy"
+      "title": "Street art showcases the heart and rhythm of Gyumri",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/15/street-art-showcases-the-heart-and-rhythm-of-gyumri/",
+      "published_date": "2026-10-15T16:40:34Z",
+      "category": "Local Events"
     },
     {
       "title": "Voices across time: An homage to Robert Mirak",
@@ -190,6 +190,13 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/10/15/the-region-in-brief-187/",
       "published_date": "2026-10-15T14:57:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "From Gut to Target: Turning Human Bacteria into Precision Anti-Cancer Couriers",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184731",
+      "published_date": "2026-10-15T12:28:00Z",
       "category": "Local Events"
     },
     {
@@ -302,20 +309,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/10/12/a-hairenik-book-on-a-marine-corps-bunk/",
       "published_date": "2026-10-12T15:05:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "State-Private Alliance Forged to Restore Armenia&#039;s Historic Havuts Tar Monastery",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184629",
-      "published_date": "2026-10-12T10:27:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sarkisian Workshop Series to feature Sarah Aziza",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/12/sarkisian-workshop-series-to-feature-sarah-aziza/",
-      "published_date": "2026-10-12T09:05:11Z",
       "category": "Local Events"
     }
   ]
