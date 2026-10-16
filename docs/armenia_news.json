@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-16T00:57:47Z",
+  "generated_at": "2026-10-16T15:13:07Z",
   "country": "Armenia",
-  "total_stories": 43,
+  "total_stories": 48,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,48 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Ishkhan Saghatelyan holds series of meetings in Paris and Brussels",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/16/ishkhan-saghatelyan-holds-series-of-meetings-in-paris-and-brussels/",
+      "published_date": "2026-10-16T14:03:39Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Armenia, UNESCO Pledge Deeper Cooperation on Cultural Heritage, Education",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184766",
+      "published_date": "2026-10-16T12:11:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Armenia, EU Push for Visa Liberalization and Deeper Energy Ties at Yerevan Biodiversity Summit",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184763",
+      "published_date": "2026-10-16T11:01:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pashinyan, Iranian President Meet in Yerevan to Deepen Bilateral Ties",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184761",
+      "published_date": "2026-10-16T10:31:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Tehran Expresses Full Trust in Armenia Over TRIPP Infrastructure Project",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184759",
+      "published_date": "2026-10-16T10:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pashinyan Declares Peace Agreement with Azerbaijan Essential for Regional Environmental Protection",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184750",
+      "published_date": "2026-10-16T06:35:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Turkey, Armenia and the limits of transport-route diversification",
       "source": "The Armenian Weekly",
@@ -109,13 +151,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Armenian Foreign Minister to Attend Warsaw Security Forum 2026",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184618",
-      "published_date": "2026-10-11T15:44:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "U.S. defense firms debut at Azerbaijan arms fair as Ondas’s Israeli ties emerge",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/10/14/us-debut-at-adex/",
@@ -170,6 +205,20 @@
       "url": "https://hetq.am/en/article/184654",
       "published_date": "2026-10-13T09:21:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "ANCA endorses congressional allies for 2026 midterm elections",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/16/anca-endorses-congressional-allies-for-2026-midterm-elections/",
+      "published_date": "2026-10-16T14:27:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Global Leaders Gather at Yerevan&#039;s &quot;Leaders for Nature&quot; Summit to Advance Biodiversity Financing and Policy",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184760",
+      "published_date": "2026-10-16T10:10:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Street art showcases the heart and rhythm of Gyumri",
@@ -295,20 +344,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/10/12/hyeminds-benefit-to-feature-vocalist-manet-miriam-and-avedisian-school-principal/",
       "published_date": "2026-10-12T15:39:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "AMA announces “Beyond the Curtain” exhibition opening Oct. 22",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/12/ama-announces-beyond-the-curtain-exhibition-opening-oct-22/",
-      "published_date": "2026-10-12T15:09:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "A Hairenik book on a Marine Corps bunk",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/12/a-hairenik-book-on-a-marine-corps-bunk/",
-      "published_date": "2026-10-12T15:05:30Z",
       "category": "Local Events"
     }
   ]
