@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-17T00:58:31Z",
+  "generated_at": "2026-10-17T14:03:35Z",
   "country": "Armenia",
-  "total_stories": 48,
+  "total_stories": 47,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Armenia and Colombia Launch Global CARES Alliance in Yerevan to Battle Species Extinction",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184779",
+      "published_date": "2026-10-16T16:50:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Ishkhan Saghatelyan holds series of meetings in Paris and Brussels",
       "source": "The Armenian Weekly",
@@ -144,13 +151,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Armenian, Egyptian Foreign Ministers Discuss Peace Agendas and Bilateral Ties",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184639",
-      "published_date": "2026-10-12T14:31:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "U.S. defense firms debut at Azerbaijan arms fair as Ondas’s Israeli ties emerge",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/10/14/us-debut-at-adex/",
@@ -176,13 +176,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/184621",
       "published_date": "2026-10-12T03:46:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Corruption and Chainsaws: Gor Hovhannisyan on the Ongoing Battle for Armenia&#039;s Forests",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184594",
-      "published_date": "2026-10-10T06:35:00Z",
       "category": "Military"
     },
     {
