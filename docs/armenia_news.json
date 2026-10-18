@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T00:33:55Z",
+  "generated_at": "2026-10-18T14:19:17Z",
   "country": "Armenia",
   "total_stories": 47,
   "categories": [
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Activists Accuse Armenian Government of Suppressing Dissent Ahead of Global Climate Summit",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184793",
+      "published_date": "2026-10-17T15:12:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Armenia and Colombia Launch Global CARES Alliance in Yerevan to Battle Species Extinction",
       "source": "Hetq",
@@ -144,13 +151,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Armenian Security Chief Alen Simonyan Meets with U.S.-Based &#039;Save Armenia&#039; to Discuss Strategic Partnership",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184661",
-      "published_date": "2026-10-13T09:15:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "U.S. defense firms debut at Azerbaijan arms fair as Ondas’s Israeli ties emerge",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/10/14/us-debut-at-adex/",
@@ -198,6 +198,13 @@
       "url": "https://hetq.am/en/article/184654",
       "published_date": "2026-10-13T09:21:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Anchoring the Wandering Tongue: Can Armenia Become a Living Haven for Western Armenian?",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184798",
+      "published_date": "2026-10-18T07:13:00Z",
+      "category": "Local Events"
     },
     {
       "title": "From Charity to Statecraft: Pashinyan’s ‘Real Armenia’ Framework Sparks Radical Pivot and Controversy on the Pan-Armenian Fund’s 35th Anniversary",
@@ -330,13 +337,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/10/13/church-of-whitinsville-to-host-annual-fall-festival-nov-21/",
       "published_date": "2026-10-13T15:52:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The sound that remains: Remembering Hachig Kazarian",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/13/the-sound-that-remains-remembering-hachig-kazarian/",
-      "published_date": "2026-10-13T15:51:32Z",
       "category": "Local Events"
     }
   ]
