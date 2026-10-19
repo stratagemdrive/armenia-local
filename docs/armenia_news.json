@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-19T00:42:54Z",
+  "generated_at": "2026-10-19T17:19:55Z",
   "country": "Armenia",
-  "total_stories": 47,
+  "total_stories": 45,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,27 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Beyond symbolism: Building the capacity Armenia requires",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/19/beyond-symbolism-building-the-capacity-armenia-requires/",
+      "published_date": "2026-10-19T14:24:32Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Armenia Foils US-Bound Tobacco Smuggling Plot",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184825",
+      "published_date": "2026-10-19T12:55:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Armenia Assumes Two-Year UN COP17 Presidency to Drive Global 2030 Biodiversity Goals",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184820",
+      "published_date": "2026-10-19T10:09:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Activists Accuse Armenian Government of Suppressing Dissent Ahead of Global Climate Summit",
       "source": "Hetq",
@@ -130,27 +151,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU-Funded ‘ACTS’ Initiative Launches in Yerevan to Bridge the Global ‘Implementation Gap’ in Tobacco Cessation",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184687",
-      "published_date": "2026-10-14T06:50:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Armenia Calls for Urgent Overhaul of EU Eastern Partnership at Warsaw Security Forum",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184679",
-      "published_date": "2026-10-13T18:06:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Armenia, Germany Advance Strategic Partnership and Trade Ties at Warsaw Security Forum",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184669",
-      "published_date": "2026-10-13T11:58:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "U.S. defense firms debut at Azerbaijan arms fair as Ondas’s Israeli ties emerge",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/10/14/us-debut-at-adex/",
@@ -172,20 +172,6 @@
       "category": "Military"
     },
     {
-      "title": "The Spelling of Sovereignty: Armenia’s Future Depends on Reclaiming Its Classical Script",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184621",
-      "published_date": "2026-10-12T03:46:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Controversial Amulsar Gold Mine Reopens in Armenia After Decade of Environmental Delays",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184636",
-      "published_date": "2026-10-12T12:28:00Z",
-      "category": "Energy"
-    },
-    {
       "title": "World Bank Group Mobilizes Record Private Capital for Developing Countries, Driving Job Creation",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/184671",
@@ -198,6 +184,34 @@
       "url": "https://hetq.am/en/article/184654",
       "published_date": "2026-10-13T09:21:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "In ‘Outliving Shakespeare,’ defying the final act becomes a beautiful work of art",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/19/in-outliving-shakespeare-defying-the-final-act-becomes-a-beautiful-work-of-art/",
+      "published_date": "2026-10-19T15:34:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hye House brings “Middle East River” to Melrose Ballroom on Oct. 24",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/19/hye-house-brings-middle-east-river-to-melrose-ballroom-on-oct-24/",
+      "published_date": "2026-10-19T15:32:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Former Artik Mayor Mkhitar Varagyan Mounts Comeback Bid in Upcoming Local Elections",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184821",
+      "published_date": "2026-10-19T11:19:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Former Deputy Education Minister  Appointed Acting Rector of Armenian State Pedagogical University",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184818",
+      "published_date": "2026-10-19T08:45:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Anchoring the Wandering Tongue: Can Armenia Become a Living Haven for Western Armenian?",
@@ -309,34 +323,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/10/14/two-armenian-fighters-one-big-night-at-ufc-331/",
       "published_date": "2026-10-14T14:14:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pashinyan, Russian Railways Chief Discuss Regional Rail Integration Amid Infrastructure Push",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184693",
-      "published_date": "2026-10-14T10:11:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turkish Authorities Seize Opposition Broadcaster Halk TV; Suspend Broadcasts",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184690",
-      "published_date": "2026-10-14T08:43:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why do we call each other “Unger”?",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/13/why-do-we-call-each-other-unger/",
-      "published_date": "2026-10-13T21:58:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Church of Whitinsville to host annual fall festival Nov. 21",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/13/church-of-whitinsville-to-host-annual-fall-festival-nov-21/",
-      "published_date": "2026-10-13T15:52:22Z",
       "category": "Local Events"
     }
   ]
