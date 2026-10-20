@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T17:19:55Z",
+  "generated_at": "2026-10-20T01:28:20Z",
   "country": "Armenia",
   "total_stories": 45,
   "categories": [
@@ -186,6 +186,13 @@
       "category": "Economy"
     },
     {
+      "title": "To the Rescue",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/19/to-the-rescue/",
+      "published_date": "2026-10-19T23:15:19Z",
+      "category": "Local Events"
+    },
+    {
       "title": "In ‘Outliving Shakespeare,’ defying the final act becomes a beautiful work of art",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/10/19/in-outliving-shakespeare-defying-the-final-act-becomes-a-beautiful-work-of-art/",
@@ -316,13 +323,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/10/14/granite-city-hosts-successful-2026-midwest-junior-olympics/",
       "published_date": "2026-10-14T14:53:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two Armenian fighters, one big night at UFC 331",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/14/two-armenian-fighters-one-big-night-at-ufc-331/",
-      "published_date": "2026-10-14T14:14:10Z",
       "category": "Local Events"
     }
   ]
