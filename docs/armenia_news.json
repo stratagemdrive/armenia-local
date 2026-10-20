@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-20T01:28:20Z",
+  "generated_at": "2026-10-20T15:33:09Z",
   "country": "Armenia",
-  "total_stories": 45,
+  "total_stories": 46,
   "categories": [
     "Diplomacy",
     "Military",
@@ -151,6 +151,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Shovels in the Ruins: The Shameless, Year-Round Pillage of Armenia’s Ancient Past",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184838",
+      "published_date": "2026-10-20T13:37:00Z",
+      "category": "Military"
+    },
+    {
       "title": "U.S. defense firms debut at Azerbaijan arms fair as Ondas’s Israeli ties emerge",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/10/14/us-debut-at-adex/",
@@ -172,18 +179,32 @@
       "category": "Military"
     },
     {
-      "title": "World Bank Group Mobilizes Record Private Capital for Developing Countries, Driving Job Creation",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184671",
-      "published_date": "2026-10-13T12:16:00Z",
+      "title": "The craftsman of Vanadzor: Azat Sargsyan’s path to music",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/20/the-craftsman-of-vanadzor-azat-sargsyans-path-to-music/",
+      "published_date": "2026-10-20T15:26:25Z",
       "category": "Economy"
     },
     {
-      "title": "Armenia’s Public Debt Projected to Surge to $17.83 Billion) in 2027",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184654",
-      "published_date": "2026-10-13T09:21:00Z",
+      "title": "AMoA announces the appointment of Sarah Hayes as deputy director",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/20/amoa-announces-the-appointment-of-sarah-hayes-as-deputy-director/",
+      "published_date": "2026-10-20T15:24:19Z",
       "category": "Economy"
+    },
+    {
+      "title": "Turkish research center repeatedly praises Pashinyan and criticizes the diaspora",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/20/turkish-research-center-repeatedly-praises-pashinyan-and-criticizes-the-diaspora/",
+      "published_date": "2026-10-20T15:23:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "French Magazine SommelierS International Highlights Armenia as the Cradle of Wine",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184852",
+      "published_date": "2026-10-20T15:21:00Z",
+      "category": "Local Events"
     },
     {
       "title": "To the Rescue",
@@ -309,20 +330,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/184701",
       "published_date": "2026-10-14T17:24:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "ARF Day in New York to feature panel discussion and celebration",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/14/arf-day-in-new-york-to-feature-panel-discussion-and-celebration/",
-      "published_date": "2026-10-14T15:15:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Granite City hosts successful 2026 Midwest Junior Olympics",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/14/granite-city-hosts-successful-2026-midwest-junior-olympics/",
-      "published_date": "2026-10-14T14:53:11Z",
       "category": "Local Events"
     }
   ]
