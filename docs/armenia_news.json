@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T15:33:09Z",
+  "generated_at": "2026-10-21T01:11:57Z",
   "country": "Armenia",
   "total_stories": 46,
   "categories": [
@@ -193,6 +193,13 @@
       "category": "Economy"
     },
     {
+      "title": "Armenia’s Firebird AI megaproject: A comprehensive assessment",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/20/armenias-firebird-ai-megaproject-a-comprehensive-assessment/",
+      "published_date": "2026-10-20T15:29:47Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Turkish research center repeatedly praises Pashinyan and criticizes the diaspora",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/10/20/turkish-research-center-repeatedly-praises-pashinyan-and-criticizes-the-diaspora/",
@@ -323,13 +330,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/184731",
       "published_date": "2026-10-15T12:28:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenian Constitutional Court Presidential Election Fails to Produce Winner; Vacancy Remains",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184701",
-      "published_date": "2026-10-14T17:24:00Z",
       "category": "Local Events"
     }
   ]
