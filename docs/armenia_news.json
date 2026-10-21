@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-21T01:11:57Z",
+  "generated_at": "2026-10-21T15:49:37Z",
   "country": "Armenia",
-  "total_stories": 46,
+  "total_stories": 44,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Armenian Parliamentary Committee Approves Major Trade and Investment Agreement with UAE",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184867",
+      "published_date": "2026-10-21T09:18:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Armenian Deputy Speaker, Serbian Ambassador Map Out Expanded Economic and Parliamentary Ties",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184863",
+      "published_date": "2026-10-21T07:27:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Beyond symbolism: Building the capacity Armenia requires",
       "source": "The Armenian Weekly",
@@ -137,45 +151,17 @@
       "category": "Diplomacy"
     },
     {
-      "title": "UN Secretary-General António Guterres Arrives in Yerevan for Historic COP17 Biodiversity Summit",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184714",
-      "published_date": "2026-10-15T03:47:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Warsaw Security Forum: Armenia Touts &#039;Historic&#039; Strategic Milestones With EU",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184689",
-      "published_date": "2026-10-14T07:04:00Z",
-      "category": "Diplomacy"
+      "title": "An open letter to Prime Minister Pashinyan",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/21/an-open-letter-to-prime-minister-pashinyan/",
+      "published_date": "2026-10-21T14:31:44Z",
+      "category": "Military"
     },
     {
       "title": "Shovels in the Ruins: The Shameless, Year-Round Pillage of Armenia’s Ancient Past",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/184838",
       "published_date": "2026-10-20T13:37:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "U.S. defense firms debut at Azerbaijan arms fair as Ondas’s Israeli ties emerge",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/14/us-debut-at-adex/",
-      "published_date": "2026-10-14T14:04:39Z",
-      "category": "Military"
-    },
-    {
-      "title": "Black Tuesday: The disappearance of Capt. Ara Mooradian",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/14/black-tuesday-the-disappearance-of-capt-ara-mooradian/",
-      "published_date": "2026-10-14T13:28:19Z",
-      "category": "Military"
-    },
-    {
-      "title": "Two Worlds, One Language: How a 1962 Short Film United Soviet Armenia and the Global Diaspora",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184686",
-      "published_date": "2026-10-14T03:46:00Z",
       "category": "Military"
     },
     {
@@ -191,6 +177,41 @@
       "url": "https://armenianweekly.com/2026/10/20/amoa-announces-the-appointment-of-sarah-hayes-as-deputy-director/",
       "published_date": "2026-10-20T15:24:19Z",
       "category": "Economy"
+    },
+    {
+      "title": "Remembering Aygestan: An Artsakh actress’s story of loss and longing",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/21/remembering-aygestan-an-artsakh-actresss-story-of-loss-and-longing/",
+      "published_date": "2026-10-21T14:47:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenian Bar presents Hrant Dink Freedom Award to Dr. Edita Gzoyan",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/21/armenian-bar-presents-hrant-dink-freedom-award-to-dr-edita-gzoyan/",
+      "published_date": "2026-10-21T14:36:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenian Bar convenes 2026 midyear meeting",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/21/armenian-bar-convenes-2026-midyear-meeting/",
+      "published_date": "2026-10-21T14:35:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Inside Armenia&#039;s Universal Health Care Rollout: Some Left Behind by the Safety Net",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184833",
+      "published_date": "2026-10-21T12:12:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fourteen Arrested in Stepanavan Anti-Corruption Raid Days Before Local Election",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184859",
+      "published_date": "2026-10-21T06:52:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Armenia’s Firebird AI megaproject: A comprehensive assessment",
@@ -295,41 +316,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/10/16/four-armenian-food-pop-ups-building-community-on-the-east-coast/",
       "published_date": "2026-10-16T12:34:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Global Leaders Gather at Yerevan&#039;s &quot;Leaders for Nature&quot; Summit to Advance Biodiversity Financing and Policy",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184760",
-      "published_date": "2026-10-16T10:10:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Street art showcases the heart and rhythm of Gyumri",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/15/street-art-showcases-the-heart-and-rhythm-of-gyumri/",
-      "published_date": "2026-10-15T16:40:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Voices across time: An homage to Robert Mirak",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/15/voices-across-time-an-homage-to-robert-mirak/",
-      "published_date": "2026-10-15T15:07:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Region in Brief",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/15/the-region-in-brief-187/",
-      "published_date": "2026-10-15T14:57:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "From Gut to Target: Turning Human Bacteria into Precision Anti-Cancer Couriers",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184731",
-      "published_date": "2026-10-15T12:28:00Z",
       "category": "Local Events"
     }
   ]
