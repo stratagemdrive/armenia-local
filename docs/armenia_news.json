@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-22T01:08:55Z",
+  "generated_at": "2026-10-22T15:47:03Z",
   "country": "Armenia",
-  "total_stories": 45,
+  "total_stories": 41,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Armenia&#039;s Offer to Safeguard Gaza&#039;s Ancient Manuscripts Stalled by Ongoing Blockade",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184906",
+      "published_date": "2026-10-22T14:50:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Lack of assurances and transparency from Yerevan on TRIPP",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/22/lack-of-assurances-and-transparency-from-yerevan-on-tripp/",
+      "published_date": "2026-10-22T14:43:01Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Armenian Parliamentary Committee Approves Major Trade and Investment Agreement with UAE",
       "source": "Hetq",
@@ -102,55 +116,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Turkey, Armenia and the limits of transport-route diversification",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/15/turkey-armenia-and-the-limits-of-transport-route-diversification/",
-      "published_date": "2026-10-15T14:58:18Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU Budget Battles and Ukraine War Dominate High-Stakes European Council Summit in Brussels",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184733",
-      "published_date": "2026-10-15T13:21:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Syunik’s Shaki incident exposes border security failures",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/15/syuniks-shaki-incident-exposes-border-security-failures/",
-      "published_date": "2026-10-15T13:18:28Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Yerevan to Host UN Biodiversity Conference as Protestors Demand Human Rights Integration Ahead of COP17",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184719",
-      "published_date": "2026-10-15T12:12:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UN Chief Applauds Armenian Diplomacy at COP17 as Pashinyan Signals &quot;Final Stage&quot; for Azerbaijan Peace Deal",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184730",
-      "published_date": "2026-10-15T11:59:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Tufenkian X Doyle: Charity Auction in New York for Forcibly Displaced Families from Artsakh",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184721",
-      "published_date": "2026-10-15T09:48:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pashinyan Outlines 2031 Peace Framework with Azerbaijan and Reaffirms Stable Russia Ties",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184718",
-      "published_date": "2026-10-15T08:25:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "An open letter to Prime Minister Pashinyan",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/10/21/an-open-letter-to-prime-minister-pashinyan/",
@@ -163,6 +128,13 @@
       "url": "https://hetq.am/en/article/184838",
       "published_date": "2026-10-20T13:37:00Z",
       "category": "Military"
+    },
+    {
+      "title": "AMISP releases policy report on education, research and innovation in Armenia",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/22/amisp-releases-policy-report-on-education-research-and-innovation-in-armenia/",
+      "published_date": "2026-10-22T13:56:48Z",
+      "category": "Economy"
     },
     {
       "title": "Barred at the Gates: Anna Shahnazaryan Confronts Corporate Pressure at COP17 In Yerevan",
@@ -184,6 +156,41 @@
       "url": "https://armenianweekly.com/2026/10/20/amoa-announces-the-appointment-of-sarah-hayes-as-deputy-director/",
       "published_date": "2026-10-20T15:24:19Z",
       "category": "Economy"
+    },
+    {
+      "title": "How a medical mission connected one student’s future to Armenia",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/22/how-a-medical-mission-connected-one-students-future-to-armenia/",
+      "published_date": "2026-10-22T15:25:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Region in Brief",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/22/the-region-in-brief-188/",
+      "published_date": "2026-10-22T14:41:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "A Birthday in Italy with Unibank",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184903",
+      "published_date": "2026-10-22T13:09:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pashinyan Outlines Peace Timeline, Constitutional Reforms, and Regional Alliances at Post-Cabinet Briefing",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184887",
+      "published_date": "2026-10-22T08:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenian Delegation Visits Syunik to Launch Infrastructure Design Phase for US-Backed TRIPP Transit Project",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184884",
+      "published_date": "2026-10-22T06:17:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Remembering Aygestan: An Artsakh actress’s story of loss and longing",
@@ -288,41 +295,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/184780",
       "published_date": "2026-10-16T20:19:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The fifth “I” in storytelling: An interview with myself",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/16/the-fifth-i-in-storytelling-an-interview-with-myself/",
-      "published_date": "2026-10-16T16:40:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Beyond the finish line: The 2026 AYF-YOARF Junior Athletic Games",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/16/beyond-the-finish-line-the-2026-ayf-yoarf-junior-athletic-games/",
-      "published_date": "2026-10-16T15:57:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lebanese Political Delegation Meets with Catholicos Aram I to Discuss Southern Crisis and National Unity",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184778",
-      "published_date": "2026-10-16T15:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "ANCA endorses congressional allies for 2026 midterm elections",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/16/anca-endorses-congressional-allies-for-2026-midterm-elections/",
-      "published_date": "2026-10-16T14:27:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Four Armenian food pop-ups building community on the East Coast",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/16/four-armenian-food-pop-ups-building-community-on-the-east-coast/",
-      "published_date": "2026-10-16T12:34:18Z",
       "category": "Local Events"
     }
   ]
