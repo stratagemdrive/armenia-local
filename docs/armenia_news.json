@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-23T01:08:34Z",
+  "generated_at": "2026-10-23T15:38:20Z",
   "country": "Armenia",
-  "total_stories": 41,
+  "total_stories": 38,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Embassy interventions reportedly canceled Artsakh ensembles’ Vienna festival appearance",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/23/embassy-interventions-reportedly-canceled-artsakh-ensembles-vienna-festival-appearance/",
+      "published_date": "2026-10-23T15:36:36Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "U.S. Donates $1.4 Million in Border Security Equipment to Armenia",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184915",
+      "published_date": "2026-10-23T06:51:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Armenia&#039;s Offer to Safeguard Gaza&#039;s Ancient Manuscripts Stalled by Ongoing Blockade",
       "source": "Hetq",
@@ -74,48 +88,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Ishkhan Saghatelyan holds series of meetings in Paris and Brussels",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/16/ishkhan-saghatelyan-holds-series-of-meetings-in-paris-and-brussels/",
-      "published_date": "2026-10-16T14:03:39Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Armenia, UNESCO Pledge Deeper Cooperation on Cultural Heritage, Education",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184766",
-      "published_date": "2026-10-16T12:11:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Armenia, EU Push for Visa Liberalization and Deeper Energy Ties at Yerevan Biodiversity Summit",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184763",
-      "published_date": "2026-10-16T11:01:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pashinyan, Iranian President Meet in Yerevan to Deepen Bilateral Ties",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184761",
-      "published_date": "2026-10-16T10:31:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Tehran Expresses Full Trust in Armenia Over TRIPP Infrastructure Project",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184759",
-      "published_date": "2026-10-16T10:00:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pashinyan Declares Peace Agreement with Azerbaijan Essential for Regional Environmental Protection",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184750",
-      "published_date": "2026-10-16T06:35:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "An open letter to Prime Minister Pashinyan",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/10/21/an-open-letter-to-prime-minister-pashinyan/",
@@ -128,6 +100,13 @@
       "url": "https://hetq.am/en/article/184838",
       "published_date": "2026-10-20T13:37:00Z",
       "category": "Military"
+    },
+    {
+      "title": "Lusine Shaboyan paints what words fail to express",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/23/lusine-shaboyan-paints-what-words-fail-to-express/",
+      "published_date": "2026-10-23T15:19:06Z",
+      "category": "Energy"
     },
     {
       "title": "AMISP releases policy report on education, research and innovation in Armenia",
@@ -156,6 +135,62 @@
       "url": "https://armenianweekly.com/2026/10/20/amoa-announces-the-appointment-of-sarah-hayes-as-deputy-director/",
       "published_date": "2026-10-20T15:24:19Z",
       "category": "Economy"
+    },
+    {
+      "title": "ANCA ER announces Seventh Annual Online Christmas Auction",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/23/anca-er-announces-seventh-annual-online-christmas-auction/",
+      "published_date": "2026-10-23T14:57:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "ANCA post-election Townhall to map out Armenian American agenda",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/23/anca-post-election-townhall-to-map-out-armenian-american-agenda/",
+      "published_date": "2026-10-23T14:56:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Listening to Hachig",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/23/listening-to-hachig/",
+      "published_date": "2026-10-23T12:21:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why do we go to church, or why don’t we?",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/23/why-do-we-go-to-church-or-why-dont-we/",
+      "published_date": "2026-10-23T12:16:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Stepanavan Election Bribery Probe Intensifies: 10 More Arrested Just Days Before Vote",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184922",
+      "published_date": "2026-10-23T10:34:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Shadow of a Superstratum: The Russian and English Rewiring of Modern Eastern Armenian",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184919",
+      "published_date": "2026-10-23T08:05:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rooted in Armenia’s Survival: How a Wartime Ecological Crisis Sparked a 10-Million-Tree Legacy",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184904",
+      "published_date": "2026-10-23T06:55:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenian Evangelical World Council convenes in New Jersey",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/22/armenian-evangelical-world-council-convenes-in-new-jersey/",
+      "published_date": "2026-10-22T19:53:48Z",
+      "category": "Local Events"
     },
     {
       "title": "How a medical mission connected one student’s future to Armenia",
@@ -239,62 +274,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/10/20/turkish-research-center-repeatedly-praises-pashinyan-and-criticizes-the-diaspora/",
       "published_date": "2026-10-20T15:23:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "French Magazine SommelierS International Highlights Armenia as the Cradle of Wine",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184852",
-      "published_date": "2026-10-20T15:21:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "To the Rescue",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/19/to-the-rescue/",
-      "published_date": "2026-10-19T23:15:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "In ‘Outliving Shakespeare,’ defying the final act becomes a beautiful work of art",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/19/in-outliving-shakespeare-defying-the-final-act-becomes-a-beautiful-work-of-art/",
-      "published_date": "2026-10-19T15:34:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hye House brings “Middle East River” to Melrose Ballroom on Oct. 24",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/19/hye-house-brings-middle-east-river-to-melrose-ballroom-on-oct-24/",
-      "published_date": "2026-10-19T15:32:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former Artik Mayor Mkhitar Varagyan Mounts Comeback Bid in Upcoming Local Elections",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184821",
-      "published_date": "2026-10-19T11:19:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former Deputy Education Minister  Appointed Acting Rector of Armenian State Pedagogical University",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184818",
-      "published_date": "2026-10-19T08:45:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Anchoring the Wandering Tongue: Can Armenia Become a Living Haven for Western Armenian?",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184798",
-      "published_date": "2026-10-18T07:13:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "From Charity to Statecraft: Pashinyan’s ‘Real Armenia’ Framework Sparks Radical Pivot and Controversy on the Pan-Armenian Fund’s 35th Anniversary",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184780",
-      "published_date": "2026-10-16T20:19:00Z",
       "category": "Local Events"
     }
   ]
