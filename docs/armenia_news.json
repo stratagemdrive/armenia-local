@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-23T15:38:20Z",
+  "generated_at": "2026-10-24T01:19:28Z",
   "country": "Armenia",
-  "total_stories": 38,
+  "total_stories": 37,
   "categories": [
     "Diplomacy",
     "Military",
@@ -81,13 +81,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Armenia and Colombia Launch Global CARES Alliance in Yerevan to Battle Species Extinction",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184779",
-      "published_date": "2026-10-16T16:50:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "An open letter to Prime Minister Pashinyan",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/10/21/an-open-letter-to-prime-minister-pashinyan/",
@@ -135,6 +128,13 @@
       "url": "https://armenianweekly.com/2026/10/20/amoa-announces-the-appointment-of-sarah-hayes-as-deputy-director/",
       "published_date": "2026-10-20T15:24:19Z",
       "category": "Economy"
+    },
+    {
+      "title": "Court Extends Pre-Trial Detention for Former Armenian President Robert Kocharyan",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184928",
+      "published_date": "2026-10-23T15:44:00Z",
+      "category": "Local Events"
     },
     {
       "title": "ANCA ER announces Seventh Annual Online Christmas Auction",
@@ -267,13 +267,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/10/20/armenias-firebird-ai-megaproject-a-comprehensive-assessment/",
       "published_date": "2026-10-20T15:29:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turkish research center repeatedly praises Pashinyan and criticizes the diaspora",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/20/turkish-research-center-repeatedly-praises-pashinyan-and-criticizes-the-diaspora/",
-      "published_date": "2026-10-20T15:23:44Z",
       "category": "Local Events"
     }
   ]
