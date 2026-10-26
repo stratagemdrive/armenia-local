@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-26T00:56:47Z",
+  "generated_at": "2026-10-26T17:07:29Z",
   "country": "Armenia",
-  "total_stories": 36,
+  "total_stories": 35,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Armenia, EU Pledge Deeper Ties Across Energy, Transport, and Digital Infrastructure",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184995",
+      "published_date": "2026-10-26T10:51:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "COP17 First Week Outcomes: Armenia Advances Accords on AI Biosecurity, Gender Financing, and Massive Lake Sevan Restoration",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184982",
+      "published_date": "2026-10-26T05:45:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Embassy interventions reportedly canceled Artsakh ensembles’ Vienna festival appearance",
       "source": "The Armenian Weekly",
@@ -50,27 +64,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/184863",
       "published_date": "2026-10-21T07:27:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Beyond symbolism: Building the capacity Armenia requires",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/19/beyond-symbolism-building-the-capacity-armenia-requires/",
-      "published_date": "2026-10-19T14:24:32Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Armenia Foils US-Bound Tobacco Smuggling Plot",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184825",
-      "published_date": "2026-10-19T12:55:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Armenia Assumes Two-Year UN COP17 Presidency to Drive Global 2030 Biodiversity Goals",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184820",
-      "published_date": "2026-10-19T10:09:00Z",
       "category": "Diplomacy"
     },
     {
@@ -121,6 +114,62 @@
       "url": "https://armenianweekly.com/2026/10/20/amoa-announces-the-appointment-of-sarah-hayes-as-deputy-director/",
       "published_date": "2026-10-20T15:24:19Z",
       "category": "Economy"
+    },
+    {
+      "title": "Built to Last",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/26/built-to-last/",
+      "published_date": "2026-10-26T16:51:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "One month until 10th anniversary Armenian Genealogy Conference",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/26/one-month-until-10th-anniversary-armenian-genealogy-conference/",
+      "published_date": "2026-10-26T15:29:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Şahan Arzruni, pianist and scholar, dies at 83",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/26/sahan-arzruni-pianist-and-scholar-dies-at-83/",
+      "published_date": "2026-10-26T15:17:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenia’s Naré wins Junior Eurovision 2026",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/26/armenias-nare-wins-junior-eurovision-2026/",
+      "published_date": "2026-10-26T15:16:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rhetorical Unity, Practical Detachment: The Eternal Homeland-Diaspora Dance",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184998",
+      "published_date": "2026-10-26T12:40:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenian seminaries: The heartbeat of the Church and the foundation of her future",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/26/armenian-seminaries-the-heartbeat-of-the-church-and-the-foundation-of-her-future/",
+      "published_date": "2026-10-26T10:00:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenian Government Moves to Reclaim Gyumri Boxing Gym via Eminent Domain",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184993",
+      "published_date": "2026-10-26T09:56:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenia Backs Toughened Domestic Violence Bill; Expands Reporting Rights to General Public",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184990",
+      "published_date": "2026-10-26T09:10:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Court Extends Pre-Trial Detention for Former Armenian President Robert Kocharyan",
@@ -204,62 +253,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/184903",
       "published_date": "2026-10-22T13:09:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pashinyan Outlines Peace Timeline, Constitutional Reforms, and Regional Alliances at Post-Cabinet Briefing",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184887",
-      "published_date": "2026-10-22T08:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenian Delegation Visits Syunik to Launch Infrastructure Design Phase for US-Backed TRIPP Transit Project",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184884",
-      "published_date": "2026-10-22T06:17:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Remembering Aygestan: An Artsakh actress’s story of loss and longing",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/21/remembering-aygestan-an-artsakh-actresss-story-of-loss-and-longing/",
-      "published_date": "2026-10-21T14:47:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenian Bar presents Hrant Dink Freedom Award to Dr. Edita Gzoyan",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/21/armenian-bar-presents-hrant-dink-freedom-award-to-dr-edita-gzoyan/",
-      "published_date": "2026-10-21T14:36:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenian Bar convenes 2026 midyear meeting",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/21/armenian-bar-convenes-2026-midyear-meeting/",
-      "published_date": "2026-10-21T14:35:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inside Armenia&#039;s Universal Health Care Rollout: Some Left Behind by the Safety Net",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184833",
-      "published_date": "2026-10-21T12:12:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fourteen Arrested in Stepanavan Anti-Corruption Raid Days Before Local Election",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184859",
-      "published_date": "2026-10-21T06:52:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenia’s Firebird AI megaproject: A comprehensive assessment",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/20/armenias-firebird-ai-megaproject-a-comprehensive-assessment/",
-      "published_date": "2026-10-20T15:29:47Z",
       "category": "Local Events"
     }
   ]
