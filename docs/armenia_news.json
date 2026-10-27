@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-27T01:46:45Z",
+  "generated_at": "2026-10-27T16:12:01Z",
   "country": "Armenia",
-  "total_stories": 35,
+  "total_stories": 37,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,34 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "ANC-International releases report on Baku’s case against Ruben Vardanyan",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/27/anc-international-releases-report-on-bakus-case-against-ruben-vardanyan/",
+      "published_date": "2026-10-27T13:33:19Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pashinyan Hosts Spain&#039;s Queen Sofía in Yerevan Ahead of Global Human Development Awards",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/185028",
+      "published_date": "2026-10-27T12:18:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Armenia Pushes for Rights-Based Approach at COP17 ‘Human Rights and Biodiversity Day’ in Yerevan",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/185017",
+      "published_date": "2026-10-27T07:04:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Netherlands Announces Financial Aid to Boost Armenia Azerbaijan Missing Persons Search",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/185015",
+      "published_date": "2026-10-27T06:50:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Armenia, EU Pledge Deeper Ties Across Energy, Transport, and Digital Infrastructure",
       "source": "Hetq",
@@ -67,17 +95,17 @@
       "category": "Diplomacy"
     },
     {
+      "title": "The illusion of sovereignty in Armenia",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/27/the-illusion-of-sovereignty-in-armenia/",
+      "published_date": "2026-10-27T14:59:55Z",
+      "category": "Military"
+    },
+    {
       "title": "An open letter to Prime Minister Pashinyan",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/10/21/an-open-letter-to-prime-minister-pashinyan/",
       "published_date": "2026-10-21T14:31:44Z",
-      "category": "Military"
-    },
-    {
-      "title": "Shovels in the Ruins: The Shameless, Year-Round Pillage of Armenia’s Ancient Past",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184838",
-      "published_date": "2026-10-20T13:37:00Z",
       "category": "Military"
     },
     {
@@ -102,18 +130,39 @@
       "category": "Economy"
     },
     {
-      "title": "The craftsman of Vanadzor: Azat Sargsyan’s path to music",
+      "title": "Turkish and Azerbaijani media respond to my article on diaspora vs. Pashinyan",
       "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/20/the-craftsman-of-vanadzor-azat-sargsyans-path-to-music/",
-      "published_date": "2026-10-20T15:26:25Z",
-      "category": "Economy"
+      "url": "https://armenianweekly.com/2026/10/27/turkish-and-azerbaijani-media-respond-to-my-article-on-diaspora-vs-pashinyan/",
+      "published_date": "2026-10-27T15:43:27Z",
+      "category": "Local Events"
     },
     {
-      "title": "AMoA announces the appointment of Sarah Hayes as deputy director",
+      "title": "Panel discussion on the role of media in Armenia on Nov. 10",
       "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/20/amoa-announces-the-appointment-of-sarah-hayes-as-deputy-director/",
-      "published_date": "2026-10-20T15:24:19Z",
-      "category": "Economy"
+      "url": "https://armenianweekly.com/2026/10/27/panel-discussion-on-the-role-of-media-in-armenia-on-nov-10/",
+      "published_date": "2026-10-27T15:43:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Interview: The Naghash Ensemble on its 11-city U.S. tour",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/27/interview-the-naghash-ensemble-on-its-11-city-u-s-tour/",
+      "published_date": "2026-10-27T15:15:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two Yerevan State University Department Heads Arrested in Anti-Corruption Bribery Sting",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/185027",
+      "published_date": "2026-10-27T12:15:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenia Marks 27 Years Since Parliament Shooting; PM Pashinyan Honors Victims",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/185023",
+      "published_date": "2026-10-27T08:55:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Built to Last",
@@ -218,41 +267,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/184919",
       "published_date": "2026-10-23T08:05:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rooted in Armenia’s Survival: How a Wartime Ecological Crisis Sparked a 10-Million-Tree Legacy",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184904",
-      "published_date": "2026-10-23T06:55:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenian Evangelical World Council convenes in New Jersey",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/22/armenian-evangelical-world-council-convenes-in-new-jersey/",
-      "published_date": "2026-10-22T19:53:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "How a medical mission connected one student’s future to Armenia",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/22/how-a-medical-mission-connected-one-students-future-to-armenia/",
-      "published_date": "2026-10-22T15:25:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Region in Brief",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/22/the-region-in-brief-188/",
-      "published_date": "2026-10-22T14:41:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "A Birthday in Italy with Unibank",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184903",
-      "published_date": "2026-10-22T13:09:00Z",
       "category": "Local Events"
     }
   ]
