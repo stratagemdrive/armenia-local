@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-28T01:58:50Z",
+  "generated_at": "2026-10-28T16:59:21Z",
   "country": "Armenia",
-  "total_stories": 37,
+  "total_stories": 38,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,27 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Armenia Ready to Sign Azerbaijan Peace Treaty by End of 2026, Rejects Delay Claims",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/185073",
+      "published_date": "2026-10-28T14:20:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pashinyan Hosts Saudi Prince to Discuss Bilateral Ties, Investment, Regional Peace",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/185066",
+      "published_date": "2026-10-28T11:05:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ex-CSTO Chief Calls for Armenia’s Expulsion Over ‘Ambivalent’ Stance",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/185056",
+      "published_date": "2026-10-28T10:05:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "ANC-International releases report on Baku’s case against Ruben Vardanyan",
       "source": "The Armenian Weekly",
@@ -81,31 +102,10 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Armenian Parliamentary Committee Approves Major Trade and Investment Agreement with UAE",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184867",
-      "published_date": "2026-10-21T09:18:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Armenian Deputy Speaker, Serbian Ambassador Map Out Expanded Economic and Parliamentary Ties",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184863",
-      "published_date": "2026-10-21T07:27:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "The illusion of sovereignty in Armenia",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/10/27/the-illusion-of-sovereignty-in-armenia/",
       "published_date": "2026-10-27T14:59:55Z",
-      "category": "Military"
-    },
-    {
-      "title": "An open letter to Prime Minister Pashinyan",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/21/an-open-letter-to-prime-minister-pashinyan/",
-      "published_date": "2026-10-21T14:31:44Z",
       "category": "Military"
     },
     {
@@ -114,6 +114,13 @@
       "url": "https://armenianweekly.com/2026/10/23/lusine-shaboyan-paints-what-words-fail-to-express/",
       "published_date": "2026-10-23T15:19:06Z",
       "category": "Energy"
+    },
+    {
+      "title": "Galstyan warns TRIPP agreement carries sovereignty risks",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/28/galstyan-warns-tripp-agreement-carries-sovereignty-risks/",
+      "published_date": "2026-10-28T10:51:00Z",
+      "category": "Economy"
     },
     {
       "title": "AMISP releases policy report on education, research and innovation in Armenia",
@@ -128,6 +135,62 @@
       "url": "https://hetq.am/en/article/184880",
       "published_date": "2026-10-21T20:45:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "AMAA honors Rev. Dr. Vahan H. Tootikian and Dr. Nurhan Helvacian",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/28/amaa-honors-rev-dr-vahan-h-tootikian-and-dr-nurhan-helvacian/",
+      "published_date": "2026-10-28T15:22:13Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "AMAA holds 107th annual meeting in New Jersey",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/28/amaa-holds-107th-annual-meeting-in-new-jersey/",
+      "published_date": "2026-10-28T15:21:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "We speak Armenian to babies after four generations in the diaspora",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/28/we-speak-armenian-to-babies-after-four-generations-in-the-diaspora/",
+      "published_date": "2026-10-28T15:08:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Finding renewed purpose in the Armenian Museum of America",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/28/finding-renewed-purpose-in-the-armenian-museum-of-america/",
+      "published_date": "2026-10-28T15:08:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "In memory of Walter Vartanian",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/28/in-memory-of-walter-vartanian/",
+      "published_date": "2026-10-28T10:57:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenian Parliament Ratifies &quot;Board of Peace&quot; Charter to Bolster Regional Diplomacy",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/185063",
+      "published_date": "2026-10-28T10:44:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Yerevan Municipality Plans Hrazdan Gorge Cleanup Amid COP17 Venue Construction Controversy",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/185058",
+      "published_date": "2026-10-28T10:17:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "South Caucasus Ambassadors Discuss Peace and Regional Corridors at Rome Diplomacy Festival",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/185049",
+      "published_date": "2026-10-27T20:02:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Turkish and Azerbaijani media respond to my article on diaspora vs. Pashinyan",
@@ -211,62 +274,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/184993",
       "published_date": "2026-10-26T09:56:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenia Backs Toughened Domestic Violence Bill; Expands Reporting Rights to General Public",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184990",
-      "published_date": "2026-10-26T09:10:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Court Extends Pre-Trial Detention for Former Armenian President Robert Kocharyan",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184928",
-      "published_date": "2026-10-23T15:44:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "ANCA ER announces Seventh Annual Online Christmas Auction",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/23/anca-er-announces-seventh-annual-online-christmas-auction/",
-      "published_date": "2026-10-23T14:57:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "ANCA post-election Townhall to map out Armenian American agenda",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/23/anca-post-election-townhall-to-map-out-armenian-american-agenda/",
-      "published_date": "2026-10-23T14:56:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Listening to Hachig",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/23/listening-to-hachig/",
-      "published_date": "2026-10-23T12:21:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why do we go to church, or why don’t we?",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/23/why-do-we-go-to-church-or-why-dont-we/",
-      "published_date": "2026-10-23T12:16:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Stepanavan Election Bribery Probe Intensifies: 10 More Arrested Just Days Before Vote",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184922",
-      "published_date": "2026-10-23T10:34:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Shadow of a Superstratum: The Russian and English Rewiring of Modern Eastern Armenian",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184919",
-      "published_date": "2026-10-23T08:05:00Z",
       "category": "Local Events"
     }
   ]
