@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-30T02:20:51Z",
+  "generated_at": "2026-10-30T16:56:16Z",
   "country": "Armenia",
-  "total_stories": 36,
+  "total_stories": 35,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "The Micro-Battlefields of COP17: Inside Armenia’s Fight for Tradition and Environmental Survival",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/185126",
+      "published_date": "2026-10-30T15:09:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "ANC-International publishes dossier on Armenian hostages",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/30/anc-international-publishes-dossier-on-armenian-hostages/",
+      "published_date": "2026-10-30T12:39:35Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Armenia Ready to Sign Azerbaijan Peace Treaty by End of 2026, Rejects Delay Claims",
       "source": "Hetq",
@@ -74,20 +88,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Embassy interventions reportedly canceled Artsakh ensembles’ Vienna festival appearance",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/23/embassy-interventions-reportedly-canceled-artsakh-ensembles-vienna-festival-appearance/",
-      "published_date": "2026-10-23T15:36:36Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "U.S. Donates $1.4 Million in Border Security Equipment to Armenia",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184915",
-      "published_date": "2026-10-23T06:51:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Former Armenian Finance Minister Gagik Khachatryan’s Detention Extended Amid Severe Health Concerns",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/185092",
@@ -109,18 +109,32 @@
       "category": "Military"
     },
     {
-      "title": "Lusine Shaboyan paints what words fail to express",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/23/lusine-shaboyan-paints-what-words-fail-to-express/",
-      "published_date": "2026-10-23T15:19:06Z",
-      "category": "Energy"
-    },
-    {
       "title": "Galstyan warns TRIPP agreement carries sovereignty risks",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/10/28/galstyan-warns-tripp-agreement-carries-sovereignty-risks/",
       "published_date": "2026-10-28T10:51:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Michigan Armenian Americans mobilize ahead of 2026 U.S. Senate election",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/30/michigan-armenian-americans-mobilize-ahead-of-2026-u-s-senate-election/",
+      "published_date": "2026-10-30T13:40:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "A new shape, an enduring story at Armenian Heritage Park",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/30/a-new-shape-an-enduring-story-at-armenian-heritage-park/",
+      "published_date": "2026-10-30T09:41:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Khachig Tölölyan to discuss “Living Diaspora, Thinking Diaspora” at USC",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/10/30/khachig-tololyan-to-discuss-living-diaspora-thinking-diaspora-at-usc/",
+      "published_date": "2026-10-30T08:00:15Z",
+      "category": "Local Events"
     },
     {
       "title": "French Magazine Terre de Vins Spotlights Armenia Wine as Global Media Attention Grows",
@@ -239,27 +253,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/10/27/panel-discussion-on-the-role-of-media-in-armenia-on-nov-10/",
       "published_date": "2026-10-27T15:43:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Interview: The Naghash Ensemble on its 11-city U.S. tour",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/27/interview-the-naghash-ensemble-on-its-11-city-u-s-tour/",
-      "published_date": "2026-10-27T15:15:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two Yerevan State University Department Heads Arrested in Anti-Corruption Bribery Sting",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/185027",
-      "published_date": "2026-10-27T12:15:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenia Marks 27 Years Since Parliament Shooting; PM Pashinyan Honors Victims",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/185023",
-      "published_date": "2026-10-27T08:55:00Z",
       "category": "Local Events"
     }
   ]
