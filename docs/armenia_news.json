@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T17:18:30Z",
+  "generated_at": "2026-10-30T02:20:51Z",
   "country": "Armenia",
   "total_stories": 36,
   "categories": [
@@ -121,6 +121,13 @@
       "url": "https://armenianweekly.com/2026/10/28/galstyan-warns-tripp-agreement-carries-sovereignty-risks/",
       "published_date": "2026-10-28T10:51:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "French Magazine Terre de Vins Spotlights Armenia Wine as Global Media Attention Grows",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/185113",
+      "published_date": "2026-10-29T17:34:00Z",
+      "category": "Local Events"
     },
     {
       "title": "An Armenian-vampire connection running through our veins",
@@ -253,13 +260,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/185023",
       "published_date": "2026-10-27T08:55:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Built to Last",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/26/built-to-last/",
-      "published_date": "2026-10-26T16:51:54Z",
       "category": "Local Events"
     }
   ]
