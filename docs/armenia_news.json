@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T01:57:20Z",
+  "generated_at": "2026-10-31T15:56:56Z",
   "country": "Armenia",
   "total_stories": 35,
   "categories": [
@@ -114,6 +114,13 @@
       "url": "https://armenianweekly.com/2026/10/28/galstyan-warns-tripp-agreement-carries-sovereignty-risks/",
       "published_date": "2026-10-28T10:51:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Pashinyan Launches New Biometric Passport System Amid Debate Over Mount Ararat Exclusion",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/185138",
+      "published_date": "2026-10-31T06:49:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Michigan Armenian Americans mobilize ahead of 2026 U.S. Senate election",
@@ -246,13 +253,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/10/27/turkish-and-azerbaijani-media-respond-to-my-article-on-diaspora-vs-pashinyan/",
       "published_date": "2026-10-27T15:43:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Panel discussion on the role of media in Armenia on Nov. 10",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/27/panel-discussion-on-the-role-of-media-in-armenia-on-nov-10/",
-      "published_date": "2026-10-27T15:43:16Z",
       "category": "Local Events"
     }
   ]
