@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-01T01:46:51Z",
+  "generated_at": "2026-11-01T16:59:48Z",
   "country": "Armenia",
-  "total_stories": 35,
+  "total_stories": 37,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Ecocide on the Frontier: How Border Militarization is Destroying Armenia&#039;s Shikahogh Reserve",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/184980",
+      "published_date": "2026-11-01T10:54:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "The Micro-Battlefields of COP17: Inside Armenia’s Fight for Tradition and Environmental Survival",
       "source": "Hetq",
@@ -109,11 +116,25 @@
       "category": "Military"
     },
     {
+      "title": "Armenian Government to Subsidize 2,000 Tons of Unsold Areni Grapes for Brandy Production",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/185150",
+      "published_date": "2026-11-01T07:48:00Z",
+      "category": "Economy"
+    },
+    {
       "title": "Galstyan warns TRIPP agreement carries sovereignty risks",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/10/28/galstyan-warns-tripp-agreement-carries-sovereignty-risks/",
       "published_date": "2026-10-28T10:51:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "The Miracle of Yerevan’s Flight 65668: 1972 Emergency Landing in the Stavropol Snow",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/185082",
+      "published_date": "2026-11-01T09:57:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Pashinyan Launches New Biometric Passport System Amid Debate Over Mount Ararat Exclusion",
@@ -246,13 +267,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/185049",
       "published_date": "2026-10-27T20:02:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turkish and Azerbaijani media respond to my article on diaspora vs. Pashinyan",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/27/turkish-and-azerbaijani-media-respond-to-my-article-on-diaspora-vs-pashinyan/",
-      "published_date": "2026-10-27T15:43:27Z",
       "category": "Local Events"
     }
   ]
