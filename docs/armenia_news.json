@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-02T02:01:23Z",
+  "generated_at": "2026-11-02T20:37:45Z",
   "country": "Armenia",
-  "total_stories": 37,
+  "total_stories": 38,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Armenia and Canada Discuss Strengthening Ties, Expanding Parliamentary Diplomacy",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/185168",
+      "published_date": "2026-11-02T12:17:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Ecocide on the Frontier: How Border Militarization is Destroying Armenia&#039;s Shikahogh Reserve",
       "source": "Hetq",
@@ -81,20 +88,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Armenia, EU Pledge Deeper Ties Across Energy, Transport, and Digital Infrastructure",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184995",
-      "published_date": "2026-10-26T10:51:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "COP17 First Week Outcomes: Armenia Advances Accords on AI Biosecurity, Gender Financing, and Massive Lake Sevan Restoration",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/184982",
-      "published_date": "2026-10-26T05:45:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Former Armenian Finance Minister Gagik Khachatryan’s Detention Extended Amid Severe Health Concerns",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/185092",
@@ -116,6 +109,20 @@
       "category": "Military"
     },
     {
+      "title": "Pashinyan Announces Comprehensive Infrastructure Push and Constitutional Timeline to Unblock Armenia",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/185169",
+      "published_date": "2026-11-02T12:37:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Pashinyan Unveils $10 Billion 2027 Draft Budget Amid Key National Strategy Updates",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/185162",
+      "published_date": "2026-11-02T08:14:00Z",
+      "category": "Economy"
+    },
+    {
       "title": "Armenian Government to Subsidize 2,000 Tons of Unsold Areni Grapes for Brandy Production",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/185150",
@@ -128,6 +135,55 @@
       "url": "https://armenianweekly.com/2026/10/28/galstyan-warns-tripp-agreement-carries-sovereignty-risks/",
       "published_date": "2026-10-28T10:51:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "The Freshwater Countdown: Armenia Joins a Global Race to Save Its Overlooked Ecosystems",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/185158",
+      "published_date": "2026-11-02T18:39:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "In Armenia, migration is changing the language of daily life",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/11/02/in-armenia-migration-is-changing-the-language-of-daily-life/",
+      "published_date": "2026-11-02T17:49:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Reclaiming home and heritage",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/11/02/reclaiming-home-and-heritage/",
+      "published_date": "2026-11-02T16:54:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "ACEC to host third Tree Lighting featuring a Holiday Market",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/11/02/acec-to-host-third-tree-lighting-featuring-a-holiday-market/",
+      "published_date": "2026-11-02T16:54:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "AYC Golf Fore Kids celebrates its ninth year",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/11/02/ayc-golf-fore-kids-celebrates-its-ninth-year/",
+      "published_date": "2026-11-02T16:54:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ossipee Bears",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/11/02/ossipee-bears/",
+      "published_date": "2026-11-02T15:00:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Catholicos Aram I to Host Global Church Leaders at 2026 Christian World Communions Summit in Lebanon",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/185170",
+      "published_date": "2026-11-02T12:39:00Z",
+      "category": "Local Events"
     },
     {
       "title": "The Miracle of Yerevan’s Flight 65668: 1972 Emergency Landing in the Stavropol Snow",
@@ -218,55 +274,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/10/28/amaa-honors-rev-dr-vahan-h-tootikian-and-dr-nurhan-helvacian/",
       "published_date": "2026-10-28T15:22:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "AMAA holds 107th annual meeting in New Jersey",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/28/amaa-holds-107th-annual-meeting-in-new-jersey/",
-      "published_date": "2026-10-28T15:21:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "We speak Armenian to babies after four generations in the diaspora",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/28/we-speak-armenian-to-babies-after-four-generations-in-the-diaspora/",
-      "published_date": "2026-10-28T15:08:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Finding renewed purpose in the Armenian Museum of America",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/28/finding-renewed-purpose-in-the-armenian-museum-of-america/",
-      "published_date": "2026-10-28T15:08:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "In memory of Walter Vartanian",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/28/in-memory-of-walter-vartanian/",
-      "published_date": "2026-10-28T10:57:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenian Parliament Ratifies &quot;Board of Peace&quot; Charter to Bolster Regional Diplomacy",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/185063",
-      "published_date": "2026-10-28T10:44:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Yerevan Municipality Plans Hrazdan Gorge Cleanup Amid COP17 Venue Construction Controversy",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/185058",
-      "published_date": "2026-10-28T10:17:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "South Caucasus Ambassadors Discuss Peace and Regional Corridors at Rome Diplomacy Festival",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/185049",
-      "published_date": "2026-10-27T20:02:00Z",
       "category": "Local Events"
     }
   ]
