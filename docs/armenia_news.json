@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-03T03:49:58Z",
+  "generated_at": "2026-11-03T18:13:45Z",
   "country": "Armenia",
-  "total_stories": 38,
+  "total_stories": 39,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,27 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Catholicos Karekin II Welcomes New Sovereign Military Order of Malta Ambassador",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/185205",
+      "published_date": "2026-11-03T13:08:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Armenian and Croatian Prime Ministers Meet in Brussels to Advance Strategic Partnership and Regional Peace",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/185202",
+      "published_date": "2026-11-03T11:05:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "ECHR Rejects Azerbaijan&#039;s Appeal, Validating Landmark 2016 Artsakh War Atrocities Judgment",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/185201",
+      "published_date": "2026-11-03T10:51:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Armenia and Canada Discuss Strengthening Ties, Expanding Parliamentary Diplomacy",
       "source": "Hetq",
@@ -60,32 +81,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "ANC-International releases report on Baku’s case against Ruben Vardanyan",
+      "title": "In memory of Aram G. Garabedian",
       "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/27/anc-international-releases-report-on-bakus-case-against-ruben-vardanyan/",
-      "published_date": "2026-10-27T13:33:19Z",
-      "category": "Diplomacy"
+      "url": "https://armenianweekly.com/2026/11/03/in-memory-of-aram-g-garabedian/",
+      "published_date": "2026-11-03T16:24:45Z",
+      "category": "Military"
     },
     {
-      "title": "Pashinyan Hosts Spain&#039;s Queen Sofía in Yerevan Ahead of Global Human Development Awards",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/185028",
-      "published_date": "2026-10-27T12:18:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Armenia Pushes for Rights-Based Approach at COP17 ‘Human Rights and Biodiversity Day’ in Yerevan",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/185017",
-      "published_date": "2026-10-27T07:04:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Netherlands Announces Financial Aid to Boost Armenia Azerbaijan Missing Persons Search",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/185015",
-      "published_date": "2026-10-27T06:50:00Z",
-      "category": "Diplomacy"
+      "title": "Lorik Fund announces university tour, judo program and scholarships",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/11/03/lorik-fund-announces-university-tour-judo-program-and-scholarships/",
+      "published_date": "2026-11-03T10:51:31Z",
+      "category": "Military"
     },
     {
       "title": "Former Armenian Finance Minister Gagik Khachatryan’s Detention Extended Amid Severe Health Concerns",
@@ -102,11 +109,11 @@
       "category": "Military"
     },
     {
-      "title": "The illusion of sovereignty in Armenia",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/27/the-illusion-of-sovereignty-in-armenia/",
-      "published_date": "2026-10-27T14:59:55Z",
-      "category": "Military"
+      "title": "Armenia’s Central Bank Raises Policy Interest Rate to 7% Over Inflation Concerns",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/185193",
+      "published_date": "2026-11-03T08:58:00Z",
+      "category": "Economy"
     },
     {
       "title": "Pashinyan Announces Comprehensive Infrastructure Push and Constitutional Timeline to Unblock Armenia",
@@ -135,6 +142,41 @@
       "url": "https://armenianweekly.com/2026/10/28/galstyan-warns-tripp-agreement-carries-sovereignty-risks/",
       "published_date": "2026-10-28T10:51:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "A priceless opportunity to connect to our roots",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/11/03/a-priceless-opportunity-to-connect-to-our-roots/",
+      "published_date": "2026-11-03T17:29:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "75 years later, we met under the trees",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/11/03/75-years-later-we-met-under-the-trees/",
+      "published_date": "2026-11-03T16:25:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bulgarian Businessman Behind Network Exploiting Expired Armenian State and Media Domains to Promote Online Casinos",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/185200",
+      "published_date": "2026-11-03T15:57:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Enemies abroad, Pashinyan within: Armenia faces threats on both fronts",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/11/03/enemies-abroad-pashinyan-within-armenia-faces-threats-on-both-fronts/",
+      "published_date": "2026-11-03T14:39:13Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pashinyan Demands Retraction and $10K Over Allegations He Used Marriage Separation to Hide Wealth",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/185182",
+      "published_date": "2026-11-03T05:20:00Z",
+      "category": "Local Events"
     },
     {
       "title": "The Freshwater Countdown: Armenia Joins a Global Race to Save Its Overlooked Ecosystems",
@@ -239,41 +281,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/10/29/armenias-twin-education-crises-learning-deficits-historical-amnesia/",
       "published_date": "2026-10-29T16:10:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Homenetmen Providence celebrates 45 years of dedication, achievement and community",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/29/homenetmen-providence-celebrates-45-years-of-dedication-achievement-and-community/",
-      "published_date": "2026-10-29T15:28:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Region in Brief",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/29/the-region-in-brief-189/",
-      "published_date": "2026-10-29T14:40:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Yerevan ratifies TRIPP, lacks two-thirds for constitutional changes",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/29/yerevan-ratifies-tripp-lacks-two-thirds-for-constitutional-changes/",
-      "published_date": "2026-10-29T14:04:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mass Brawl Erupts in Parliament While Pashinyan Declares Independence Document &quot;Anti-State&quot;",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/185097",
-      "published_date": "2026-10-29T12:05:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "AMAA honors Rev. Dr. Vahan H. Tootikian and Dr. Nurhan Helvacian",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/28/amaa-honors-rev-dr-vahan-h-tootikian-and-dr-nurhan-helvacian/",
-      "published_date": "2026-10-28T15:22:13Z",
       "category": "Local Events"
     }
   ]
