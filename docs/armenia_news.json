@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-04T02:51:37Z",
+  "generated_at": "2026-11-04T18:28:12Z",
   "country": "Armenia",
-  "total_stories": 39,
+  "total_stories": 38,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Armenia Could Apply for EU Membership by 2027 or 2028, Says Pashinyan",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/185237",
+      "published_date": "2026-11-04T12:40:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The diaspora is not a photo opportunity",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/11/04/the-diaspora-is-not-a-photo-opportunity/",
+      "published_date": "2026-11-04T12:29:36Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Catholicos Karekin II Welcomes New Sovereign Military Order of Malta Ambassador",
       "source": "Hetq",
@@ -60,25 +74,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Armenia Ready to Sign Azerbaijan Peace Treaty by End of 2026, Rejects Delay Claims",
+      "title": "Armenia Prosecutes Billionaire Samvel Karapetyan and 36 Others in $180M Power Grid Fraud Scheme",
       "source": "Hetq",
-      "url": "https://hetq.am/en/article/185073",
-      "published_date": "2026-10-28T14:20:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pashinyan Hosts Saudi Prince to Discuss Bilateral Ties, Investment, Regional Peace",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/185066",
-      "published_date": "2026-10-28T11:05:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ex-CSTO Chief Calls for Armenia’s Expulsion Over ‘Ambivalent’ Stance",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/185056",
-      "published_date": "2026-10-28T10:05:00Z",
-      "category": "Diplomacy"
+      "url": "https://hetq.am/en/article/185235",
+      "published_date": "2026-11-04T12:08:00Z",
+      "category": "Military"
     },
     {
       "title": "In memory of Aram G. Garabedian",
@@ -137,11 +137,32 @@
       "category": "Economy"
     },
     {
-      "title": "Galstyan warns TRIPP agreement carries sovereignty risks",
+      "title": "Why have Armenians become “immune” to Pashinyan’s absurdity?",
       "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/28/galstyan-warns-tripp-agreement-carries-sovereignty-risks/",
-      "published_date": "2026-10-28T10:51:00Z",
-      "category": "Economy"
+      "url": "https://armenianweekly.com/2026/11/04/why-have-armenians-become-immune-to-pashinyans-absurdity/",
+      "published_date": "2026-11-04T16:35:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Stephen Elmasian to be honored with Vahan Cardashian Award at ANCA ER gala",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/11/04/stephen-elmasian-to-be-honored-with-vahan-cardashian-award-at-anca-er-gala/",
+      "published_date": "2026-11-04T16:32:50Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "A Tale of Two Hearths: How History Severed and Shaped the Armenian Palate",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/185243",
+      "published_date": "2026-11-04T15:16:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The need to return home",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/11/04/the-need-to-return-home/",
+      "published_date": "2026-11-04T11:43:03Z",
+      "category": "Local Events"
     },
     {
       "title": "A priceless opportunity to connect to our roots",
@@ -253,34 +274,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/10/30/a-new-shape-an-enduring-story-at-armenian-heritage-park/",
       "published_date": "2026-10-30T09:41:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Khachig Tölölyan to discuss “Living Diaspora, Thinking Diaspora” at USC",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/30/khachig-tololyan-to-discuss-living-diaspora-thinking-diaspora-at-usc/",
-      "published_date": "2026-10-30T08:00:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "French Magazine Terre de Vins Spotlights Armenia Wine as Global Media Attention Grows",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/185113",
-      "published_date": "2026-10-29T17:34:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "An Armenian-vampire connection running through our veins",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/29/an-armenian-vampire-connection-running-through-our-veins/",
-      "published_date": "2026-10-29T16:30:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenia’s twin education crises: Learning deficits, historical amnesia",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/29/armenias-twin-education-crises-learning-deficits-historical-amnesia/",
-      "published_date": "2026-10-29T16:10:35Z",
       "category": "Local Events"
     }
   ]
