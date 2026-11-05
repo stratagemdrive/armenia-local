@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T18:28:12Z",
+  "generated_at": "2026-11-05T03:02:43Z",
   "country": "Armenia",
   "total_stories": 38,
   "categories": [
@@ -137,6 +137,13 @@
       "category": "Economy"
     },
     {
+      "title": "Review of Perla Kantarjian’s “You Must Become Field”",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/11/04/review-of-perla-kantarjians-you-must-become-field/",
+      "published_date": "2026-11-04T18:40:36Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Why have Armenians become “immune” to Pashinyan’s absurdity?",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/11/04/why-have-armenians-become-immune-to-pashinyans-absurdity/",
@@ -267,13 +274,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/10/30/michigan-armenian-americans-mobilize-ahead-of-2026-u-s-senate-election/",
       "published_date": "2026-10-30T13:40:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "A new shape, an enduring story at Armenian Heritage Park",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/30/a-new-shape-an-enduring-story-at-armenian-heritage-park/",
-      "published_date": "2026-10-30T09:41:40Z",
       "category": "Local Events"
     }
   ]
