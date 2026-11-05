@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-05T03:02:43Z",
+  "generated_at": "2026-11-05T18:31:33Z",
   "country": "Armenia",
-  "total_stories": 38,
+  "total_stories": 40,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,34 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "ANCA-endorsed candidates win big, Azerbaijani money falls short",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/11/05/anca-endorsed-candidates-win-big-azerbaijani-money-falls-short/",
+      "published_date": "2026-11-05T11:30:20Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Remittance Inflows to Armenia Surge 32% to $5.6 Billion, Driven by Russia",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/185194",
+      "published_date": "2026-11-05T11:05:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "“Formidable! Aznavour” to tour 10 U.S. cities",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/11/05/formidable-aznavour-to-tour-10-u-s-cities/",
+      "published_date": "2026-11-05T09:46:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pashinyan Backs Karapetyan Arrest, Sets EU Application Timeline, and Rejects CSTO Role",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/185256",
+      "published_date": "2026-11-05T08:20:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Armenia Could Apply for EU Membership by 2027 or 2028, Says Pashinyan",
       "source": "Hetq",
@@ -95,20 +123,6 @@
       "category": "Military"
     },
     {
-      "title": "Former Armenian Finance Minister Gagik Khachatryan’s Detention Extended Amid Severe Health Concerns",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/185092",
-      "published_date": "2026-10-29T09:02:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Armenia Completes First Life-Saving Surgeries For Evacuated Gaza Children Under Joint WHO Humanitarian Mission",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/185085",
-      "published_date": "2026-10-29T08:24:00Z",
-      "category": "Military"
-    },
-    {
       "title": "Armenia’s Central Bank Raises Policy Interest Rate to 7% Over Inflation Concerns",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/185193",
@@ -135,6 +149,41 @@
       "url": "https://hetq.am/en/article/185150",
       "published_date": "2026-11-01T07:48:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "NAASR announces winners of 2026 Dr. Sona Aronian Armenian Studies Book Prizes",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/11/05/naasr-announces-winners-of-2026-dr-sona-aronian-armenian-studies-book-prizes/",
+      "published_date": "2026-11-05T15:56:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Home in foreign lands",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/11/05/home-in-foreign-lands/",
+      "published_date": "2026-11-05T10:46:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "IALA announces queer Armenian writing workshop with Taleen Voskuni",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/11/05/iala-announces-queer-armenian-writing-workshop-with-taleen-voskuni/",
+      "published_date": "2026-11-05T10:07:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Yerevan Court Extends Detention of Opposition Leader Gagik Tsarukyan by Three Months",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/185252",
+      "published_date": "2026-11-05T06:52:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenian Court Detains Businessman Samvel Karapetyan Amid ENA Fraud Probe and State Takeover Conflict",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/185251",
+      "published_date": "2026-11-05T06:35:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Review of Perla Kantarjian’s “You Must Become Field”",
@@ -239,41 +288,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/11/02/ayc-golf-fore-kids-celebrates-its-ninth-year/",
       "published_date": "2026-11-02T16:54:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ossipee Bears",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/11/02/ossipee-bears/",
-      "published_date": "2026-11-02T15:00:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Catholicos Aram I to Host Global Church Leaders at 2026 Christian World Communions Summit in Lebanon",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/185170",
-      "published_date": "2026-11-02T12:39:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Miracle of Yerevan’s Flight 65668: 1972 Emergency Landing in the Stavropol Snow",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/185082",
-      "published_date": "2026-11-01T09:57:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pashinyan Launches New Biometric Passport System Amid Debate Over Mount Ararat Exclusion",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/185138",
-      "published_date": "2026-10-31T06:49:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Michigan Armenian Americans mobilize ahead of 2026 U.S. Senate election",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/30/michigan-armenian-americans-mobilize-ahead-of-2026-u-s-senate-election/",
-      "published_date": "2026-10-30T13:40:34Z",
       "category": "Local Events"
     }
   ]
