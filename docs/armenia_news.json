@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-06T03:02:54Z",
+  "generated_at": "2026-11-06T17:48:13Z",
   "country": "Armenia",
-  "total_stories": 40,
+  "total_stories": 41,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Pashinyan Outlines State-Centric Identity Pivot to Delegates at Global Armenian Summit",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/185290",
+      "published_date": "2026-11-06T13:04:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Armenia, United Kingdom Formalize 2026–2027 Defense Cooperation Program in London",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/185286",
+      "published_date": "2026-11-06T12:14:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "ANCA-endorsed candidates win big, Azerbaijani money falls short",
       "source": "The Armenian Weekly",
@@ -88,20 +102,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "The Micro-Battlefields of COP17: Inside Armenia’s Fight for Tradition and Environmental Survival",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/185126",
-      "published_date": "2026-10-30T15:09:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "ANC-International publishes dossier on Armenian hostages",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/10/30/anc-international-publishes-dossier-on-armenian-hostages/",
-      "published_date": "2026-10-30T12:39:35Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Armenia Prosecutes Billionaire Samvel Karapetyan and 36 Others in $180M Power Grid Fraud Scheme",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/185235",
@@ -121,6 +121,13 @@
       "url": "https://armenianweekly.com/2026/11/03/lorik-fund-announces-university-tour-judo-program-and-scholarships/",
       "published_date": "2026-11-03T10:51:31Z",
       "category": "Military"
+    },
+    {
+      "title": "Armenia Resumes UNESCO Nominations After 29 Years, Boosts 2027 Heritage Budget",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/185275",
+      "published_date": "2026-11-06T06:24:00Z",
+      "category": "Economy"
     },
     {
       "title": "Armenia’s Central Bank Raises Policy Interest Rate to 7% Over Inflation Concerns",
@@ -149,6 +156,62 @@
       "url": "https://hetq.am/en/article/185150",
       "published_date": "2026-11-01T07:48:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Why does Yerevan need a fashion week?",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/11/06/why-does-yerevan-need-a-fashion-week/",
+      "published_date": "2026-11-06T16:46:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "ANC-International on Feridun Sinirlioğlu’s candidacy for U.N. secretary-general",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/11/06/anc-international-on-feridun-sinirlioglus-candidacy-for-u-n-secretary-general/",
+      "published_date": "2026-11-06T16:45:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rebuilding life after Artsakh",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/11/06/rebuilding-life-after-artsakh/",
+      "published_date": "2026-11-06T16:29:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "What we carry beyond the camp gates",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/11/06/what-we-carry-beyond-the-camp-gates/",
+      "published_date": "2026-11-06T15:31:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Catholicos Aram I Hosts Key Ecumenical Leaders in Antelias to Strengthen Inter-Church Dialogue",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/185295",
+      "published_date": "2026-11-06T15:01:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenian Citizen Practiced Dentistry Without a License in Bratislava for Eight Years",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/185199",
+      "published_date": "2026-11-06T14:43:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ani Haroian to be honored with Vahan Cardashian Award at ANCA ER Gala",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/11/06/ani-haroian-to-be-honored-with-vahan-cardashian-award-at-anca-er-gala/",
+      "published_date": "2026-11-06T14:10:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ruben Vardanyan’s Wife Proposes Humanitarian Delegation to Baku, Awaits Security Guarantees",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/185287",
+      "published_date": "2026-11-06T12:55:00Z",
+      "category": "Local Events"
     },
     {
       "title": "NAASR announces winners of 2026 Dr. Sona Aronian Armenian Studies Book Prizes",
@@ -232,62 +295,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/11/03/75-years-later-we-met-under-the-trees/",
       "published_date": "2026-11-03T16:25:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bulgarian Businessman Behind Network Exploiting Expired Armenian State and Media Domains to Promote Online Casinos",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/185200",
-      "published_date": "2026-11-03T15:57:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Enemies abroad, Pashinyan within: Armenia faces threats on both fronts",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/11/03/enemies-abroad-pashinyan-within-armenia-faces-threats-on-both-fronts/",
-      "published_date": "2026-11-03T14:39:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pashinyan Demands Retraction and $10K Over Allegations He Used Marriage Separation to Hide Wealth",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/185182",
-      "published_date": "2026-11-03T05:20:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Freshwater Countdown: Armenia Joins a Global Race to Save Its Overlooked Ecosystems",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/185158",
-      "published_date": "2026-11-02T18:39:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "In Armenia, migration is changing the language of daily life",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/11/02/in-armenia-migration-is-changing-the-language-of-daily-life/",
-      "published_date": "2026-11-02T17:49:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Reclaiming home and heritage",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/11/02/reclaiming-home-and-heritage/",
-      "published_date": "2026-11-02T16:54:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "ACEC to host third Tree Lighting featuring a Holiday Market",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/11/02/acec-to-host-third-tree-lighting-featuring-a-holiday-market/",
-      "published_date": "2026-11-02T16:54:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "AYC Golf Fore Kids celebrates its ninth year",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/11/02/ayc-golf-fore-kids-celebrates-its-ninth-year/",
-      "published_date": "2026-11-02T16:54:08Z",
       "category": "Local Events"
     }
   ]
