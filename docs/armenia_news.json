@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-10T04:28:02Z",
+  "generated_at": "2026-11-10T18:28:26Z",
   "country": "Armenia",
-  "total_stories": 42,
+  "total_stories": 41,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,34 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Pashinyan, Macron Hold Strategic Talks at Élysée Palace",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/185367",
+      "published_date": "2026-11-10T15:10:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pashinyan’s pointless speech at the Global Armenian Summit",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/11/10/pashinyans-pointless-speech-at-the-global-armenian-summit/",
+      "published_date": "2026-11-10T12:13:30Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Armenia Hails 2026 as &#039;Significant Milestone&#039; in Deepening EU Relations at Brussels Platform",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/185351",
+      "published_date": "2026-11-10T09:29:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pashinyan Travels to France for 9th Paris Peace Forum",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/185339",
+      "published_date": "2026-11-10T05:37:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "How can one agree with Nikol Pashinyan?",
       "source": "The Armenian Weekly",
@@ -95,25 +123,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Catholicos Karekin II Welcomes New Sovereign Military Order of Malta Ambassador",
+      "title": "Living The Stories We Tell",
       "source": "Hetq",
-      "url": "https://hetq.am/en/article/185205",
-      "published_date": "2026-11-03T13:08:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Armenian and Croatian Prime Ministers Meet in Brussels to Advance Strategic Partnership and Regional Peace",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/185202",
-      "published_date": "2026-11-03T11:05:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "ECHR Rejects Azerbaijan&#039;s Appeal, Validating Landmark 2016 Artsakh War Atrocities Judgment",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/185201",
-      "published_date": "2026-11-03T10:51:00Z",
-      "category": "Diplomacy"
+      "url": "https://hetq.am/en/article/185338",
+      "published_date": "2026-11-10T08:27:00Z",
+      "category": "Military"
     },
     {
       "title": "In memory of Jack Bousian",
@@ -127,20 +141,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/185235",
       "published_date": "2026-11-04T12:08:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "In memory of Aram G. Garabedian",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/11/03/in-memory-of-aram-g-garabedian/",
-      "published_date": "2026-11-03T16:24:45Z",
-      "category": "Military"
-    },
-    {
-      "title": "Lorik Fund announces university tour, judo program and scholarships",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/11/03/lorik-fund-announces-university-tour-judo-program-and-scholarships/",
-      "published_date": "2026-11-03T10:51:31Z",
       "category": "Military"
     },
     {
@@ -158,11 +158,39 @@
       "category": "Economy"
     },
     {
-      "title": "Armenia’s Central Bank Raises Policy Interest Rate to 7% Over Inflation Concerns",
+      "title": "An interview with New York fashion designer Abel Martirosyan",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/11/10/an-interview-with-new-york-fashion-designer-abel-martirosyan/",
+      "published_date": "2026-11-10T16:33:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Homenetmen holds first public relations forum in Armenia",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/11/10/homenetmen-holds-first-public-relations-forum-in-armenia/",
+      "published_date": "2026-11-10T15:12:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vahakn Dadrian’s digital archive launches Nov. 15",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/11/10/vahakn-dadrians-digital-archive-launches-nov-15/",
+      "published_date": "2026-11-10T14:53:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Opposition Mayoral Candidate Dies in Prison Custody Amid Political Tensions",
       "source": "Hetq",
-      "url": "https://hetq.am/en/article/185193",
-      "published_date": "2026-11-03T08:58:00Z",
-      "category": "Economy"
+      "url": "https://hetq.am/en/article/185345",
+      "published_date": "2026-11-10T07:23:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "ANCA District Days launches local outreach to the new Congress",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/11/10/anca-district-days-launches-local-outreach-to-the-new-congress/",
+      "published_date": "2026-11-10T05:05:30Z",
+      "category": "Local Events"
     },
     {
       "title": "The View Through the Fence",
@@ -267,41 +295,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/11/05/home-in-foreign-lands/",
       "published_date": "2026-11-05T10:46:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "IALA announces queer Armenian writing workshop with Taleen Voskuni",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/11/05/iala-announces-queer-armenian-writing-workshop-with-taleen-voskuni/",
-      "published_date": "2026-11-05T10:07:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Yerevan Court Extends Detention of Opposition Leader Gagik Tsarukyan by Three Months",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/185252",
-      "published_date": "2026-11-05T06:52:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenian Court Detains Businessman Samvel Karapetyan Amid ENA Fraud Probe and State Takeover Conflict",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/185251",
-      "published_date": "2026-11-05T06:35:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Review of Perla Kantarjian’s “You Must Become Field”",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/11/04/review-of-perla-kantarjians-you-must-become-field/",
-      "published_date": "2026-11-04T18:40:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why have Armenians become “immune” to Pashinyan’s absurdity?",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/11/04/why-have-armenians-become-immune-to-pashinyans-absurdity/",
-      "published_date": "2026-11-04T16:35:51Z",
       "category": "Local Events"
     }
   ]
