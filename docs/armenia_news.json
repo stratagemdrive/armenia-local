@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-11T02:28:33Z",
+  "generated_at": "2026-11-11T18:23:00Z",
   "country": "Armenia",
-  "total_stories": 41,
+  "total_stories": 43,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,34 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Pashinyan and Erdoğan Hold Talks on Normalization at COP31",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/185389",
+      "published_date": "2026-11-11T15:24:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Armenia Stripped of Voting Rights in Russian-Led CSTO Military Bloc",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/185386",
+      "published_date": "2026-11-11T14:36:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Armenian PM Nikol Pashinyan Attends COP31 Leaders&#039; Summit Opening Ceremony in Antalya",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/185379",
+      "published_date": "2026-11-11T11:39:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pashinyan Arrives in Turkey for COP31 Summit",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/185372",
+      "published_date": "2026-11-11T04:16:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Pashinyan, Macron Hold Strategic Talks at Élysée Palace",
       "source": "Hetq",
@@ -109,18 +137,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Armenia Could Apply for EU Membership by 2027 or 2028, Says Pashinyan",
+      "title": "The Fragile Network: Inside the Global Armenian Media Crisis",
       "source": "Hetq",
-      "url": "https://hetq.am/en/article/185237",
-      "published_date": "2026-11-04T12:40:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The diaspora is not a photo opportunity",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/11/04/the-diaspora-is-not-a-photo-opportunity/",
-      "published_date": "2026-11-04T12:29:36Z",
-      "category": "Diplomacy"
+      "url": "https://hetq.am/en/article/185381",
+      "published_date": "2026-11-11T11:30:00Z",
+      "category": "Military"
     },
     {
       "title": "Living The Stories We Tell",
@@ -137,13 +158,6 @@
       "category": "Military"
     },
     {
-      "title": "Armenia Prosecutes Billionaire Samvel Karapetyan and 36 Others in $180M Power Grid Fraud Scheme",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/185235",
-      "published_date": "2026-11-04T12:08:00Z",
-      "category": "Military"
-    },
-    {
       "title": "Armenia-Iran Parliamentary Friendship Groups Meet on Regional Security and Infrastructure",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/185329",
@@ -156,6 +170,13 @@
       "url": "https://hetq.am/en/article/185275",
       "published_date": "2026-11-06T06:24:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Vahe and Vigen Badalyan File Lawsuit Against 1in.am Seeking Protection of Their Business Reputation",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/185374",
+      "published_date": "2026-11-11T05:47:00Z",
+      "category": "Local Events"
     },
     {
       "title": "An interview with New York fashion designer Abel Martirosyan",
@@ -288,13 +309,6 @@
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/11/05/naasr-announces-winners-of-2026-dr-sona-aronian-armenian-studies-book-prizes/",
       "published_date": "2026-11-05T15:56:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Home in foreign lands",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/11/05/home-in-foreign-lands/",
-      "published_date": "2026-11-05T10:46:34Z",
       "category": "Local Events"
     }
   ]
