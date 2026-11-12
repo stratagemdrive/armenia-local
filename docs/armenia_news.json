@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-12T03:32:50Z",
+  "generated_at": "2026-11-12T18:41:40Z",
   "country": "Armenia",
-  "total_stories": 43,
+  "total_stories": 46,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,34 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "The Region in Brief",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/11/12/the-region-in-brief-190/",
+      "published_date": "2026-11-12T15:23:50Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Two Green Rock Initiatives in Dilijan Receive International Recognition in Brussels",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/185420",
+      "published_date": "2026-11-12T15:08:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "ARF Youth raises Artsakh ethnic cleansing, hostage issues at IUSY meeting in Beirut",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/11/12/arf-youth-raises-artsakh-ethnic-cleansing-hostage-issues-at-iusy-meeting-in-beirut/",
+      "published_date": "2026-11-12T14:52:31Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pashinyan Travels to Dublin for European Political Community Summit",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/185394",
+      "published_date": "2026-11-11T18:55:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Pashinyan and Erdoğan Hold Talks on Normalization at COP31",
       "source": "Hetq",
@@ -109,32 +137,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "ANCA-endorsed candidates win big, Azerbaijani money falls short",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/11/05/anca-endorsed-candidates-win-big-azerbaijani-money-falls-short/",
-      "published_date": "2026-11-05T11:30:20Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Remittance Inflows to Armenia Surge 32% to $5.6 Billion, Driven by Russia",
+      "title": "Yerevan Opera Theater Sues to Overturn 2019 Reinstatement Order for Former Ballet Head",
       "source": "Hetq",
-      "url": "https://hetq.am/en/article/185194",
-      "published_date": "2026-11-05T11:05:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "“Formidable! Aznavour” to tour 10 U.S. cities",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/11/05/formidable-aznavour-to-tour-10-u-s-cities/",
-      "published_date": "2026-11-05T09:46:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pashinyan Backs Karapetyan Arrest, Sets EU Application Timeline, and Rejects CSTO Role",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/185256",
-      "published_date": "2026-11-05T08:20:00Z",
-      "category": "Diplomacy"
+      "url": "https://hetq.am/en/article/185400",
+      "published_date": "2026-11-12T07:13:00Z",
+      "category": "Military"
     },
     {
       "title": "The Fragile Network: Inside the Global Armenian Media Crisis",
@@ -158,6 +165,20 @@
       "category": "Military"
     },
     {
+      "title": "AMA begins exterior renovation on Main Street",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/11/12/ama-begins-exterior-renovation-on-main-street/",
+      "published_date": "2026-11-12T16:23:29Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Armenia Approves $389,000 Subsidy to Buy Unsold &#039;Areni&#039; Grapes in Vayots Dzor",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/185411",
+      "published_date": "2026-11-12T09:21:00Z",
+      "category": "Economy"
+    },
+    {
       "title": "Armenia-Iran Parliamentary Friendship Groups Meet on Regional Security and Infrastructure",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/185329",
@@ -170,6 +191,27 @@
       "url": "https://hetq.am/en/article/185275",
       "published_date": "2026-11-06T06:24:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Calls for investigation into Armenian opposition figure’s death in custody",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/11/12/calls-for-investigation-into-armenian-opposition-figures-death-in-custody/",
+      "published_date": "2026-11-12T14:31:42Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The treasure that is our Ameriga-Hye music",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/11/12/the-treasure-that-is-our-ameriga-hye-music/",
+      "published_date": "2026-11-12T12:00:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenian, Russian Justice Ministers Discuss Bilateral Cooperation in Yerevan",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/185414",
+      "published_date": "2026-11-12T09:45:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Vahe and Vigen Badalyan File Lawsuit Against 1in.am Seeking Protection of Their Business Reputation",
@@ -288,27 +330,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/185199",
       "published_date": "2026-11-06T14:43:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ani Haroian to be honored with Vahan Cardashian Award at ANCA ER Gala",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/11/06/ani-haroian-to-be-honored-with-vahan-cardashian-award-at-anca-er-gala/",
-      "published_date": "2026-11-06T14:10:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ruben Vardanyan’s Wife Proposes Humanitarian Delegation to Baku, Awaits Security Guarantees",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/185287",
-      "published_date": "2026-11-06T12:55:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "NAASR announces winners of 2026 Dr. Sona Aronian Armenian Studies Book Prizes",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/11/05/naasr-announces-winners-of-2026-dr-sona-aronian-armenian-studies-book-prizes/",
-      "published_date": "2026-11-05T15:56:57Z",
       "category": "Local Events"
     }
   ]
