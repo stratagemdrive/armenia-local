@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-13T03:05:09Z",
+  "generated_at": "2026-11-13T18:22:52Z",
   "country": "Armenia",
-  "total_stories": 47,
+  "total_stories": 46,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "ANCA welcomes hold on confirmation of U.S. envoy to Baku",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/11/13/anca-welcomes-hold-on-confirmation-of-u-s-envoy-to-baku/",
+      "published_date": "2026-11-13T16:10:13Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "&quot;The network this time for COP17 was the most one of exceptional network we have ever had.&quot; The service quality by Team was highly appreciated by UN representat",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/185450",
+      "published_date": "2026-11-13T15:51:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Pashinyan, Aliyev Advance Peace and Transit Agenda at Dublin Summit",
       "source": "Hetq",
@@ -130,20 +144,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Pashinyan Outlines State-Centric Identity Pivot to Delegates at Global Armenian Summit",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/185290",
-      "published_date": "2026-11-06T13:04:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Armenia, United Kingdom Formalize 2026–2027 Defense Cooperation Program in London",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/185286",
-      "published_date": "2026-11-06T12:14:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Yerevan Opera Theater Sues to Overturn 2019 Reinstatement Order for Former Ballet Head",
       "source": "Hetq",
       "url": "https://hetq.am/en/article/185400",
@@ -172,6 +172,20 @@
       "category": "Military"
     },
     {
+      "title": "Ameriabank Introduce Mortgage with 0% Down Payment: at TOON Expo",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/185447",
+      "published_date": "2026-11-13T15:13:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Armenia Plans to Extend Wheat Export Ban for Another Six Months",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/185445",
+      "published_date": "2026-11-13T14:46:00Z",
+      "category": "Economy"
+    },
+    {
       "title": "AMA begins exterior renovation on Main Street",
       "source": "The Armenian Weekly",
       "url": "https://armenianweekly.com/2026/11/12/ama-begins-exterior-renovation-on-main-street/",
@@ -193,11 +207,32 @@
       "category": "Economy"
     },
     {
-      "title": "Armenia Resumes UNESCO Nominations After 29 Years, Boosts 2027 Heritage Budget",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/185275",
-      "published_date": "2026-11-06T06:24:00Z",
-      "category": "Economy"
+      "title": "Armenian cinema in focus in New York City",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/11/13/armenian-cinema-in-focus-in-new-york-city/",
+      "published_date": "2026-11-13T17:10:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "In memory of Varoujan Karentz",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/11/13/in-memory-of-varoujan-karentz/",
+      "published_date": "2026-11-13T16:09:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "A box full of longing",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/11/13/a-box-full-of-longing/",
+      "published_date": "2026-11-13T15:18:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "When school becomes like family",
+      "source": "The Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/11/13/when-school-becomes-like-family/",
+      "published_date": "2026-11-13T09:57:53Z",
+      "category": "Local Events"
     },
     {
       "title": "Calls for investigation into Armenian opposition figure’s death in custody",
@@ -295,48 +330,6 @@
       "source": "Hetq",
       "url": "https://hetq.am/en/article/185320",
       "published_date": "2026-11-09T10:23:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why does Yerevan need a fashion week?",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/11/06/why-does-yerevan-need-a-fashion-week/",
-      "published_date": "2026-11-06T16:46:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "ANC-International on Feridun Sinirlioğlu’s candidacy for U.N. secretary-general",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/11/06/anc-international-on-feridun-sinirlioglus-candidacy-for-u-n-secretary-general/",
-      "published_date": "2026-11-06T16:45:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rebuilding life after Artsakh",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/11/06/rebuilding-life-after-artsakh/",
-      "published_date": "2026-11-06T16:29:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "What we carry beyond the camp gates",
-      "source": "The Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/11/06/what-we-carry-beyond-the-camp-gates/",
-      "published_date": "2026-11-06T15:31:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Catholicos Aram I Hosts Key Ecumenical Leaders in Antelias to Strengthen Inter-Church Dialogue",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/185295",
-      "published_date": "2026-11-06T15:01:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenian Citizen Practiced Dentistry Without a License in Bratislava for Eight Years",
-      "source": "Hetq",
-      "url": "https://hetq.am/en/article/185199",
-      "published_date": "2026-11-06T14:43:00Z",
       "category": "Local Events"
     }
   ]
