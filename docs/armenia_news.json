@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-12T18:41:40Z",
+  "generated_at": "2026-11-13T03:05:09Z",
   "country": "Armenia",
-  "total_stories": 46,
+  "total_stories": 47,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Pashinyan, Aliyev Advance Peace and Transit Agenda at Dublin Summit",
+      "source": "Hetq",
+      "url": "https://hetq.am/en/article/185425",
+      "published_date": "2026-11-12T17:06:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "The Region in Brief",
       "source": "The Armenian Weekly",
